@@ -1,4 +1,4 @@
-
+?author=1
 2020/
 404.php
 about.htm
@@ -929,6 +929,7 @@ wp-json2.js
 wp-json2.min.js
 wp-json/wp/v2/posts
 wp-json/wp/v2/users
+wp-json/wp/v2/users/1
 wp-kses.php
 wp-l10n.php
 wplink
