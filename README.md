@@ -9,3 +9,13 @@
 > **Wordlists will be updated regularly.**
 
 > **Feel free to contribute, Pull Requests are welcomed.**
+
+## Other Awesome  Wordlists
++ [OneListForAll](https://github.com/six2dez/OneListForAll)
++ [SecLists](https://github.com/danielmiessler/SecLists)
++ [fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
++ [Dirsearch](https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt)
++ [Bug-Bounty-Wordlists](https://raw.githubusercontent.com/Karanxa/Bug-Bounty-Wordlists/main/fuzz.txt)
++ [Trickest](https://github.com/trickest/wordlists)
++ [GodfatherOrwa-Wordlist](https://github.com/orwagodfather/WordList)
+
