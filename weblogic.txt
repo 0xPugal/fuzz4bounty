@@ -1,14 +1,3 @@
-*
-*.gif
-*.gif/
-*.html
-*.jsp
-*.jsp/
-*.jws
-*.portal
-*.portion
-*.portlet
-*.shtml/
 Admin
 AdminCaptureRootCA
 AdminClients
