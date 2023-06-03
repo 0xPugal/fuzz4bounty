@@ -2,7 +2,7 @@
 
 ![carbon](https://user-images.githubusercontent.com/75373225/227513641-317d79d5-82ff-420e-b524-214555426dc2.png)
 
-## Awesome wordlists for Bug Bounty Hunting
+## 🚀Wordlists for Bug Bounty Hunting
 
 > **This repository contains publicly available wordlists for Bug hunting. The main Objective for creating this repo is to bring all the available worlists at one place.**
 
