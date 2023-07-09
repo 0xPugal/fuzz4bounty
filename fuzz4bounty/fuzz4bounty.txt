@@ -134,6 +134,7 @@ $metadata
 1c
 1c/
 1c116b632d90c292a0f2939009647f76.php
+1c_exchange.php
 1hou.php
 1.htaccess
 1.htpasswd
@@ -380,6 +381,7 @@ $metadata
 2022
 2022/
 2022.7z
+2022-backup.zip
 2022.dump.sql
 2022_dump.sql
 2022.rar
@@ -394,6 +396,12 @@ $metadata
 2022.zip
 2023
 2023/
+2023.sql
+2023.tar
+2023.tar.bz2
+2023.tar.gz
+2023.tgz
+2023.zip
 %20admin%20
 21
 21-6
@@ -1219,6 +1227,7 @@ adm.html
 .;/admin
 .admin
 .admin/
+/admin/
 ;/admin
 ;admin/
 __admin
@@ -1654,6 +1663,7 @@ adminc.%EXT%
 admincfb663a7/login.php
 admin.cfm
 admin_cgglzn.asp
+/admin-cgi
 admin-cgi
 admin.cgi
 admin_chat.php
@@ -1697,6 +1707,7 @@ admin_configure.php
 admin/connection
 adminconnections
 AdminConnections
+/admin-console
 admin-console
 admin-console/
 admin/console
@@ -3014,6 +3025,8 @@ admin/workarea.jsp
 admin/wp-login.php
 adminwrite.php
 admin/ws_ftp.log
+/admin/WS_FTP.LOG
+admin/WS_FTP.LOG
 adminwww
 adminx
 admin_xiangmu.asp
@@ -3466,6 +3479,7 @@ apacheaccess.log
 apache.conf
 apache-default/phpmyadmin
 apache-default/phpmyadmin/scripts/setup.php
+.apache.env
 apacheerror.log
 apache::gallery
 apache/logs/access.log
@@ -3542,6 +3556,7 @@ api/config
 api/config/bulkedit
 api/config/diff
 api/config.js
+api/config.json
 api/config/running_hash
 api/config/save
 api/config_test
@@ -3549,9 +3564,12 @@ api/configuration
 api/consume
 api/content_bottom
 api/contracts
+api/credential.json
+api/credentials.json
 api/cruise_config
 api/currency/quotation_new
 api/customer
+api/database.json
 api/data/v9.1/leads
 api/debug/schedlock
 api/device/days
@@ -3596,6 +3614,7 @@ api/incidents/open
 api/index/getlottery
 api/index.html
 api/index/loanslist
+api.json
 api/jsonws
 api/jsonws/expandocolumn/update-column
 api/jsonws/invoke
@@ -3689,8 +3708,10 @@ api/user
 api/user/get_user_group
 api/user/info
 api/user/ismustmobile
+api/user.json
 api/users
 api/users/all
+api/users.json
 api/v1
 api/v1/
 api/v1/api-docs
@@ -3758,6 +3779,7 @@ api/v/index/queryofficepage
 api/web/user/getindexdata.php
 api/whoami
 api/wlan/security-settings
+api.zip
 aplikasi_php(2).sql
 aplio
 apm
@@ -3825,6 +3847,7 @@ app/config/database.yml_original
 app/config/database.yml.pgsql
 app/config/database.yml.sqlite3
 app/config/dev/.env
+app.config.env
 app/config/.env
 app/config/global.json
 app/config.js
@@ -4030,6 +4053,7 @@ app/docs
 appel
 appengine-generated
 appengine-generated/
+app.env
 app/.env
 appenv
 app/etc/config.xml
@@ -4555,6 +4579,7 @@ auth.cgi
 _authchangeurl?
 _AuthChangeUrl?
 auth/create
+authDump.json
 authenticate
 authenticate.asp
 authenticate.aspx
@@ -4841,6 +4866,7 @@ back.tar.gz
 back.txt.gz
 !backup
 .backup
+/backup/
 _backup
 ~backup
 back-up
@@ -4859,6 +4885,8 @@ backup2/
 backup2018.sql
 backup2019.sql
 backup2020.sql
+backup-2022.zip
+backup2022.zip
 backup.7z
 backup/bitcoin/wallet.dat
 backup.bz2
@@ -5068,7 +5096,9 @@ bash_completion.sh
 .bash_logout
 .bash_profile
 .bash_prompt
+..bashp.swp
 .bashrc
+/.bashrc
 .bashrc.original
 basic
 basic_auth.csv
@@ -5278,6 +5308,7 @@ beta
 betaboard
 beta/.git/config
 betaparticle
+beta.zip
 bethge
 beyssac
 bfcommand
@@ -5389,6 +5420,9 @@ bitrix/backup
 bitrix/backup/
 bitrix/cache
 bitrix/cache_image
+bitrix/components/bitrix/desktop/admin_settings.php
+bitrix/components/bitrix/map.yandex.search/settings/settings.php
+bitrix/components/bitrix/player/player_playlist_edit.php
 bitrix/dumper
 bitrix/dumper/
 bitrix/error.log
@@ -5397,6 +5431,7 @@ bitrix/import/
 bitrix/import/files
 bitrix/import/import
 bitrix/import/m_import
+bitrix/license_key.php
 bitrix/logs
 bitrix/logs/
 bitrix/managed_cache
@@ -5443,6 +5478,9 @@ bitrix/.settings.php.bak
 bitrix/settings.php.bak
 bitrixsetup.php
 bitrix/stack_cache
+bitrix/tools/autosave.php
+bitrix/tools/get_catalog_menu.php
+bitrix/tools/upload.php
 bitrix/web.config
 bitrock
 bits-dont-bite
@@ -6337,11 +6375,13 @@ cgi-bin
 cgi-bin/
 cgibin
 cgibin/
+CGI-BIN/
 cgi-bin2
 cgi-bin2/
 cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 cgi-bin/a1stats/a1disp.cgi
 cgi-bin/acp/lib/inserts.sql
+/cgi-bin/admin.cgi
 cgi-bin/auth_if.cgi?login
 cgi-bin/awstats
 cgi-bin/awstats/
@@ -6857,6 +6897,7 @@ cloud
 cloud/
 cloud-app/include/css/uncall.css
 cloud-config.txt
+cloud-config.yml
 cloud/.credentials
 cloudfoundryapplication
 cloud/heroku.json
@@ -7005,6 +7046,7 @@ codethat
 codetosell
 code/web/.env
 codeworks
+code.zip
 .codio
 cofax
 coffeecup
@@ -7272,6 +7314,7 @@ config/deploy.yml
 config/development
 config/development/
 config.dist
+config.env
 config/.env
 config/environment.rb
 config/environments
@@ -7450,6 +7493,8 @@ configinit.sh
 config.ini.txt
 config.js
 config.json
+config.json.bak
+config.json.BAK
 config.json.cfm
 .config/karma.conf.coffee
 .config/karma.conf.js
@@ -7710,6 +7755,7 @@ config/sql
 config.sub
 config.swp
 config/sync/core.extension.yml
+configs.zip
 config-test.sh
 config/tinymceconfig.config
 config-to-secret.sh
@@ -7740,6 +7786,7 @@ configuration.php.zip
 configuration.swp
 configurations.xml
 configuration.xml
+configuration.zip
 configure
 configure-helper.sh
 configure-hooks.sh
@@ -7759,6 +7806,7 @@ _config.yml
 config.yml
 config.yml.templ
 configz
+config.zip
 conf.inc.php~
 confirm
 confirm.asp.bak
@@ -7824,8 +7872,10 @@ connector.py
 connect.php
 conpresso
 conquest
+/console/
 console
 console/
+console_ajax.js
 console/auth/reg_newuser.jsp
 console/base/config.json
 consoleexample.config
@@ -7837,6 +7887,7 @@ console/js/ctrsrequestparam.js
 console/js/cwcmdialoghead.js
 console/j_security_check
 console.log
+/console/login
 console/loginform.jsp
 console/login.jsp
 console/login/loginform.jsp
@@ -8575,6 +8626,7 @@ data/adminer.php
 data/admin/help.php
 data/admin/ver.txt
 dataarchivingservice
+data_auth.json
 data/autosuggest
 databackup
 data/backups
@@ -8601,6 +8653,7 @@ database.csv
 database/database
 database/database/
 database.db
+.database.env
 database/.env
 databasefat.sql
 database/.git/config
@@ -8620,6 +8673,7 @@ database/phpMyAdmin/
 database/phpmyadmin2
 database/phpmyadmin2/
 database/phpMyAdmin2/
+database.php.orig
 database.rar
 databases
 database/scripts/setup.php
@@ -8631,6 +8685,7 @@ database.sql.tar.gz
 database.sql.zip
 database/structure.sql
 databases.yml
+databases.zip
 database.tar.gz
 database.txt
 database.txt.gz
@@ -8647,6 +8702,7 @@ databse.sql
 data/cache
 data/cache/
 datacenter/downloadapp/showdownload.do
+data_clear.json
 ../../data/config/microsrv.cfg
 data/database_dev.sqlite
 data/database_prod.sqlite
@@ -8670,6 +8726,7 @@ data/files/
 data_geo.sql
 data/.git/config
 data/images/wap_logo.gif
+data.json
 data/json/config.json
 datakey
 datakommunikation
@@ -8923,6 +8980,7 @@ dbdump.tar.gzip
 dbdump.tgz
 dbdump.zip
 db-empty.sql
+.db.env
 db_eshop.sql
 dbexport/
 db.%EXT%
@@ -9103,6 +9161,7 @@ debug.c
 debug.cgi
 debug/config.xml
 debug-console.html
+.debug.env
 debuger.php
 debug_error.jsp
 debug.func.php
@@ -9355,6 +9414,7 @@ development.rb
 developments
 develop.sh
 devels
+dev.env
 dev.%EXT%
 dev/.git/config
 device
@@ -9514,6 +9574,7 @@ dizzy
 django
 django-blog/.env
 django.conf
+.django.env
 django/.env
 django_lfc.egg-info/vpkg-info
 django_lfc.egg-info/vPKG-INFO
@@ -9712,6 +9773,7 @@ dotAdmin
 dotbbs.sql
 dotbr
 dotclear
+dotenv.env
 .dotfiles.boto
 dotfiles/.env
 dot.git/config
@@ -10151,6 +10213,7 @@ elastic
 elastic/
 .elasticbeanstalk
 .elasticbeanstalk/
+.elastic.env
 elasticsearch
 elasticsearch/
 .elb
@@ -10183,6 +10246,8 @@ eliza.pl
 ellerbrock
 ellingsen
 elm
+/elmah
+/ELMAH
 elmah.axd
 elmo
 elm-stuff
@@ -10350,14 +10415,18 @@ entrypoints/recent
 entry.sh
 .env
 .env~
+/.env
 env
 env/
 ENV/
 .env_1
 .env.backup
+.env.bak
 env.bak
 env.bak/
+.env.copy
 .env.dev
+.env.development
 .env.development.local
 .env.development.sample
 .env.dev.local
@@ -10384,6 +10453,7 @@ env.json
 env.list
 .env.live
 .env.local
+.env.new
 .env.old
 envolution
 .env.php
@@ -10393,6 +10463,7 @@ env.php
 .env.production
 .env.production.local
 .envrc
+.env.remote
 .envs
 .env-sample
 .env.sample
@@ -10401,6 +10472,7 @@ env.php
 .env.save
 env.sh
 .env.stage
+.env.staging
 env/template/.env
 .env.test
 .env.test.local
@@ -10592,6 +10664,7 @@ etc/linkchecker.html
 ../../../../../etc/passwd
 \..\..\..\..\..\..\..\..\..\etc\passwd
 etc/passwd
+etc/pkexec
 etc/replication.html
 etc/shadow
 etc.xml
@@ -10758,6 +10831,7 @@ excite
 .exe
 exe
 exec
+exec.php
 exec.sh
 executed.sh
 execute.sh
@@ -10806,6 +10880,7 @@ export_presets.cfg
 export.sh
 export.sql
 export_stock_log.txt
+exports.zip
 express
 expressinstall.swf
 expressInstall.swf
@@ -10815,12 +10890,17 @@ exstream
 ext
 ext/
 %EXT%
+%EXT%.7z
+%EXT%.backup
 %EXT%.bak
 ext/build
 ext/build/
 extcalendar
+%EXT%.cgi
 extchg.sh
+%EXT%.conf
 ext/config
+%EXT%.copy
 ext/.deps
 extdirect
 extended-wadl-webapp
@@ -10838,11 +10918,16 @@ extent
 .externaltoolbuilders/
 .externalToolBuilders/
 extern.php
+%EXT%.gz
+%EXT%.htaccess
 ext/install-sh
 extjs
 extjs/
+%EXT%.js
+%EXT%.json
 extjs/resources//charts.swf
 ext/libtool
+%EXT%.log
 ext/ltmain.sh
 ext/makefile
 ext/Makefile
@@ -10853,25 +10938,33 @@ ext/mkinstalldirs
 ext/modules
 ext/modules/
 %EXT%.old
+%EXT%.original
 ext_phone.sql
 %EXT%.php
 extplorer
+%EXT%.py
 .extra
 extra
 extra_admin
 extrafield.log
+%EXT%.rar
 extras
 extras/documentation
+%EXT%.rb
 extremail
 extreme
 extropia
 extrosoft
 ext/run-tests.php
+%EXT%.sql
+%EXT%.swp
 %EXT%.tar
 %EXT%.tgz
+%EXT%.tmp
 ext-toolchain.sh
 %EXT%.txt
 extwsdl
+%EXT%.xml
 %EXT%.zip
 exv2
 eyeos
@@ -11262,6 +11355,7 @@ fingerprint.jsp
 finjan
 fipsasp
 fire
+.firebase
 firebase-debug.log
 .firebaserc
 firebase/security.json
@@ -11518,6 +11612,8 @@ fpadmin.tmpl.php
 _fpclass
 _fpclass/
 f.php
+fpm-ping
+fpm-status
 fprobe
 f-prot
 fpsample
@@ -11528,6 +11624,7 @@ frame/getconfig
 framework
 framework.sql
 framework/yiic.php
+framework.zip
 framk_demo.sql
 francisco
 frank
@@ -11998,6 +12095,7 @@ gimp
 ginkgo-e2e.sh
 ginp
 giombetti
+gis
 gisle
 gists/cache
 gists/laravel
@@ -12026,6 +12124,7 @@ git/.git/config
 git-gui.sh
 .git/head
 .git/HEAD
+/.git/HEAD
 .git/hooks
 .git/hooks/
 .git/hooks/applypatch-msg
@@ -12083,6 +12182,7 @@ gitlab/
 .gitlab-ci/.env
 .gitlab-ci.off.yml
 .gitlab-ci.yml
+/.gitlab-ci.yml
 .gitlab/issue_templates
 .gitlab/merge_request_templates
 .gitlab/route-map.yml
@@ -12091,6 +12191,7 @@ gitlog
 .git/logs/
 .git/logs/head
 .git/logs/HEAD
+/.git/logs/HEAD
 .git/logs/refs
 .git/logs/refs/heads
 .git/logs/refs/heads/master
@@ -12118,6 +12219,7 @@ git-prompt.sh
 .git/refs/remotes/origin/master
 .git/refs/tags
 .git_release
+.git_relese
 .gitreview
 .git-rewrite
 .git-rewrite/
@@ -12317,6 +12419,7 @@ graphiql.php
 graphite
 graphite/
 graphon
+/graphql
 graphql
 graphql/
 graphql/console
@@ -12519,6 +12622,7 @@ gzip_stream_unittest.sh
 h
 h156.php
 h1.php
+/h2console
 h2console
 h5
 _h5ai
@@ -12999,6 +13103,7 @@ htdocs
 htdocs/.env
 htdocs.php
 htdocs/scripts/setup.php
+htdocs.zip
 .htf
 .HTF/
 htfr.php
@@ -13013,6 +13118,7 @@ html/
 html1
 html2
 html2hdml
+html2pdf
 html2ps
 html2wml
 html3
@@ -13506,6 +13612,7 @@ impact
 imperial
 .import
 .import/
+/.import/
 import
 import/
 importcockpit
@@ -14026,6 +14133,7 @@ INSTALL.txt
 INSTALL.TXT
 install/update.log
 install-wp-tests.sh
+install.zip
 instance
 instance/
 instant
@@ -14496,6 +14604,7 @@ jmk
 jmssender
 jmstrader
 jmx
+/jmx-console/
 jmx-console
 jmx-console/
 jmx-console/checkjndi.jsp
@@ -14615,6 +14724,7 @@ js/common.js%20
 js.conf
 js/config20181225.js
 js/config.js
+/js/console.html
 jsc.php
 jsc.php.php
 jscripts
@@ -15097,6 +15207,7 @@ lanyecn.php
 laobiao.php
 lapan.php
 laravel
+.laravel.env
 laravel/.env
 laravel.log
 laravel.php
@@ -15948,6 +16059,7 @@ logstash/
 log_status_order.txt
 logs.txt
 logsurfer
+/logs/user.txt
 logs/user.txt
 logs/wsadmin.traceout
 logs/www-error.log
@@ -16178,6 +16290,7 @@ maincp
 maincpg
 maincpgmod
 main.do
+main.env
 main/.env
 main.%EXT%
 maingconfig.bin
@@ -16224,6 +16337,7 @@ main.tf
 maintlogin.jsp
 main_user/.env
 main/wp-includes/wlwmanifest.xml
+main.zip
 make-build-image.sh
 make_bundled_docs.sh
 make_bundled_docs_with_xalan.sh
@@ -16389,6 +16503,7 @@ marconi
 marcreed
 marcus
 mardam-bey
+marijuana.php
 mariovaldez
 mark
 .markdownlint.json
@@ -16878,6 +16993,7 @@ mifs/user/login.jsp
 migrate-if-needed.sh
 migrate_mambo4523_to_joomla_100.sql
 migrate.sh
+migration.log
 mikael
 mike
 miklos
@@ -17178,6 +17294,7 @@ Module.symvers
 module/tiny_mce
 module/tinymce
 module_uninstall.sql
+module.zip
 modxcms
 moemeka
 moies.sql
@@ -17337,6 +17454,8 @@ mt.cgi
 mt-check.cgi
 mtdata
 m-tech
+/mtemp/surgeweb/tpl/shared/modules/swfupload_f9.swf
+/mtemp/surgeweb/tpl/shared/modules/swfupload.swf
 m/ticker/usdtqc
 mtja.html
 .mtj.tmp
@@ -17461,6 +17580,7 @@ mybloggie
 mybookshop.sql
 mybook.sql
 mybulletinboard
+myconf.env
 myconfig.js
 myconfigs
 myconfigs/
@@ -17569,6 +17689,7 @@ mysqldumper
 mysqldumper/
 mysql-dumps
 mysqldump.sql
+.mysql.env
 mysql.err
 mysql.gz
 .mysql_history
@@ -17977,6 +18098,7 @@ nginx_access.log1%20{${phpinfo()}}
 nginx_app.conf
 .nginx.conf
 nginx.conf
+.nginx.env
 nginx/.env
 nginx-error.log
 nginx/nginx.conf
@@ -18258,7 +18380,12 @@ oab
 oab/
 oaboard
 oadb.sql
+OA_HTML/BneDownloadService
+OA_HTML/BneOfflineLOVService
+OA_HTML/BneUploaderService
+OA_HTML/BneViewerXMLService
 oa_html/ibecacpssoreg.jsp
+OA_HTML/ibeCAcpSSOReg.jsp
 OA_HTML/OA.jsp
 oa.sql
 oasyssoft
@@ -18349,6 +18476,7 @@ old.7z
 old_admin
 oldadmin
 old-cuburn/.git/config
+.old.env
 old/.env
 old.%EXT%
 old_files
@@ -19478,6 +19606,7 @@ phpmem
 phpmem/
 phpmemcachedadmin
 phpmemcachedadmin/
+/phpMemcachedAdmin/
 phpminiadmin
 phpminiadmin/
 phpminiadmin.php
@@ -19499,6 +19628,7 @@ phpmyadmi
 phpMyAdmi/
 phpmyadmi/index.php
 .phpmyadmin
+/phpmyadmin/
 _phpmyadmin
 _phpmyadmin/
 php-my-admin
@@ -19514,6 +19644,7 @@ phpmyadmin._
 phpmyadmin/
 phpmyAdmin/
 phpMyadmin/
+/phpMyAdmin/
 phpMyAdmin
 phpMyAdmin/
 phpmyadmin0
@@ -19880,6 +20011,7 @@ phpmyadmin/favicon.ico
 phpmyadmin/he.php
 phpmyadminhf/index.php
 phpmyadmin/images.php
+/phpmyadmin/index.php
 __phpmyadmin/index.php
 _phpmyadmin/index.php
 php-my-admin/index.php
@@ -19911,6 +20043,7 @@ phpmyadmin/scripts/db___.init.php
 phpmyadmin/scripts/setup0.php
 phpmyadmin/scripts/setup1.php
 phpmyadmin/scripts/setup.ph
+/phpmyadmin/scripts/setup.php
 _phpmyadmin/scripts/setup.php
 ~phpmyadmin/scripts/setup.php
 php-my-admin/scripts/setup.php
@@ -20244,6 +20377,7 @@ play-cache
 player
 player.swf
 .playground
+/playground
 playground
 playground/.env
 playground.xcworkspace
@@ -20432,7 +20566,9 @@ pnews
 .png
 png
 pngren
+.pnp
 pnphpbb
+.pnp.js
 pntresmailer
 pocle.sql
 podcast
@@ -20503,6 +20639,7 @@ popup_songs.php
 port80
 portail
 portailphp
+/portal/
 portal
 portal/
 portal2
@@ -20516,6 +20653,7 @@ portal/app_dev.php
 portal/app_dev.php/_profiler
 portalapps
 portal/index/protocol.html
+/portal/login
 portal/redlion
 portals
 portal/webclient
@@ -20536,6 +20674,7 @@ poster
 postfixadmin
 postfixadmin/.env
 postgres_basic.sql
+.postgres.env
 postgresql
 postgresql.conf
 postgresql.sql
@@ -21023,6 +21162,7 @@ public_html/
 public_html/.env
 public_html/robots.txt
 public_html.sql
+public_html.zip
 public/index.html
 public/index.php
 public/initjs.php
@@ -21047,6 +21187,7 @@ public/wchat/css/index.css
 public/wchat/js/cvphp.js
 public/web/css/add//index.css
 public/web/js/add/com.js
+/public/yql
 publish
 publish/
 publisher
@@ -22025,6 +22166,7 @@ runtime/invocation/next
 runtime/log/202005/22.log
 runtime_messages.jsp
 run-unit-tests.sh
+run.zip
 rushsite.xml
 RushSite.xml
 ruslan
@@ -22118,6 +22260,7 @@ sample
 sample01.py
 sample_data.sql
 sampledata.sql
+sample_employees_csv.csv
 sample.htaccess
 sample.log
 sample.php
@@ -22371,8 +22514,10 @@ scripts/tools/getdrvs.exe
 scripts/tools/newdsn.exe
 scripts/wgate
 scripts/wpnbr.dll
+scripts.zip
 script/ueditor/net/controller.ashx
 script/valid_formdata.js
+script.zip
 scrtumusicaperdida.sql
 scrum.zip
 .scrutinizer.yml
@@ -22561,6 +22706,7 @@ server.cert
 server.cfg
 server/config/.env
 server/config.json
+server.config.yaml
 server/.env
 server.%EXT%
 Server.%EXT%
@@ -23541,6 +23687,7 @@ sourceservlet-classviewer
 Sourceservlet-classViewer
 sourceshock
 sourceworkshop
+source.zip
 south
 southwest
 sox
@@ -24487,6 +24634,7 @@ sveasoft
 sven
 .svn
 .svn/
+/.svn/
 svn
 svn/
 SVN/
@@ -24528,14 +24676,23 @@ swagger/ui/index
 swagger-ui.json
 swagger-ui/swagger.json
 swagger/v1
+swagger/v1.0/api-docs
+swagger/v1.0/swagger.json
+swagger/v1.0/swagger.yaml
 swagger/v1/api-docs
 swagger/v1/swagger.json
 swagger/v1/swagger.json/
 swagger/v1/swagger.yaml
 swagger/v2
+swagger/v2.0/api-docs
+swagger/v2.0/swagger.json
+swagger/v2.0/swagger.yaml
 swagger/v2/api-docs
 swagger/v2/swagger.json
 swagger/v2/swagger.yaml
+swagger/v3.0/api-docs
+swagger/v3.0/swagger.json
+swagger/v3.0/swagger.yaml
 swagger.yaml
 swagger.yml
 swapnut
@@ -24681,6 +24838,7 @@ sys/kbd/q
 sys/kbd/r
 sysklogd
 syslinux
+/syslog/
 sys_log
 sys_log/
 syslog
@@ -24743,6 +24901,7 @@ systemstatus.xml
 system/storage
 system/storage/
 system/update.aspx
+system.zip
 sysuser
 sys/wnd/resize
 szeredi
@@ -25563,6 +25722,7 @@ toendacms
 token
 token_auth.csv
 token.json
+tokenlite.zip
 tokens
 tokobuku_online.sql
 tolis
@@ -26182,10 +26342,12 @@ upload.sql.tar.gz
 upload.sql.tar.gzip
 upload.sql.tgz
 upload.sql.zip
+uploads.zip
 upload/test.php
 upload/test.txt
 upload-to-gcs.sh
 upload/upload.php
+upload.zip
 upl.php
 upoint
 uppercase
@@ -26294,6 +26456,7 @@ userinfo.sql
 userip
 user/join
 user.js
+user.json
 user/login
 user/login/
 userlogin
@@ -26477,6 +26640,7 @@ v1/swagger-ui.html
 v1/test/js/console_ajax.js
 v1/test/js/console.html
 v1/wp-includes/wlwmanifest.xml
+v1.zip
 v2
 v2/
 v2.0
@@ -26680,6 +26844,7 @@ vendor/composer/ClassLoader.php
 vendor/composer/installed.json
 vendor/composer/license
 vendor/composer/LICENSE
+/vendor/credentials
 vendor-data.txt
 vendor-data.txt.i
 vendor/.env
@@ -27401,6 +27566,7 @@ web.config-work
 web.config.xml
 web.config.zip
 web.config - 副本.bak
+/web-console
 web-console
 web-console/
 web-console/aopbinding.jsp
@@ -27448,6 +27614,7 @@ webdynpro/welcome
 webdynpro/welcome/welcome.jsp
 webeasymail
 webeditor.php
+.web.env
 web/.env
 web-erp
 webeveyn
@@ -27662,6 +27829,7 @@ web-inf/jonas-web.xml
 WEB-INF/jonas-web.xml
 web-inf/jrun-web.xml
 WEB-INF/jrun-web.xml
+WEB-INF/lib/_wl_cls_gen.jar
 web-inf/liferay-display.xml
 WEB-INF/liferay-display.xml
 web-inf/liferay-layout-templates.xml
@@ -27979,6 +28147,7 @@ webtv
 webui/.env
 web/uploads
 web/uploads/
+web-variables.env
 web/var/www/.env
 web/var/www/public_html/config.php
 web/var/www/public_html/.htpasswd
@@ -28059,6 +28228,7 @@ well-known/.env
 .well-known/uma2-configuration
 .well-known/void
 .well-known/webfinger
+well-known.zip
 welsh
 wendland
 wenzhang
@@ -28129,6 +28299,7 @@ wizmysqladmin
 wizmysqladmin/
 wjaction/default/lottery.php
 wjkj20150202/kj20150202/config.js
+_wl_cls_gen.jar
 wldummyinitjvmids
 WLDummyInitJVMIDs
 wls-wsat/coordinatorporttype
@@ -28207,6 +28378,7 @@ wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=update_plugin
 wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
 wp-admin/admin-ajax.php?action=wfu_ajax_action&session_token=2
 wp-admin/admin.php
+/wp-admin/admin.php?page=MEC-ix&tab=MEC-export&mec-ix-action=export-events&format=xml
 wp-admin/admin-post.php
 wp-admin/c99.php
 wp-admin/.env
@@ -28216,6 +28388,7 @@ wp-admin.php
 wp-admin/plugin-install.php?tab=upload
 wp-admin/post-new.php
 wp-admin/setup-config.php
+/wp-admin/setup-config.php?step=1 
 wp-admin/setup-config.php?step=1
 wp-admins.php
 wp-admin/theme-editor.php
@@ -28348,6 +28521,7 @@ wp-config.php.bak
 wp-config.php_bak
 wp-config.phpbak
 wp-config.php.bak1
+/wp-config.php.bk
 wp-config.php.bk
 wp-config.php_bk
 wp-config.php~bk
@@ -28438,6 +28612,7 @@ wp-config.php.stage
 wp-config.php.staging
 wp-config.php.sublime-project
 wp-config.php.sublime-workspace
+wp-config.php.swap
 .wp-config.php.swm
 .wp-config.php.swn
 wp-config.php.swn
@@ -28545,6 +28720,7 @@ wp-content/data.sql
 wp-content/db_backup.sql
 wp-content/dbdump.sql
 wp-content/db.sql
+/wp-content/debug.log
 wp-content/debug.log
 wp-content/dump.sql
 wp-content/.env
@@ -28640,6 +28816,7 @@ wp-content/uploads/data.sql
 wp-content/uploads/db_backup.sql
 wp-content/uploads/dbdump.sql
 wp-content/uploads/db.sql
+/wp-content/uploads/dump.sql
 wp-content/uploads/dump.sql
 wp-content/uploads/file-manager/log.txt
 wp-content/uploads/gravity_forms/logs/gravityforms.txt
@@ -28968,6 +29145,7 @@ xml/common.xml
 .xml.gz
 xmllink
 .xml.old
+xmlpserver/ReportTemplateService
 xmlrootelement
 xmlrpc
 xmlrpc.inc
