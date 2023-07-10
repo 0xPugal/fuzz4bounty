@@ -1,4 +1,4 @@
-# 🚀💰fuzz4bounty [![Twitter](https://img.shields.io/badge/0xPugazh-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xPugazh) [![LinkedIn](https://img.shields.io/badge/0xPugazh-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xPugazh)
+# 🚀💰fuzz4bounty [![Twitter](https://img.shields.io/badge/0xPugazh-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xPugazh) [![LinkedIn](https://img.shields.io/badge/0xPugazh-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xPugazh) 
 
 ![carbon](https://user-images.githubusercontent.com/75373225/227513641-317d79d5-82ff-420e-b524-214555426dc2.png)
 
@@ -9,6 +9,9 @@
 > **Wordlists will be updated regularly.**
 
 > **Feel free to contribute, Pull Requests are welcomed.**
+
+## Support Me
+<a href="https://www.buymeacoffee.com/0xPugazh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Other Awesome  Wordlists
 + [OneListForAll](https://github.com/six2dez/OneListForAll)
