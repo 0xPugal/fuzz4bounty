@@ -28356,6 +28356,7 @@ workshop
 workspace
 workspace/uploads
 workspace/uploads/
+phpldapadmin/index.php
 workspace.xml
 work.sql
 world
