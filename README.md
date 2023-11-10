@@ -12,13 +12,3 @@
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/0xPugazh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## Other Awesome  Wordlists
-+ [OneListForAll](https://github.com/six2dez/OneListForAll)
-+ [SecLists](https://github.com/danielmiessler/SecLists)
-+ [fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
-+ [Dirsearch](https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt)
-+ [Bug-Bounty-Wordlists](https://raw.githubusercontent.com/Karanxa/Bug-Bounty-Wordlists/main/fuzz.txt)
-+ [Trickest](https://github.com/trickest/wordlists)
-+ [GodfatherOrwa-Wordlist](https://github.com/orwagodfather/WordList)
-
