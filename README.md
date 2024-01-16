@@ -13,8 +13,8 @@
 ## Awesome wordlists
 + [SecLists](https://github.com/danielmiessler/SecLists)
 + [OneListForAll](https://github.com/six2dez/OneListForAll)
-+ [bbFuzzing.txt](https://github.com/reewardius/bbFuzzing.txt)
-+ [dirsearch.txt](https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt)
++ [bbFuzzing](https://github.com/reewardius/bbFuzzing.txt)
++ [dirsearch](https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt)
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/0xPugazh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
