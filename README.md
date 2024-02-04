@@ -18,3 +18,13 @@
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/0xPugazh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+## Star History
+
+<a href="https://star-history.com/#0xPugazh/fuzz4bounty&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date" />
+  </picture>
+</a>
