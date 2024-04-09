@@ -24,10 +24,10 @@
 
 ## Star History
 
-<a href="https://star-history.com/#0xPugazh/fuzz4bounty&Date">
+<a href="https://star-history.com/#0xPugal/fuzz4bounty&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xPugazh/fuzz4bounty&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xPugal/fuzz4bounty&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xPugal/fuzz4bounty&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xPugal/fuzz4bounty&type=Date" />
   </picture>
 </a>
