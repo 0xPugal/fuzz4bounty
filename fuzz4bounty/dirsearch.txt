@@ -2,6 +2,7 @@
 !.htaccess
 !.htpasswd
 %2e%2e//google.com
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 %2e%2e;/test
 %3f/
 %C0%AE%C0%AE%C0%AF
@@ -38,7 +39,7 @@
 +CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
 +CSCOT+/translation
 +CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
-.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+../../../../../../etc/passwd
 ..;/
 .0
 .7z
@@ -4631,6 +4632,7 @@ dumper/
 dumps/
 dvdadmin
 dvwa/
+dwr/index.html
 dwsync.xml
 dyn
 DynaCacheESI
@@ -5271,6 +5273,9 @@ help.htm
 help/
 helpadmin
 HFM/Administration/
+hint
+hint.%EXT%
+hint.txt
 HISTORY
 history
 history.md
@@ -5688,6 +5693,7 @@ jbpm-console/app/tasks.jsf
 jcadmin
 jdbc
 jdkstatus
+jeecg-boot
 jenkins/
 jenkins/script
 Jenkinsfile
@@ -7988,6 +7994,7 @@ shutdown.%EXT%
 sibstatus
 sidekiq
 sidekiq_monitor
+sign
 sign-in
 sign-in/
 sign_in
@@ -8932,6 +8939,7 @@ v2/api-docs
 v2/keys/?recursive=true
 v3
 v3/
+v3/api-docs
 v4/
 vadmin
 vadmin.%EXT%
@@ -9427,6 +9435,7 @@ wp-content/plugins/jrss-widget/proxy.php?url=
 wp-content/plugins/super-forms/
 wp-content/plugins/wp-publication-archive/includes/openfile.php?file=
 wp-content/plugins/wpengine-snapshot/snapshots/
+wp-content/themes/
 wp-content/updraft/
 wp-content/upgrade/
 wp-content/uploads/
@@ -9458,6 +9467,10 @@ wp-register
 wp-register.php
 wp-rss2
 wp-signup.php
+wp-sitemap-posts-page-1.xml
+wp-sitemap-posts-post-1.xml
+wp-sitemap-users-1.xml
+wp-sitemap.xml
 wp-snapshots/
 wp.php
 wp.rar/
