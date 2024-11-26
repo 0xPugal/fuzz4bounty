@@ -187,6 +187,8 @@
 /404.php.bak
 /?view=log
 /?wsdl
+/@debug
+/@documentation
 /_/.ssh/authorized_keys
 /__/auth/handler
 /__/auth/handler/callback
@@ -194,6 +196,7 @@
 /__/auth/handler/signout
 /___graphql
 /__clockwork/app
+/__debug__/
 /__swagger__/
 /_admin
 /_cat
@@ -208,6 +211,7 @@
 /_debug
 /_debug_toolbar
 /_debugbar/open?max=20&offset=0
+/_fragment
 /_monitoring
 /_netrc
 /_node
@@ -215,6 +219,7 @@
 /_nodes/stats
 /_notary_server
 /_notes/dwsync.xml
+/_profiler
 /_profiler/
 /_profiler/empty/search/results?limit=10
 /_profiler/phpinfo
@@ -339,6 +344,7 @@
 /admin/runtime/tree
 /Admin/ServerSide/Telerik.Web.UI.DialogHandler.aspx?dp=1
 /admin/shutdown
+/admin/stats
 /admin/tap
 /admin/threadz
 /admin/tls
@@ -727,6 +733,7 @@
 /db_backup.sql
 /db_config.php.bak
 /dbaas_monitor/login
+/dbconsole
 /dbdump.sql
 /debug
 /debug.cgi
@@ -779,6 +786,7 @@
 /dev2local.sh
 /development.log
 /dfshealth.html
+/diagnostics
 /dialin/
 /dispatcher/invalidate.cache
 /django/settings.py
@@ -879,6 +887,7 @@
 /gems
 /getcfg.php
 /getFavicon?host=burpcollaborator.net
+/gii
 /git-receive-pack
 /global
 /Global.asax
@@ -927,6 +936,7 @@
 /home.html
 /homepage.nsf
 /hopfully404
+/horizon
 /host-manager/html
 /host.key
 /hosts
@@ -1121,6 +1131,7 @@
 /monitor/health
 /monitor/stat
 /monitor_agent
+/monitoring
 /moto/application/configs/application.ini
 /mrtg/
 /MRTG/
@@ -1148,6 +1159,7 @@
 /node_info
 /node_info.json
 /node_stats
+/nova
 /npm-debug.log
 /npm-shrinkwrap.json
 /nuxeo/login.jsp/pwn${31333333330+7}.xhtml
@@ -1278,8 +1290,11 @@
 /radio/application/configs/application.ini
 /raft
 /rails/actions?error=ActiveRecord
+/rails/conductor/active_storage/blobs
 /rails/info
+/rails/info/properties
 /rails/info/properties.json
+/rails/info/routes
 /rails/info/routes.json
 /railsapp/config/storage.yml
 /reach/sip.svc
@@ -1513,6 +1528,7 @@
 /Telerik.Web.UI.DialogHandler.aspx?dp=1
 /Telerik.Web.UI.DialogHandler.axd?dp=1
 /Telerik.Web.UI.WebResource.axd?type=rau
+/telescope
 /telescope/requests
 /temp.php
 /temp.sql
@@ -1541,6 +1557,7 @@
 /toolsadminer.php
 /trace
 /Trace.axd
+/trace.axd
 /tracez
 /tracing
 /translate.sql
