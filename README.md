@@ -1,6 +1,6 @@
 # 🚀💰fuzz4bounty [![Twitter](https://img.shields.io/badge/0xPugal-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xPugal) [![LinkedIn](https://img.shields.io/badge/0xPugal-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xPugal) 
 
-![carbon](https://user-images.githubusercontent.com/75373225/227513641-317d79d5-82ff-420e-b524-214555426dc2.png)
+![carbon](https://github.com/user-attachments/assets/74bf0adc-26ff-4932-aa02-ffc409ae5012)
 
 ## 🚀Wordlists for Bug Bounty Hunting
 
