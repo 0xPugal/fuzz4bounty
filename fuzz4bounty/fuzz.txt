@@ -5342,3 +5342,11 @@ root
 routes
 runningpods/
 swarm-template.yml
+backups/config.bak
+archive/db_config.bak
+api/v1/config/secrets.yaml
+api/v1/config/keys.yaml
+db/postgres.sql
+db/mongodb.bson
+db/sqlite.sql
+db/postgres.dump
