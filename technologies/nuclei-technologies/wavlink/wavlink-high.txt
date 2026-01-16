@@ -1,0 +1,6 @@
+/cgi-bin/ExportAllSettings.sh
+/live_mfg.html
+/live_mfg.shtml
+
+/cgi-bin/ExportLogs.sh
+/wifi_base.shtml

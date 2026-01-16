@@ -1,0 +1,1 @@
+/imcat/root/tools/adbug/binfo.php?phpinfo1

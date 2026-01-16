@@ -1,0 +1,2 @@
+/locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
+/auth/login

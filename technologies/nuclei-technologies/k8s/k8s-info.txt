@@ -1,0 +1,13 @@
+/version
+/apis/apps/v1/namespaces/default/deployments
+/api/v1/namespaces
+/api/v1/nodes
+/api/v1/namespaces/default/pods
+/api/v1/namespaces/default/secrets
+/api/v1/namespaces/default/services
+/healthz
+/
+/metrics
+/pods
+/runningpods/
+/stats/summary

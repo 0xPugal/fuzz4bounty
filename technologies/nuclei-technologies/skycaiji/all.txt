@@ -1,0 +1,2 @@
+/index.php?s=/install/index/index
+/index.php?s=/admin/Index/index

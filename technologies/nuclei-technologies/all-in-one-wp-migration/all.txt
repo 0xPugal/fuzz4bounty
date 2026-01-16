@@ -1,0 +1,2 @@
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/plugins/all-in-one-wp-migration/storage/error.log

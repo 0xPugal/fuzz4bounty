@@ -1,0 +1,5 @@
+/wp-content/plugins/add-to-any/add-to-any.php
+/wp-content/plugins/add-to-any/addtoany.php
+/wp-content/plugins/add-to-any/includes/addtoany.class.php
+/wp-content/plugins/add-to-any/admin/class-addtoany-admin.php
+/wp-content/plugins/add-to-any/admin/settings.php

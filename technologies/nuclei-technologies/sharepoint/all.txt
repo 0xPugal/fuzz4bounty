@@ -1,0 +1,12 @@
+/_layouts/15/spinstall0.aspx
+/_api/web/roledefinitions
+/_vti_bin/spdisco.aspx
+/_layouts/15/viewlsts.aspx
+/_layouts/viewlsts.aspx
+/_catalogs/masterpage/Forms/AllItems.aspx
+/_catalogs/15/masterpage/Forms/AllItems.aspx
+/_api/site
+/_api/web
+/SitePages/Forms/AllPages.aspx
+/_api/web/lists
+/_vti_bin/lists.asmx?WSDL

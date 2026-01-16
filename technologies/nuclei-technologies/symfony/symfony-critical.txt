@@ -1,0 +1,1 @@
+/{{uri_part}}&_hash={{url_encode(base64(hex_decode(hmac(

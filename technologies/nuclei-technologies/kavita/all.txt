@@ -1,0 +1,2 @@
+/api/image/cover-upload?filename=../appsettings.json
+/login

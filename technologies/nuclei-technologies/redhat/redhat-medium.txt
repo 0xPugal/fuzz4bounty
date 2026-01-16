@@ -1,0 +1,7 @@
+/status?full=true
+/auth/realms/master/protocol/openid-connect/auth?scope=openid&response_type=code&redirect_uri=valid&state=cfx&nonce=cfx&client_id=security-admin-console&request_uri=http://{{interactsh-url}}/
+/auth/realms/master/clients-registrations/default/security-admin-console
+/auth/realms/master/clients-registrations/default
+/auth/realms/master/clients-registrations/openid-connect
+/realms/master/clients-registrations/default
+/realms/master/clients-registrations/openid-connect

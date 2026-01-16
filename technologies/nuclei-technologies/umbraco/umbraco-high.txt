@@ -1,0 +1,3 @@
+/Umbraco/feedproxy.aspx?url=http://{{interactsh-url}}
+/install
+/umbraco/management/api/v1/server/status

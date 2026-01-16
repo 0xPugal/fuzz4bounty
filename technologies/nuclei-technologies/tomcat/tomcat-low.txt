@@ -1,0 +1,4 @@
+/jolokia/search/*:test=test
+/actuator/jolokia/search/*:test=test
+/examples/servlets/servlet/CookieExample
+/?f=\[

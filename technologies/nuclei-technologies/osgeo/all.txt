@@ -1,0 +1,5 @@
+/geoserver/
+/web
+/geoserver/web/
+/rest.html
+/geoserver/rest.html

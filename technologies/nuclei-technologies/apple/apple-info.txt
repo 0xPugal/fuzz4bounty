@@ -1,0 +1,3 @@
+/.well-known/apple-app-site-association
+/well-known/apple-app-site-association
+/apple-app-site-association

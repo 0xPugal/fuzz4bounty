@@ -1,0 +1,1 @@
+/plugins/wordpress_sso/pages/index.php?wordpress_user=%3Cscript%3Ealert(1)%3C/script%3E

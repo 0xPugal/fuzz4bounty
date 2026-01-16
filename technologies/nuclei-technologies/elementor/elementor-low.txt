@@ -1,0 +1,6 @@
+/wp-content/plugins/elementor/app/modules/import-export/runners/export/wp-content.php
+/wp-content/plugins/elementor/app/modules/import-export/runners/import/wp-content.php
+/wp-content/plugins/elementor/app/modules/import-export/runners/revert/wp-content.php
+/wp-content/plugins/elementor/app/modules/import-export-customization/runners/export/wp-content.php
+/wp-content/plugins/elementor/app/modules/import-export-customization/runners/import/wp-content.php
+/wp-content/plugins/elementor/app/modules/import-export-customization/runners/revert/wp-content.php

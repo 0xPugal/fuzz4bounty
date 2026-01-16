@@ -1,0 +1,1 @@
+/wp-content/uploads/wp-security-audit-log/failed-logins/

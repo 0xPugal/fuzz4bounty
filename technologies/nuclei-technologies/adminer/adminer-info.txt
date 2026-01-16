@@ -1,0 +1,9 @@
+/adminer.php
+/_adminer.php
+/adminer/
+/editor.php
+/mysql.php
+/sql.php
+/wp-content/plugins/adminer/adminer.php
+/admin.php
+/modules/sfkdbmanage/adminer.php

@@ -1,0 +1,4 @@
+/.idea/deployment.xml
+/.idea/workspace.xml
+/.idea/httpRequests/http-requests-log.http
+/.idea/httpRequests/http-client.cookies

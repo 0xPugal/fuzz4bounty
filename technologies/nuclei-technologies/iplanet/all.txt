@@ -1,0 +1,2 @@
+/admingui/version/serverTasksGeneral?serverTasksGeneral.GeneralWebserverTabs.TabHref=2
+/admingui/version/serverConfigurationsGeneral?serverConfigurationsGeneral.GeneralWebserverTabs.TabHref=4

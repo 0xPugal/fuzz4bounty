@@ -1,0 +1,2 @@
+/auth/check
+/auth/newpassword

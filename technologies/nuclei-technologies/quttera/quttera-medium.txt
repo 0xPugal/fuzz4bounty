@@ -1,0 +1,1 @@
+/wp-content/plugins/quttera-web-malware-scanner/quttera_wp_report.txt

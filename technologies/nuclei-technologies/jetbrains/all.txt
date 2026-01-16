@@ -1,0 +1,15 @@
+/app/rest/users/id:1/tokens/{{randstr}};.jsp?jsp_precompile=true
+/app/rest/server
+/hax?jsp=/app/rest/server;.jsp
+/res/../admin/diagnostic.jsp
+/.well-known/acme-challenge/../../admin/diagnostic.jsp
+/update/../admin/diagnostic.jsp
+/login.html
+/.idea/dataSources.xml
+/.idea/deployment.xml
+/.idea/workspace.xml
+/.idea/WebServers.xml
+/.idea/webServers.xml
+/.idea/webservers.xml
+/.idea/httpRequests/http-requests-log.http
+/.idea/httpRequests/http-client.cookies

@@ -1,0 +1,2 @@
+/WebReport/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml
+/report/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml

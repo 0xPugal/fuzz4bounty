@@ -1,0 +1,4 @@
+/idp/profile/oidc/authorize?client_id=demo_rp&request_uri=https://{{interactsh-url}}
+
+/shibboleth-idp
+/Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh

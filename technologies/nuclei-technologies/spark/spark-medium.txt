@@ -1,0 +1,5 @@
+/jobs/?\
+/api/v1/applications
+/environment/
+/jobs/
+:4040/jobs/

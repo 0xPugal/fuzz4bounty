@@ -1,0 +1,2 @@
+/api/tenants
+/api/status

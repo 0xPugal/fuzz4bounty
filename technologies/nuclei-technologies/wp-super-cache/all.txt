@@ -1,0 +1,2 @@
+/wp-content/plugins/wp-super-cache/ossdl-cdn.php
+/wp-content/plugins/wp-super-cache/rest/load.php

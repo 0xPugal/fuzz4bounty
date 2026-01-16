@@ -1,0 +1,2 @@
+/%2f/
+/sample-apps/hello/%2f/

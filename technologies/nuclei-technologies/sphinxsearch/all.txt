@@ -1,0 +1,7 @@
+/config/development.sphinx.conf
+/config/production.sphinx.conf
+/configs/sphinx.conf
+/search/configs/sphinx.conf
+/sphinx.conf
+/sphinx/sphinx.conf
+/sphinxsearch/sphinx.conf

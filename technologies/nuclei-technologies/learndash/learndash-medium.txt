@@ -1,0 +1,3 @@
+/wp-json/wp/v2/sfwd-question
+/wp-json/wp/v2/sfwd-assignment
+/wp-json/ldlms/v1/sfwd-quiz

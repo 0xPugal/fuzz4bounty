@@ -1,0 +1,2 @@
+/wp-content/plugins/wp-pagenavi/admin.php
+/wp-content/plugins/wp-pagenavi/wp-pagenavi.php

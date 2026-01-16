@@ -1,0 +1,2 @@
+/mifs/aad/api/v2/admins/users
+/mifs/asfV3/api/v2/admins/users

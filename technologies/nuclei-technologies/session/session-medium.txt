@@ -1,0 +1,4 @@
+/glpi/files/
+/glpi/files/_sessions/
+/files/_sessions/
+/glpi/

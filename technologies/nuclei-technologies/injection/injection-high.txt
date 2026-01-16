@@ -1,0 +1,5 @@
+/openam/ui/PWResetUserValidation
+/OpenAM-11.0.0/ui/PWResetUserValidation
+/ui/PWResetUserValidation
+/js/zimbraMail/share/model/ZmSettings.js
+/login.do?jvar_page_title=<style><foo>Injected Title</foo></style>

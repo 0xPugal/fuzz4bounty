@@ -1,0 +1,7 @@
+/graphql?query={__typename}
+/api/graphql?query={__typename}
+/graphql
+/api/graphql
+/query
+/
+{{paths}}

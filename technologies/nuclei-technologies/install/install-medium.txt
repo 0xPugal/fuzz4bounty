@@ -1,0 +1,3 @@
+/ESPEasy
+/wizard/base.php
+/typo3/install.php

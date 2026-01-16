@@ -1,0 +1,3 @@
+/_config
+/_users/_all_docs
+/_all_dbs

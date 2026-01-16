@@ -1,0 +1,7 @@
+/cgi-bin/live_api.cgi?page={{str}}&id={{num}}&ip=;id;
+/cgi-bin/ExportAllSettings.sh
+/live_mfg.html
+/live_mfg.shtml
+
+/cgi-bin/ExportLogs.sh
+/wifi_base.shtml

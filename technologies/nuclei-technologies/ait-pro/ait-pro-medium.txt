@@ -1,0 +1,2 @@
+/wp-content/bps-backup/logs/db_backup_log.txt
+/wp-content/plugins/bulletproof-security/admin/htaccess/db_backup_log.txt

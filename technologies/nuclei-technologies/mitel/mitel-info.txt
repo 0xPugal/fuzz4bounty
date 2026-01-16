@@ -1,0 +1,6 @@
+/wd/en-us/wapplink.asp
+/portal/
+/npm-admin/showLoginPage.do
+
+/server-common/cgi-bin/login
+/ucs/micollab/version.json

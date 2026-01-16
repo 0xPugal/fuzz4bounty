@@ -1,0 +1,2 @@
+/pubspec.yaml
+/assets/pubspec.yaml

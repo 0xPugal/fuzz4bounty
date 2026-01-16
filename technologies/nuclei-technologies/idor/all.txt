@@ -1,0 +1,4 @@
+/wp-content/themes/haberadam/api/mobile-info.php?id=
+/blog/wp-content/themes/haberadam/api/mobile-info.php?id=
+/wp-json/wp/v2/asked-question
+/api/chat/get-chat-session/1?is_shared=True

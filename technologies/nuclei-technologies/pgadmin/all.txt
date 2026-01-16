@@ -1,0 +1,2 @@
+/browser/
+/redirect.php/%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E?subject=server&server=test

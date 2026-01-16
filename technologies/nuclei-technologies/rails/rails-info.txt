@@ -1,0 +1,7 @@
+/Rakefile
+/log/development.log
+/logs/development.log
+/development.log
+/log/production.log
+/logs/production.log
+/production.log

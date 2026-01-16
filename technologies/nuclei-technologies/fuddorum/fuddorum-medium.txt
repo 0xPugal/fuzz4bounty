@@ -1,0 +1,2 @@
+/index.php?SQ=0&t=search&srch={{randstr}}&btn_submit=Search&field=all&forum_limiter=&attach=0&search_logic=AND&sort_order=REL&author=x
+/forum/index.php?SQ=0&t=search&srch={{randstr}}&btn_submit=Search&field=all&forum_limiter=&attach=0&search_logic=AND&sort_order=REL&author=x

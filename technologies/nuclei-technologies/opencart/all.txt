@@ -1,0 +1,7 @@
+/admin
+/index.php?route=account/login
+/system/storage/logs/error.log
+/opencart/system/storage/logs/error.log
+/storage/logs/error.log
+/error.log
+/system/logs/error.log

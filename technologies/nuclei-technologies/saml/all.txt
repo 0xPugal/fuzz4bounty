@@ -1,0 +1,4 @@
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin
+/zabbix/index_sso.php
+/index_sso.php
+/saml/metadata

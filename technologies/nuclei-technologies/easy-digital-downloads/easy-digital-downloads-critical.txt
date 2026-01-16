@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-digital-downloads/readme.txt

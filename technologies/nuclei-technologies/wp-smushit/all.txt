@@ -1,0 +1,2 @@
+/wp-content/plugins/wp-smushit/core/cdn/class-cdn-controller.php
+/wp-content/plugins/wp-smushit/wp-smush.php

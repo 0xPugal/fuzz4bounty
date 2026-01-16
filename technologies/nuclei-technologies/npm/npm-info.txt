@@ -1,0 +1,15 @@
+/package.json
+/package-lock.json
+/bun.lockb
+/.npm/anonymous-cli-metrics.json
+/anonymous-cli-metrics.json
+/npm-shrinkwrap.json
+/.npmignore
+/node_modules/.npmignore
+/src/.npmignore
+/api/.npmignore
+/backend/.npmignore
+/.npmrc
+/pnpm-lock.yaml
+/node_modules/.yarn-integrity
+/.yarn-integrity

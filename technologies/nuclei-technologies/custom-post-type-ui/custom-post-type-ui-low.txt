@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-post-type-ui/custom-post-type-ui.php

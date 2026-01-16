@@ -1,0 +1,1 @@
+/go.php?http://interact.sh

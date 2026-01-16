@@ -1,0 +1,2 @@
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+/wp-content/plugins/elementor/readme.txt

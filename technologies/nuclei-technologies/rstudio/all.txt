@@ -1,0 +1,3 @@
+/auth-sign-in?appUri=%2F
+/%2f/
+/sample-apps/hello/%2f/

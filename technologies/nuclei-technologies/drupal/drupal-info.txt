@@ -1,0 +1,12 @@
+
+/user/login
+/admin/views/ajax/autocomplete/user/a
+/views/ajax/autocomplete/user/a
+/?q=admin/views/ajax/autocomplete/user/a
+/?q=views/ajax/autocomplete/user/a
+/user/0
+/user/1
+/user/2
+/user/3
+/CHANGELOG.txt
+/core/install.php

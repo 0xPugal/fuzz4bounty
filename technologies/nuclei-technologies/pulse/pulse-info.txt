@@ -1,0 +1,5 @@
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/auth/url_2/welcome.cgi
+/dana-na/auth/url_3/welcome.cgi
+/dana-na/nc/nc_gina_ver.txt
+/dana-cached/hc/HostCheckerInstaller.osx

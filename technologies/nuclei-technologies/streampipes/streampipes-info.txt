@@ -1,0 +1,2 @@
+/streampipes-backend/api/openapi.json
+/assets/img/favicon/favicon.ico

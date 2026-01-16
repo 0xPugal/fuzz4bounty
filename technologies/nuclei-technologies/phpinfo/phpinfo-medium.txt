@@ -1,0 +1,5 @@
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php
+/vendor/phpfastcache/phpfastcache/docs/examples/phpinfo.php
+/vendor/phpfastcache/phpfastcache/examples/phpinfo.php
+/StudioServer/server/wwtest/phpinfo.php
+/server/wwtest/phpinfo.php

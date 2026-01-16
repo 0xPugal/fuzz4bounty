@@ -1,0 +1,4 @@
+
+/reportviewer/
+/birt/
+/birt-viewer/

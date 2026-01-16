@@ -1,0 +1,3 @@
+/Account/Login
+{{paths}}
+/Telerik.Web.UI.WebResource.axd?type=rau

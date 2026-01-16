@@ -1,0 +1,2 @@
+/osm/REGISTER.cmd
+/osm_tiles/REGISTER.cmd

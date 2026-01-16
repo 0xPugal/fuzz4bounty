@@ -1,0 +1,2 @@
+/.my.cnf
+/CDGServer3/SQL/MYSQL/create_SmartSec_mysql.sql

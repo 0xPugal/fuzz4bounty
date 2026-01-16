@@ -1,0 +1,3 @@
+
+/mediation/domains
+/mediation/authenticate

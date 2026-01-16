@@ -1,0 +1,2 @@
+/storage/filesvr.dn?t={{ticket}}
+/portal/loginpage.aspx

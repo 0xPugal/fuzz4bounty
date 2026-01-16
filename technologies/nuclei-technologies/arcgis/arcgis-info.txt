@@ -1,0 +1,8 @@
+/portal/portalhelp/en/
+/arcgis/rest/services
+/portal/sharing/rest
+/portal/portalhelp/en/rest/
+/server/rest/services
+/arcgis/
+/server/sdk/rest/index.html
+/arcgis/tokens/

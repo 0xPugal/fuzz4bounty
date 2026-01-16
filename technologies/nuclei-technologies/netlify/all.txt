@@ -1,0 +1,4 @@
+/admin/index.html
+/_headers
+/headers
+/netlify.toml

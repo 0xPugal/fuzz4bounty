@@ -1,0 +1,2 @@
+/MyDevice/Login
+/AirWatch/Login

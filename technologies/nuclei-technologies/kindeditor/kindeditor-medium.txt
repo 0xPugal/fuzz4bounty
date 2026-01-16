@@ -1,0 +1,2 @@
+/kindeditor/php/demo.php
+/php/demo.php

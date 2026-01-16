@@ -1,0 +1,7 @@
+/-/media/doo-doo.ashx
+/api/sitecore/Sitecore.Mvc.DeviceSimulator.Controllers.SimulatorController,Sitecore.Mvc.DeviceSimulator.dll/Preview?previewPath=/App_Data/license.xml
+/sitecore/admin/login.aspx
+/sitecore/login/default.aspx
+/sitecore/shell/sitecore.version.xml
+/sitecore/
+/?xmlcontrol=body%20onload=alert(document.domain)

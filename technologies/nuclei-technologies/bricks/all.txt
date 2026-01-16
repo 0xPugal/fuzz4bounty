@@ -1,0 +1,1 @@
+/wp-content/themes/bricks/readme.txt

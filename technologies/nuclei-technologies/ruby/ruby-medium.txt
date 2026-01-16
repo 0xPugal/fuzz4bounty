@@ -1,0 +1,9 @@
+/{{randstr}}
+/environment.rb
+/config/environment.rb
+/redmine/config/environment.rb
+/.irb_history
+/.pry_history
+/config/initializers/secret_token.rb
+/secret_token.rb
+/redmine/config/initializers/secret_token.rb

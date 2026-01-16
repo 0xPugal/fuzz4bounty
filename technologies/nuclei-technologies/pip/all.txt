@@ -1,0 +1,4 @@
+/render/info.html
+/Pipfile
+/pyproject.toml
+/Pipfile.lock

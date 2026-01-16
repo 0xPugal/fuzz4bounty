@@ -1,0 +1,2 @@
+/core/authorize.php
+/jsonapi/user/user

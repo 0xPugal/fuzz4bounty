@@ -1,0 +1,2 @@
+/.svn/wc.db
+/wc.db

@@ -1,0 +1,1 @@
+/wp-json/ssa/v1/users

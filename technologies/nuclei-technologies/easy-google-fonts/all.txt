@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-google-fonts/error_log

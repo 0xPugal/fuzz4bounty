@@ -1,0 +1,2 @@
+/status.php
+/hedwig.cgi

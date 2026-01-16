@@ -1,0 +1,1 @@
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d

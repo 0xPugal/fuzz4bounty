@@ -1,0 +1,7 @@
+/setup.py
+/.python_history
+/requirements.txt
+/requirements/requirements.txt
+/app/requirements.txt
+/src/requirements.txt
+/metrics

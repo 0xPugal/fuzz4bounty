@@ -1,0 +1,12 @@
+/web/database/manager
+/data/pbootcms.db
+/inc/data/database.sdb
+{{paths}}
+/.my.cnf
+/{{path}}
+/.pgpass
+/database_credentials.inc
+/.psql_history
+/psql_history
+/.postgresql_history
+/libraries/joomla/database/

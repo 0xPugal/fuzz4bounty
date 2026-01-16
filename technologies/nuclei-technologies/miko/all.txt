@@ -1,0 +1,1 @@
+/pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}

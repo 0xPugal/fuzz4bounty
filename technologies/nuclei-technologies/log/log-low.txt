@@ -1,0 +1,7 @@
+/.badarg.log
+/wp-content/plugins/wps-hide-login/classes/error_log
+/wp-content/plugins/nextgen-gallery/admin/php_errors.log
+/wp-content/plugins/gravityforms/debug.log
+/wp-content/plugins/gravityforms/tmp/debug.log
+/wp-content/uploads/affwp-debug.log
+/{{paths}}/debug.log

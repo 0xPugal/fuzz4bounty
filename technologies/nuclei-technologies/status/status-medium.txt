@@ -1,0 +1,8 @@
+/index.php?option=com_userstatus&controller=../../../../../../../../../../etc/passwd%00
+/nagios/cgi-bin/status.cgi
+/cgi-bin/nagios4/status.cgi
+/cgi-bin/nagios3/status.cgi
+/opcache-status/
+/php-opcache-status/
+/opcache-status/opcache.php
+/perl-status

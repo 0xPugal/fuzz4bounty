@@ -1,0 +1,2 @@
+/fcgi-bin/echo
+/test/fcgi/test.html

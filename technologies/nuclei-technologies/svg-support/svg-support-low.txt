@@ -1,0 +1,8 @@
+/wp-content/plugins/svg-support/vendor/composer/InstalledVersions.php
+/wp-content/plugins/svg-support/vendor/autoload.php
+/wp-content/plugins/svg-support/vendor/composer/autoload_real.php
+/wp-content/plugins/svg-support/vendor/composer/ClassLoader.php
+/wp-content/plugins/svg-support/vendor/composer/autoload_static.php
+/wp-content/plugins/svg-support/svg-support.php
+/wp-content/plugins/svg-support/functions/mime-types.php
+/wp-content/plugins/svg-support/includes/svg-tags.php

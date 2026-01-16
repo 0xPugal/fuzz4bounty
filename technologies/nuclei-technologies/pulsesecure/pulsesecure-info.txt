@@ -1,0 +1,2 @@
+/dana-na/nc/nc_gina_ver.txt
+/dana-cached/hc/HostCheckerInstaller.osx

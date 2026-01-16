@@ -1,0 +1,1 @@
+/?SPX_KEY={{api_key}}&SPX_UI_URI=/

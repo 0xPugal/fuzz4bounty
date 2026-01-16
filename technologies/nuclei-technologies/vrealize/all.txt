@@ -1,0 +1,5 @@
+/i18n/component/JS?locale=en-US
+/api/v1/version
+/app/login
+/login?loginUrl=%2Findex
+/ui/login.action

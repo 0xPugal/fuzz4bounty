@@ -1,0 +1,6 @@
+/?app=config
+/index.php/login
+
+/login
+/nextcloud/login
+/nextcloud/index.php/login

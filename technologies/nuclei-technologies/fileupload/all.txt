@@ -1,0 +1,11 @@
+/configWizard/keyUpload.jsp
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/defaultroot/officeserverservlet
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/service/~baseapp/UploadServlet
+/laravel-filemanager?type=Files
+/upload.jsp
+/RichWidgets/Popup_Upload.aspx
+/Telerik.Web.UI.WebResource.axd?type=rau

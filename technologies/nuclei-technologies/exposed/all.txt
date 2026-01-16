@@ -1,0 +1,5 @@
+/i/?a=logs
+/?app=config
+/login.asp
+/jobs/
+:4040/jobs/

@@ -1,0 +1,2 @@
+/wabam
+/wabam/favicon.ico

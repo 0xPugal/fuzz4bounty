@@ -1,0 +1,2 @@
+/api/portal/v1.4/appinfo
+/html/skin/ric/C/config/default.config.json

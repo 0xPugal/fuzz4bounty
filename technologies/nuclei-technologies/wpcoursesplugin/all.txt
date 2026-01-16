@@ -1,0 +1,1 @@
+/wp-json/wp/v2/lesson/1

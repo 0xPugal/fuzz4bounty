@@ -1,0 +1,3 @@
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/auth/url_6/welcome.cgi
+/dana/home/index.cgi

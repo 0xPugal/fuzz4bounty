@@ -1,0 +1,6 @@
+/ads/www/delivery/lg.php?dest=http://interact.sh
+/adserve/www/delivery/lg.php?dest=http://interact.sh
+/adserver/www/delivery/lg.php?dest=http://interact.sh
+/openx/www/delivery/lg.php?dest=http://interact.sh
+/revive/www/delivery/lg.php?dest=http://interact.sh
+/www/delivery/lg.php?dest=http://interact.sh

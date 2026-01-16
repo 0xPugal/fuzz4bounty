@@ -1,0 +1,2 @@
+/authenticationform/login
+/authenticationform/jsp/logonWeb.jsp

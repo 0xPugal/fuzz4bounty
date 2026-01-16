@@ -1,0 +1,1 @@
+/api/get_device_details

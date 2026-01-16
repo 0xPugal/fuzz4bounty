@@ -1,0 +1,3 @@
+/metrics/v1/mbeans
+/pdb/meta/v1/version
+/puppet-ca/v1/certificate_request/{{randstr}}

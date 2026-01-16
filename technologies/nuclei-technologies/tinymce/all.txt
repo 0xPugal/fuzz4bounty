@@ -1,0 +1,2 @@
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php?href=../../../../wp-config.php
+/plugins/generic/tinymce/plugins/justboil.me/dialog-v4.htm

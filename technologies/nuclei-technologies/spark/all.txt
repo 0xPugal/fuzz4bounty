@@ -1,0 +1,8 @@
+/v1/submissions
+/?doAs=`{{url_encode(
+/lighter/api
+/jobs/?\
+/api/v1/applications
+/environment/
+/jobs/
+:4040/jobs/

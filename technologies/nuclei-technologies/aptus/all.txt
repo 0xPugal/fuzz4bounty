@@ -1,0 +1,1 @@
+/cgi-bin/getagent.cgi?type=s&xxxx

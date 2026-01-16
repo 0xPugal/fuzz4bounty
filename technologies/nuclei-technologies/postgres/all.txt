@@ -1,0 +1,6 @@
+/.pgpass
+/browser/
+/.psql_history
+/psql_history
+/.postgresql_history
+/metrics

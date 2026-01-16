@@ -1,0 +1,3 @@
+/wp-content/plugins/wp-mail-smtp/src/WPMailSMTP.php
+/wp-content/plugins/wp-mail-smtp/vendor/autoload.php
+/wp-content/plugins/wp-mail-smtp/src/Core.php

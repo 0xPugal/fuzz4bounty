@@ -1,0 +1,2 @@
+/wp-content/plugins/a3-lazy-load/a3-lazy-load.php
+/wp-content/plugins/a3-lazy-load/admin/a3-lazy-load-admin.php

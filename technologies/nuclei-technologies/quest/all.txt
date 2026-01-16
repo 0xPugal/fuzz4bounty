@@ -1,0 +1,2 @@
+/common/setup.php
+/cgi-bin/webcm?getpage=../html/login.html

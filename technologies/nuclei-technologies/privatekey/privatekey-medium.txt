@@ -1,0 +1,3 @@
+/assets/other/service-account-credentials.json
+/service-account-credentials.json
+/serviceAccountCredentials.json

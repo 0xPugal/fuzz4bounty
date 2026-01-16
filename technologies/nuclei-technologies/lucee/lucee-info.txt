@@ -1,0 +1,3 @@
+/lucee/admin/web.cfm
+/lucee/admin/server.cfm
+/lucee/doc/functions.cfm

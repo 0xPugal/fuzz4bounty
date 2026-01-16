@@ -1,0 +1,8 @@
+/signin
+
+{{js}}
+/.well-known/ai-plugin.json
+/api/tags
+/dev-ui/
+/mcp/
+/sse

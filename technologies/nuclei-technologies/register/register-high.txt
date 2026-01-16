@@ -1,0 +1,2 @@
+/ui/login/register
+/admin

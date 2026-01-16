@@ -1,0 +1,8 @@
+/firebase-debug.log
+/.settings/rules.json?auth=FIREBASE_SECRET
+
+/public/config.js
+/config.js
+/
+/firebase-messaging-sw.js
+/manifest.json

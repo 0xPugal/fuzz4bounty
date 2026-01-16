@@ -1,0 +1,3 @@
+/create_user/?username=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+//www.interact.sh
+/NON_EXISTING_PATH/

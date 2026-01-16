@@ -1,0 +1,5 @@
+/CMSInstall/install.aspx
+/admin/ajax/avatar.php?id=-1+union+select+md5({{num}})%23
+/index.php/install
+/concrete5/index.php/install
+/install/2

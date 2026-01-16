@@ -1,0 +1,14 @@
+
+/phpldapadmin
+/htdocs/index.php
+/php-fpm.conf
+/phpcs.xml
+/.phpspec.yml
+/phpspec.yml
+/composer
+/dashboard/
+/graphql
+/api/graphql
+/query
+/
+/proxy

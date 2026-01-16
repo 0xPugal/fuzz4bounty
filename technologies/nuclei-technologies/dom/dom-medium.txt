@@ -1,0 +1,1 @@
+/wp-content/plugins/elementor/assets/js/frontend.min.js

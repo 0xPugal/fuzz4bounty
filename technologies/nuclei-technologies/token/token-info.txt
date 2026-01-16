@@ -1,0 +1,8 @@
+
+/hopfully404
+/.well-known/jwks.json
+/.well-known/jwks
+/.well-known/openid-configuration/jwks.json
+/.well-known/openid-configuration/jwks
+/jwks.json
+/jwks

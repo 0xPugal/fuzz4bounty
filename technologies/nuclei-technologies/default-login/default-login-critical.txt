@@ -1,0 +1,3 @@
+/server/
+/api/get_device_details
+/login?login={{username}}&password={{password}}

@@ -1,0 +1,2 @@
+/type.php?template={{payload}}
+/data/cache_template/rss.tpl.php

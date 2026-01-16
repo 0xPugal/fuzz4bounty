@@ -1,0 +1,10 @@
+/install/index.php
+/eIMConfiguration
+/eid-management
+/eid-management-new
+/bulk-profile-operation
+/client/index.html
+/cgi-bin/cosmobdf.cgi?function=0
+/cgi-bin/cosmobdf.cgi?function=1
+/hoteldruid/inizio.php
+/inizio.php

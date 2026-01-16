@@ -1,0 +1,3 @@
+/Dockerrun.aws.json
+/.aws/config
+/index.html

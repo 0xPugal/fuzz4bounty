@@ -1,0 +1,2 @@
+/ws/v1/cluster/apps/new-application
+/dfshealth.html

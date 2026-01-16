@@ -1,0 +1,2 @@
+
+/filex/read-raw?url=http://oast.me&cut=1

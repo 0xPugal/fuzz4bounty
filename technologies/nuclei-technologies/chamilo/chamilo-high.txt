@@ -1,0 +1,3 @@
+
+/main/install/index.php
+/main/calendar/agenda_list.php?type=xss

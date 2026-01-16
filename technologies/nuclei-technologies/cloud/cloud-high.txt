@@ -1,0 +1,8 @@
+/parameters.yml
+/app/config/parameters.yml
+/parameters.yml.dist
+/app/config/parameters.yml.dist
+/secrets.yml
+/config/secrets.yml
+/test/config/secrets.yml
+/redmine/config/secrets.yml

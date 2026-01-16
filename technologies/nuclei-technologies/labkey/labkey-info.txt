@@ -1,0 +1,2 @@
+/labkey/home/login-login.view
+/login/home/login.view

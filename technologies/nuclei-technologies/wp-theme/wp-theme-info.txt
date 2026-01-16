@@ -1,0 +1,7 @@
+/wp-content/themes/bricks/readme.txt
+/wp-content/plugins/.git/config
+/wp-content/themes/.git/config
+/wp-content/themes/altair/modules/
+/wp-content/themes/altair/functions/
+/wp-content/themes/altair/images/flip/
+/wp-content/themes/altair/images/

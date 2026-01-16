@@ -1,0 +1,2 @@
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt

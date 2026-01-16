@@ -1,0 +1,2 @@
+/debug/pprof/heap?debug=1
+/pprof/heap?debug=1

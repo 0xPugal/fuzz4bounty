@@ -1,0 +1,6 @@
+/Portal0000.htm
+/polarion/
+/login
+/logo_login.shtm?!App-Language=1
+/start.html
+/Portal/Portal.mwsl?PriNav=Bgz&filtername=Name&filtervalue=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&Send=Filter

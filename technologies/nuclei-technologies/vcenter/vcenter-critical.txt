@@ -1,0 +1,2 @@
+/ui/vropspluginui/rest/services/getstatus
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}

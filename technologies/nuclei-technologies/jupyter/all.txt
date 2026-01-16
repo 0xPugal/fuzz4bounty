@@ -1,0 +1,6 @@
+/ipython/tree
+/lab/api/settings/
+/jupyter/login
+/jupyter/lab
+/jupyter/hub/lti/launch
+/hub/login

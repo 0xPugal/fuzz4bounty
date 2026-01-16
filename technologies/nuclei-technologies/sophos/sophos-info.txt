@@ -1,0 +1,3 @@
+/webconsole/webpages/login.jsp
+/userportal/webpages/myaccount/login.jsp
+/login.xhtml?faces-redirect=true

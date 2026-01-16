@@ -1,0 +1,3 @@
+/nagios/cgi-bin/status.cgi
+/cgi-bin/nagios4/status.cgi
+/cgi-bin/nagios3/status.cgi

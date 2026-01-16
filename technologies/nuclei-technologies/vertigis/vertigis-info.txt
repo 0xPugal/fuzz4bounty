@@ -1,0 +1,9 @@
+/login
+/GeoManLogin.aspx
+/FM/GeoManLogin.aspx
+/GEBman/GeoManLogin.aspx
+/Geoportal/synserver
+/vertigisstudio/web/designer/locales/en/translations.json
+/vertigisstudio/search/designer/locales/en/translations.json
+/vertigisstudio/mobile/designer/locales/en/translations.json
+/vertigisstudio/accesscontrol/locales/en/translations.json

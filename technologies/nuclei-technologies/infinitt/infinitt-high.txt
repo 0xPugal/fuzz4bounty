@@ -1,0 +1,1 @@
+/webservices/WebUserLogin.asmx/GetUserInfoByUserID?userID=admin

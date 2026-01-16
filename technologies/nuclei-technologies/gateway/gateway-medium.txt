@@ -1,0 +1,2 @@
+/SecurityGateway.dll?view=login&redirect=true&9OW4L7RSDY=1
+/ambassador/v0/diag/

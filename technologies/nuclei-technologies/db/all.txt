@@ -1,0 +1,3 @@
+/query?db=db&q=SHOW%20DATABASES
+/data/pbootcms.db
+/db.xml

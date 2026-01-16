@@ -1,0 +1,1 @@
+/goanywhere/images/..;/wizard/InitialAccountSetup.xhtml

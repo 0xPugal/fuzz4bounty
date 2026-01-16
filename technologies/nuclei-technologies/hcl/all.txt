@@ -1,0 +1,2 @@
+/docpicker/internal_proxy/http/oast.me
+/wps/PA_WCM_Authoring_UI/proxy/http/oast.me

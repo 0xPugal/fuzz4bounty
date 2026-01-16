@@ -1,0 +1,2 @@
+/app/welcome/default/#!/login
+/camunda/app/welcome/default/#!/login

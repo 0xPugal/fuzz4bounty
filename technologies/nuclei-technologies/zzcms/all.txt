@@ -1,0 +1,2 @@
+//one/siteinfo.php
+/3/ucenter_api/code/register_nodb.php/

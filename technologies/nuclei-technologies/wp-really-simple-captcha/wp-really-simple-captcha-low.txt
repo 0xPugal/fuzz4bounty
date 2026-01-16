@@ -1,0 +1,3 @@
+/wp-content/plugins/really-simple-captcha/really-simple-captcha.php
+/wp-content/plugins/really-simple-captcha/includes/filesystem.php
+/wp-content/plugins/really-simple-captcha/uninstall.php

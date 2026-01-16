@@ -1,0 +1,6 @@
+/wp-content/themes/storefront/functions.php
+/wp-content/themes/storefront/header.php
+/wp-content/themes/storefront/footer.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl-frontend.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/functions-yith-wcwl.php

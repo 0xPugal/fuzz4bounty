@@ -1,0 +1,2 @@
+/pods
+/api/v1/pods

@@ -1,0 +1,4 @@
+/libs/granite/core/content/login/favicon.ico
+/favicon.ico
+/images/favicon.ico
+/sts/Content/Images/favicon.ico

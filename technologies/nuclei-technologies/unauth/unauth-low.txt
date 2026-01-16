@@ -1,0 +1,13 @@
+/unified-console.html
+/cgi-bin/info.cgi
+/?pretty
+/_cat/indices?v
+/_all/_search
+/_cluster/health?pretty
+/chpstrt.php?chppath=Home
+/_/resize:fill:10:10:0/gravity:sm/plain/{{img_url}}
+/cap.js
+/api/system
+/api/server
+/seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
+/cgi-bin/log.cgi

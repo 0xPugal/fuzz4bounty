@@ -1,0 +1,2 @@
+/service/v1/service-details
+/phy.htm

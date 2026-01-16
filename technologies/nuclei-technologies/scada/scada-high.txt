@@ -1,0 +1,2 @@
+/Portal0000.htm
+/cgi-bin/GetSrvInfo.exe

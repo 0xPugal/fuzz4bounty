@@ -1,0 +1,2 @@
+/vnc.html
+:6080/vnc.html

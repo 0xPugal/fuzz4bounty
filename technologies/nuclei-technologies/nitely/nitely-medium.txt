@@ -1,0 +1,4 @@
+/user/login/?next=https%3A%2F%2Finteract.sh
+/user/logout?next=https%3A%2F%2Finteract.sh
+/user/register?next=https%3A%2F%2Finteract.sh
+/user/resend-activation?next=https%3A%2F%2Finteract.sh

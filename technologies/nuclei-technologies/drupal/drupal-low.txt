@@ -1,0 +1,10 @@
+/sites/
+/modules/
+/themes/
+/profiles/
+/includes/
+/misc/
+/scripts/
+/core/
+/vendor/
+/libraries/

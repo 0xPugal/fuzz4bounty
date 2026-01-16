@@ -1,0 +1,16 @@
+/node_modules/mqtt/test/helpers/
+/package.json
+/package-lock.json
+/bun.lockb
+/npm-shrinkwrap.json
+/.npmignore
+/node_modules/.npmignore
+/src/.npmignore
+/api/.npmignore
+/backend/.npmignore
+/pnpm-lock.yaml
+/node_modules/.yarn-integrity
+/.yarn-integrity
+/metrics
+/{{payload}}
+/img/

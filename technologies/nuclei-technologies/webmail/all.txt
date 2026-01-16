@@ -1,0 +1,13 @@
+/installer/index.php
+/roundcube/installer/index.php
+/installer/
+/installer/index.php?_step=2
+/horde/imp/login.php
+/imp/login.php
+/cgi-bin/sqwebmail
+/cgi-bin/webmail
+
+/index.hsp?m=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.hsp?passwordExpired=yes&username=\\
+/index.hsp?passwordExpired=yes&domainName=\\
+/index.hsp?m=

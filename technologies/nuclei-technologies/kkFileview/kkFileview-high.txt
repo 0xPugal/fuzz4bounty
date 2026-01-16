@@ -1,0 +1,1 @@
+/getCorsFile?urlPath={{base64(

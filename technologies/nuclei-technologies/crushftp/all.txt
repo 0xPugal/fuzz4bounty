@@ -1,0 +1,4 @@
+/WebInterface
+/WebInterface/function/?command=getUsername&c2f={{http_1_currentauth}}
+/WebInterface/{{dirname}}/{{filename}}
+/WebInterface/login.html

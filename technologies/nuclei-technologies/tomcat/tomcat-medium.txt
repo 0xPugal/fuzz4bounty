@@ -1,0 +1,7 @@
+/examples/jsp/snp/anything.snp
+/examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
+/status?full=true
+//interact.sh
+/printenv.shtml?{{url_encode(payload)}}
+/ssi/printenv.shtml?{{url_encode(payload)}}
+/signup

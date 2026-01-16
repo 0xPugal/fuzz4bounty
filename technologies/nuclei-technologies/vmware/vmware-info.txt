@@ -1,0 +1,16 @@
+/ui/#/login
+/login
+/ui/login
+/login/
+/hybridity/ui/hcx-client/index.html
+/index.action
+
+/portal/webclient/index.html
+/login.jsp
+/cloud/
+/login?loginUrl=%2Findex
+/MyDevice/Login
+/AirWatch/Login
+/portal/info.jsp
+/configure/app/landing/welcome-srm-va.html
+/ui/login.action

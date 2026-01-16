@@ -1,0 +1,3 @@
+
+/akuiteo.collabs/login/login.html
+/akuiteo/login.html/

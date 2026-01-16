@@ -1,0 +1,4 @@
+/app/login.php
+
+/symfony/web/index.php/auth/login
+/web/index.php/auth/login

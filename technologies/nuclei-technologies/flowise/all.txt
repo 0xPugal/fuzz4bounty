@@ -1,0 +1,2 @@
+/API/V1/credentials
+/organization-setup

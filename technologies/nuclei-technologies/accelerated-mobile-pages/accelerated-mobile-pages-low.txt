@@ -1,0 +1,5 @@
+/wp-content/plugins/accelerated-mobile-pages/includes/options/redux-core/framework.php
+/wp-content/plugins/accelerated-mobile-pages/includes/options/admin-config.php
+/wp-content/plugins/accelerated-mobile-pages/includes/thirdparty-compatibility.php
+/wp-content/plugins/accelerated-mobile-pages/templates/starter-flavor.php
+/wp-content/plugins/accelerated-mobile-pages/classes/class-flavor.php

@@ -1,0 +1,1 @@
+/AvalancheWeb/image?imageFilePath=C:/windows/win.ini

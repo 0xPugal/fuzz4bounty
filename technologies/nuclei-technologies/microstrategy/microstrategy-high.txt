@@ -1,0 +1,3 @@
+/MicroStrategyWS/happyaxis.jsp
+/servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https://google.com
+/MicroStrategy/servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https://google.com

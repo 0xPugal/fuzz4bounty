@@ -1,0 +1,3 @@
+/install.php
+
+/identification.php

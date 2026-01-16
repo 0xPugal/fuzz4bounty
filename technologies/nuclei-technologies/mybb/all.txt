@@ -1,0 +1,3 @@
+/install/index.php
+/portal.php
+/inc/cachehandlers/disk.php

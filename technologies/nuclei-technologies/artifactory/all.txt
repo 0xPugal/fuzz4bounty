@@ -1,0 +1,3 @@
+/artifactory/ui/repodata?deploy=true
+/artifactory/api/repositories
+/artifactory/api/build

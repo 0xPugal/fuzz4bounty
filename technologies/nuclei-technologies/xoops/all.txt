@@ -1,0 +1,2 @@
+/install/index.php
+/install/page_start.php

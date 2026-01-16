@@ -1,0 +1,9 @@
+/jasperserver/login.html?error=1
+/jasperserver-pro/login.html?error=1
+/cfcc/login/login.jsp
+/login/login.jsp
+
+/spotfire/login.html
+/SplusServer/
+/RServer/
+/TERR/

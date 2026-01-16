@@ -1,0 +1,2 @@
+/tshirtecommerce/ajax.php?type=svg
+/tshirtecommerce/fonts.php?name=2&type=./../index.php

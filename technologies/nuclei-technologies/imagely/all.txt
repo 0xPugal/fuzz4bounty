@@ -1,0 +1,1 @@
+/wp-json/ngg/v1/admin/block/image/1

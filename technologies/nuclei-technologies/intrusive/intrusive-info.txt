@@ -1,0 +1,16 @@
+/laravel-filemanager?type=Files
+/..;/manager/html
+/..;/..;/manager/html;/
+/..;/host-manager/html
+/..;/..;/host-manager/html;/
+/{{randstr}}/..;/manager/html
+/{{randstr}}/..;/host-manager/html
+/upload.jsp
+/{{randstr}}.php
+/RichWidgets/Popup_Upload.aspx
+/{{randstr}}
+
+/docs/introduction.html
+/puppet-ca/v1/certificate_request/{{randstr}}
+/Telerik.Web.UI.WebResource.axd?type=rau
+/?s={{randstr}}&c={{randstr}}&a={{randstr}}&m={{randstr}}

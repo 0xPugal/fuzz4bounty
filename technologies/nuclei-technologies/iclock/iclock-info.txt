@@ -1,0 +1,2 @@
+/iclock/accounts/login/
+/iclock/accounts/login/?next=/iclock/data/iclock/

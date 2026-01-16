@@ -1,0 +1,2 @@
+/index.php/install
+/ccm/system/panels/page/preview_as_user/preview?cID=

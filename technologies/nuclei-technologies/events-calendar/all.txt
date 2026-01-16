@@ -1,0 +1,3 @@
+/wp-content/plugins/the-events-calendar/src/Tribe/Main.php
+/wp-content/plugins/the-events-calendar/src/Tribe/Admin/Admin.php
+/wp-content/plugins/the-events-calendar/common/src/Tribe/Main.php

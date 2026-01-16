@@ -1,0 +1,2 @@
+/streampipes-backend/api/v2/auth/settings
+/streampipes-backend/api/openapi.json

@@ -1,0 +1,2 @@
+/config.cgi
+/%0A/interact.sh/

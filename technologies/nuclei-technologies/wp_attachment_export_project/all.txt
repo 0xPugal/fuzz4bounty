@@ -1,0 +1,2 @@
+/wp-admin/tools.php?content=attachment&wp-attachment-export-download=true
+/wp-admin/tools.php?content=&wp-attachment-export-download=true

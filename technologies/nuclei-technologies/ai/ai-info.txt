@@ -1,0 +1,4 @@
+/signin
+
+{{js}}
+/.well-known/ai-plugin.json

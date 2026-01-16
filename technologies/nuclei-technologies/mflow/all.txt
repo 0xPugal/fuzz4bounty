@@ -1,0 +1,2 @@
+/ajax-api/2.0/mlflow-artifacts/artifacts?path=C:/
+/api/2.0/preview/mlflow/experiments/list

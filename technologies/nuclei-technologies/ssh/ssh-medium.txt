@@ -1,0 +1,4 @@
+/.ssh/authorized_keys
+/_/.ssh/authorized_keys
+/authorized_keys
+/.authorized_keys

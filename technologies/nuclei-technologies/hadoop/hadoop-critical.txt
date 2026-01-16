@@ -1,0 +1,1 @@
+/ws/v1/cluster/apps/new-application

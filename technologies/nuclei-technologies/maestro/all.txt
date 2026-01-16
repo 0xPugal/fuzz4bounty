@@ -1,0 +1,2 @@
+/lui/
+/cgi-bin/luci

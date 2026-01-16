@@ -1,0 +1,3 @@
+/dumpinfo
+/Wiki.jsp?page=SystemInfo
+/rest/api/2/user/picker?query=

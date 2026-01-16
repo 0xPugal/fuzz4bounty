@@ -1,0 +1,3 @@
+
+{{js}}
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower

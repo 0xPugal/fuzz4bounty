@@ -1,0 +1,14 @@
+/admin/elfinder/elfinder-cke.html
+/assets/backend/elfinder/elfinder-cke.html
+/assets/elFinder-2.1.9/elfinder.html
+/assets/elFinder/elfinder.html
+/backend/elfinder/elfinder-cke.html
+/elfinder/elfinder-cke.html
+/uploads/assets/backend/elfinder/elfinder-cke.html
+/uploads/assets/backend/elfinder/elfinder.html
+/uploads/elfinder/elfinder-cke.html
+/widgets/knowledgebase?topicId=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/v1/folder?path=%2F
+/js/elfinder.min.js
+/js/elFinder.version.js
+/ocpu/library/base/R/do.call/json

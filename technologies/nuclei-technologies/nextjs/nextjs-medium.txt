@@ -1,0 +1,4 @@
+/_next/static/../server/pages-manifest.json
+
+/?cb={{cache-buster}}
+/_next/image?url=/\/\interact.sh/&q=100&w=128&h=128

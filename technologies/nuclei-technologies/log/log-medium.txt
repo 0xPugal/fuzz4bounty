@@ -1,0 +1,14 @@
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log
+/cacti/log/cacti.log
+/log/cacti.log
+/cacti.log
+/include/cacti.log
+/html/bin/sqlnet.log
+/OA_HTML/bin/sqlnet.log
+/downloader.log
+/wp-content/uploads/EnableMediaReplace.log
+/wp-content/uploads/wpdesk-logs/wpdesk_debug.log
+/wp-content/uploads/wp-statistics/debug.log
+
+/wp-content/debug.log

@@ -1,0 +1,4 @@
+/openam/ui/PWResetUserValidation
+/OpenAM-11.0.0/ui/PWResetUserValidation
+/ui/PWResetUserValidation
+/wp-content/ldap-authentication-report.csv

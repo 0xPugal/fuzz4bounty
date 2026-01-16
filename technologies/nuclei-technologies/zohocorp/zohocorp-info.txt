@@ -1,0 +1,9 @@
+
+/authorization.do
+/servlet/GetProductVersion
+/iam/login
+/jsp/index.jsp
+/index.do
+/configurations
+/exchange/index.html
+/apiclient/ember/Login.jsp

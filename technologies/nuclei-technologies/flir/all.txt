@@ -1,0 +1,1 @@
+/download.php?file=/etc/passwd

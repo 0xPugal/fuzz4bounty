@@ -1,0 +1,7 @@
+/zabbix/index_sso.php
+/index_sso.php
+
+/static/dist/assets/icons/icon.png
+/dex/auth
+/.pomerium/index.js
+/shibboleth-idp

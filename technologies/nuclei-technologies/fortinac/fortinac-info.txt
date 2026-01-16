@@ -1,0 +1,1 @@
+/WelcomeActions.jsp?action=ajaxGetWelcomeViewInfo

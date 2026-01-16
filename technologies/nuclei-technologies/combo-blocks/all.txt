@@ -1,0 +1,3 @@
+/wp-content/plugins/user-meta/readme.txt
+/wp-admin/admin-ajax.php?action=post_grid_paginate_ajax_free
+/wp-admin/admin-ajax.php?action=post_grid_ajax_search_free

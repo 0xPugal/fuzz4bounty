@@ -1,0 +1,5 @@
+/wp-content/uploads/
+/blog/wp-content/uploads/
+/wordpress/wp-content/uploads/
+/wp/wp-content/uploads/
+/wp-content/uploads/{{backupfolder}}/

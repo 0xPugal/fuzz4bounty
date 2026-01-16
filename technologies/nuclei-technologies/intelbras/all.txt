@@ -1,0 +1,3 @@
+/index.asp
+/cgi-bin/exportCfgwithpasswd
+/cap.js

@@ -1,0 +1,2 @@
+/api/system/options/core.email
+/install

@@ -1,0 +1,1 @@
+/index.php?rest_route=/whm/v3/themesettings

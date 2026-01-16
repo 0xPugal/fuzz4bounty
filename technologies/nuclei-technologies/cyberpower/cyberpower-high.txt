@@ -1,0 +1,4 @@
+/api/v1/confup?mode=&uid=1
+/api/v1/confup?mode=lean&uid=1
+/api/v1/ndconfig?mode=lean&uid=1
+/api/v1/ndconfig?mode=&uid=1

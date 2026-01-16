@@ -1,0 +1,3 @@
+
+/server-common/cgi-bin/login
+/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME

@@ -1,0 +1,3 @@
+{{paths}}
+/tool/view/phpinfo.view.php
+/MAMP/phpinfo.php

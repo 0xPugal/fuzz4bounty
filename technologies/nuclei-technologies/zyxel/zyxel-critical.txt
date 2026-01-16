@@ -1,0 +1,3 @@
+/free_time.cgi
+/cgi-bin/weblogin.cgi?username=admin
+/cgi-bin/export-cgi?category=config&arg0=startup-config.conf

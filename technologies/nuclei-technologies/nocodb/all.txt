@@ -1,0 +1,3 @@
+/download/{{repeat(
+/dashboard/#/signin
+/dashboard/favicon.ico

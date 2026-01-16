@@ -1,0 +1,2 @@
+/%0d%0aSet-Cookie:crlfinjection=1;
+?url=ws://example.com/

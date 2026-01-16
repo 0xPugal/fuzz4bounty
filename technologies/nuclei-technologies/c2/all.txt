@@ -1,0 +1,6 @@
+/sign-in
+/login
+/covenantuser/login
+/webpanel/panel/login.php
+/new/login
+/admin/console/index.html

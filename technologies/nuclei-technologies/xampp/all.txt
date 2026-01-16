@@ -1,0 +1,3 @@
+/dashboard/
+{{paths}}
+/cgi-bin/printenv.pl

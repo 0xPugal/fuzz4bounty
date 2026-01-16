@@ -1,0 +1,3 @@
+/jkstatus
+/jkstatus;
+/%5C%5C{{interactsh-url}}/apachehttpd

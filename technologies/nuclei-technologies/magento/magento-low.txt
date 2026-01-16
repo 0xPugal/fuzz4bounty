@@ -1,0 +1,4 @@
+/downloader/lib/Mage/Backup/Nomedia.php
+/downloader/lib/Mage/Archive/Tar.php
+/downloader/lib/Mage/Archive/Gz.php
+/downloader/lib/Mage/Archive/Bz.php

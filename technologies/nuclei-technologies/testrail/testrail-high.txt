@@ -1,0 +1,3 @@
+/files.md5
+/testrail/files.md5
+/index.php?/installer

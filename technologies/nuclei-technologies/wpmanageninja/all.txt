@@ -1,0 +1,2 @@
+/wp/wp-content/uploads/wpjobboard/
+/wp-content/uploads/wpjobboard/

@@ -1,0 +1,2 @@
+/wp-content/plugins/intuitive-custom-post-order/admin/settings.php
+/wp-content/plugins/intuitive-custom-post-order/admin/settings-network.php

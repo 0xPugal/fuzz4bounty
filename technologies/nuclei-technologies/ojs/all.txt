@@ -1,0 +1,3 @@
+/index/install
+/index.php/index/install
+/index.php/index/user/setLocale/NEW_LOCALE?source=@oast.me

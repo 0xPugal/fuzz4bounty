@@ -1,0 +1,8 @@
+/Install/InstallWizard.aspx?__VIEWSTATE
+/CMSInstall/install.aspx
+/index.php/install
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php
+/install/2
+/install

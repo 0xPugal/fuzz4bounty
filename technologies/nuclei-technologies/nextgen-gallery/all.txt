@@ -1,0 +1,2 @@
+/wp-content/plugins/nextgen-gallery/admin/php_errors.log
+/wp-json/ngg/v1/admin/block/image/1

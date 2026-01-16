@@ -1,0 +1,2 @@
+/setup/
+/project/switch/1?targetPath=http://oast.pro

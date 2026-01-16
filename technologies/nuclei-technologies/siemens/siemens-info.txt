@@ -1,0 +1,4 @@
+/polarion/
+/login
+/logo_login.shtm?!App-Language=1
+/start.html

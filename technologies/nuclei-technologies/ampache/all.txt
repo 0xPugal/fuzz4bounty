@@ -1,0 +1,6 @@
+/install.php
+
+/login.php
+/public/login.php
+/test.php?action=config
+/update.php

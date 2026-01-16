@@ -1,0 +1,5 @@
+/brightmail/servlet/com.ve.kavachart.servlet.ChartStream?sn=../../WEB-INF/
+/ProtectManager/Logon
+/b/l.e
+/iam/immanage/login.jsp
+/vkd/GetWelcomeScreen.event

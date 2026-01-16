@@ -1,0 +1,1 @@
+/jpeginfo/jpeginfo.php?url={{interactsh-url}}

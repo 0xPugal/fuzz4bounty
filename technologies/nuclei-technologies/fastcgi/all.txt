@@ -1,0 +1,4 @@
+/fcgi-bin/echo
+/test/fcgi/test.html
+/fastcgi.conf
+/config/fastcgi.conf

@@ -1,0 +1,6 @@
+/mcm
+/cluster-manager
+/mod_cluster_manager
+/ui/login.html
+/ui/login
+/clusters

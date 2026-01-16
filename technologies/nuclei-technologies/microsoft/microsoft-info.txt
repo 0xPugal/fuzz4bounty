@@ -1,0 +1,12 @@
+/owa/auth/logon.aspx?replaceCurrent=1&url={{BaseURL}}/ecp
+/EWS/Exchange.asmx
+/owa/service.svc
+/op/generate.aspx
+/op/wrongfiletype.htm
+/RDWeb/
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email=user@domain.tld&RedirectCount=1
+/_api/web/roledefinitions
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email={{rand_text_alpha(6)}}%40oast.pro&RedirectCount=1
+/owa/auth/logon.aspx
+/_vti_bin/spdisco.aspx
+/Reports/Pages/Folder.aspx

@@ -1,0 +1,2 @@
+/login.php?secret=
+/service/rest/v1/repositories

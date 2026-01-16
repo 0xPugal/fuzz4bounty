@@ -1,0 +1,16 @@
+/auth/login
+/fuel/login
+/ovirt-engine/userportal/
+/ovirt-engine/webadmin/
+/ocpu/
+/authentication/login
+/webapi/ping
+/api/tenants
+/api/status
+/v1/sys/debug
+/
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+/v2

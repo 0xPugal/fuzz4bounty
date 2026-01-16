@@ -1,0 +1,11 @@
+/console/login/LoginForm.jsp
+/env.js
+/env.development.js
+/env.production.js
+/env.test.js
+/env.dev.js
+/env.prod.js
+/__ENV.js
+/config.js
+/config/env.js
+/config/runtime-env.js

@@ -1,0 +1,4 @@
+/setup
+/login
+/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs
+/redash/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs

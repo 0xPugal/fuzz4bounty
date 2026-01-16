@@ -1,0 +1,4 @@
+/anonymous-cli-metrics.json
+/.npm/anonymous-cli-metrics.json
+/npm-debug.log
+/assets/npm-debug.log

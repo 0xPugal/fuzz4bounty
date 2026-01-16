@@ -1,0 +1,2 @@
+/reports/api/v2.0/System
+/reports/browse

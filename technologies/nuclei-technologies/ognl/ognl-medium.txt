@@ -1,0 +1,3 @@
+/lui/
+/hub/
+/portal/displayAPSForm.action?debug=command&expression={{first}}*{{second}}

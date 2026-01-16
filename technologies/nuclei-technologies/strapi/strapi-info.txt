@@ -1,0 +1,5 @@
+/documentation
+/documentation/login
+/admin/auth/login
+/admin/plugins/users-permissions/auth/login
+/admin/init

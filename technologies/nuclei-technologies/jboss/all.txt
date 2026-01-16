@@ -1,0 +1,14 @@
+/jexws/jexws.jsp?ppp={{url_encode(
+/jexws4/jexws4.jsp?ppp={{url_encode(
+/jexinv4/jexinv4.jsp?ppp={{url_encode(
+/jbossass/jbossass.jsp?ppp={{url_encode(
+/jmx-console/HtmlAdaptor?action=displayMBeans
+/jbpm-console/app/tasks.jsf
+
+/juddi/
+/css/footer.js
+/jmx-console/
+/web-console/ServerInfo.jsp
+/jbossws/services
+/status?full=true
+/debug.seam

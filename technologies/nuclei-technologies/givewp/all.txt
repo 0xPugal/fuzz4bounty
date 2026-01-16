@@ -1,0 +1,1 @@
+/wp-admin/admin-post.php?page=give-settings&stripe_publishable_key={{stripe_publishable_key}}&stripe_publishable_key_test={{stripe_publishable_key_test}}&stripe_user_id={{stripe_user_id}}&stripe_access_token={{stripe_access_token}}&stripe_access_token_test={{stripe_access_token_test}}&connected=1

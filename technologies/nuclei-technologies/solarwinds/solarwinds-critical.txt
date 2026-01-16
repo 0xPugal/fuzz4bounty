@@ -1,0 +1,3 @@
+/web.config.i18n.ashx?l={{string}}&v={{string}}
+/SWNetPerfMon.db.i18n.ashx?l={{string}}&v={{string}}
+/helpdesk/WebObjects/Helpdesk.woa

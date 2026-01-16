@@ -1,0 +1,2 @@
+/vendor/phpfastcache/phpfastcache/docs/examples/phpinfo.php
+/vendor/phpfastcache/phpfastcache/examples/phpinfo.php

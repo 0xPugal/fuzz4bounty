@@ -1,0 +1,3 @@
+/deployment-config.json
+/.remote-sync.json
+/.ftpconfig

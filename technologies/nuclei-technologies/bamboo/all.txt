@@ -1,0 +1,3 @@
+/userlogin!doDefault.action?os_destination=%2Fstart.action
+/setup/setupLicense.action
+/allPlans.action

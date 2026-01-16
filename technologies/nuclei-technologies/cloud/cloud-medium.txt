@@ -1,0 +1,15 @@
+/Citrix/teststoreAuth/SamlTest
+/.azure-pipelines.yml
+/azure-pipelines.yml
+/cloud-config.yml
+/core-cloud-config.yml
+/cloud-config.txt
+/docker-cloud.yml
+/access_tokens.db
+/.config/gcloud/access_tokens.db
+/credentials.db
+/.config/gcloud/credentials.db
+/google-api-private-key.json
+/app/config/pimcore/google-api-private-key.json
+/pimcore/app/config/pimcore/google-api-private-key.json
+/login/?redirectTo=/tenant/e&service=</script><script>alert(document.domain)</script>

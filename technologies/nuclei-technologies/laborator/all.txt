@@ -1,0 +1,2 @@
+/data/autosuggest-remote.php?q=
+/admin/data/autosuggest-remote.php?q=

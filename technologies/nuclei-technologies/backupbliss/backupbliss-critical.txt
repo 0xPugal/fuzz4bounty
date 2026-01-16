@@ -1,0 +1,2 @@
+/wp-content/plugins/backup-backup/readme.txt
+/wp-content/plugins/backup-backup/includes/backup-heart.php

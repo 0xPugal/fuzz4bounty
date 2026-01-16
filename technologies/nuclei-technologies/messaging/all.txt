@@ -1,0 +1,1 @@
+/brightmail/servlet/com.ve.kavachart.servlet.ChartStream?sn=../../WEB-INF/

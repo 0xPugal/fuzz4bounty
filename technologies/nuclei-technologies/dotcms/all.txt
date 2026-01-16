@@ -1,0 +1,3 @@
+/dotAdmin/
+/html/common/forward_js.jsp?FORWARD_URL=http://oast.me
+/html/portlet/ext/common/page_preview_popup.jsp?hostname=oast.me

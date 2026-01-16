@@ -1,0 +1,4 @@
+/laravel-filemanager?type=Files
+/upload.jsp
+/RichWidgets/Popup_Upload.aspx
+/Telerik.Web.UI.WebResource.axd?type=rau

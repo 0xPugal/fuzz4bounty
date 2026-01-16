@@ -1,0 +1,3 @@
+/.vscode/launch.json
+/mcp.json
+/.mcp.json

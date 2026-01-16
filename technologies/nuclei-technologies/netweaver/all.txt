@@ -1,0 +1,3 @@
+/irj/helper.jsp?cmd=ls
+/irj/cache.jsp?cmd=ls
+/rep/start/index.jsp

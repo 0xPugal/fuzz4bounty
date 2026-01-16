@@ -1,0 +1,6 @@
+
+/kcfinder/browse.php
+/assets/kcfinder/browse.php
+/lib/kcfinder/browse.php
+/admin/kcfinder/browse.php
+/includes/kcfinder/browse.php

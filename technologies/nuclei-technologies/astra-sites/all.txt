@@ -1,0 +1,3 @@
+/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php
+/wp-content/plugins/astra-sites/inc/classes/class-astra-sites-importer.php
+/wp-content/plugins/astra-sites/inc/lib/starter-templates-importer/starter-templates-importer.php

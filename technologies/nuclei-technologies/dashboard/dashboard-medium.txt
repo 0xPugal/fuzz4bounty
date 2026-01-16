@@ -1,0 +1,11 @@
+/dashboard
+/containers/
+/api/stats
+/horizon/api/stats
+/dashboard/
+/lightstreamer/dashboard/
+
+/devices.php
+/#dashboard
+/slurm/
+/transmission/web/

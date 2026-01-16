@@ -1,0 +1,4 @@
+/wp-content/w3tc/dbcache/
+/.htdeployment
+/.deployment
+/wp-content/plugins/w3-total-cache/pub/minify.php?file=yygpKbDS1y9Ky9TLSy0uLi3Wyy9KB3NLKkqUM4CyxUDpxKzECr30_Pz0nNTEgsxiveT8XAA.css

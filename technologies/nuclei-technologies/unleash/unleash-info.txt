@@ -1,0 +1,3 @@
+/login
+/sign-in
+/favicon.ico

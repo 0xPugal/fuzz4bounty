@@ -1,0 +1,2 @@
+/Electron/download/windows/..\..\..\Http\webroot\config.json
+/Electron/download/windows/\windows\win.ini

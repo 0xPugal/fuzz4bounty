@@ -1,0 +1,2 @@
+/api/%3Cimg%20src=%22%22%20onerror=alert(document.domain)%3E
+/api/config

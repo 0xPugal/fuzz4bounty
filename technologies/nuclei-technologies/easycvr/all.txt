@@ -1,0 +1,3 @@
+
+/api/v1/userlist?pageindex=0&pagesize=10
+/api/v1/getbaseconfig

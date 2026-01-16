@@ -1,0 +1,3 @@
+/assets/_core/php/profile.php
+/assets/php/profile.php
+/vendor/qcubed/qcubed/assets/php/profile.php

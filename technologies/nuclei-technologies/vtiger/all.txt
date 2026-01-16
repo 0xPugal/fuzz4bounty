@@ -1,0 +1,3 @@
+/index.php?module=Install&view=Index
+/vtigercrm/libraries/
+/vtigercrm/layouts/

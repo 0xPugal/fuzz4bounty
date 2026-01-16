@@ -1,0 +1,7 @@
+/http_header.php
+/storage/
+/api_smartapp/storage/
+/equipbid/storage/
+/server/storage/
+/intikal/storage/
+/elocker_old/storage/

@@ -1,0 +1,2 @@
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-content/plugins/LayerSlider/assets/static/public/front.css

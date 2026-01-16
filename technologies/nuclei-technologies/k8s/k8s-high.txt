@@ -1,0 +1,3 @@
+/api/v1/namespaces/kube-system/secrets/kubernetes-dashboard-certs
+/k8s/api/v1/namespaces/kube-system/secrets/kubernetes-dashboard-certs
+/v2/keys/

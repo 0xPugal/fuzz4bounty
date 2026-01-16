@@ -1,0 +1,2 @@
+/wd/hub/status
+/wd/hub

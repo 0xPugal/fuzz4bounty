@@ -1,0 +1,2 @@
+/telaen/redir.php?https://interact.sh
+/redir.php?https://interact.sh

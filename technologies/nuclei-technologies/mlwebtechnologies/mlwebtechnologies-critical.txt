@@ -1,0 +1,1 @@
+/index.php?option=com_prayercenter&task=confirm&id=1&sessionid=1

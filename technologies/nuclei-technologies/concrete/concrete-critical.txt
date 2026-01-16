@@ -1,0 +1,2 @@
+/index.php/install
+/concrete5/index.php/install

@@ -1,0 +1,3 @@
+/sftp.json
+/.config/sftp.json
+/.vscode/sftp.json

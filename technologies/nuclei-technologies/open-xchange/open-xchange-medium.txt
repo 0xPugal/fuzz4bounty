@@ -1,0 +1,1 @@
+/ajax/apps/manifests?action=all&format=debug&xss=<script>alert(document.domain);</script>

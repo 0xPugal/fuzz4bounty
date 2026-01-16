@@ -1,0 +1,2 @@
+/index.php?rest_route=%2Fessential-blocks%2Fv1%2Fproducts&is_frontend=true&attributes={
+/wp-content/plugins/essential-blocks/readme.txt

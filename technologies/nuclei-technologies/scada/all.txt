@@ -1,0 +1,8 @@
+/html/log
+/html/setup.html
+/Portal0000.htm
+/cgi-bin/GetSrvInfo.exe
+/web_caps/webCapsConfig
+/html/repository
+/services/user/values.xml?var=STATUS
+/html/device-id

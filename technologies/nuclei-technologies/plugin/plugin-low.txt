@@ -1,0 +1,3 @@
+/wp-content/uploads/affwp-debug.log
+/wp-content/plugins/email-subscribers
+/wp-content/plugins/super-forms/

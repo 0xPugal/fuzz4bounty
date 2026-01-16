@@ -1,0 +1,1 @@
+/novius-os/admin/nos/login?redirect=http://interact.sh

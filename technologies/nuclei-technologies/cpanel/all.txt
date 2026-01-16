@@ -1,0 +1,4 @@
+/
+/cpanelwebcall/<img%20src=x%20onerror=
+/cpanelwebcall/<><img%20src=x%20onerror=
+/cpanel.config

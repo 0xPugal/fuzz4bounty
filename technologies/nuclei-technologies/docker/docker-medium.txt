@@ -1,0 +1,3 @@
+/docker-cloud.yml
+/v2/_catalog
+/api/users/admin/check

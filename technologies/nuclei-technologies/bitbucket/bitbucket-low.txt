@@ -1,0 +1,2 @@
+/repos?visibility=public
+/bitbucket/repos?visibility=public

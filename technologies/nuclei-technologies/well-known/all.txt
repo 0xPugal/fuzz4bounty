@@ -1,0 +1,8 @@
+/.well-known/atproto-did
+/well-known-atproto-did
+/.well-known/keybase.txt
+/.well-known/mta-sts.txt
+/.well-known/nostr.json
+/.well-known/oauth-authorization-server
+/.well-known/pki-validation/
+/well-known/pki-validation/

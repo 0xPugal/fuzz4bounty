@@ -1,0 +1,4 @@
+/login
+/nginx.conf
+/nginx_status
+/nginx-status

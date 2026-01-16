@@ -1,0 +1,9 @@
+/etc/importers/bulkeditor.html
+/crx/explorer/browser/index.jsp
+/crx/explorer/ui/search.jsp
+/crx/explorer/ui/search.jsp?Path=&amp;Query=
+/crx/explorer/ui/search.jsp?Path=&Query=
+/apps.tidy.infinity.json
+{{path}}
+/etc/linkchecker.html
+/var/linkchecker.html

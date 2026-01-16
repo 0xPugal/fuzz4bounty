@@ -1,0 +1,1 @@
+/photo/combine.php?type=javascript&g=core-r7rules/../../../hello.php.

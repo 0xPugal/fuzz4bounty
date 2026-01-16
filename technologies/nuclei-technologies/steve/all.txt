@@ -1,0 +1,4 @@
+/manager/signin
+/steve/manager/signin
+/steve/services/
+/services/

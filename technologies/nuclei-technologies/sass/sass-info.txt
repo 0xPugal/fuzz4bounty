@@ -1,0 +1,3 @@
+/packages.config
+/.nuget/packages.config
+/.sass-lint.yml

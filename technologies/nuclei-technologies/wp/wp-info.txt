@@ -1,0 +1,14 @@
+/readme.html
+/wp/readme.html
+/blog/wp/readme.html
+/wp-login.php
+/wp-content/themes/bricks/readme.txt
+/?rest_route=/
+/wp-json/
+
+/wp-admin/install.php
+/feed/
+/?feed=rss2
+/wp-content/plugins/dzs-zoomsounds/
+/wp-cron.php
+/wp-content/plugins/qards/

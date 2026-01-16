@@ -1,0 +1,2 @@
+/Dialog/FileDialog.aspx?ed=foooooooooooooo%27);});});javascript:alert(
+/reset-password/?selector=test

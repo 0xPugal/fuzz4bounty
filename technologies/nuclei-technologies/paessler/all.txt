@@ -1,0 +1,3 @@
+/public/login.htm?type=probes
+/public/login.htm?type=requests
+/public/login.htm?type=treestat

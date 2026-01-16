@@ -1,0 +1,2 @@
+/fp-content/
+/flatpress/fp-content/

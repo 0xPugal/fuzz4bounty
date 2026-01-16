@@ -1,0 +1,4 @@
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email={{rand_text_alpha(6)}}%40oast.pro&RedirectCount=1
+/?rest_route=/
+/wp-json/
+/feed/rdf

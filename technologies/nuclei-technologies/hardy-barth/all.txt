@@ -1,0 +1,1 @@
+/connectioncheck.php?ip={{url_encode(

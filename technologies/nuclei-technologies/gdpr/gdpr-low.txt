@@ -1,0 +1,3 @@
+/wp-content/plugins/cookie-law-info/includes/class-cookie-law-info.php
+/wp-content/plugins/cookie-law-info/admin/class-cookie-law-info-admin.php
+/wp-content/plugins/cookie-law-info/legacy/class-cookie-law-info.php

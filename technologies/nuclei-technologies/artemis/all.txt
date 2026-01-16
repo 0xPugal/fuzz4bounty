@@ -1,0 +1,2 @@
+/console/auth/login
+/console/hawtconfig.json

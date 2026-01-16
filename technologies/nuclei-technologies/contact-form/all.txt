@@ -1,0 +1,3 @@
+/wp-content/plugins/flamix-bitrix24-and-contact-forms-7-integrations/includes/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php
+/wp-content/plugins/cf7-salesforce/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php
+/concrete/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php

@@ -1,0 +1,3 @@
+/v1/avatars/favicon?url=http://{{interactsh-url}}
+/images/favicon.png
+/favicon.png

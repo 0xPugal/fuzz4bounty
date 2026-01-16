@@ -1,0 +1,4 @@
+/wp-content/uploads/wp-file-manager-pro/fm_backup/
+/backup/
+/php/backup/
+/wp-content/backup-db/

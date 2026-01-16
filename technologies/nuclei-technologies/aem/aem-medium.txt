@@ -1,0 +1,16 @@
+/etc/acs-commons/jcr-compare.html
+/etc/acs-commons/workflow-remover.html
+/etc/acs-commons/version-compare.html
+/etc/acs-commons/oak-index-manager.html
+/{{rand_base(4)}}<img src=x data
+/{{rand_base(4)}}<br><br>please%20authenticate<br><br>.childrenlist.html
+/content.infinity.json
+/{{path}}
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json
+/libs/granite/offloading/content/view.html
+/bin/querybuilder.json.;%0aa.css?path=/home&p.hits=full&p.limit=-1
+/bin/querybuilder.json.;%0aa.css?path=/etc&p.hits=full&p.limit=-1
+/bin/querybuilder.json.css?path=/home&p.hits=full&p.limit=-1
+/bin/querybuilder.json.css?path=/etc&p.hits=full&p.limit=-1
+/libs/granite/security/content/useradmin.html

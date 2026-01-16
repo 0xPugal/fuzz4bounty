@@ -1,0 +1,9 @@
+/servicedesk/customer/user/login
+/servicedesk/customer/portal/10/user/login
+/plugins/servlet/oauth/view-consumer-info
+/confluence/plugins/servlet/oauth/view-consumer-info
+/dologin.action
+
+/pages
+/confluence
+/wiki

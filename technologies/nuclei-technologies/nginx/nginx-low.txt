@@ -1,0 +1,4 @@
+/nginx_status
+{{paths}}
+/status
+/dashboard.html

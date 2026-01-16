@@ -1,0 +1,4 @@
+/v1/sys/health
+/ui/vault/auth
+/ui/auth
+/v1/sys/health?help=1

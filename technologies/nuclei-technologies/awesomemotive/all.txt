@@ -1,0 +1,4 @@
+/{{route}}
+/wp-content/plugins/easy-digital-downloads/readme.txt
+/wp-content/backups-dup-lite/tmp/
+/wp-content/backups-dup-pro/tmp/

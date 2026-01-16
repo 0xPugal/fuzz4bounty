@@ -1,0 +1,1 @@
+/api/chat/get-chat-session/1?is_shared=True

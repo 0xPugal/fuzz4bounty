@@ -1,0 +1,2 @@
+/main/webservices/additional_webservices.php
+/data/manage/cmd.php?cmd=id

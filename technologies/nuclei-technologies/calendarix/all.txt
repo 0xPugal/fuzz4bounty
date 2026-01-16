@@ -1,0 +1,2 @@
+/calendarix/admin/cal_login.php
+/calendar/admin/cal_login.php

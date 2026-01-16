@@ -1,0 +1,2 @@
+/{{route}}
+/wp-content/plugins/mstore-api/readme.txt

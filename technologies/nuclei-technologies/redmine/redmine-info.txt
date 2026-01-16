@@ -1,0 +1,5 @@
+/login
+/settings.yml
+/config/settings.yml
+/redmine/config/settings.yml
+/.redmine-cli

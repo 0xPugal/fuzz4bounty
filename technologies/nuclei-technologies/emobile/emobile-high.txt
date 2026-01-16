@@ -1,0 +1,2 @@
+/login.do?message={{num1}}*{{num2}}
+/login/login.do?message={{num1}}*{{num2}}

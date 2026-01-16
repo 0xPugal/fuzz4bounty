@@ -1,0 +1,3 @@
+/ui/login/
+/ui/favicon.ico
+/artifactory/api/build

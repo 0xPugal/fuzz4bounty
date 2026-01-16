@@ -1,0 +1,7 @@
+/www/setup.php
+/dompdf/dompdf/www/setup.php
+/js/dompdf/www/setup.php
+/portal/application/libraries/dompdf/www/setup.php
+/sites/all/libraries/dompdf/www/setup.php
+/vendor/dompdf/dompdf/www/setup.php
+{{paths}}

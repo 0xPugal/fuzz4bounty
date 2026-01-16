@@ -1,0 +1,3 @@
+/configWizard/keyUpload.jsp
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/defaultroot/officeserverservlet

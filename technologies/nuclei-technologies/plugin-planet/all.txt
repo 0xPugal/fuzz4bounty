@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-ajax-chat/sac-export.csv

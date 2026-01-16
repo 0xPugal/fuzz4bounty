@@ -1,0 +1,1 @@
+/cas/logout?url=https://oast.pro

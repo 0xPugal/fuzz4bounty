@@ -1,0 +1,7 @@
+
+/wp-content/wflogs/
+/wp-content/plugins/wordfence/lib/wflogs/
+/wp-content/plugins/wordfence/tmp/
+/wp-content/plugins/wordfence/wordfence.php
+/wp-content/plugins/wordfence/lib/wfAPI.php
+/wp-content/plugins/wordfence/waf/bootstrap.php

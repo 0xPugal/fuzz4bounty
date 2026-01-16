@@ -1,0 +1,1 @@
+/wp-content/plugins/phastpress/phast.php?service=scripts&src=https%3A%2F%2Finteract.sh

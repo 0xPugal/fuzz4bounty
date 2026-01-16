@@ -1,0 +1,5 @@
+/sftp.json
+/.config/sftp.json
+/.vscode/sftp.json
+/slnx.sqlite
+/.vs/slnx.sqlite

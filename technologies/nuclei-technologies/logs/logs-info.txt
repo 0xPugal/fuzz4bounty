@@ -1,0 +1,12 @@
+/monitorix-cgi/monitorix.cgi?mode=localhost&graph=all&when=1day
+/log/development.log
+/logs/development.log
+/development.log
+/fcgi-bin/echo
+/.git/logs/HEAD
+/log/production.log
+/logs/production.log
+/production.log
+/wp-app.log
+/cgi-bin/apcupsd/multimon.cgi
+/cgi-bin/multimon.cgi

@@ -1,0 +1,4 @@
+/wp-content/plugins/advanced-iframe/advanced-iframe.php
+/wp-content/plugins/advanced-iframe/advanced-iframe-admin-page.php
+/wp-content/plugins/advanced-responsive-video-embedder/php/init.php
+/wp-content/plugins/advanced-responsive-video-embedder/advanced-responsive-video-embedder.php

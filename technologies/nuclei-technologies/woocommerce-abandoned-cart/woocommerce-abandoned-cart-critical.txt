@@ -1,0 +1,1 @@
+/?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,

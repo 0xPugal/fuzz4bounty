@@ -1,0 +1,4 @@
+/anchor/errors.log
+/
+{{paths}}
+/core/authorize.php

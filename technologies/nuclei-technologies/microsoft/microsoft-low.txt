@@ -1,0 +1,12 @@
+/_vti_inf.html
+/_vti_pvt/service.cnf
+/_vti_pvt/access.cnf
+/_vti_txt/default.wti/All.cat
+/_layouts/15/viewlsts.aspx
+/_layouts/viewlsts.aspx
+/_catalogs/masterpage/Forms/AllItems.aspx
+/_catalogs/15/masterpage/Forms/AllItems.aspx
+/_api/site
+/_api/web
+/SitePages/Forms/AllPages.aspx
+/_api/web/lists

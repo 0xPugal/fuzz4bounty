@@ -1,0 +1,3 @@
+/index.php/install
+/concrete5/index.php/install
+/index.php/login

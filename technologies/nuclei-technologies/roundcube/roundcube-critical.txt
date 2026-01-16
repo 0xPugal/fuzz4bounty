@@ -1,0 +1,2 @@
+/installer/index.php
+/roundcube/installer/index.php

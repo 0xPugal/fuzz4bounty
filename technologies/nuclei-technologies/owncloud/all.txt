@@ -1,0 +1,5 @@
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+
+/owncloud/
+/status.php

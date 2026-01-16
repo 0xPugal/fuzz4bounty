@@ -1,0 +1,5 @@
+/sites/all/libraries/elfinder/connectors/php/connector.php
+/kfm/index.php
+/laravel-filemanager?type=Files
+/index.php
+/Login

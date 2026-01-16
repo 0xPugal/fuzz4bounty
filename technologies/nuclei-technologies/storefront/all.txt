@@ -1,0 +1,4 @@
+/wp-content/themes/storefront/functions.php
+/wp-content/themes/storefront/header.php
+/wp-content/themes/storefront/footer.php
+/Citrix/teststoreAuth/SamlTest

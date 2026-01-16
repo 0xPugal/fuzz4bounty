@@ -1,0 +1,1 @@
+{{jolokia_paths}}{{mbean_paths}}

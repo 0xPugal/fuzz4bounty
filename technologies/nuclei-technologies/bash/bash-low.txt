@@ -1,0 +1,5 @@
+/.bashrc
+/.bash_profile
+/.profile
+/.zshrc
+{{paths}}

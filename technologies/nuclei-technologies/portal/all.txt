@@ -1,0 +1,4 @@
+
+/api/jsonws
+/api/jsonws/invoke
+/webmail/

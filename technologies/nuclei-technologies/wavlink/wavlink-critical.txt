@@ -1,0 +1,1 @@
+/cgi-bin/live_api.cgi?page={{str}}&id={{num}}&ip=;id;

@@ -1,0 +1,3 @@
+/goanywhere/images/..;/wizard/InitialAccountSetup.xhtml
+/goanywhere/license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate
+/license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate

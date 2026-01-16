@@ -1,0 +1,2 @@
+/fastcgi.conf
+/config/fastcgi.conf

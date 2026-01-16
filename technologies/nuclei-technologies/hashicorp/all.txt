@@ -1,0 +1,11 @@
+/registry/machine?app={{rand_base(5)}}&appType=0&version=0&hostname={{rand_base(5)}}&ip={{interactsh-url}}&port=0
+/v1/agent/self
+/ui/
+/session
+/v1/sys/health
+/ui/vault/auth
+/ui/auth
+/v1/sys/health?help=1
+/v1/sys/seal-status
+/v1/health/service/consul
+/ui/jobs

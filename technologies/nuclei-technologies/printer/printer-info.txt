@@ -1,0 +1,7 @@
+/general/status.html
+/PRESENTATION/EPSONCONNECT
+/cgi-bin/home
+/hdstat.htm
+/sws/index.html
+/sws/index.sws
+/PRESENTATION/HTML/TOP/PRTINFO.HTML

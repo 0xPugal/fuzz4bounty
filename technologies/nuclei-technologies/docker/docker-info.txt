@@ -1,0 +1,4 @@
+/.gitpod.Dockerfile
+/.gitpod.dockerfile
+/v1/metadata
+/v1/tasks

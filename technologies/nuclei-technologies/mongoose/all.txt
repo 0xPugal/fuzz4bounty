@@ -1,0 +1,2 @@
+?view[path]={{pfield}}&view[match][$where]=global.process.mainModule.constructor._load(
+/posts?authorMatch={

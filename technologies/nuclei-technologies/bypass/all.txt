@@ -1,0 +1,9 @@
+/cgi-bin/logoff.cgi
+/nuxeo/login.jsp/pwn${31333333330+7}.xhtml
+
+/?gf_page=randomstring
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username + 
+/nginx_status
+{{paths}}
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
+/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6

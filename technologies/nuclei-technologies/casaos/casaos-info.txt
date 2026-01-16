@@ -1,0 +1,3 @@
+
+/#/login
+/v1/sys/debug

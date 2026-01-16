@@ -1,0 +1,8 @@
+/components/statestore
+/overview
+/controlplane
+/api/v2.0/systeminfo
+/api/systeminfo
+/account/sign-in
+/harbor/sign-in
+/api/users

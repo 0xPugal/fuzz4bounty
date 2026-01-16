@@ -1,0 +1,1 @@
+/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh

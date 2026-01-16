@@ -1,0 +1,3 @@
+/my_view_page.php
+/SMS_DP_SMSPKG$/Datalib
+:80/SMS_DP_SMSPKG$/Datalib

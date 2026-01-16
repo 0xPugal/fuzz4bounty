@@ -1,0 +1,6 @@
+/commandcenter/login/preSso.jsp
+/login.zul
+/db/schema.rb
+/database/schema.rb
+/schema.rb
+/wp-content/uploads/tmm_db_migrate/tmm_db_migrate.zip

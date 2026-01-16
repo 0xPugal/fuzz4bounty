@@ -1,0 +1,10 @@
+/mftp/
+/
+/ftpsync.settings
+/.ftpconfig
+/login
+/cgi-bin/upload/web-ftp.cgi
+/ws_ftp.ini
+/ws_ftp.log
+/WS_FTP.LOG
+/Login?!

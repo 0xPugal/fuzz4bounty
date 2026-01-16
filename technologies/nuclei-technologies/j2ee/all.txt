@@ -1,0 +1,2 @@
+{{paths}}
+/en/WEB-INF/web.xml;.js

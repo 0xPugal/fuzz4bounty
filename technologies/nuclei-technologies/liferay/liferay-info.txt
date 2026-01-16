@@ -1,0 +1,5 @@
+
+/api/jsonws
+/api/jsonws/invoke
+/api/liferay
+/api/axis

@@ -1,0 +1,2 @@
+/web/database/manager
+/data/pbootcms.db

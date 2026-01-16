@@ -1,0 +1,12 @@
+/system/deviceInfo?auth=YWRtaW46MTEK
+/php/ping.php
+/Security/users?auth={{b64auth}}
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env
+/portal/conf/config.properties
+/favicon.ico
+/doc/page/login.asp
+/config/user.xml

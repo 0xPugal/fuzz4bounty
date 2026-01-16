@@ -1,0 +1,9 @@
+/CFIDE/componentutils/login.cfm
+/cfide/componentutils/login.cfm
+/CFIDE/administrator/images/mx_login.gif
+/cfide/administrator/images/mx_login.gif
+/CFIDE/administrator/images/background.jpg
+/cfide/administrator/images/background.jpg
+/CFIDE/administrator/images/componentutilslogin.jpg
+/cfide/administrator/images/componentutilslogin.jpg
+/_something_.cfm

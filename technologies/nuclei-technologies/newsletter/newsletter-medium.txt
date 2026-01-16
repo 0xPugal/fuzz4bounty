@@ -1,0 +1,3 @@
+/wp-content/plugins/newsletter/error_log
+/wp-content/plugins/newsletter/classes/Newsletter/Logs.php
+/?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo

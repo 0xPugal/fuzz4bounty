@@ -1,0 +1,4 @@
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-content/plugins/wp-fastest-cache/wpFastestCache.php
+/wp-content/plugins/wp-fastest-cache/inc/cache.php
+/wp-content/plugins/wp-fastest-cache/templates/timeout.php

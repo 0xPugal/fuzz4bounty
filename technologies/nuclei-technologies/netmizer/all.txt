@@ -1,0 +1,2 @@
+/data/manage/cmd.php?cmd=id
+/data/

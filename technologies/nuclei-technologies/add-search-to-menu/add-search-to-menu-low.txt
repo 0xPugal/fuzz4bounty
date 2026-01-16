@@ -1,0 +1,7 @@
+/wp-content/plugins/add-search-to-menu/includes/class-is-admin-public.php
+/wp-content/plugins/add-search-to-menu/includes/class-is-widget.php
+/wp-content/plugins/add-search-to-menu/includes/class-is-index-options.php
+/wp-content/plugins/add-search-to-menu/includes/class-is-index-manager.php
+/wp-content/plugins/add-search-to-menu/includes/class-is-customizer.php
+/wp-content/plugins/add-search-to-menu/includes/compatibility/class-is-tablepress-compat.php
+/wp-content/plugins/add-search-to-menu/admin/class-is-list-table.php

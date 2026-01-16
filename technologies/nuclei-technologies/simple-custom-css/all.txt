@@ -1,0 +1,4 @@
+/wp-content/plugins/simple-custom-css/simple-custom-css.php
+/wp-content/plugins/simple-custom-css/includes/admin.php
+/wp-content/plugins/simple-custom-css/includes/public.php
+/wp-content/plugins/simple-custom-css/includes/customizer.php

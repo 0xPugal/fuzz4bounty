@@ -1,0 +1,8 @@
+
+/static/img/custom_icons/favicon.ico
+/dana-na/auth/url_default/welcome.cgi
+/ldlogon.dll
+/core/login
+/webaccess
+/favicon.ico
+/images/favicon.ico

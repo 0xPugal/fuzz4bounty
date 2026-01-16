@@ -1,0 +1,6 @@
+/cobbler_web
+/ui/
+/sap/bc/gui/sap/its/webgui
+/sap/wdisp/admin/public/default.html
+/inormalydonotexist
+/%5C%5Cinteract.sh/%252e%252e%252f

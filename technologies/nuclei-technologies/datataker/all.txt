@@ -1,0 +1,1 @@
+/services/getFile.cmd?userfile=config.xml

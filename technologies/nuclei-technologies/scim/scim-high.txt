@@ -1,0 +1,2 @@
+/scim/v2/Users
+/api/scim/v2/Users

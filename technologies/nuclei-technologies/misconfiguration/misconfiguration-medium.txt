@@ -1,0 +1,2 @@
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json

@@ -1,0 +1,9 @@
+/default/showLogon.do
+/CACHE/sdesktop/data.xml
+
+/webvpn.html
+/?src=connect
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/auth/url_2/welcome.cgi
+/dana-na/auth/url_3/welcome.cgi
+/Login.asp

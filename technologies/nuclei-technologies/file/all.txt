@@ -1,0 +1,14 @@
+/.travis.yml
+/matomo/.travis.yml
+/ckeditor/.travis.yml
+/slnx.sqlite
+/.vs/slnx.sqlite
+/babel.config.js
+/Guardfile
+/gradle/libs.versions.toml
+/libs.versions.toml
+/.licenserc.yaml
+/cacti/log/cacti.log
+/log/cacti.log
+/cacti.log
+/include/cacti.log

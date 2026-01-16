@@ -1,0 +1,6 @@
+/installer/index.php
+/roundcube/installer/index.php
+/installer/
+/installer/index.php?_step=2
+
+/webmail/

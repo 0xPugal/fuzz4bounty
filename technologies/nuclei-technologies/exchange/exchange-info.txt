@@ -1,0 +1,4 @@
+/owa/auth/logon.aspx?replaceCurrent=1&url={{BaseURL}}/ecp
+/EWS/Exchange.asmx
+/owa/service.svc
+/owa/auth/logon.aspx

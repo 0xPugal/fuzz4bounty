@@ -1,0 +1,2 @@
+/manager/signin
+/steve/manager/signin

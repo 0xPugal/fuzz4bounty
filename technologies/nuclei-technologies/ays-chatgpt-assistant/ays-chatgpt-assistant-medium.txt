@@ -1,0 +1,1 @@
+/wp-admin/admin-ajax.php?ays_chatgpt_assistant_id=1&action=ays_chatgpt_admin_ajax&function=ays_chatgpt_disconnect

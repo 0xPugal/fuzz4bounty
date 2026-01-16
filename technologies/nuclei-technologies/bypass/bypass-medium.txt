@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
+/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6

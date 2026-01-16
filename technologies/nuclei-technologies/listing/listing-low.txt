@@ -1,0 +1,14 @@
+/
+/static/
+/resources/
+/assets/
+/files/
+/img/
+/Business/
+/wp-includes/ALFA_DATA/
+/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+/ALFA_DATA/alfacgiapi/
+/cgi-bin/ALFA_DATA/alfacgiapi/
+/wp-content/plugins/email-subscribers
+/wp-content/plugins/mstore-api/
+/wp-content/plugins/super-forms/

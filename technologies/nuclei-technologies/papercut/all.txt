@@ -1,0 +1,2 @@
+/custom-report-example/..\\..\\..\\deployment\\sharp\\icons\\home-app.png
+/user

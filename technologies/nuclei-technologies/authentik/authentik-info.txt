@@ -1,0 +1,2 @@
+
+/static/dist/assets/icons/icon.png

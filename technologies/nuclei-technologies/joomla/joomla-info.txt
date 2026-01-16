@@ -1,0 +1,7 @@
+/administrator/
+/htaccess.txt
+/index.php?option=com_users&view=registration
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml

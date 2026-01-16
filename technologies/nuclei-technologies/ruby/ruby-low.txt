@@ -1,0 +1,4 @@
+/storage.yml
+/config/storage.yml
+/ruby/config/storage.yml
+/railsapp/config/storage.yml

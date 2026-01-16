@@ -1,0 +1,1 @@
+/setupAssistant.html

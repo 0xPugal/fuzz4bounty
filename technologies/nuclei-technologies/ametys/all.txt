@@ -1,0 +1,2 @@
+/_admin/index.html
+/plugins/web/service/search/auto-completion/domain/en.xml?q=adm

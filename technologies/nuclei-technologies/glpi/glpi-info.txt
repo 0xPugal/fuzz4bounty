@@ -1,0 +1,6 @@
+
+/CHANGELOG.md
+/glpi/
+/status.php
+/glpi/status.php
+/glpi2/status.php

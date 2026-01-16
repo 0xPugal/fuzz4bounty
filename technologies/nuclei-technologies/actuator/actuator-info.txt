@@ -1,0 +1,5 @@
+
+/actuator
+/actuator%72
+/favicon.ico
+/actuator/favicon.ico

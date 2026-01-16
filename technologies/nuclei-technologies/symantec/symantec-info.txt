@@ -1,0 +1,4 @@
+/ProtectManager/Logon
+/b/l.e
+/iam/immanage/login.jsp
+/vkd/GetWelcomeScreen.event

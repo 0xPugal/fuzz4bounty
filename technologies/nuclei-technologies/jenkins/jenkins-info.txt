@@ -1,0 +1,6 @@
+/api/xml
+/login
+/asynchPeople/api/json
+
+/whoAmI/
+/asynchPeople/

@@ -1,0 +1,2 @@
+/kiali/api/status
+/kiali/

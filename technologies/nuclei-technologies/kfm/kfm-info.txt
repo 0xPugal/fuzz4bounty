@@ -1,0 +1,2 @@
+/kfm/index.php
+/kfm/admin/

@@ -1,0 +1,2 @@
+/install/index.php
+/install/make-config.php

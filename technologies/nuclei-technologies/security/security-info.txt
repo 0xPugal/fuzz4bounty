@@ -1,0 +1,4 @@
+
+/login/
+/.well-known/mta-sts.txt
+/.well-known/oauth-authorization-server

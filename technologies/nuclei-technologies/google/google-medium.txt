@@ -1,0 +1,12 @@
+/credentials.json
+/assets/credentials.json
+/access_tokens.db
+/.config/gcloud/access_tokens.db
+/credentials.db
+/.config/gcloud/credentials.db
+/google-api-private-key.json
+/app/config/pimcore/google-api-private-key.json
+/pimcore/app/config/pimcore/google-api-private-key.json
+/
+/firebase-messaging-sw.js
+/manifest.json

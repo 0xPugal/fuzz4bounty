@@ -1,0 +1,7 @@
+/config/packages/security.yaml
+/app/config/security.yml
+/properties.ini
+/config/properties.ini
+/security.yml
+/config/security.yml
+/js/routing?callback=fos.Router.setDatafoobarfoo

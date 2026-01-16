@@ -1,0 +1,4 @@
+
+/clusters/local
+/kustomization.yml
+/apiserver-etcd-client.key

@@ -1,0 +1,3 @@
+/api/v1/info
+/api/v2/info
+/sign-in

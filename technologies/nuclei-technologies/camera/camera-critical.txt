@@ -1,0 +1,3 @@
+/current_config/passwd
+/../../etc/passwd
+/overview.asp

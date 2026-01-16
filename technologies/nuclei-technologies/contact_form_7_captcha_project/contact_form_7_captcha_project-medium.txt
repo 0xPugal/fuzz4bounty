@@ -1,0 +1,1 @@
+/wp-admin/options-general.php?page=cf7sr_edit&

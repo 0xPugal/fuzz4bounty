@@ -1,0 +1,2 @@
+/xxl-job-admin/toLogin
+/toLogin

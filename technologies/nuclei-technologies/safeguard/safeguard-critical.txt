@@ -1,0 +1,1 @@
+/RSTS/UserLogin/LoginController?response_type=token&redirect_uri=https%3A%2F%2Flocalhost&loginRequestStep=6&csrfTokenTextbox=aaa

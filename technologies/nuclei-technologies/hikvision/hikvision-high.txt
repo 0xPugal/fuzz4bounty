@@ -1,0 +1,7 @@
+/Security/users?auth={{b64auth}}
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env
+/portal/conf/config.properties

@@ -1,0 +1,1 @@
+/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/web.xml

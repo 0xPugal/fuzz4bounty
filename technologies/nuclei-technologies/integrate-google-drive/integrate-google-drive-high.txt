@@ -1,0 +1,1 @@
+/wp-json/igd/v1/get-users-data

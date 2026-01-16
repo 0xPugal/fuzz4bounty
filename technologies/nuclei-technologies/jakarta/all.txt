@@ -1,0 +1,2 @@
+/examples/jsp/snp/snoop.jsp
+/examples/jsp/snp/anything.snp

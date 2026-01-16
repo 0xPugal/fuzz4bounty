@@ -1,0 +1,1 @@
+/go/admin/pipelines/create?group=defaultGroup

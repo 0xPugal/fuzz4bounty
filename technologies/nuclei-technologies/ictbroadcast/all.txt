@@ -1,0 +1,3 @@
+/install.php
+
+/login.php

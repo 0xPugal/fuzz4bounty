@@ -1,0 +1,1 @@
+/wp-content/themes/twentytwenty/functions.php

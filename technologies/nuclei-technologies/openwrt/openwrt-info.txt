@@ -1,0 +1,3 @@
+/cgi-bin/luci
+
+/cgi-bin/luci/

@@ -1,0 +1,2 @@
+/service/~baseapp/UploadServlet
+/service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease

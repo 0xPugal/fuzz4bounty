@@ -1,0 +1,6 @@
+/contrib/acog/print_form.php?formname=../../../etc/passwd%00
+/web_caps/webCapsConfig
+/wp-content/plugins/email-subscribers
+/wp-content/plugins/super-forms/
+/wp-json/wp/v2/users/
+/?rest_route=/wp/v2/users/

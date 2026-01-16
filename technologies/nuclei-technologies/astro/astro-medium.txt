@@ -1,0 +1,2 @@
+/pages/index.astro.mjs.map
+/index.astro.mjs.map

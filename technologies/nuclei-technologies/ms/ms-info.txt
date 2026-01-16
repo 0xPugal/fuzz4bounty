@@ -1,0 +1,2 @@
+/EWS/Exchange.asmx
+/owa/service.svc

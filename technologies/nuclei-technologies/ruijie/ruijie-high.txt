@@ -1,0 +1,6 @@
+/get_dkey.php?user=admin
+/web/xml/webuser-auth.xml
+/api/sys/set_passwd
+/api/sys/login
+/login.php
+/download.do?file=../../../../config.text

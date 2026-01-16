@@ -1,0 +1,3 @@
+/zabbix/setup.php
+/setup.php
+/zabbix/zabbix.php?action=dashboard.list

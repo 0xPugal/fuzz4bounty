@@ -1,0 +1,6 @@
+/.gcloudignore
+/google-services.json
+/app/google-services.json
+/android/app/google-services.json
+/token.json
+/search/token.json

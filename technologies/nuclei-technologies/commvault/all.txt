@@ -1,0 +1,3 @@
+/SearchSvc/CVSearchService.svc
+/commandcenter/login/preSso.jsp
+/commandcenter/publicLink.do

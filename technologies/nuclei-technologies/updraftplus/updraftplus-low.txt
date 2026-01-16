@@ -1,0 +1,5 @@
+/wp-content/plugins/updraftplus/admin.php
+/wp-content/plugins/updraftplus/class-updraftplus.php
+/wp-content/plugins/updraftplus/restorer.php
+/wp-content/plugins/updraftplus/backup.php
+/wp-content/plugins/updraftplus/includes/class-commands.php

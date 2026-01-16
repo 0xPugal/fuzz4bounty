@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-fancybox/easy-fancybox.php

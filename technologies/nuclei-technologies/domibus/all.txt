@@ -1,0 +1,2 @@
+/domibus/rest/application/info
+/domibus/

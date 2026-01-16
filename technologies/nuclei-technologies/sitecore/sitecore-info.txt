@@ -1,0 +1,4 @@
+/sitecore/admin/login.aspx
+/sitecore/login/default.aspx
+/-/media/doo-doo.ashx
+/sitecore/shell/sitecore.version.xml

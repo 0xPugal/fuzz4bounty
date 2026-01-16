@@ -1,0 +1,1 @@
+/phpwiki/index.php/passwd

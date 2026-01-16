@@ -1,0 +1,2 @@
+/NetBiblio/search/shortview?searchField=W&searchType=Simple&searchTerm=x%27%2Balert%281%29%2B%27x
+/NetBiblio/search/shortview?searchField=W&searchType=Simple&searchTerm=x%5C%27%2Balert%281%29%2C%2F%2F

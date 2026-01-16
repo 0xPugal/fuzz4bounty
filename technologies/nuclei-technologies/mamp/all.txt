@@ -1,0 +1,2 @@
+/MAMP/phpinfo.php
+/index.php/test

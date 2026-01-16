@@ -1,0 +1,2 @@
+/api/v1/status/flags
+/yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0

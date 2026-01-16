@@ -1,0 +1,3 @@
+/wp-content/plugins/members/admin/class-role-edit.php
+/wp-content/plugins/members/admin/class-role-new.php
+/wp-content/plugins/members/inc/class-role.php

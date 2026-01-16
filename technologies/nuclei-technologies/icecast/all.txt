@@ -1,0 +1,2 @@
+/server_version.xsl
+/icecast.xml

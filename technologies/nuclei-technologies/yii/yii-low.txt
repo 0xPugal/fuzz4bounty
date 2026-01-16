@@ -1,0 +1,6 @@
+/debug/default/view.html
+/debug/default/view
+/frontend/web/debug/default/view
+/web/debug/default/view
+/sapi/debug/default/view
+/debug/default

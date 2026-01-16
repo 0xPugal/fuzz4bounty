@@ -1,0 +1,9 @@
+/ui/login
+/h2-console/login.jsp
+/admin_ui/mas/ent/login.html
+
+/login.jsp
+/#/admin/dashboard
+/FrontController
+/overview
+/#dashboard

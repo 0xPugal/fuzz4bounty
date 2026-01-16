@@ -1,0 +1,2 @@
+/wp-content/themes/listingpro/style.css
+/wp-admin/index.php?download-lp-users=yes

@@ -1,0 +1,1 @@
+/include/thumb.php?dir=http\..\admin\login\login_check.php

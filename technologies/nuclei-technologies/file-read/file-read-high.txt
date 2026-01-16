@@ -1,0 +1,1 @@
+/doc/upload?token=testtoken&url=file:///C:/windows/win.ini&name={{file}}.txt

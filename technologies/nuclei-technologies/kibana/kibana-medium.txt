@@ -1,0 +1,4 @@
+/kibana.yml
+
+/app/kibana
+/app/kibana/

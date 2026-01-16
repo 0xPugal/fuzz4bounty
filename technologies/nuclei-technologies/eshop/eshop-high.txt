@@ -1,0 +1,2 @@
+/install/
+/Setup/index.php/

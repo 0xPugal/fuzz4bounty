@@ -1,0 +1,4 @@
+/env
+/actuator/env
+/actuator;/env;
+/message-api/actuator/env

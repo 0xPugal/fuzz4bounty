@@ -1,0 +1,2 @@
+/CMSInstall/install.aspx
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData

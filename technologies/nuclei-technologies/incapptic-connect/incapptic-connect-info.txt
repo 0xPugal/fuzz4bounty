@@ -1,0 +1,2 @@
+
+/static/img/custom_icons/favicon.ico

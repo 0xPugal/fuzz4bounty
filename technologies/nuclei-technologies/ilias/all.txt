@@ -1,0 +1,4 @@
+/login.php
+/ilias/login.php
+/shib_logout.php?action=logout&return=https://oast.me
+/ilias/shib_logout.php?action=logout&return=https://oast.me

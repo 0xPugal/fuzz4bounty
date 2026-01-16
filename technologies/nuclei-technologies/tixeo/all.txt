@@ -1,0 +1,3 @@
+/meet/services/json/v1/settings
+/meet/login.html
+/meet/

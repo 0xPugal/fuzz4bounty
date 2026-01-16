@@ -1,0 +1,6 @@
+/behat.yml
+/behat.yml.dist
+/artifactory/api/build
+/.gitlab-ci.yml
+/gitlab-ci.yml
+/.gitlab-ci/variables.yml

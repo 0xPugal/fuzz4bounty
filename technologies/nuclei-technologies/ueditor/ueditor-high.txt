@@ -1,0 +1,1 @@
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8

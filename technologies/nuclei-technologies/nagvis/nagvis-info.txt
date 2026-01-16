@@ -1,0 +1,2 @@
+
+/nagvis/frontend/nagvis-js/index.php

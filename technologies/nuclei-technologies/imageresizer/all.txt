@@ -1,0 +1,2 @@
+/resizer.debug.ashx
+/resizer.debug

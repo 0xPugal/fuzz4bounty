@@ -1,0 +1,3 @@
+/render/info.html
+/wp-json
+/wp-json?

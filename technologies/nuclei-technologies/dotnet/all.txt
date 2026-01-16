@@ -1,0 +1,7 @@
+/user/City_ajax.aspx?CityId=33
+/glimpse.axd
+/Glimpse.axd
+/WebReport/ReportServer
+/ReportServer
+/Properties/launchSettings.json
+/launchSettings.json

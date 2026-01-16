@@ -1,0 +1,1 @@
+/assets/login?a=https://interact.sh

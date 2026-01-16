@@ -1,0 +1,3 @@
+/cxrestapi/help/system/version
+/cxwebclient/Login.aspx
+/cxrestapi/auth/identity/.well-known/openid-configuration

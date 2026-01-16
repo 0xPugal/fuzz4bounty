@@ -1,0 +1,3 @@
+/v1/folder?path=%2F
+/nacos/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}

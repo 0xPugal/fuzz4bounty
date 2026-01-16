@@ -1,0 +1,8 @@
+/ui/
+/arsys/
+/webUI/userHome.do
+/adminlogin
+/login.html
+
+/arsys/shared/login.jsp
+/rsso/admin/

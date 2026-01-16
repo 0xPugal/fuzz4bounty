@@ -1,0 +1,4 @@
+/admin/master/console/config
+/admin/main/console/config
+/auth/admin/master/console/config
+/auth/admin/main/console/config

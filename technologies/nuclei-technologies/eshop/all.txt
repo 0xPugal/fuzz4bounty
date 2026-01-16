@@ -1,0 +1,3 @@
+/install/
+/Setup/index.php/
+/home/get_products?search=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E

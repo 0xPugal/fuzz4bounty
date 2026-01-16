@@ -1,0 +1,1 @@
+/phpsysinfo/index.php?disp=bootstrap

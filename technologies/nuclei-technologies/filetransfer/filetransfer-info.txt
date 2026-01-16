@@ -1,0 +1,2 @@
+/goanywhere/auth/Login.xhtml
+/webclient/Login.xhtml

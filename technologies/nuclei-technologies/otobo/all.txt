@@ -1,0 +1,2 @@
+/otobo/index.pl
+/otobo/index.pl?Action=ExternalURLJump;URL=http://www.interact.sh

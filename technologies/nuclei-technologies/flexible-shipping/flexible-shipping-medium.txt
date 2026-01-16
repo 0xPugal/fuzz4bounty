@@ -1,0 +1,1 @@
+/wp-content/uploads/wpdesk-logs/wpdesk_debug.log

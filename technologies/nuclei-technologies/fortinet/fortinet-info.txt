@@ -1,0 +1,15 @@
+/ui/#navigate/Login
+/gui/login
+/api/v1
+/signin
+/m/
+/p/login/
+/WelcomeActions.jsp?action=ajaxGetWelcomeViewInfo
+
+/login
+/login?redir=/ng
+/phoenix/login.html
+/auth/login
+/index.html
+/wlm/login?next=/wlm
+/admin/

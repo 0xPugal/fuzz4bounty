@@ -1,0 +1,5 @@
+/.travis.yml
+/matomo/.travis.yml
+/ckeditor/.travis.yml
+/slnx.sqlite
+/.vs/slnx.sqlite

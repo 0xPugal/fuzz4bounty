@@ -1,0 +1,1 @@
+/wp-content/plugins/google-analytics-for-wordpress/lite/includes/admin/connect.php

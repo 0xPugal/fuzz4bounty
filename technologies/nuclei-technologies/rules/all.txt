@@ -1,0 +1,1 @@
+/wp-content/wflogs/rules.php

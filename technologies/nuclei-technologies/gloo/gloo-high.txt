@@ -1,0 +1,1 @@
+/fed.rpc.solo.io.GlooInstanceApi/ListClusterDetails

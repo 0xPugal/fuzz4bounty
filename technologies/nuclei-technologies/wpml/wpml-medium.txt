@@ -1,0 +1,2 @@
+/wp-admin/admin.php
+/wp-login.php?wp_lang=en_US%27

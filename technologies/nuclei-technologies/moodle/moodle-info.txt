@@ -1,0 +1,3 @@
+/login/index.php
+/lib/upgrade.txt
+/UPGRADING.md

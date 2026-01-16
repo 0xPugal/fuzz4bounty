@@ -1,0 +1,2 @@
+/api/filemanager?path=%2F..%2f..%2fContent
+/default.aspx?years=http://oast.pro

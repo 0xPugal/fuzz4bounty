@@ -1,0 +1,2 @@
+/xda/help/en/default.htm?startat=//oast.me
+/?portgw=80089948;%20alert(document.domain)

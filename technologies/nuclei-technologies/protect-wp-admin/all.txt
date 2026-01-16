@@ -1,0 +1,2 @@
+/wp-content/plugins/protect-wp-admin/readme.txt
+/wp-login.php?action=lostpassword&error=invalidkey

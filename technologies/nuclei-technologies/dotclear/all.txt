@@ -1,0 +1,2 @@
+/dc2/admin/auth.php
+/auth.php

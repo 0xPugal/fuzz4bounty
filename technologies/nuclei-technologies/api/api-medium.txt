@@ -1,0 +1,4 @@
+/wp-json/guppy/v2/load-guppy-users?userId=1&offset=0&search=
+/robots.txt
+/ambassador/v0/diag/
+/sendgrid.env

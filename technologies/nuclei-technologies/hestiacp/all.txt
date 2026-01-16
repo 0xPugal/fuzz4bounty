@@ -1,0 +1,2 @@
+/login/
+/templates/pages/debug_panel.php?id={{randstr}}

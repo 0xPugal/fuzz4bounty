@@ -1,0 +1,8 @@
+/cfcache.map
+/system/help/support
+/crx/explorer/ui/namespace_editor.jsp
+{{paths}}
+/etc/reports/diskusage.html
+/etc/reports/diskusage.html?path=/content/dam
+/bin.tidy.infinity.json
+/crx/de/index.jsp

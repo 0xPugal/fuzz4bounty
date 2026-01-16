@@ -1,0 +1,7 @@
+
+/#/logIn?redirectURL=%2F
+/admin/login/
+/wfc/
+/em/console/logon/logon
+/login.zul
+/#login

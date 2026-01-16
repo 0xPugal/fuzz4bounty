@@ -1,0 +1,3 @@
+/.aws/credentials
+/wp-config.php-backup
+/%c0

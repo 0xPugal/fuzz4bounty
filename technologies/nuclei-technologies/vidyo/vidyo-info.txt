@@ -1,0 +1,2 @@
+/admin/login.html?lang=en
+/vr2conf/login.html

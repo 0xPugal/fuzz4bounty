@@ -1,0 +1,6 @@
+/mifs/login.jsp
+/mifs/user/login.jsp
+/mifs/c/d/android.html
+/mics/login.jsp
+/favicon.ico
+/images/favicon.ico

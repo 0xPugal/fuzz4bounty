@@ -1,0 +1,3 @@
+/wp-content/plugins/pretty-link/app/models/PrliLink.php
+/wp-content/plugins/pretty-link/app/controllers/PrliLinksController.php
+/wp-content/plugins/pretty-link/app/helpers/PrliUtils.php

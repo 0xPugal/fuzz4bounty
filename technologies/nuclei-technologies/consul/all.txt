@@ -1,0 +1,3 @@
+/v1/agent/self
+/ui/
+/v1/health/service/consul

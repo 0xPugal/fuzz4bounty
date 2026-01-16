@@ -1,0 +1,2 @@
+/wp-content/plugins/seo-by-rank-math/vendor/developer/developer.php
+/wp-content/plugins/seo-by-rank-math/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php

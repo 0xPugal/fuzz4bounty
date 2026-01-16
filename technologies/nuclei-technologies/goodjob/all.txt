@@ -1,0 +1,2 @@
+/jobs
+/good_job/jobs

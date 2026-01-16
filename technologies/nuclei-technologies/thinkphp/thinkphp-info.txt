@@ -1,0 +1,2 @@
+
+/?s={{randstr}}&c={{randstr}}&a={{randstr}}&m={{randstr}}

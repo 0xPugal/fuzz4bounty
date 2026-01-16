@@ -1,0 +1,4 @@
+/dev-ui/
+/config.rb
+/.chef/config.rb
+/assets/config.rb

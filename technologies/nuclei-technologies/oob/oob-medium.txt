@@ -1,0 +1,4 @@
+/cms/collect/getArticle
+/unsafe/plain/http://{{interactsh-url}}
+
+/?cb={{cache-buster}}

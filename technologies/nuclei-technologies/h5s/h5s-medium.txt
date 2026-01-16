@@ -1,0 +1,2 @@
+/api/v1/GetSrc
+/api/v1/GetDevice

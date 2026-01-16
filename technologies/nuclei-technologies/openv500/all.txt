@@ -1,0 +1,2 @@
+/cgi-bin/cosmobdf.cgi?function=0
+/cgi-bin/cosmobdf.cgi?function=1

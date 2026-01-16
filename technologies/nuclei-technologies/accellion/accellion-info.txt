@@ -1,0 +1,2 @@
+/login/locales/login_en.json
+/cfadmin/

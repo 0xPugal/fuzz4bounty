@@ -1,0 +1,16 @@
+/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html
+/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?saml2=disabled
+/hmc/hybris
+/hybris/hmc/hybris
+/login
+/sap/hana/xs/formLogin/login.html
+/rep/start/index.jsp
+/irj/portal
+
+/sf/start
+/fiori
+/irj/portal/fiori
+/occ/v2/d2OzBcy
+/sap/bc/gui/sap/its/webgui
+/sap/wdisp/admin/public/default.html
+/inormalydonotexist

@@ -1,0 +1,9 @@
+/json
+/api/json
+/parse
+/deserialize
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/{{interface}}
+/helpdesk/WebObjects/Helpdesk.woa
+/res/login.jsf?javax.faces.ViewState={{generate_java_gadget(
+/service/~baseapp/UploadServlet

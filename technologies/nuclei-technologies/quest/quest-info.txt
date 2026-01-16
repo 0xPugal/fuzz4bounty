@@ -1,0 +1,1 @@
+/cgi-bin/webcm?getpage=../html/login.html

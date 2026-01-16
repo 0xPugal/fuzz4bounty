@@ -1,0 +1,4 @@
+/_/resize:fill:10:10:0/gravity:sm/plain/{{img_url}}
+/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/111/rs:fit:400:400:0:0/plain/http://{{interactsh-url}}
+/unsafe/plain/http://{{interactsh-url}}

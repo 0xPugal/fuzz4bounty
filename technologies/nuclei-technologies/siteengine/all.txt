@@ -1,0 +1,1 @@
+/api.php?action=logout&forward=http://interact.sh

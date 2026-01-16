@@ -1,0 +1,4 @@
+/api/settings/values
+/sessions/new
+/api/components/suggestions?recentlyBrowsed=
+/api/components/search_projects

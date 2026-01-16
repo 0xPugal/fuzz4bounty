@@ -1,0 +1,4 @@
+/cacti/log/cacti.log
+/log/cacti.log
+/cacti.log
+/include/cacti.log

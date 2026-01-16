@@ -1,0 +1,2 @@
+/installer
+/bagisto-common/search?query={{2288*

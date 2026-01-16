@@ -1,0 +1,5 @@
+
+/qmailadmin/qmailadmin.cgi
+/cgi-bin/qmailadmin/qmailadmin
+/cgi-bin/qmailadmin
+/cgi-ssl/qmailadmin/qmailadmin

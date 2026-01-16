@@ -1,0 +1,10 @@
+/ucmdb-api/connect
+
+/nps/servlet/portalservice
+/nds
+/_LOGIN_SERVER_
+/filr/login
+/login
+/qcbin/
+/ssf/s/portalLogin
+/welcome/

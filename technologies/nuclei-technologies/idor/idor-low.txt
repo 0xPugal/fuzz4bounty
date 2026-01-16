@@ -1,0 +1,2 @@
+/wp-content/themes/haberadam/api/mobile-info.php?id=
+/blog/wp-content/themes/haberadam/api/mobile-info.php?id=

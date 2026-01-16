@@ -1,0 +1,3 @@
+
+/app/login.aspx
+/signin/#!/login?returnUrl=%2Fapp%2Fdefault.aspx

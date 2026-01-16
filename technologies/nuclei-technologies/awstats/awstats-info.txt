@@ -1,0 +1,9 @@
+/awstats/
+/awstats.conf
+/awstats.pl
+/cgi-bin/awstats.pl
+/logs/awstats.pl
+/webstats/awstats.pl
+/awstats/awstats.pl
+/cgi-bin/awstats/awstats.pl
+/awstats/awstats.pl?config=

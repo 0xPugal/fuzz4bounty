@@ -1,0 +1,4 @@
+/{{paths}}/
+/config/initializers/secret_token.rb
+
+/appsettings.json

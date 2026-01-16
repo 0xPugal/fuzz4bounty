@@ -1,0 +1,2 @@
+/hp/device/DeviceInformation/View
+/chpstrt.php?chppath=Home

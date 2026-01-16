@@ -1,0 +1,6 @@
+/index.php/install
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php
+/js/elfinder.min.js
+/js/elFinder.version.js

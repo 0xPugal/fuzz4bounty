@@ -1,0 +1,2 @@
+/static/shards.html
+/static/shards/html

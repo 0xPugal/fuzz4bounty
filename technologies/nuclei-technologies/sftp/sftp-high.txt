@@ -1,0 +1,6 @@
+/sftp-config.json
+/ftpsync.settings
+/deployment-config.json
+/sftp.json
+/.config/sftp.json
+/.vscode/sftp.json

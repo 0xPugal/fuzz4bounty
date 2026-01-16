@@ -1,0 +1,1 @@
+/aa404bb?a</script><script>alert(/XSS/)</script>

@@ -1,0 +1,5 @@
+/client/cdnfile/1C/Windows/win.ini?windows
+/client/cdnfile/C/etc/passwd?linux
+/login.do?
+/login/login.do?
+/manager/login.do?

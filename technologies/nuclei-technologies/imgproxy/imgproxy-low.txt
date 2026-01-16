@@ -1,0 +1,1 @@
+/_/resize:fill:10:10:0/gravity:sm/plain/{{img_url}}

@@ -1,0 +1,2 @@
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username + 
+/cgi-bin/nobody/Machine.cgi?action=get_capability

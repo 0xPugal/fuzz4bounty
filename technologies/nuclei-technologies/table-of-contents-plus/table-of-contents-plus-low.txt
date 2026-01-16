@@ -1,0 +1,3 @@
+/wp-content/plugins/table-of-contents-plus/toc-plus.php
+/wp-content/plugins/table-of-contents-plus/toc.php
+/wp-content/plugins/table-of-contents-plus/includes/class-toc.php

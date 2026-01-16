@@ -1,0 +1,1 @@
+/?rest_route=/ult/v2/review-banner-visibility&action=maybe-later&redirect=yes&redirect_url=https://interact.sh

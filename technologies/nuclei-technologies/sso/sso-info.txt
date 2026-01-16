@@ -1,0 +1,5 @@
+
+/static/dist/assets/icons/icon.png
+/dex/auth
+/.pomerium/index.js
+/shibboleth-idp

@@ -1,0 +1,4 @@
+/jupyter/login
+/jupyter/lab
+/jupyter/hub/lti/launch
+/hub/login

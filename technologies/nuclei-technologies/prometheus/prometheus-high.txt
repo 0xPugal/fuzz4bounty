@@ -1,0 +1,4 @@
+/config
+/api/v1/status/config
+/graph
+/classic/graph

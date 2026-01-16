@@ -1,0 +1,2 @@
+/karma.js
+/?return_url=javascript:alert(document.domain)

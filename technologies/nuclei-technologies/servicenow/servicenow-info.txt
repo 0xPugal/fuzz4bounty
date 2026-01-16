@@ -1,0 +1,4 @@
+/login.do
+/kb_view_customer.do?sysparm_article=KB00xxxx
+/stats.do
+/threads.do

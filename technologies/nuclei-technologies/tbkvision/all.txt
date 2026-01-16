@@ -1,0 +1,1 @@
+/device.rsp?opt=user&cmd=list

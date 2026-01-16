@@ -1,0 +1,6 @@
+/login#login
+/app/login.php
+/cfcc/login/login.jsp
+/login/login.jsp
+/?profile=</script><script>alert(document.domain)</script>
+/settings

@@ -1,0 +1,4 @@
+/nacos/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
+/nacos/v1/auth/users?pageNo=1&pageSize=9
+/v1/auth/users?pageNo=1&pageSize=9

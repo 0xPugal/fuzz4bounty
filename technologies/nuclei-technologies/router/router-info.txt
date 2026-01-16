@@ -1,0 +1,13 @@
+/htmlcode/html/indexdefault.asp
+/Main_Login.asp
+/login.html
+/status.php
+/login.sh
+/cgi-bin/luci/
+/sess-bin/login_session.cgi
+/currentsetting.htm
+/login.htm
+
+/cgi-bin/MANGA/index.cgi
+/login
+/login/?nLang=1

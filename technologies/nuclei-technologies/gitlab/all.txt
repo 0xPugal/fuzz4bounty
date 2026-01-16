@@ -1,0 +1,10 @@
+/users/sign_in
+/explore
+/api/v4/projects
+/users/sign_up
+/explore/snippets
+/-/snippets
+/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/.gitlab-ci.yml
+/gitlab-ci.yml
+/.gitlab-ci/variables.yml

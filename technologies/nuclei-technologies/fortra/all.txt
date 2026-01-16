@@ -1,0 +1,2 @@
+/goanywhere/images/..;/wizard/InitialAccountSetup.xhtml
+/workflow/jsp/downloadFiles.jsp

@@ -1,0 +1,4 @@
+/devel/iface/
+/scriptcase/devel/iface/
+/prod/lib/php/
+/scriptcase/prod/lib/php/

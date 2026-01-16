@@ -1,0 +1,15 @@
+/components/statestore
+/overview
+/controlplane
+/api/search?type=dash-db
+/api/dashboards/home
+/dashboard
+/api/org
+/api/users
+/api/datasources
+/api/frontend/settings
+/?app=config
+/#!/printer/Prusa_I3/print
+/#/dashboards
+/api/me
+/settings/general

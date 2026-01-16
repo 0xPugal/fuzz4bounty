@@ -1,0 +1,2 @@
+
+/wp-login.php?SECUPRESSaction=confirmaction

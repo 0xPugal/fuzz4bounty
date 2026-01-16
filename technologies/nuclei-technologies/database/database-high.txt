@@ -1,0 +1,5 @@
+/inc/data/database.sdb
+{{paths}}
+/.my.cnf
+/{{path}}
+/.pgpass

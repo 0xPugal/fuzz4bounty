@@ -1,0 +1,4 @@
+/nagios
+/nagios3
+
+/nagiosxi/login.php

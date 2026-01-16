@@ -1,0 +1,4 @@
+/graphql
+/api/graphql
+/query
+/

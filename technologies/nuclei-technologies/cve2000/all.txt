@@ -1,0 +1,1 @@
+/examples/jsp/snp/anything.snp

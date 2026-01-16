@@ -1,0 +1,2 @@
+/?view=log
+/zm/?view=log

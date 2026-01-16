@@ -1,0 +1,2 @@
+/masthead/masthead.axfm
+/cgi-bin/bfenterprise/clientregister.exe?RequestType=FetchCommands

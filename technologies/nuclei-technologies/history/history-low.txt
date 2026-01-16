@@ -1,0 +1,5 @@
+/.node_repl_history
+/node_repl_history
+/.psql_history
+/psql_history
+/.postgresql_history

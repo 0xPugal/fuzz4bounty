@@ -1,0 +1,6 @@
+
+/server/status
+/uddiexplorer/
+/.gitignore
+/assets/.gitignore
+/includes/.gitignore

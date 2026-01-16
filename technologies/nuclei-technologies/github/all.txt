@@ -1,0 +1,13 @@
+/api/v3/user/orgs
+/api/v3/orgs/{{org_name}}/memberships/{{username}}
+/api/v3/orgs/{{org_name}}/repos
+/login
+/session
+/organizations/{{org_name}}/settings/actions/repository_items?page=1&rid_key=nw_fsck
+/
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://{{interactsh-url}}
+/saml/metadata
+/Gemfile
+/Gemfile.lock
+/_config.yml
+/setup/start

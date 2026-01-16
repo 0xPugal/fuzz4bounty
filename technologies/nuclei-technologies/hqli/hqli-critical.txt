@@ -1,0 +1,1 @@
+/xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected

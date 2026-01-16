@@ -1,0 +1,11 @@
+
+/authorization.do
+/servlet/GetProductVersion
+/iam/login
+/jsp/index.jsp
+/index.do
+/configurations
+/exchange/index.html
+/apiclient/index.jsp
+/pki/images/keyManager_title.ico
+/apiclient/ember/Login.jsp

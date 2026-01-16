@@ -1,0 +1,12 @@
+/debug/pprof/
+/debug/pprof/goroutine?debug=1
+/glimpse.axd
+/Glimpse.axd
+/anything_here
+/?SPX_KEY={{api_key}}&SPX_UI_URI=/
+
+/_debugbar/open
+/?pp=env
+/admin_dev.php
+/index_dev.php
+/app_dev.php

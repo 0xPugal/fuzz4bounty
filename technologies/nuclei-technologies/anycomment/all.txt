@@ -1,0 +1,2 @@
+/wp-json/anycomment/v1/auth/wordpress?redirect=https://interact.sh
+/wp-json/anycomment/v1/auth/wordpress?redirect=https://interact.sh?a=https://interact.sh

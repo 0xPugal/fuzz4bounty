@@ -1,0 +1,3 @@
+/buildspec.yml
+/buildspec.yaml
+/awstats/data

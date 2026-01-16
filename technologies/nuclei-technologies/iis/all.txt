@@ -1,0 +1,2 @@
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/_vti_bin/spdisco.aspx

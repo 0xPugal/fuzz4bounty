@@ -1,0 +1,4 @@
+/SetupWizard.aspx/{{string}}
+/SetupWizard.aspx
+/login.zul
+/Login

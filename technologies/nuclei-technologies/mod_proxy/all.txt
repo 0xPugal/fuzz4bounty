@@ -1,0 +1,6 @@
+/{{files}}
+/{{http_1_files}}%3ftest.php
+/html/usr/share/doc/hostname/copyright%3f
+/mcm
+/cluster-manager
+/mod_cluster_manager

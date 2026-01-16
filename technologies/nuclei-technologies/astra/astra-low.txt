@@ -1,0 +1,2 @@
+/wp-content/themes/astra/assets/svg/logo-svg-icons/icons-v6-0.php
+/wp-content/themes/astra/inc/addons/scroll-to-top/class-astra-scroll-to-top.php

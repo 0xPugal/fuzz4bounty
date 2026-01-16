@@ -1,0 +1,1 @@
+/CMSPages/GetDocLink.ashx?link=https://interact.sh/

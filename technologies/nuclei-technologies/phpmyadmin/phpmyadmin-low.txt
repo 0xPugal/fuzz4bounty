@@ -1,0 +1,4 @@
+{{paths}}
+/phpmyadmin/libraries/advisory_rules_generic.php
+/phpmyadmin/libraries/phpseclib/Crypt/AES.php
+/phpmyadmin/libraries/phpseclib/Crypt/Rijndael.php

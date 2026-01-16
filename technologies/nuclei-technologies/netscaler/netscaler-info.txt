@@ -1,0 +1,3 @@
+/logon/LogonPoint/tmindex.html
+/admin_ui/mas/ent/login.html
+/vpn/index.html

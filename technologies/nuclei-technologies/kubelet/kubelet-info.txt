@@ -1,0 +1,6 @@
+/healthz
+/
+/metrics
+/pods
+/runningpods/
+/stats/summary

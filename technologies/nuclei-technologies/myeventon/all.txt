@@ -1,0 +1,3 @@
+/addons/?q=%3Csvg%2Fonload%3Dalert(1)%3E
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
+/wp-admin/admin-ajax.php?action=eventon_get_virtual_users

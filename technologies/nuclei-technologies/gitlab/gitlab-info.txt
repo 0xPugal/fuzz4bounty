@@ -1,0 +1,6 @@
+/users/sign_in
+/explore
+/api/v4/projects
+/users/sign_up
+/explore/snippets
+/-/snippets

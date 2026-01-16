@@ -1,0 +1,1 @@
+/wp-content/plugins/popup-maker/classes/Activator.php

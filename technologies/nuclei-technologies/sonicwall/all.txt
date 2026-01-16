@@ -1,0 +1,9 @@
+/login.html
+/images//////////////////../../../../../../../../etc/passwd
+/login.do
+
+/sonicui/7/login/
+/sgms/auth
+/auth.html
+/cgi-bin/welcome
+/favicon.ico

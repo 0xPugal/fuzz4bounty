@@ -1,0 +1,4 @@
+/portal/portalhelp/en/
+/arcgis/rest/services
+/server/sdk/rest/index.html
+/arcgis/tokens/

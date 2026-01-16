@@ -1,0 +1,3 @@
+/restgui/start.html
+/login.html
+/data?get=prodServerGen

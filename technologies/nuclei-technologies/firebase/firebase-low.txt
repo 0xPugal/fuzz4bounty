@@ -1,0 +1,2 @@
+/firebase-debug.log
+/.settings/rules.json?auth=FIREBASE_SECRET

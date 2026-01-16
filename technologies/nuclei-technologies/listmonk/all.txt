@@ -1,0 +1,1 @@
+/admin/login?next=%2Fadmin

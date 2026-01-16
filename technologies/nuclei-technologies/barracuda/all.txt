@@ -1,0 +1,2 @@
+/cgi-mod/index.cgi
+/default/showLogon.do

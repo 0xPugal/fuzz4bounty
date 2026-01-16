@@ -1,0 +1,5 @@
+/login
+/.well-known/mta-sts.txt
+/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
+/xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
+/{{route}}search=@

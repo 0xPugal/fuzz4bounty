@@ -1,0 +1,8 @@
+/login.html
+/restgui/start.html
+
+/config/authentication_page.htm
+/ccm-web/
+/index2.html
+/data?get=prodServerGen
+/sysmgmt/2015/bmc/info

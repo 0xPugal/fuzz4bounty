@@ -1,0 +1,1 @@
+/wp-admin/admin.php?page=download_report&report=users&status=all

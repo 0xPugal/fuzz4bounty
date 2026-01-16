@@ -1,0 +1,3 @@
+/excel.php
+/pos-kasir-php/excel.php
+/print.php?nm_member=<script>alert(document.location)</script>

@@ -1,0 +1,3 @@
+/wp-content/themes/bricks/readme.txt
+/?rest_route=/
+/wp-json/

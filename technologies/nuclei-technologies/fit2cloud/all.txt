@@ -1,0 +1,2 @@
+/api/v1/clusters/kubeconfig/k8s
+/api/v1/terminal/sessions/

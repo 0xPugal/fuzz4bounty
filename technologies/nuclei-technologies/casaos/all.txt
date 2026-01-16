@@ -1,0 +1,4 @@
+/v1/folder?path=%2F
+
+/#/login
+/v1/sys/debug

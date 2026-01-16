@@ -1,0 +1,13 @@
+/cluster/cluster
+/Wiki.jsp?page=SystemInfo
+/.licenserc.yaml
+/admin/airflow/login
+/index
+/server-status
+/server-info
+/unified-console.html
+
+/struts2-showcase/showcase.action
+/examples/servlets/servlet/CookieExample
+/?f=\[
+/ws/v1/cluster/apps/new-application

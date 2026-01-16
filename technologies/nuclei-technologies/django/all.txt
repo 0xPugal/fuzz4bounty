@@ -1,0 +1,12 @@
+/manage.py
+/settings.py
+/app/settings.py
+/django/settings.py
+/settings/settings.py
+/web/settings/settings.py
+/{{app_name}}/settings.py
+/admin/login/?next=/admin/
+/admin/login/
+/create_user/?username=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+//www.interact.sh
+/NON_EXISTING_PATH/

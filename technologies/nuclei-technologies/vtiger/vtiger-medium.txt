@@ -1,0 +1,2 @@
+/vtigercrm/libraries/
+/vtigercrm/layouts/

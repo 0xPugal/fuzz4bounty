@@ -1,0 +1,3 @@
+/wp-content/plugins/wp-maintenance-mode/includes/classes/class-wp-maintenance-mode.php
+/wp-content/plugins/wp-maintenance-mode/includes/classes/class-wp-maintenance-mode-admin.php
+/wp-content/plugins/wp-maintenance-mode/views/maintenance.php

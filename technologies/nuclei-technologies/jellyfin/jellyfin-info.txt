@@ -1,0 +1,5 @@
+/home.html
+/web/home.html
+/index.html
+/web/index.html
+/web/manifest.json

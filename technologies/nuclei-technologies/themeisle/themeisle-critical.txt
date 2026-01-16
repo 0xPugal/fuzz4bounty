@@ -1,0 +1,1 @@
+/wp-json/visualizer/v1/upload-data

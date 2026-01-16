@@ -1,0 +1,3 @@
+/sitemap.xml
+/sitemap.xsl
+/sitemap.xsd

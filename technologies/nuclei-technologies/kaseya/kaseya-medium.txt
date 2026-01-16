@@ -1,0 +1,2 @@
+/inc/supportLoad.asp?urlToLoad=http://oast.me
+/vsaPres/Web20/core/LocalProxy.ashx?url=http://oast.me

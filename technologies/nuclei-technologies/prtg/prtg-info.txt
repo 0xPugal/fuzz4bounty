@@ -1,0 +1,3 @@
+/index.htm
+/prtg/index.htm
+/PRTG/index.htm

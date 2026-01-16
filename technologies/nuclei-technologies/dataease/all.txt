@@ -1,0 +1,3 @@
+/api/auth/login
+/#/login?redirect=%2F
+/de2api/engine/getEngine;.js

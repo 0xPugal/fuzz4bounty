@@ -1,0 +1,3 @@
+/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
+/pages/index.astro.mjs.map
+/index.astro.mjs.map

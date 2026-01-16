@@ -1,0 +1,2 @@
+/.well-known/oauth-authorization-server
+/.well-known/openid-configuration

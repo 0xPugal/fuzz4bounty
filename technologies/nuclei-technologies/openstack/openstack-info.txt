@@ -1,0 +1,3 @@
+/dashboard/auth/login/
+/horizon/auth/login/?next=/horizon/
+/auth/login/?next=/

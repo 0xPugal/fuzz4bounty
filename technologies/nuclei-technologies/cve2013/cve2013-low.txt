@@ -1,0 +1,1 @@
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username + 

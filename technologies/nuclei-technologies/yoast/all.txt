@@ -1,0 +1,4 @@
+/wp-content/plugins/wordpress-seo/src/main.php
+/wp-content/plugins/wordpress-seo/admin/class-admin.php
+/wp-content/plugins/wordpress-seo/inc/class-wpseo-utils.php
+/wp-json/wp/v2/posts?per_page=1

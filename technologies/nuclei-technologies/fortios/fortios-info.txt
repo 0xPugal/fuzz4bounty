@@ -1,0 +1,2 @@
+/p/login/
+/login?redir=/ng

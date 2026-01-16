@@ -1,0 +1,4 @@
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?is_daws=1
+/wp-content/dup-installer/main.installer.php?is_daws=1
+/wp-content/backups-dup-lite/tmp/
+/wp-content/backups-dup-pro/tmp/

@@ -1,0 +1,3 @@
+/rest/users/1/settings/
+/rest/rights/
+/auth

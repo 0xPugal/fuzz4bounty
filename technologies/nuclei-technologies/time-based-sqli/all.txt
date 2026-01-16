@@ -1,0 +1,4 @@
+/admin/suppliers/view_details.php?id=1
+/wp-content/plugins/mstore-api/readme.txt
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-content/plugins/LayerSlider/assets/static/public/front.css

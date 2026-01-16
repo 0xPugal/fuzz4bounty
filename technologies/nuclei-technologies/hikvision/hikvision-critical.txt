@@ -1,0 +1,2 @@
+/system/deviceInfo?auth=YWRtaW46MTEK
+/php/ping.php

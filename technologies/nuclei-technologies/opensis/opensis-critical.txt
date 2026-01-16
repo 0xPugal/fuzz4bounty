@@ -1,0 +1,3 @@
+/account/index.php
+/opensis/index.php
+/index.php

@@ -1,0 +1,9 @@
+/
+/static/
+/resources/
+/assets/
+/files/
+/WEB-INF/web.xml
+/%2e/WEB-INF/web.xml
+/static?/%2557EB-INF/web.xml
+/concat?/%2557EB-INF/web.xml

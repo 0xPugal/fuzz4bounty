@@ -1,0 +1,4 @@
+/redoc
+/docs
+/api/docs
+/openapi

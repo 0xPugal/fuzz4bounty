@@ -1,0 +1,2 @@
+/debug.php
+/download.php?file=../../../../../etc/passwd

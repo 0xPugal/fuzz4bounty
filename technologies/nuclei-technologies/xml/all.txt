@@ -1,0 +1,2 @@
+/v2/api/product/manger/getInfo
+/SecurityGateway.dll?view=login&redirect=true&9OW4L7RSDY=1

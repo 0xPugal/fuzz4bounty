@@ -1,0 +1,5 @@
+/static/images/favicon.ico
+/static/customization/favicon.ico
+/
+/BACLIENT
+/JNLP

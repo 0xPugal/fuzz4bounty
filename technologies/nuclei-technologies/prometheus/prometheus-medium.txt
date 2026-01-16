@@ -1,0 +1,4 @@
+/new/newhttp://interact.sh
+/metrics
+/api/metrics
+/service-discovery

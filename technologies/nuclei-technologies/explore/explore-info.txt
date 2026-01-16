@@ -1,0 +1,2 @@
+/explore
+/api/v4/projects

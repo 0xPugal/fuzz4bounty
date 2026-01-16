@@ -1,0 +1,2 @@
+/installer
+/upgrade.php

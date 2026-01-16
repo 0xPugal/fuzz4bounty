@@ -1,0 +1,1 @@
+/index.php/Home/uploadify/fileList?type=.+&path=../../../

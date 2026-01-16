@@ -1,0 +1,2 @@
+/opencms/cmisatom/cmis-online/query
+/cmisatom/cmis-online/query

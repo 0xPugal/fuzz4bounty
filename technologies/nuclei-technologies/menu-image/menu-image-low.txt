@@ -1,0 +1,1 @@
+/wp-content/plugins/menu-image/freemius/templates/checkout.php

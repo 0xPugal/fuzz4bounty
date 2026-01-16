@@ -1,0 +1,2 @@
+/wp-content/plugins/gravityforms/debug.log
+/wp-content/plugins/gravityforms/tmp/debug.log

@@ -1,0 +1,2 @@
+/.phpspec.yml
+/phpspec.yml

@@ -1,0 +1,16 @@
+/.antproxy.php
+/jexws/jexws.jsp?ppp={{url_encode(
+/jexws4/jexws4.jsp?ppp={{url_encode(
+/jexinv4/jexinv4.jsp?ppp={{url_encode(
+/jbossass/jbossass.jsp?ppp={{url_encode(
+/index.php/bbs/index/download?url=/etc/passwd&name=1.txt&local=1
+/irj/helper.jsp?cmd=ls
+/irj/cache.jsp?cmd=ls
+/_layouts/15/spinstall0.aspx
+/command/prima-factory.cgi
+/.clean.sh
+
+/faq.php?cmd=echo%20-n%20{{num}}|md5sum
+/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum
+/{{paths}}/faq.php?cmd=echo%20-n%20{{num}}|md5sum
+/{{paths}}/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum

@@ -1,0 +1,2 @@
+
+/wp-content/debug.log

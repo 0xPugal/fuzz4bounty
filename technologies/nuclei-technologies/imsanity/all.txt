@@ -1,0 +1,3 @@
+/wp-content/plugins/imsanity/libs/imagecreatefrombmp.php
+/wp-content/plugins/imsanity/ajax.php
+/wp-content/plugins/imsanity/settings.php

@@ -1,0 +1,16 @@
+/cdn-cgi/image/width=1000,format=auto/https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
+/etc/importers/bulkeditor.html
+/crx/explorer/browser/index.jsp
+/crx/explorer/ui/search.jsp
+/crx/explorer/ui/search.jsp?Path=&amp;Query=
+/crx/explorer/ui/search.jsp?Path=&Query=
+/apps.tidy.infinity.json
+{{path}}
+/etc/linkchecker.html
+/var/linkchecker.html
+/allPlans.action
+/setup/start
+/status?full
+/keyinfo.html
+/struts/webconsole.html?debug=console
+/_fragment

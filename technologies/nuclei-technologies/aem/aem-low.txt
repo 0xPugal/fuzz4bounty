@@ -1,0 +1,8 @@
+/dispatcher/invalidate.cache
+/crx/explorer/ui/namespace_editor.jsp
+{{paths}}
+/etc/reports/diskusage.html
+/etc/reports/diskusage.html?path=/content/dam
+/bin.tidy.infinity.json
+/bin/wcm/contentfinder/connector/suggestions.json;%0aOJh.css?query_term=path%3a/&pre={{randstr}}
+/crx/de/index.jsp

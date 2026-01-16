@@ -1,0 +1,1 @@
+/log_proxy?url=http://{{interactsh-url}}

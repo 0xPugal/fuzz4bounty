@@ -1,0 +1,4 @@
+{{paths}}
+///////../../../etc/passwd
+/static///////../../../../etc/passwd
+///../app.js

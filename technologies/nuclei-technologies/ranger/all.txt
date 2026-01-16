@@ -1,0 +1,2 @@
+/login.jsp
+/images/favicon.ico

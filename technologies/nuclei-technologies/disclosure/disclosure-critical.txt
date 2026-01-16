@@ -1,0 +1,8 @@
+/wlsecurity.html
+/password.jsn
+/getcfg.php
+/manage/fileDownloader?sec=1
+/aj.html?a=devi
+/login?redir=/ng
+/cgi-bin/ExportSettings.sh
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc

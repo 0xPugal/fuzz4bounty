@@ -1,0 +1,2 @@
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
+/sslvpn_logon.shtml

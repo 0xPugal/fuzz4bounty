@@ -1,0 +1,1 @@
+/monitorix-cgi/monitorix.cgi?mode=localhost&graph=all&when=1day

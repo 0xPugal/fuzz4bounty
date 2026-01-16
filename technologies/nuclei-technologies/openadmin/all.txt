@@ -1,0 +1,1 @@
+/openadmin/index.php

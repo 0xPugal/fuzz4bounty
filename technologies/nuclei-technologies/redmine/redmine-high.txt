@@ -1,0 +1,3 @@
+/configuration.yml
+/config/configuration.yml
+/redmine/config/configuration.yml

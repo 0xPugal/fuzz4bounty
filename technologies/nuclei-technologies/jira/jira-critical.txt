@@ -1,0 +1,6 @@
+/secure/Dashboard.jspa
+/jira/secure/Dashboard.jspa
+/login.jsp
+/secure/ContactAdministrators!default.jspa
+/InsightPluginShowGeneralConfiguration.jspa;
+/secure/WBSGanttManageScheduleJobAction.jspa;

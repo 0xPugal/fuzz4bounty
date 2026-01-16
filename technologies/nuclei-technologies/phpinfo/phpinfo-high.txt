@@ -1,0 +1,7 @@
+/imcat/root/tools/adbug/binfo.php?phpinfo1
+/modules/simpleimportproduct/send.php?phpinfo=1
+/modules/updateproducts/send.php?phpinfo=1
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+
+/_profiler/phpinfo?+--env=dev

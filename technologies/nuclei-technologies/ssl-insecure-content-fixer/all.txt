@@ -1,0 +1,2 @@
+/wp-content/plugins/ssl-insecure-content-fixer/includes/nonces.php
+/wp-content/plugins/ssl-insecure-content-fixer/nowp/ajax.php

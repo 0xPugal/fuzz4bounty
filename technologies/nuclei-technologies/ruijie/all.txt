@@ -1,0 +1,11 @@
+/system/config_menu.htm
+
+/update.php?jungle=id
+/get_dkey.php?user=admin
+/web/xml/webuser-auth.xml
+/api/sys/set_passwd
+/api/sys/login
+/login.php
+/download.do?file=../../../../config.text
+/WEB_VMS/LEVEL15/
+/tool/view/phpinfo.view.php

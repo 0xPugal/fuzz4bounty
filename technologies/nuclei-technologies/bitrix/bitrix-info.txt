@@ -1,0 +1,2 @@
+/bitrix/admin/
+/bitrix/components/bitrix/map.yandex.view/settings/settings.php

@@ -1,0 +1,2 @@
+/signin?from=https://interact.sh
+/signin?from=javascript:alert(document.cookie)

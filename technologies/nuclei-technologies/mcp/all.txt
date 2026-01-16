@@ -1,0 +1,7 @@
+
+{{js}}
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/mcp.json
+/.mcp.json
+/mcp/
+/sse

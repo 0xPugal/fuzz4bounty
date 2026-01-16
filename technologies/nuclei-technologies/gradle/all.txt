@@ -1,0 +1,2 @@
+/gradle/libs.versions.toml
+/libs.versions.toml

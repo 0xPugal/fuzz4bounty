@@ -1,0 +1,2 @@
+/_api/web/roledefinitions
+/_vti_bin/spdisco.aspx

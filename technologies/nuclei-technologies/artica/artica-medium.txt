@@ -1,0 +1,1 @@
+/pandora_console/attachment/pandora_chat.log.json.txt

@@ -1,0 +1,3 @@
+/html/repository
+/services/user/values.xml?var=STATUS
+/html/device-id

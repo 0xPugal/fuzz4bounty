@@ -1,0 +1,4 @@
+/_next/image?w=16&q=10&url=http://{{interactsh-url}}
+/_next/image?w=16&q=10&url=https://{{interactsh-url}}
+/vercel.json
+/_src

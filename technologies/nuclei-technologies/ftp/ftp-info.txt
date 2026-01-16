@@ -1,0 +1,2 @@
+/login
+/cgi-bin/upload/web-ftp.cgi

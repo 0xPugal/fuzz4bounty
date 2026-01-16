@@ -1,0 +1,2 @@
+/haproxy-status
+/haproxy?stats

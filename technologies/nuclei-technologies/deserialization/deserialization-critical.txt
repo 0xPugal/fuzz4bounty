@@ -1,0 +1,7 @@
+/json
+/api/json
+/parse
+/deserialize
+/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/{{interface}}
+/helpdesk/WebObjects/Helpdesk.woa

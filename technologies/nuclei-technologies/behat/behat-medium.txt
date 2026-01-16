@@ -1,0 +1,2 @@
+/behat.yml
+/behat.yml.dist

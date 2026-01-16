@@ -1,0 +1,2 @@
+/WEB-INF/web.xml
+/%2e/WEB-INF/web.xml

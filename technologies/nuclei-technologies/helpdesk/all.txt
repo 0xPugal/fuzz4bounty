@@ -1,0 +1,4 @@
+/#welcome
+/Login.jsp
+/InvalidAccount.jsp
+/favicon.ico

@@ -1,0 +1,7 @@
+/Cakefile
+/src/Cakefile
+/app/Cakefile
+/lib/Cakefile
+/build/Cakefile
+/node_modules/whet.extend/Cakefile
+/node_modules/Cakefile

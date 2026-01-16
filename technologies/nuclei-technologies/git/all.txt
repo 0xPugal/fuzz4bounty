@@ -1,0 +1,15 @@
+/git/notifyCommit?url={{randstr}}&branches={{randstr}}
+/.gitmodules
+
+/git
+/.gitignore
+/assets/.gitignore
+/includes/.gitignore
+/.git/logs/HEAD
+/wp-content/plugins/.git/config
+/wp-content/themes/.git/config
+/.mailmap
+/.git/config
+/.git/
+/Server/.git/config
+/StudioServer/.git/config

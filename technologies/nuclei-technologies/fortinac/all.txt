@@ -1,0 +1,2 @@
+/configWizard/keyUpload.jsp
+/WelcomeActions.jsp?action=ajaxGetWelcomeViewInfo

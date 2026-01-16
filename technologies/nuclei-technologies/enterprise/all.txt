@@ -1,0 +1,8 @@
+/api/v3/user/orgs
+/api/v3/orgs/{{org_name}}/memberships/{{username}}
+/api/v3/orgs/{{org_name}}/repos
+/login
+/session
+/organizations/{{org_name}}/settings/actions/repository_items?page=1&rid_key=nw_fsck
+/
+/#/login

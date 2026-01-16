@@ -1,0 +1,3 @@
+/sess-bin/login_session.cgi
+/login/hostinfo.cgi
+/login/hostinfo2.cgi

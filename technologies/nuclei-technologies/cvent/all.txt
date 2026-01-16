@@ -1,0 +1,5 @@
+
+/Login.aspx
+/manager/login.aspx
+/GDSHost/Default.aspx
+/events/EventRsvp.aspx

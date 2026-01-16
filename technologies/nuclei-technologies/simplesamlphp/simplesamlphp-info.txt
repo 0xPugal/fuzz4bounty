@@ -1,0 +1,2 @@
+/simplesaml/module.php/core/frontpage_welcome.php
+/module.php/core/frontpage_welcome.php

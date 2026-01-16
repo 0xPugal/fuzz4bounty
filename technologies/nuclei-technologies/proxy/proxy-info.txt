@@ -1,0 +1,7 @@
+/login
+/wpad.dat
+/fw.login.php
+
+/proxy
+/sap/wdisp/admin/public/default.html
+/inormalydonotexist

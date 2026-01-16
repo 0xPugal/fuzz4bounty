@@ -1,0 +1,5 @@
+/users/sign_in
+/groovyconsole
+/etc/groovyconsole.html
+/script/
+/jenkins/script

@@ -1,0 +1,7 @@
+/query
+/jsonpath
+/api/query
+/data
+/parse
+/filter
+/expression

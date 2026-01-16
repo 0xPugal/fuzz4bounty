@@ -1,0 +1,1 @@
+/plugins/simple-301-redirects/wp-simple-301-redirects.php

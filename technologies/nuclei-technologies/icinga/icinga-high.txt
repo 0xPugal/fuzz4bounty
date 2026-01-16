@@ -1,0 +1,3 @@
+/lib/icinga/icinga-php-thirdparty/etc/passwd
+/icinga2/lib/icinga/icinga-php-thirdparty/etc/passwd
+/icinga-web/lib/icinga/icinga-php-thirdparty/etc/passwd

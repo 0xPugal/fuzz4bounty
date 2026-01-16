@@ -1,0 +1,3 @@
+/secure/Dashboard.jspa
+/jira/secure/Dashboard.jspa
+/login.jsp

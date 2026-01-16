@@ -1,0 +1,2 @@
+/installed_emanual_list.html
+/installed_emanual_down.html?path=/manual/../../../etc/passwd

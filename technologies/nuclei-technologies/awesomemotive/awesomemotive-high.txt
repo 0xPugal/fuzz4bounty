@@ -1,0 +1,2 @@
+/wp-content/backups-dup-lite/tmp/
+/wp-content/backups-dup-pro/tmp/

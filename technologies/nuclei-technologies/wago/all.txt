@@ -1,0 +1,2 @@
+/plc/webvisu.htm
+/wbm/index.php

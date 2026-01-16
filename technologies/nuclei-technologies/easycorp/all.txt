@@ -1,0 +1,1 @@
+/zentao/index.php?mode=getconfig

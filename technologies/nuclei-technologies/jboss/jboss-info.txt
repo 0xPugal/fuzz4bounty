@@ -1,0 +1,6 @@
+/jbpm-console/app/tasks.jsf
+
+/juddi/
+/css/footer.js
+/jmx-console/
+/web-console/ServerInfo.jsp

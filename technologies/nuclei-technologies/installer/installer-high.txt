@@ -1,0 +1,17 @@
+/install/index.php
+/install/install.php
+/settings
+
+/secure/SetupMode!default.jspa
+/common/setup.php
+/setup
+/installer/
+/installer/index.php?_step=2
+/sabnzbd/wizard/
+/wizard/
+/api/system/options/core.email
+/install
+/install/
+/install/index.html
+/wizardset.htm
+/easy_setup.htm

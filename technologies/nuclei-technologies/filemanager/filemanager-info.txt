@@ -1,0 +1,4 @@
+/kfm/index.php
+/laravel-filemanager?type=Files
+/index.php
+/Login

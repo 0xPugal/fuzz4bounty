@@ -1,0 +1,8 @@
+/data/pbootcms.db
+/inc/data/database.sdb
+/{{path}}
+/slnx.sqlite
+/.vs/slnx.sqlite
+
+/sqlite/
+/sqlitemanager/

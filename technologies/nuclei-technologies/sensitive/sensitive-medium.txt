@@ -1,0 +1,2 @@
+/html/bin/sqlnet.log
+/OA_HTML/bin/sqlnet.log

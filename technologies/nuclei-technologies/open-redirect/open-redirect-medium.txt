@@ -1,0 +1,2 @@
+/html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
+/%2f%5c%2foast.pro%2f..

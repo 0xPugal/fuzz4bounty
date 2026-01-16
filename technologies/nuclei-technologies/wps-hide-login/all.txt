@@ -1,0 +1,3 @@
+
+/wp-login.php?SECUPRESSaction=confirmaction
+/wp-content/plugins/wps-hide-login/classes/error_log

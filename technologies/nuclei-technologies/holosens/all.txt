@@ -1,0 +1,2 @@
+
+/cgi-bin/main.cgi

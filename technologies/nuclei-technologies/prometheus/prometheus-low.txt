@@ -1,0 +1,3 @@
+/prometheus
+/actuator/prometheus
+/actuator/prometheus;%2f..%2f..%2f

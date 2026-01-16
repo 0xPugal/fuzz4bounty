@@ -1,0 +1,4 @@
+/login.do?message={{num1}}*{{num2}}
+/login/login.do?message={{num1}}*{{num2}}
+/portal/attachment_clearTempFile.action?bean.RecId=1
+/portal/attachment_getAttList.action?bean.RecId=1

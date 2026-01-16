@@ -1,0 +1,5 @@
+/ampps-admin/index.php?act=login
+/ampps/index.php?act=login
+/client/
+/files/
+/icons/

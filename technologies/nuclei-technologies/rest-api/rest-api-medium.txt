@@ -1,0 +1,3 @@
+/wp-json
+/wp-json?
+/xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history

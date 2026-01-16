@@ -1,0 +1,3 @@
+/.well-known/atproto-did
+/well-known-atproto-did
+/.well-known/keybase.txt

@@ -1,0 +1,3 @@
+/admin/spider.php
+/sphider/admin/admin.php
+/search/admin/admin.php

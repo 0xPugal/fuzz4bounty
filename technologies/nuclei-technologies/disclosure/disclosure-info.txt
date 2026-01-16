@@ -1,0 +1,8 @@
+/#connection
+
+/openvpn-monitor/
+/_framework/blazor.boot.json
+/.prettierignore
+/.prettierrc
+/.stylelintignore
+/yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0

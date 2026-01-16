@@ -1,0 +1,4 @@
+/javax.faces.resources/web.xml.jsf?loc=/../../WEB-INF
+/javax.faces.resources/web.xml.jsf?con=/../../WEB-INF
+/javax.faces.resources/faces-config.xml.jsf?loc=/../../WEB-INF
+/javax.faces.resources/faces-config.xml.jsf?con=/../../WEB-INF

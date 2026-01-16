@@ -1,0 +1,6 @@
+/console/index.html
+/graphql
+/api/graphql
+/query
+/
+/apps

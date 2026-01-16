@@ -1,0 +1,2 @@
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email=user@domain.tld&RedirectCount=1
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email={{rand_text_alpha(6)}}%40oast.pro&RedirectCount=1

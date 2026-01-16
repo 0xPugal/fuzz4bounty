@@ -1,0 +1,2 @@
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login

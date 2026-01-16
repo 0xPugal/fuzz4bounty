@@ -1,0 +1,1 @@
+/wp-json/acf/v3/options/a?id=active&field=plugins

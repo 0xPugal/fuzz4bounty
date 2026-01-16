@@ -1,0 +1,2 @@
+/wp-json/wp/v2/sensei-messages/{{num}}
+{{filepath}}{{bakext}}

@@ -1,0 +1,8 @@
+
+{{endpoints}}
+/axis2/axis2-web/HappyAxis.jsp
+/axis/happyaxis.jsp
+/axis2-web/HappyAxis.jsp
+/happyaxis.jsp
+/axis2/
+/axis/

@@ -1,0 +1,1 @@
+/wp-admin?piereg_logout_url=true&redirect_to=https://oast.me

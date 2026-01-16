@@ -1,0 +1,2 @@
+/wp-content/plugins/easy-wp-smtp/
+/wp-content/plugins/wp-mail-smtp-pro/

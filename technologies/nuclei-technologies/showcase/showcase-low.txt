@@ -1,0 +1,2 @@
+
+/struts2-showcase/showcase.action

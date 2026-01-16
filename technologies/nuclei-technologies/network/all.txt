@@ -1,0 +1,7 @@
+/../../../../../../../../etc/passwd
+/index.html
+/login.html
+/wsman
+
+/amr
+/eSCL/ScannerCapabilities

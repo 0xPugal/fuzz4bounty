@@ -1,0 +1,3 @@
+/jolokia/search/*:test=test
+/actuator/jolokia/search/*:test=test
+{{jolokia_paths}}{{mbean_paths}}

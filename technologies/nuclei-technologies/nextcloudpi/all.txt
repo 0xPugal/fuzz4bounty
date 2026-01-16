@@ -1,0 +1,2 @@
+/?app=config
+/index.php/login

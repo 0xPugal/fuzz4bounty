@@ -1,0 +1,8 @@
+/debug/pprof/
+/debug/pprof/goroutine?debug=1
+/healthz
+/
+/metrics
+/pods
+/runningpods/
+/stats/summary

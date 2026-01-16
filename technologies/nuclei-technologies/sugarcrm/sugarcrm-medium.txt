@@ -1,0 +1,2 @@
+/index.php?action=Login&module=Users&print=a&%22%2F%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E
+/mobile/error-not-supported-platform.html?desktop_url=javascript:alert(1337);//itms://

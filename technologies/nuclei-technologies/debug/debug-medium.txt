@@ -1,0 +1,7 @@
+/{{randstr}}
+/NON_EXISTING_PATH/
+/_ignition/health-check
+
+///////this-should-not-exist,.<>!@#$%^&*()_+
+/%00
+/metrics

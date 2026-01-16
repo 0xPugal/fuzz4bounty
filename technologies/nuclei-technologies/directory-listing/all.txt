@@ -1,0 +1,11 @@
+/modules/
+/sites/
+/themes/
+/profiles/
+/includes/
+/misc/
+/scripts/
+/core/
+/vendor/
+/libraries/
+/wp-content/uploads/download-manager-files/

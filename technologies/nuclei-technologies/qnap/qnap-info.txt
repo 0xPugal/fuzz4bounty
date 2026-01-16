@@ -1,0 +1,3 @@
+/photo/
+/cgi-bin/
+/cgi-bin/html/login.html

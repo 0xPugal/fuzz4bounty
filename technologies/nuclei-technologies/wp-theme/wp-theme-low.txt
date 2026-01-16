@@ -1,0 +1,12 @@
+/wp-content/themes/storefront/functions.php
+/wp-content/themes/storefront/header.php
+/wp-content/themes/storefront/footer.php
+/wp-content/themes/twentynineteen/functions.php
+/wp-content/themes/astra/assets/svg/logo-svg-icons/icons-v6-0.php
+/wp-content/themes/astra/inc/addons/scroll-to-top/class-astra-scroll-to-top.php
+/wp-content/themes/oceanwp/inc/helpers.php
+/wp-content/themes/oceanwp/inc/customizer/customizer.php
+/wp-content/themes/oceanwp/inc/walker/menu-walker.php
+/wp-content/themes/haberadam/api/mobile-info.php?id=
+/blog/wp-content/themes/haberadam/api/mobile-info.php?id=
+/wp-content/themes/prostore/go.php?https://interact.sh/

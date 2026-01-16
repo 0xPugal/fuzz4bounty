@@ -1,0 +1,2 @@
+/login.htm
+/common.etic_cgi_portal/login.html

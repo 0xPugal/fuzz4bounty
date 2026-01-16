@@ -1,0 +1,3 @@
+/system/config_menu.htm
+
+/update.php?jungle=id

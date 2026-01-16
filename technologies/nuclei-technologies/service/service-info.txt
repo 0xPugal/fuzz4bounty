@@ -1,0 +1,4 @@
+/sm935/index.do
+/sm/ess.do
+/service/
+/login/sls/auth

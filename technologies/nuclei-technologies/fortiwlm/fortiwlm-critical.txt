@@ -1,0 +1,1 @@
+/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile={{url_encode(progressfile)}}

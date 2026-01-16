@@ -1,0 +1,9 @@
+/pme/media/
+/wp-content/uploads/prime-mover-export-files/1/
+/home/000~ROOT~000/etc/passwd
+/000~ROOT~000/etc/passwd
+/OLDS/home/000~ROOT~000/etc/passwd
+/app/webroot/files/kcfinder/files/home/000~ROOT~000/etc/passwd
+/_vti_pvt/service.pwd
+/data/
+/wp-includes/sym404/root/etc/passwd

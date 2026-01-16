@@ -1,0 +1,9 @@
+/config.rb
+/.chef/config.rb
+/assets/config.rb
+/env.js
+/config.js
+/config/env.js
+/config/runtime-env.js
+/status?full
+/_fragment

@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php

@@ -1,0 +1,1 @@
+/metrics/v1/mbeans

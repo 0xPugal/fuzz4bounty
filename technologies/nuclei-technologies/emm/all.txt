@@ -1,0 +1,2 @@
+/favicon.ico
+/images/favicon.ico

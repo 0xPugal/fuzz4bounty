@@ -1,0 +1,2 @@
+/Install/InstallWizard.aspx?__VIEWSTATE
+/DnnImageHandler.ashx?mode=file&url=http://{{interactsh-url}}

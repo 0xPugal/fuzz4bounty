@@ -1,0 +1,1 @@
+/CuteSoft_Client/CuteEditor/Template.aspx?Referrer=XSS

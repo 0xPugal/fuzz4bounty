@@ -1,0 +1,3 @@
+/wp-content/themes/Newspaper/style.css
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/themes/{{theme}}/style.css

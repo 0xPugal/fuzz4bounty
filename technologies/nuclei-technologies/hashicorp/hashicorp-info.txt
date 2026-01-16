@@ -1,0 +1,8 @@
+/v1/agent/self
+/ui/
+/session
+/v1/sys/health
+/ui/vault/auth
+/ui/auth
+/v1/sys/health?help=1
+/v1/sys/seal-status

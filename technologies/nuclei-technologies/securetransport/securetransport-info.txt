@@ -1,0 +1,1 @@
+/html/skin/ric/C/config/default.config.json

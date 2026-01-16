@@ -1,0 +1,2 @@
+/wfc/portal
+/wfc/logon

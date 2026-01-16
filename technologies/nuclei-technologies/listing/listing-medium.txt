@@ -1,0 +1,14 @@
+/vtigercrm/libraries/
+/vtigercrm/layouts/
+/config/
+/libraries/joomla/database/
+/storage/
+/api_smartapp/storage/
+/equipbid/storage/
+/server/storage/
+/intikal/storage/
+/elocker_old/storage/
+/irj/go/km/navigation/
+/log/
+/wp-content/uploads/data.txt
+/wp-content/uploads/pdf-invoices/

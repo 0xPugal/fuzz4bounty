@@ -1,0 +1,10 @@
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env
+{{paths}}
+/env
+/actuator/env
+/actuator;/env;
+/message-api/actuator/env

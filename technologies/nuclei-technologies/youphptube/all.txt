@@ -1,0 +1,4 @@
+/objects/getImage.php?base64Url={{base64(encode)}}=&format=png
+/objects/getImageMP4.php?base64Url={{base64(encode)}}=&format=jpg
+/objects/getSpiritsFromVideo.php?base64Url={{base64(encode)}}=&format=jpg
+/objects/{{filename}}.txt

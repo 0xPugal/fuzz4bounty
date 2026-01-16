@@ -1,0 +1,1 @@
+/admin/suppliers/view_details.php?id=1

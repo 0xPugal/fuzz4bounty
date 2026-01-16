@@ -1,0 +1,2 @@
+/includes/mysql2i/mysql2i.func.php
+/addons/phpmailer/phpmailer.php

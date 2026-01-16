@@ -1,0 +1,3 @@
+/favicon.ico
+/login
+/resource/md/get/url?url=http://oast.pro

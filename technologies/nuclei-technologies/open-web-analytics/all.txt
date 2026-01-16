@@ -1,0 +1,2 @@
+/install.php
+/index.php?owa_do=base.loginForm

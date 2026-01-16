@@ -1,0 +1,2 @@
+/api/v1/applications
+/environment/

@@ -1,0 +1,1 @@
+/rest/v1/AccountService/Accounts

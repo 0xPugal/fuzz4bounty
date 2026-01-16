@@ -1,0 +1,2 @@
+/unified-console.html
+/druid/index.html

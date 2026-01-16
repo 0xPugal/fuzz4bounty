@@ -1,0 +1,2 @@
+/{{path}}sys/dict/loadTreeData?tableName=sys_user&text=password%20text,id&code=password&hasChildField=&converIsLeafVal=1&condition=&pid=admin&pidField=username
+/{{path}}sys/dict/loadTreeData?tableName=sys_user+t&text=password,id&code=password&hasChildField=&converIsLeafVal=1&condition=&pid=admin&pidField=username

@@ -1,0 +1,2 @@
+/run.php?project=admin&execute_mode=ADMIN&clear_session=1
+/reportico/run.php?project=admin&execute_mode=ADMIN&clear_session=1

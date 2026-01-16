@@ -1,0 +1,11 @@
+/index.php/install
+/concrete5/index.php/install
+/upload/setup/install.php
+/setup/install.php
+/html/setup.html
+/clusterList
+/wp-admin/install.php?step=1
+/zp-core/setup/index.php
+/zp/zp-core/setup/index.php
+/gallery/zp-core/setup/index.php
+/zenphoto/zp-core/setup/index.php

