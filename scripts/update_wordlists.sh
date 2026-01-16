@@ -6,8 +6,12 @@ TMP_DIR="$(mktemp -d)"
 
 echo "[*] Updating wordlists..."
 
+
+# Use YQ_PATH if set (for GitHub Actions), otherwise fallback to 'yq' (for local/dev use)
+YQ_BIN="${YQ_PATH:-yq}"
+
 while IFS= read -r file; do
-  URL=$(yq e ".\"$file\".url" sources.yaml)
+  URL=$($YQ_BIN e ".\"$file\".url" sources.yaml)
 
   echo "[+] Fetching $file"
   echo "# Source: $URL" > "$TMP_DIR/$file"
@@ -27,6 +31,6 @@ while IFS= read -r file; do
     echo "    -> New file added"
   fi
 
-done < <(yq e 'keys | .[]' sources.yaml)
+done < <($YQ_BIN e 'keys | .[]' sources.yaml)
 
 rm -rf "$TMP_DIR"
