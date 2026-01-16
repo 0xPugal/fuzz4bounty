@@ -2,7 +2,7 @@ name: Auto Update Wordlists
 
 on:
   schedule:
-    - cron: "0 3 * * 1"   # Every Monday 03:00 UTC
+    - cron: "0 3 * * 1" # Every Monday 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -31,9 +31,9 @@ jobs:
           git config user.email "actions@github.com"
 
           if git status --porcelain | grep .; then
-            git add fuzz4bounty/*.txt
-            git commit -m "chore: auto-update wordlists"
-            git push
+          git add fuzz4bounty/*.txt
+          git commit -m "chore: auto-update wordlists"
+          git push
           else
-            echo "No changes to commit"
+          echo "No changes to commit"
           fi
