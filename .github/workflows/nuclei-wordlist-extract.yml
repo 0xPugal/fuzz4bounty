@@ -41,10 +41,10 @@ jobs:
 
       - name: Aggregate by severity
         run: |
-          mkdir -p nuclei-severity
+          mkdir -p ./nuclei-wordlist
           export PATH="$PATH:$(go env GOPATH)/bin"
           for sev in unknown info low medium high critical all; do
-            find technologies/nuclei-technologies -type f -name "*-$${sev}.txt" -exec cat {} + | anew nuclei-severity/nuclei-$${sev}.txt
+            find technologies/nuclei-technologies -type f -name "*-$${sev}.txt" -exec cat {} + | anew ./nuclei-wordlist/nuclei-$${sev}.txt
           done
 
       - name: Commit and push if updated
@@ -58,3 +58,4 @@ jobs:
             git push
           else
             echo "No changes to commit."
+          fi
