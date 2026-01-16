@@ -1,0 +1,36 @@
+name: Auto Update Wordlists
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # Every Monday 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl
+          wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
+          chmod +x /usr/bin/yq
+
+      - name: Update wordlists
+        run: bash scripts/update_wordlists.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "fuzz4bounty-bot"
+          git config user.email "actions@github.com"
+
+          if git status --porcelain | grep .; then
+            git add fuzz4bounty/*.txt
+            git commit -m "chore: auto-update wordlists"
+            git push
+          else
+            echo "No changes to commit"

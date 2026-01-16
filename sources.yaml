@@ -1,0 +1,24 @@
+bbFuzzing.txt:
+  url: https://raw.githubusercontent.com/reewardius/bbFuzzing.txt/refs/heads/main/bbFuzzing.txt
+
+dirsearch.txt:
+  url: https://raw.githubusercontent.com/maurosoria/dirsearch/refs/heads/master/db/dicc.txt
+
+hfuzz.txt:
+  url: https://raw.githubusercontent.com/thehlopster/hfuzz/refs/heads/master/hfuzz.txt
+
+leaky-paths.txt:
+  url: https://raw.githubusercontent.com/ayoubfathi/leaky-paths/refs/heads/main/leaky-paths.txt
+
+bo0om-fuzz.txt:
+  url: https://raw.githubusercontent.com/Bo0oM/fuzz.txt/refs/heads/master/fuzz.txt
+
+onelistforallmicro.txt:
+  url: https://raw.githubusercontent.com/six2dez/OneListForAll/refs/heads/main/onelistforallmicro.txt
+
+karanxa-all-fuzz.txt:
+  url: https://raw.githubusercontent.com/Karanxa/Bug-Bounty-Wordlists/refs/heads/main/all_fuzz.txt
+
+karanxa-all-files-leaked.txt:
+  url: https://raw.githubusercontent.com/Karanxa/Bug-Bounty-Wordlists/refs/heads/main/all-files-leaked.txt
+
