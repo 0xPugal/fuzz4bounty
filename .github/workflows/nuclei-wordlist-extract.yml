@@ -1,0 +1,60 @@
+name: Nuclei Wordlist Extractor
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # Once daily at 02:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go environment
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install anew utility
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tar
+          go install -v github.com/tomnomnom/anew@latest
+          echo "export PATH=\"$PATH:$(go env GOPATH)/bin\"" >> $GITHUB_ENV
+
+      - name: Clone official Nuclei templates
+        run: |
+          git clone --depth 1 https://github.com/projectdiscovery/nuclei-templates.git temp/nuclei-templates
+
+      - name: Generate technology wordlists
+        run: |
+          mkdir -p technologies/nuclei-technologies
+          go run wordlist-generator-tools/nuclei-wordlist-generator.go \
+            -file temp/nuclei-templates \
+            -output-directory technologies/nuclei-technologies
+          rm -rf temp/nuclei-templates
+
+      - name: Aggregate by severity
+        run: |
+          mkdir -p nuclei-severity
+          export PATH="$PATH:$(go env GOPATH)/bin"
+          for sev in unknown info low medium high critical all; do
+            find technologies/nuclei-technologies -type f -name "*-$${sev}.txt" -exec cat {} + | anew nuclei-severity/nuclei-$${sev}.txt
+          done
+
+      - name: Commit and push if updated
+        run: |
+          git config --global user.name 'nuclei-bot'
+          git config --global user.email 'nuclei-bot@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --exit-code; then
+            UTC_DATE=$(date -u +'%Y-%m-%d %H:%M UTC')
+            git commit -m "nuclei wordlists auto-update: $UTC_DATE"
+            git push
+          else
+            echo "No changes to commit."
