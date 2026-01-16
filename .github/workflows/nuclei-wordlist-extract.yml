@@ -34,7 +34,7 @@ jobs:
       - name: Generate technology wordlists
         run: |
           mkdir -p technologies/nuclei-technologies
-          go run wordlist-generator-tools/nuclei-wordlist-generator.go \
+          go run scripts/nuclei_wordlist_generator.go \
             -file temp/nuclei-templates \
             -output-directory technologies/nuclei-technologies
           rm -rf temp/nuclei-templates
