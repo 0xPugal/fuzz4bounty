@@ -321,3 +321,4 @@
 /?aiowpsec_do_log_out=1&al_additional_data=1
 /wp-content/uploads/pdf-invoices/
 /service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease
+/debug-kit

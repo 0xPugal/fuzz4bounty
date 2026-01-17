@@ -110,3 +110,4 @@
 /_ignition/health-check
 ///////this-should-not-exist,.<>!@#$%^&*()_+
 /%00
+/debug-kit

@@ -121,3 +121,5 @@
 /wp-json/tribe/events/v1/venues
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}

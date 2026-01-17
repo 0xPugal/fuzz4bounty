@@ -1320,3 +1320,5 @@
 /etc/linkchecker.html
 /var/linkchecker.html
 /_fragment
+/accounts/register/
+/debug-kit

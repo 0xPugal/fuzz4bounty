@@ -91,3 +91,5 @@
 /ueditor/jsp/controller.jsp?action=catchimage&source[]=http://127.0.0.1:{{rand_text_numeric(6)}}/?1.png
 /wp-content/plugins/w3-total-cache/pub/minify.php?file=yygpKbDS1y9Ky9TLSy0uLi3Wyy9KB3NLKkqUM4CyxUDpxKzECr30_Pz0nNTEgsxiveT8XAA.css
 /wp-content/plugins/jetpack/readme.txt
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}

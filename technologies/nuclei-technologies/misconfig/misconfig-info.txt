@@ -128,3 +128,4 @@
 /cgi-bin/multimon.cgi
 /?phpinfo=-1
 /wp-login.php
+/accounts/register/

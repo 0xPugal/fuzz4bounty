@@ -304,3 +304,4 @@
 /%20../web-inf/web.xml
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
+/accounts/register/

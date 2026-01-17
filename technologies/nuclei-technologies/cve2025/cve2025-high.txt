@@ -32,3 +32,5 @@
 /wfs?service=WMS&request=GetMap
 /wp-json/atarim/v1/db/vc
 /h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}

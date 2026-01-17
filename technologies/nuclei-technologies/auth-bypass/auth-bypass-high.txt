@@ -34,3 +34,5 @@
 /lan.html
 /admin/group/x_group.php?id=1
 /ui/login.php?user=admin
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

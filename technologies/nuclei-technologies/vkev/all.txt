@@ -699,3 +699,5 @@
 /console/api/system-features
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

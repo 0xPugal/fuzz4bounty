@@ -248,3 +248,5 @@
 /geoserver/wfs?service=WMS&request=GetMap
 /wfs?service=WMS&request=GetMap
 /h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

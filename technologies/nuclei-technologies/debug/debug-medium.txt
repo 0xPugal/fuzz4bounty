@@ -5,3 +5,4 @@
 ///////this-should-not-exist,.<>!@#$%^&*()_+
 /%00
 /metrics
+/debug-kit

@@ -1,3 +1,2 @@
-/apply/index.php?url=http://{{interactsh-url}}
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}

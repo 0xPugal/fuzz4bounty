@@ -93,3 +93,5 @@
 /zabbix/setup.php
 /setup.php
 /console/api/system-features
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

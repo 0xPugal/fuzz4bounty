@@ -29,3 +29,5 @@
 /MicroStrategy/servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https://google.com
 /jpeginfo/jpeginfo.php?url={{interactsh-url}}
 /render.html?url=https://oast.live
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}
