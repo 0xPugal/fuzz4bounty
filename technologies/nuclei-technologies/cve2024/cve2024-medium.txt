@@ -69,3 +69,5 @@
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/plugins/all-in-one-wp-migration/storage/error.log
 /api/chat/get-chat-session/1?is_shared=True
+/wp-content/plugins/siteguard/readme.txt
+/wp-register.php
