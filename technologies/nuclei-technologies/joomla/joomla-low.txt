@@ -7,3 +7,8 @@
 /libraries/phpmailer/phpmailer.php
 /libraries/phputf8/utils/bad.php
 /libraries/phputf8/utils/unicode.php
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+

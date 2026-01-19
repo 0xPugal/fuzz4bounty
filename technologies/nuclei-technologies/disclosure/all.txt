@@ -183,3 +183,15 @@
 /general/userinfo.php?UID=1
 /wp-content/backups-dup-lite/tmp/
 /wp-content/backups-dup-lite
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+/sites/default/settings.php
+/sites/default/settings.php~
+/sites/default/settings.php.bak
+/sites/default/settings.php.old
+/sites/default/settings.php.orig
+/sites/default/settings.php.save
+/sites/default/settings.php.swp
+/sites/default/settings.local.php

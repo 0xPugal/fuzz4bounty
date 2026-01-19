@@ -11,3 +11,8 @@
 /libraries/phputf8/utils/unicode.php
 /jcr:content.json
 /etc/replication/agents.author/publish/jcr:content.json
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+

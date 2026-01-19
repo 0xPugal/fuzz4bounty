@@ -78,3 +78,4 @@
 /wp-content/plugins/wordfence/lib/wfAPI.php
 /wp-content/plugins/wordfence/waf/bootstrap.php
 /wp-content/plugins/worker/src/MMB/User.php
+

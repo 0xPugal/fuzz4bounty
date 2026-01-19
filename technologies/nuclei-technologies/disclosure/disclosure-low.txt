@@ -78,3 +78,7 @@
 /wp-content/themes/twentytwenty-child/functions.php
 /wp-content/themes/astra-child/functions.php
 /wp-content/themes/generatepress-child/functions.php
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml

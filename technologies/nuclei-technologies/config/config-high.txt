@@ -89,3 +89,4 @@
 ///////../../../etc/passwd
 /static///////../../../../etc/passwd
 ///../app.js
+/.credentials

@@ -1,4 +1,3 @@
-/cities?country=/../../../../../../../../etc/passwd
 /.registry/pear.reg.ber
 /.registry/pear.reg
 /PEAR/.registry/pear.reg.ber

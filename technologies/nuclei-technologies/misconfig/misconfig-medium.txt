@@ -126,3 +126,11 @@
 /general/calendar/arrange/get_cal_list.php?starttime=1548058874&endtime=33165447106&view=agendaDay
 /wp-content/backups-dup-lite/tmp/
 /wp-content/backups-dup-lite
+/sites/default/settings.php
+/sites/default/settings.php~
+/sites/default/settings.php.bak
+/sites/default/settings.php.old
+/sites/default/settings.php.orig
+/sites/default/settings.php.save
+/sites/default/settings.php.swp
+/sites/default/settings.local.php

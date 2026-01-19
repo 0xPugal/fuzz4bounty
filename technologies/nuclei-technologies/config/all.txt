@@ -411,3 +411,4 @@
 /config/runtime-env.js
 /status?full
 /_fragment
+/.credentials

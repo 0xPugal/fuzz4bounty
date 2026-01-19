@@ -355,3 +355,4 @@
 /tmp/updateme/sinfor/ad/sys/sys_user.conf
 /password.htm
 /wp-includes/sym404/root/etc/passwd
+/.credentials

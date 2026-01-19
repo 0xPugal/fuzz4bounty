@@ -25,3 +25,4 @@
 /wp-admin/install.php
 /feed/
 /?feed=rss2
+/admin/login

@@ -1322,3 +1322,16 @@
 /_fragment
 /accounts/register/
 /debug-kit
+/.credentials
+/.registry/pear.reg.ber
+/.registry/pear.reg
+/PEAR/.registry/pear.reg.ber
+/PEAR/.registry/pear.reg
+/sites/default/settings.php
+/sites/default/settings.php~
+/sites/default/settings.php.bak
+/sites/default/settings.php.old
+/sites/default/settings.php.orig
+/sites/default/settings.php.save
+/sites/default/settings.php.swp
+/sites/default/settings.local.php

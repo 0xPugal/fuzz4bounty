@@ -236,3 +236,7 @@
 /addons/phpmailer/phpmailer.php
 /wp-json/wp/v2/posts?per_page=1
 /wp-content/plugins/wp-popups-lite/src/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml

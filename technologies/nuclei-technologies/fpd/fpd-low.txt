@@ -207,3 +207,7 @@
 /downloader/lib/Mage/Archive/Gz.php
 /downloader/lib/Mage/Archive/Bz.php
 /wp-admin/maint/repair.php
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml

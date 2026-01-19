@@ -302,3 +302,4 @@
 /wp-login.php?wp_lang=en_US%27
 /wp-content/plugins/wpmudev-updates/keys/
 /?wptouch_switch=desktop&redirect=https://interact.sh/
+/wp-content/plugins/cmp-coming-soon-maintenance/readme.txt

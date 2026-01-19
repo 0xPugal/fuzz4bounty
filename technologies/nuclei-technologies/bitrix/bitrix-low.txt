@@ -7,3 +7,4 @@
 /bitrix/themes/.default/.description.php
 /bitrix/components/bitrix/main.ui.selector/templates/.default/template.php
 /bitrix/components/bitrix/forum.user.profile.edit/templates/.default/interface.php
+

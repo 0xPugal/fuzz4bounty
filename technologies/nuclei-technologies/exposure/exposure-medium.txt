@@ -322,3 +322,11 @@
 /wp-content/uploads/pdf-invoices/
 /service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease
 /debug-kit
+/sites/default/settings.php
+/sites/default/settings.php~
+/sites/default/settings.php.bak
+/sites/default/settings.php.old
+/sites/default/settings.php.orig
+/sites/default/settings.php.save
+/sites/default/settings.php.swp
+/sites/default/settings.local.php
