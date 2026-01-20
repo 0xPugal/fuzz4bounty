@@ -82,3 +82,8 @@
 /.lesshst
 /.mysql_history
 /wp-admin/maint/repair.php
+/.vscode/settings.json
+/settings.json
+/.vscode/launch.json
+/.vscode/tasks.json
+/.vscode-server/data/Machine/settings.json

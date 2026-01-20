@@ -10,3 +10,5 @@
 /SitePages/Forms/AllPages.aspx
 /_api/web/lists
 /_vti_bin/lists.asmx?WSDL
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

@@ -1,1 +1,5 @@
 /zc_install/index.php
+/logs/
+/cache/
+/includes/logs/
+/admin/logs/

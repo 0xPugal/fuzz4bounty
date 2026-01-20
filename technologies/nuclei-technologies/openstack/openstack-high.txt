@@ -1,2 +1,6 @@
 /user_secrets.yml
 /user_secrets.yml.old
+/ovh-backups.json
+/config/ovh-backups.json
+/backup/ovh-backups.json
+/storage/ovh-backups.json

@@ -204,3 +204,11 @@
 /.registry/pear.reg
 /PEAR/.registry/pear.reg.ber
 /PEAR/.registry/pear.reg
+/.vscode/settings.json
+/settings.json
+/.vscode/launch.json
+/.vscode/tasks.json
+/.vscode-server/data/Machine/settings.json
+/esm/
+/monitoring/
+/ezservermonitor/

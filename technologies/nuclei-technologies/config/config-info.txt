@@ -133,3 +133,5 @@
 /?phpinfo=-1
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
+/Jakefile
+/Jakefile.js

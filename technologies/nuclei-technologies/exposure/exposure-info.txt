@@ -305,3 +305,7 @@
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
 /accounts/register/
+/Jakefile
+/Jakefile.js
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

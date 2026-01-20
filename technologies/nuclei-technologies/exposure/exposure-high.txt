@@ -356,3 +356,14 @@
 /password.htm
 /wp-includes/sym404/root/etc/passwd
 /.credentials
+/ovh-backups.json
+/config/ovh-backups.json
+/backup/ovh-backups.json
+/storage/ovh-backups.json
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs
+/data/db.sqlite
+/kanboard/data/db.sqlite
+/storage/framework/sessions/
+/storage/sessions/

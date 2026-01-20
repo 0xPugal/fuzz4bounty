@@ -90,3 +90,4 @@
 {{path}}
 /etc/linkchecker.html
 /var/linkchecker.html
+/CFIDE/

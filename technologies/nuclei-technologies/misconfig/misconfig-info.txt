@@ -129,3 +129,5 @@
 /?phpinfo=-1
 /wp-login.php
 /accounts/register/
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

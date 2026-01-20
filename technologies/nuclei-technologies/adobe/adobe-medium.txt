@@ -25,3 +25,4 @@
 /etc/replication/agents.author/publish/jcr:content.json
 /libs/granite/offloading/content/view.html
 /libs/granite/security/content/useradmin.html
+/CFIDE/

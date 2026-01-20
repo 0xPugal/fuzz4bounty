@@ -1,0 +1,6 @@
+/xymon/
+/xymon-se/xymon/
+/
+/esm/
+/monitoring/
+/ezservermonitor/

@@ -330,3 +330,9 @@
 /sites/default/settings.php.save
 /sites/default/settings.php.swp
 /sites/default/settings.local.php
+/logs/
+/cache/
+/includes/logs/
+/admin/logs/
+/CFIDE/
+/wp-content/plugins/easy-wp-smtp/logs/

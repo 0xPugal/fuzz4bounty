@@ -844,3 +844,7 @@
 /connections
 /dashboard.aspx
 /struts/webconsole.html?debug=console
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/xymon/
+/xymon-se/xymon/

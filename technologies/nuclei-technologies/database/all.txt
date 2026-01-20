@@ -10,3 +10,5 @@
 /psql_history
 /.postgresql_history
 /libraries/joomla/database/
+/data/db.sqlite
+/kanboard/data/db.sqlite

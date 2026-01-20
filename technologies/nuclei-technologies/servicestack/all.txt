@@ -1,0 +1,3 @@
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs

@@ -27,3 +27,7 @@
 {{filepath}}{{bakext}}
 /{{FILENAME}}.{{EXT}}
 /wp-content/uploads/database-backups/
+/ovh-backups.json
+/config/ovh-backups.json
+/backup/ovh-backups.json
+/storage/ovh-backups.json

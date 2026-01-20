@@ -7,3 +7,5 @@
 /.node_repl_history
 /node_repl_history
 /node_modules/../../../../../etc/passwd
+/Jakefile
+/Jakefile.js

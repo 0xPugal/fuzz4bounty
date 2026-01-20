@@ -1,0 +1,1 @@
+/public.php?return=http%3a%2f%2finteract.sh%2f&op=login&login=password=&profile=0

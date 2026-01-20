@@ -303,3 +303,4 @@
 /wp-content/plugins/wpmudev-updates/keys/
 /?wptouch_switch=desktop&redirect=https://interact.sh/
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
+/wp-content/plugins/easy-wp-smtp/logs/

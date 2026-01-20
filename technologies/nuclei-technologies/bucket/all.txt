@@ -1,2 +1,4 @@
 /?torrent
 /%c0
+
+/?list-type=2

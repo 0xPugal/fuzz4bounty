@@ -1,3 +1,7 @@
 /.vscode/launch.json
 /mcp.json
 /.mcp.json
+/.vscode/settings.json
+/settings.json
+/.vscode/tasks.json
+/.vscode-server/data/Machine/settings.json

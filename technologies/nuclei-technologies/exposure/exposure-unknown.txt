@@ -16,3 +16,4 @@
 /etc/linkchecker.html
 /var/linkchecker.html
 /_fragment
+/?list-type=2

@@ -3,3 +3,6 @@
 /elmah
 /elmah.axd
 /storage/logs/laravel.log
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs

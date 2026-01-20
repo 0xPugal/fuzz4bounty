@@ -48,3 +48,5 @@
 /pods
 /runningpods/
 /stats/summary
+/Jakefile
+/Jakefile.js

@@ -9,3 +9,5 @@
 /server/storage/
 /intikal/storage/
 /elocker_old/storage/
+/storage/framework/sessions/
+/storage/sessions/

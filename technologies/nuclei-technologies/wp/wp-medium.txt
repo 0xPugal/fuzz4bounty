@@ -125,3 +125,4 @@
 /?wptouch_switch=desktop&redirect=http://interact.sh
 /wp-content/themes/Upward/go.php?https://interact.sh
 /wp-login.php?wp_lang=en_US%27
+/wp-content/plugins/easy-wp-smtp/logs/

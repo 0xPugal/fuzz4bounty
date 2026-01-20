@@ -10,3 +10,5 @@
 /owa/auth/logon.aspx
 /_vti_bin/spdisco.aspx
 /Reports/Pages/Folder.aspx
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

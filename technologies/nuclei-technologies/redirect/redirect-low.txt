@@ -1,2 +1,3 @@
 /?piereg_logout_url=true&redirect_to=https://interact.sh
 /wp-content/themes/prostore/go.php?https://interact.sh/
+/public.php?return=http%3a%2f%2finteract.sh%2f&op=login&login=password=&profile=0

@@ -308,3 +308,5 @@
 /start.html
 /wbm/index.php
 /translations/en.json
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

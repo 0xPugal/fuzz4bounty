@@ -264,3 +264,10 @@
 /jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
 /actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
 /api/v1/userlist?pageindex=0&pagesize=10
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs
+/data/db.sqlite
+/kanboard/data/db.sqlite
+/storage/framework/sessions/
+/storage/sessions/

@@ -2,3 +2,4 @@
 /general/status.html
 /hp/device/DeviceInformation/View
 /status.html
+/

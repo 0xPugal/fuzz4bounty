@@ -12,3 +12,4 @@
 /log/
 /wp-content/uploads/data.txt
 /wp-content/uploads/pdf-invoices/
+/CFIDE/

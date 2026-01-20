@@ -6,3 +6,5 @@
 
 /sqlite/
 /sqlitemanager/
+/data/db.sqlite
+/kanboard/data/db.sqlite

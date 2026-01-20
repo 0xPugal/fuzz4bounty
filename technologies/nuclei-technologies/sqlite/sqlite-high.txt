@@ -2,3 +2,5 @@
 /{{path}}
 /slnx.sqlite
 /.vs/slnx.sqlite
+/data/db.sqlite
+/kanboard/data/db.sqlite

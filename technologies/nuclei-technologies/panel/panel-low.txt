@@ -3,3 +3,5 @@
 /index.php
 /install/page_start.php
 /cluster/cluster
+/xymon/
+/xymon-se/xymon/

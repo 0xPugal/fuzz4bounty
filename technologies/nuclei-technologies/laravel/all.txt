@@ -14,3 +14,5 @@
 /%00
 /api/stats
 /horizon/api/stats
+/storage/framework/sessions/
+/storage/sessions/

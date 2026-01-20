@@ -134,3 +134,4 @@
 /sites/default/settings.php.save
 /sites/default/settings.php.swp
 /sites/default/settings.local.php
+/CFIDE/

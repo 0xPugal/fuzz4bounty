@@ -79,3 +79,11 @@
 /wp-content/uploads/mailchimp-for-wp/debug-log.php
 /wp-content/uploads/sites/1/mc4wp-debug-log.php
 /wp-content/uploads/sites/1/mailchimp-for-wp/debug-log.php
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs
+/logs/
+/cache/
+/includes/logs/
+/admin/logs/
+/wp-content/plugins/easy-wp-smtp/logs/

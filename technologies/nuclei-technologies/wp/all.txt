@@ -397,3 +397,4 @@
 /wp-login.php?wp_lang=en_US%27
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
+/wp-content/plugins/easy-wp-smtp/logs/

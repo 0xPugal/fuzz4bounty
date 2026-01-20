@@ -609,3 +609,5 @@
 /dwr/index.html
 /.settings/rules.json?auth=FIREBASE_SECRET
 /{{paths}}/
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx

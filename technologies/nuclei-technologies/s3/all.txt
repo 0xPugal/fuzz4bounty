@@ -3,3 +3,5 @@
 /%c0
 /?torrent
 /index.html
+
+/?list-type=2
