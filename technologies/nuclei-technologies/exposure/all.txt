@@ -1366,3 +1366,13 @@
 /CFIDE/
 /wp-content/plugins/easy-wp-smtp/logs/
 /?list-type=2
+/api/beszel/first-run
+/api/v1/repos/search?q=&limit=50
+/.forward
+/host.json
+/.sqlite_history
+/info.cgi
+/cgi-bin/info.cgi
+/cgi-sys/info.cgi
+/scripts/info.cgi
+/lite-scripts/info.cgi

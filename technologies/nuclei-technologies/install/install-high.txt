@@ -71,3 +71,4 @@
 /index.php?module=Install&view=Index
 /application/install/index.php
 /zc_install/index.php
+/api/beszel/first-run

@@ -271,3 +271,4 @@
 /kanboard/data/db.sqlite
 /storage/framework/sessions/
 /storage/sessions/
+/api/beszel/first-run

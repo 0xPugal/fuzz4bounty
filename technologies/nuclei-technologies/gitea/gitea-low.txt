@@ -1,4 +1,2 @@
-/user/sign_up
-/user/login
 /explore/repos
 /api/v1/repos/search?q=&limit=50

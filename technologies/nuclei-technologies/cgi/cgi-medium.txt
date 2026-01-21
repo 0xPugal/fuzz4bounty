@@ -1,1 +1,6 @@
 /cgi-bin/printenv.pl
+/info.cgi
+/cgi-bin/info.cgi
+/cgi-sys/info.cgi
+/scripts/info.cgi
+/lite-scripts/info.cgi

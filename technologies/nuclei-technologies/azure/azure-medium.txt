@@ -3,3 +3,4 @@
 /azuredeploy.json
 
 /appsettings.json
+/host.json

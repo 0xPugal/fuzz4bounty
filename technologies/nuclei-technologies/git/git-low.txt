@@ -1,1 +1,3 @@
 /.mailmap
+/explore/repos
+/api/v1/repos/search?q=&limit=50

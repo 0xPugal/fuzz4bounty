@@ -95,3 +95,4 @@
 /wp-content/wflogs/config.php
 /wp-content/wflogs/config-synced.php
 /mysql_config.ini
+/host.json

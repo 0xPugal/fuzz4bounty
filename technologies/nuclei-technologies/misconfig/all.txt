@@ -778,3 +778,7 @@
 /ezservermonitor/
 /CFIDE/
 /?list-type=2
+/api/beszel/first-run
+/api/v1/repos/search?q=&limit=50
+/host.json
+/.sqlite_history

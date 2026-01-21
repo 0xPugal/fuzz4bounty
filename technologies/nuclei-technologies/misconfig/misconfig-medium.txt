@@ -135,3 +135,5 @@
 /sites/default/settings.php.swp
 /sites/default/settings.local.php
 /CFIDE/
+/host.json
+/.sqlite_history

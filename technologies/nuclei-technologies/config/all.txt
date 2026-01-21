@@ -423,3 +423,5 @@
 /.vscode/launch.json
 /.vscode/tasks.json
 /.vscode-server/data/Machine/settings.json
+/.forward
+/host.json

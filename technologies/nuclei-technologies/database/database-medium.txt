@@ -1,1 +1,2 @@
 /libraries/joomla/database/
+/.sqlite_history
