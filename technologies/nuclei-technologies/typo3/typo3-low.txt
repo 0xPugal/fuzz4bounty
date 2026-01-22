@@ -1,1 +1,2 @@
 /typo3/sysext/install/composer.json
+/typo3temp/

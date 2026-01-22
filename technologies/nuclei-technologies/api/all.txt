@@ -103,3 +103,5 @@
 /sendgrid.env
 /mcp/
 /sse
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections

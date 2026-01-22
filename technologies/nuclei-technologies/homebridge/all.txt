@@ -1,1 +1,3 @@
 /login
+/
+/api/auth/settings

@@ -782,3 +782,13 @@
 /api/v1/repos/search?q=&limit=50
 /host.json
 /.sqlite_history
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections
+/api/auth/settings
+/Identity/Account/Register
+/Account/Register
+/projects/
+/mini-profiler-resources/results
+/umbraco/mini-profiler-resources/results
+/App_Data/
+/App_Plugins/

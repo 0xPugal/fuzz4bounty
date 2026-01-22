@@ -225,3 +225,4 @@
 /wc.db
 /bitrix/modules/updater.log
 /bitrix/modules/updater_partner.log
+/.testignore

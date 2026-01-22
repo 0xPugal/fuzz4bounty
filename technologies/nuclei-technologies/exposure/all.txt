@@ -1376,3 +1376,16 @@
 /cgi-sys/info.cgi
 /scripts/info.cgi
 /lite-scripts/info.cgi
+/api/auth/settings
+/Identity/Account/Register
+/Account/Register
+/.testignore
+/projects/
+/.p4ignore
+/typo3temp/
+/mini-profiler-resources/results
+/umbraco/mini-profiler-resources/results
+/prober.php
+/App_Data/
+/App_Plugins/
+/sign-up

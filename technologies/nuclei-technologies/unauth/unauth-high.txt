@@ -112,3 +112,7 @@
 /inizio.php
 /UserSelect/
 /wp-content/plugins/blogroll-fun/blogroll.php?k=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections
+/
+/api/auth/settings

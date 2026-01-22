@@ -240,3 +240,6 @@
 /language/en-GB/en-GB.xml
 /README.txt
 /modules/custom.xml
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/navigation-menu/navigation-menu.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/copyright/copyright.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/class-widgets-loader.php

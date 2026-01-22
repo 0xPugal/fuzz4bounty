@@ -137,3 +137,5 @@
 /CFIDE/
 /host.json
 /.sqlite_history
+/App_Data/
+/App_Plugins/

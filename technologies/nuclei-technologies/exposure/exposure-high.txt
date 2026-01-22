@@ -368,3 +368,6 @@
 /storage/framework/sessions/
 /storage/sessions/
 /api/beszel/first-run
+/api/auth/settings
+/Identity/Account/Register
+/Account/Register

@@ -8,3 +8,4 @@
 /core/
 /vendor/
 /libraries/
+/typo3temp/

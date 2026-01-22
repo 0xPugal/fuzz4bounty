@@ -82,3 +82,4 @@
 /language/en-GB/en-GB.xml
 /README.txt
 /modules/custom.xml
+/.p4ignore

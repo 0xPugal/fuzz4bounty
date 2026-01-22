@@ -229,3 +229,6 @@
 /wp-content/themes/twentytwenty-child/functions.php
 /wp-content/themes/astra-child/functions.php
 /wp-content/themes/generatepress-child/functions.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/navigation-menu/navigation-menu.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/copyright/copyright.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/class-widgets-loader.php

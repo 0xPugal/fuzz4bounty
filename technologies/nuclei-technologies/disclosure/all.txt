@@ -200,3 +200,5 @@
 /cgi-sys/info.cgi
 /scripts/info.cgi
 /lite-scripts/info.cgi
+/.testignore
+/.p4ignore

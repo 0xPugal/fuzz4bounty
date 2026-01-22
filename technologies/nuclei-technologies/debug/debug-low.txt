@@ -79,3 +79,5 @@
 /wp-content/plugins/wordfence/waf/bootstrap.php
 /wp-content/plugins/worker/src/MMB/User.php
 
+/mini-profiler-resources/results
+/umbraco/mini-profiler-resources/results

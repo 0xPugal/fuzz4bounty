@@ -22,3 +22,5 @@
 /en/products?query=123
 /yyoa/createMysql.jsp
 /yyoa/ext/createMysql.jsp
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections

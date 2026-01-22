@@ -340,3 +340,7 @@
 /explore/repos
 /api/v1/repos/search?q=&limit=50
 /.forward
+/.p4ignore
+/typo3temp/
+/mini-profiler-resources/results
+/umbraco/mini-profiler-resources/results

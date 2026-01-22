@@ -65,3 +65,5 @@
 /shop.php?search=%22/%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /specification/report.php?q=%22%3E%3Cimg%20src=x%20onerror=prompt(document.domain)%3E
 /admin/login
+/App_Data/
+/App_Plugins/

@@ -312,3 +312,6 @@
 /wp-content/backups-dup-lite
 /wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
 /?wptouch_switch=desktop&redirect=http://interact.sh
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections
+/api/auth/settings

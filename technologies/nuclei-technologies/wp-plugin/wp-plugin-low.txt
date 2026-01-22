@@ -169,3 +169,6 @@
 /wp-content/plugins/gravityforms/tmp/debug.log
 /?piereg_logout_url=true&redirect_to=https://interact.sh
 /wp-content/plugins/mstore-api/
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/navigation-menu/navigation-menu.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/copyright/copyright.php
+/wp-content/plugins/header-footer-elementor/inc/widgets-manager/class-widgets-loader.php

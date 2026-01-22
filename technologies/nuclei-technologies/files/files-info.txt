@@ -76,3 +76,4 @@
 /blog/wp/readme.html
 /wp-cli.yml
 /yarn.lock
+/.testignore

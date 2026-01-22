@@ -272,3 +272,8 @@
 /storage/framework/sessions/
 /storage/sessions/
 /api/beszel/first-run
+/api/v1/collections?tenant=default_tenant&database=default_database
+/api/v2/tenants/default_tenant/databases/default_database/collections
+/api/auth/settings
+/Identity/Account/Register
+/Account/Register

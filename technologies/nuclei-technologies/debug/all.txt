@@ -111,3 +111,5 @@
 ///////this-should-not-exist,.<>!@#$%^&*()_+
 /%00
 /debug-kit
+/mini-profiler-resources/results
+/umbraco/mini-profiler-resources/results

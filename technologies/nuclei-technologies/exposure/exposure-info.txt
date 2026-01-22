@@ -309,3 +309,5 @@
 /Jakefile.js
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
+/.testignore
+/projects/

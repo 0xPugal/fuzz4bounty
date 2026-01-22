@@ -38,3 +38,5 @@
 /js/../../../../../../../../etc/passwd%00.jpg
 /setup.cgi?next_file=debug.htm&x=currentsetting.htm
 /wt3/forceSave.php?file=/etc/passwd
+/
+/api/auth/settings
