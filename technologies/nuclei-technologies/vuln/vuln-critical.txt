@@ -491,3 +491,4 @@
 /?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /common/dept.jsp?deptid=1
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
+/displays/nuclei_check.json

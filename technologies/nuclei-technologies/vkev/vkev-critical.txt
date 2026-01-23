@@ -277,3 +277,4 @@
 /fog/management/index.php?node=about&sub=kernel
 /fog/service/getversion.php?url={{interactsh-url}}
 /signin
+/api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live

@@ -1,1 +1,3 @@
 /php/ping.php?hostname=|dir
+/
+/displays/nuclei_check.json

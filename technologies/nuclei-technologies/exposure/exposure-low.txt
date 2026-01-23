@@ -344,3 +344,7 @@
 /typo3temp/
 /mini-profiler-resources/results
 /umbraco/mini-profiler-resources/results
+/upload/
+/api/
+/symfony.lock
+/.wp-env.json

@@ -792,3 +792,5 @@
 /umbraco/mini-profiler-resources/results
 /App_Data/
 /App_Plugins/
+/asf/terminal
+/.wp-env.json

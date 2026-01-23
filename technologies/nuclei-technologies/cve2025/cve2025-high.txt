@@ -34,3 +34,4 @@
 /h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
+/user/login

@@ -48,3 +48,5 @@
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /geoserver/wfs?service=WMS&request=GetMap
 /wfs?service=WMS&request=GetMap
+/h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/user/login

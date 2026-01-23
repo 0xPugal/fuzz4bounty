@@ -9,3 +9,4 @@
 /vendor/
 /libraries/
 /typo3temp/
+/upload/

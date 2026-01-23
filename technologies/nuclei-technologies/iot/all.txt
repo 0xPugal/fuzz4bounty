@@ -108,3 +108,4 @@
 /cgi-bin/nobody/Search.cgi?action=scan
 /rootDesc.xml
 /api/auth/settings
+/displays/nuclei_check.json

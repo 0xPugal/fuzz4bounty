@@ -5,3 +5,4 @@
 /collections/postman.json
 /api/jsonws
 /v1/
+/api/

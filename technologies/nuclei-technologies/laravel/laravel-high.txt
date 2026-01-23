@@ -4,3 +4,4 @@
 /_ignition/scripts/--><svg%20onload=alert(document.domain)>
 /storage/framework/sessions/
 /storage/sessions/
+/asf/terminal

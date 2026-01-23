@@ -77,3 +77,4 @@
 /mobile/plugin/SyncUserInfo.jsp?userIdentifiers=-1)union(select(3),null,null,null,null,null,str(98989*44313),null
 /common/dept.jsp?deptid=1
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
+/displays/nuclei_check.json

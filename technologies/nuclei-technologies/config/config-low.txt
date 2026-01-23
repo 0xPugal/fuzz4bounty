@@ -88,3 +88,5 @@
 /.vscode/tasks.json
 /.vscode-server/data/Machine/settings.json
 /.forward
+/symfony.lock
+/.wp-env.json

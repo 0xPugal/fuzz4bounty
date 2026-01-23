@@ -2025,3 +2025,7 @@
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
+/displays/nuclei_check.json
+/user/login
+/upload/
+/_image?href=//{{interactsh-url}}/600x400

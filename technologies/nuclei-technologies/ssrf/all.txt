@@ -93,3 +93,4 @@
 /wp-content/plugins/jetpack/readme.txt
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
+/_image?href=//{{interactsh-url}}/600x400

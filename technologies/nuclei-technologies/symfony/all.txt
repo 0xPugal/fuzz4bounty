@@ -33,3 +33,4 @@
 /js/routing?callback=fos.Router.setDatafoobarfoo
 /_fragment?_path=_controller=phpcredits&flag=-1
 /_fragment
+/symfony.lock

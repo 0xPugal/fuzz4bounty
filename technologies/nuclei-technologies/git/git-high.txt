@@ -1,2 +1,3 @@
 /git/notifyCommit?url={{randstr}}&branches={{randstr}}
 /.gitmodules
+/user/login

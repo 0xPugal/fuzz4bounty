@@ -312,3 +312,4 @@
 /web-config.js
 /wp-content/plugins/flexmls-idx/readme.txt
 /xwiki/
+/cgit/

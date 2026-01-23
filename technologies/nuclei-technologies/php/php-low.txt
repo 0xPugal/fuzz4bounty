@@ -7,3 +7,4 @@
 /.registry/pear.reg
 /PEAR/.registry/pear.reg.ber
 /PEAR/.registry/pear.reg
+/symfony.lock

@@ -848,3 +848,4 @@
 /_layouts/Authenticate.aspx
 /xymon/
 /xymon-se/xymon/
+/cgit/

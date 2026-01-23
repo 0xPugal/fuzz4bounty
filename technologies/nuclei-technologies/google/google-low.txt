@@ -4,3 +4,4 @@
 /android/app/google-services.json
 /token.json
 /search/token.json
+/api/

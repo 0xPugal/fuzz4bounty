@@ -216,3 +216,4 @@
 /api/v1/repos/search?q=&limit=50
 /mini-profiler-resources/results
 /umbraco/mini-profiler-resources/results
+/.wp-env.json

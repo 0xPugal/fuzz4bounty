@@ -46,3 +46,4 @@
 /wp-json/tribe/events/v1/venues
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/_image?href=//{{interactsh-url}}/600x400

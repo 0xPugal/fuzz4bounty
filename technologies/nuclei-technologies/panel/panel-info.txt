@@ -804,3 +804,4 @@
 /configure/app/landing/welcome-srm-va.html
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
+/cgit/

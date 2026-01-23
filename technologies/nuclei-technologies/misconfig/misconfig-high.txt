@@ -277,3 +277,4 @@
 /api/auth/settings
 /Identity/Account/Register
 /Account/Register
+/asf/terminal

@@ -7,3 +7,5 @@
 /overview.asp
 
 /update.php?jungle=id
+/
+/displays/nuclei_check.json

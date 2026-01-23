@@ -16,3 +16,4 @@
 /horizon/api/stats
 /storage/framework/sessions/
 /storage/sessions/
+/asf/terminal

@@ -1389,3 +1389,8 @@
 /App_Data/
 /App_Plugins/
 /sign-up
+/asf/terminal
+/upload/
+/api/
+/symfony.lock
+/.wp-env.json

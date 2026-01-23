@@ -15,3 +15,6 @@
 /StudioServer/.git/config
 /explore/repos
 /api/v1/repos/search?q=&limit=50
+/user/login
+/
+/cgit/

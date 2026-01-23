@@ -10,3 +10,4 @@
 /libraries/
 /wp-content/uploads/download-manager-files/
 /typo3temp/
+/upload/

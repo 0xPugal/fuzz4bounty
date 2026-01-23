@@ -44,3 +44,5 @@
 /forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum
 /{{paths}}/faq.php?cmd=echo%20-n%20{{num}}|md5sum
 /{{paths}}/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum
+/user/login
+/asf/terminal

@@ -425,3 +425,5 @@
 /.vscode-server/data/Machine/settings.json
 /.forward
 /host.json
+/symfony.lock
+/.wp-env.json

@@ -6,3 +6,5 @@
 /.git/logs/HEAD
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
+/
+/cgit/

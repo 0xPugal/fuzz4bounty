@@ -701,3 +701,5 @@
 /wp-content/uploads/fifu-cloud.log
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live
+/user/login

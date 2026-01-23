@@ -123,3 +123,6 @@
 /wp-content/uploads/fifu-cloud.log
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
+/displays/nuclei_check.json
+/user/login
+/_image?href=//{{interactsh-url}}/600x400
