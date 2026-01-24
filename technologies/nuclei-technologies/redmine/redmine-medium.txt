@@ -1,3 +1,5 @@
 /secret_token.rb
 /config/initializers/secret_token.rb
 /redmine/config/initializers/secret_token.rb
+/issues.json
+/issues.json?limit=25

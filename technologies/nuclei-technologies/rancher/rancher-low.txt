@@ -1,0 +1,1 @@
+/v3/settings/first-login

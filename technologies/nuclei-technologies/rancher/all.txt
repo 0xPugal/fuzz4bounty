@@ -1,2 +1,3 @@
 
 /dashboard/auth/login
+/v3/settings/first-login

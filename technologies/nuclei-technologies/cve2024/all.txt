@@ -191,3 +191,5 @@
 /api/chat/get-chat-session/1?is_shared=True
 /wp-content/plugins/siteguard/readme.txt
 /wp-register.php
+/html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
+/js/zimbraMail/share/model/ZmSettings.js

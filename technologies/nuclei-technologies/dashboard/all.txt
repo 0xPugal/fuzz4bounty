@@ -30,3 +30,6 @@
 /#dashboard
 /slurm/
 /transmission/web/
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

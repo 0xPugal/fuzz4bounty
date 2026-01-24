@@ -2,3 +2,5 @@
 /robots.txt
 /ambassador/v0/diag/
 /sendgrid.env
+/Users/Public
+/jellyfin/Users/Public

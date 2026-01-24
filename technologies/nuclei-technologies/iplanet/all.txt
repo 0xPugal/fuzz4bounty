@@ -1,2 +1,4 @@
 /admingui/version/serverTasksGeneral?serverTasksGeneral.GeneralWebserverTabs.TabHref=2
 /admingui/version/serverConfigurationsGeneral?serverConfigurationsGeneral.GeneralWebserverTabs.TabHref=4
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

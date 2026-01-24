@@ -427,3 +427,6 @@
 /host.json
 /symfony.lock
 /.wp-env.json
+/.gem/credentials
+/credentials
+/.gem/credentials.yaml

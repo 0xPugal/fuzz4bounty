@@ -17,3 +17,6 @@
 /ui/jobs
 /connections
 /dashboard.aspx
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

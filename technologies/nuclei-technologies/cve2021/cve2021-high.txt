@@ -78,3 +78,5 @@
 /%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
 /apply.cgi
 /cgi-bin/tsaupload.cgi?file_name=../../../../../..//etc/passwd&password=
+/rest/users/1
+/live_mfg.html

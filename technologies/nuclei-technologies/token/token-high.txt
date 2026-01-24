@@ -1,1 +1,4 @@
 /.credentials
+/.gem/credentials
+/credentials
+/.gem/credentials.yaml

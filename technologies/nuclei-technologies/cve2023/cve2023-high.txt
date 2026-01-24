@@ -66,3 +66,7 @@
 /wordpress/wp-content/uploads/
 /wp/wp-content/uploads/
 /wp-content/uploads/{{backupfolder}}/
+/bin/get/XWiki/SuggestSolrService?outputSyntax=plain&media=json&nb=1000&query=q%3D*%3A*%0Aq.op%3DAND%0Afq%3Dtype%3ADOCUMENT%0Afl%3Dtitle_%2C+reference%2C+links%2C+doccontentraw_%2C+objcontent__&input=+
+/xwiki/bin/get/XWiki/SuggestSolrService?outputSyntax=plain&media=json&nb=1000&query=q%3D*%3A*%0Aq.op%3DAND%0Afq%3Dtype%3ADOCUMENT%0Afl%3Dtitle_%2C+reference%2C+links%2C+doccontentraw_%2C+objcontent__&input=+
+/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
+/xwiki/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=

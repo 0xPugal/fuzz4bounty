@@ -849,3 +849,6 @@
 /xymon/
 /xymon-se/xymon/
 /cgit/
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

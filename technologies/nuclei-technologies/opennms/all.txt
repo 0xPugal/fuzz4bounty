@@ -1,1 +1,4 @@
 /opennms/login.jsp
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

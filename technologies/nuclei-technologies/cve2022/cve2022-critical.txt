@@ -44,3 +44,5 @@
 /api/scrape/kube-system
 /?lang=../../thinkphp/base
 /?lang=../../../../../vendor/topthink/think-trace/src/TraceDebug
+/remote/login
+/login

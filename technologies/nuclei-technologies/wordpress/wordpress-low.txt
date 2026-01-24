@@ -233,3 +233,4 @@
 /wp-content/plugins/header-footer-elementor/inc/widgets-manager/widgets/copyright/copyright.php
 /wp-content/plugins/header-footer-elementor/inc/widgets-manager/class-widgets-loader.php
 /.wp-env.json
+/wp-content/plugins/breadcrumb-navxt/breadcrumb-navxt.php

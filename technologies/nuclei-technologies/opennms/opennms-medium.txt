@@ -1,0 +1,3 @@
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

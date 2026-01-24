@@ -11,3 +11,6 @@
 /config/initializers/secret_token.rb
 /appsettings.json
 /.credentials
+/.gem/credentials
+/credentials
+/.gem/credentials.yaml

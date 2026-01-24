@@ -252,3 +252,6 @@
 /picturesPreview?currentUrl=aHR0cDovLyIpO2FsZXJ0KGRvY3VtZW50LmRvbWFpbik7Ly8=&urls
 {{paths}}
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
+/remote/login
+/login
+/index.php?showmessage=4&customermail=\

@@ -60,3 +60,7 @@
 /cgi-sys/info.cgi
 /scripts/info.cgi
 /lite-scripts/info.cgi
+/issues.json
+/issues.json?limit=25
+/Users/Public
+/jellyfin/Users/Public

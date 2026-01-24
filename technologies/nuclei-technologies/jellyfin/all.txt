@@ -8,3 +8,5 @@
 /Videos/1/hls/m/..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Cwin.ini/stream.mp3/
 /Images/Remote?imageUrl=https://oast.me/
 /Items/RemoteSearch/Image?ImageUrl=https://oast.me/&ProviderName=TheMovieDB
+/Users/Public
+/jellyfin/Users/Public

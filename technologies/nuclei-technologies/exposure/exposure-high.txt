@@ -372,3 +372,7 @@
 /Identity/Account/Register
 /Account/Register
 /asf/terminal
+/.gem/credentials
+/credentials
+/.gem/credentials.yaml
+/admin/

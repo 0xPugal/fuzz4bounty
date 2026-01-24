@@ -348,3 +348,4 @@
 /api/
 /symfony.lock
 /.wp-env.json
+/v3/settings/first-login

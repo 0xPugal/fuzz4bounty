@@ -8,3 +8,5 @@
 /cgi-bin/cosmobdf.cgi?function=1
 /hoteldruid/inizio.php
 /inizio.php
+/admin
+/admin/
