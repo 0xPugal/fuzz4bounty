@@ -1,1 +1,2 @@
 /cgi-bin/protected/main.cgi
+/

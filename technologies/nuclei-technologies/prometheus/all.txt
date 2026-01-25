@@ -12,3 +12,4 @@
 /metrics
 /api/metrics
 /service-discovery
+/probe?target={{interactsh-url}}&module=http_2xx

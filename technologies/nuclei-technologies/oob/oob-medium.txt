@@ -2,3 +2,4 @@
 /unsafe/plain/http://{{interactsh-url}}
 
 /?cb={{cache-buster}}
+/probe?target={{interactsh-url}}&module=http_2xx

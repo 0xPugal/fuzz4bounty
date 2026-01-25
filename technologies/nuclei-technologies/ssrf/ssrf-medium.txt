@@ -30,3 +30,4 @@
 /wp-content/plugins/w3-total-cache/pub/minify.php?file=yygpKbDS1y9Ky9TLSy0uLi3Wyy9KB3NLKkqUM4CyxUDpxKzECr30_Pz0nNTEgsxiveT8XAA.css
 /wp-content/plugins/jetpack/readme.txt
 /_image?href=//{{interactsh-url}}/600x400
+/probe?target={{interactsh-url}}&module=http_2xx
