@@ -70,3 +70,5 @@
 /system-diagnostics
 /nifi-api/access/config
 /lighter/api
+/tika
+/version

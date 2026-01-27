@@ -67,3 +67,4 @@
 /admin/login
 /App_Data/
 /App_Plugins/
+/storage/logs/web.log

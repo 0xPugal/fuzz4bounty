@@ -20,3 +20,4 @@
 /specification/report.php?q=%22%3E%3Cimg%20src=x%20onerror=prompt(document.domain)%3E
 /App_Data/
 /App_Plugins/
+/storage/logs/web.log

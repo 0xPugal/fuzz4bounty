@@ -1408,3 +1408,6 @@
 /opennms/index.jsp
 /opennms/dashboard.jsp
 /opennms/
+/files/FileZilla.xml
+/recentservers.xml
+/storage/logs/web.log

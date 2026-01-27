@@ -149,3 +149,5 @@
 /signup
 /ui/clusters/kafka-ui/brokers
 /struts/webconsole.html?debug=console
+/tika
+/version

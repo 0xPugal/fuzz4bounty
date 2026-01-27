@@ -430,3 +430,6 @@
 /.gem/credentials
 /credentials
 /.gem/credentials.yaml
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml

@@ -96,3 +96,6 @@
 /wp-content/wflogs/config-synced.php
 /mysql_config.ini
 /host.json
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml

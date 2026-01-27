@@ -87,3 +87,4 @@
 /includes/logs/
 /admin/logs/
 /wp-content/plugins/easy-wp-smtp/logs/
+/storage/logs/web.log

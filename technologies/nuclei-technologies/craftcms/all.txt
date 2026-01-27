@@ -1,3 +1,4 @@
 /actions/seomatic/meta-container/meta-link-container/?uri={{228*
 /actions/seomatic/meta-container/all-meta-containers?uri={{228*
 /admin/login
+/storage/logs/web.log

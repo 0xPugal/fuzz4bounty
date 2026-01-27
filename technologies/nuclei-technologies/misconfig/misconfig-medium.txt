@@ -148,3 +148,4 @@
 /opennms/index.jsp
 /opennms/dashboard.jsp
 /opennms/
+/storage/logs/web.log

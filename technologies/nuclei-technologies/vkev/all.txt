@@ -703,3 +703,4 @@
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live
 /user/login
+/index.php?controller=pjAdminOrders%26action%3dpjActionGetNewOrder%26column%3dcreated%26direction%3dASC%26page%3d1%26rowCount%3d50%26q%3d-1910%27)+OR+6100%3d6100%23%26type%3d

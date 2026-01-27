@@ -8,3 +8,6 @@
 /ws_ftp.log
 /WS_FTP.LOG
 /Login?!
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml
