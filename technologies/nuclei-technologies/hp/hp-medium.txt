@@ -1,3 +1,6 @@
 /red2301.html?RedirectUrl=http://interact.sh
 /visualrf/group_list.xml?aps=1&start=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&end=500&match
 /gsearch.php.en?prod=
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

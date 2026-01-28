@@ -7,3 +7,4 @@
 /auth.html
 /cgi-bin/welcome
 /favicon.ico
+/

@@ -2,3 +2,5 @@
 /cpanelwebcall/<img%20src=x%20onerror=
 /cpanelwebcall/<><img%20src=x%20onerror=
 /cpanel.config
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf

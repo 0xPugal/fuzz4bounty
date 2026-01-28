@@ -27,3 +27,4 @@
 /_config
 /nifi-api/access/config
 /api/security/ticket
+/

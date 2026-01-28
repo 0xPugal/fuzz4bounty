@@ -126,3 +126,4 @@
 /displays/nuclei_check.json
 /user/login
 /_image?href=//{{interactsh-url}}/600x400
+/login_ok.htm

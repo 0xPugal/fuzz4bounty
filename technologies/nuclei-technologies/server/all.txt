@@ -4,3 +4,4 @@
 /login.zul
 /http%3A%2F%2Fwww.interact.sh
 /index.php/test
+/

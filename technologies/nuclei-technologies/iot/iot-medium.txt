@@ -22,3 +22,6 @@
 /acs/..;/admin/public/login.jsp?error=%3Cscript%3Ealert(document.domain)%3C/script%3e
 /cgi-bin/nobody/Search.cgi?action=scan
 /rootDesc.xml
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

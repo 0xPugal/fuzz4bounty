@@ -151,3 +151,4 @@
 /wp-content/themes/Upward/go.php?https://interact.sh
 /?wptouch_switch=desktop&redirect=https://interact.sh/
 /public.php?return=http%3a%2f%2finteract.sh%2f&op=login&login=password=&profile=0
+/

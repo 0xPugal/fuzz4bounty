@@ -135,3 +135,5 @@
 /wp-content/themes/.git/config
 /Jakefile
 /Jakefile.js
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf

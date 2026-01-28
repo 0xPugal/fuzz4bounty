@@ -359,3 +359,6 @@
 /files/FileZilla.xml
 /recentservers.xml
 /storage/logs/web.log
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

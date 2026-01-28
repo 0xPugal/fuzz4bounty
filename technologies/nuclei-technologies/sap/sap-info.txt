@@ -14,3 +14,4 @@
 /sap/bc/gui/sap/its/webgui
 /sap/wdisp/admin/public/default.html
 /inormalydonotexist
+/

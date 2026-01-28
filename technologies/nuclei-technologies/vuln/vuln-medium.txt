@@ -1412,3 +1412,4 @@
 /App_Data/
 /App_Plugins/
 /_image?href=//{{interactsh-url}}/600x400
+/

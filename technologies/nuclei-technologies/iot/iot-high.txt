@@ -40,3 +40,4 @@
 /wt3/forceSave.php?file=/etc/passwd
 /
 /api/auth/settings
+/login_ok.htm

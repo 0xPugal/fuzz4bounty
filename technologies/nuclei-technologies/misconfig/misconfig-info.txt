@@ -132,3 +132,5 @@
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
 /projects/
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf

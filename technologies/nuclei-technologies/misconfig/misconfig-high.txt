@@ -278,3 +278,5 @@
 /Identity/Account/Register
 /Account/Register
 /asf/terminal
+/rest/GetUserlogin
+/rest/GetAutologin

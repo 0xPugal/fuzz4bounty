@@ -28,3 +28,4 @@
 /sitemap.xsl
 /sitemap.xsd
 /schema
+/

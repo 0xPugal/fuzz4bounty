@@ -101,3 +101,4 @@
 {{path_to_check}}
 /wp-json/wp/v2/sensei-messages/{{num}}
 {{filepath}}{{bakext}}
+/

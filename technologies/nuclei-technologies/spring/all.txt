@@ -9,3 +9,4 @@
 /profile
 /api/profile
 /alps/profile
+/

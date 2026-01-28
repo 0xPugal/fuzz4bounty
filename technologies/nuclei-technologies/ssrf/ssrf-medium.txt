@@ -31,3 +31,4 @@
 /wp-content/plugins/jetpack/readme.txt
 /_image?href=//{{interactsh-url}}/600x400
 /probe?target={{interactsh-url}}&module=http_2xx
+/

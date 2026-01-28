@@ -72,3 +72,4 @@
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
+/

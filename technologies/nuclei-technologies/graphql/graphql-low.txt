@@ -2,3 +2,4 @@
 /voyager/
 /ui/voyager
 /graphql/voyager
+/

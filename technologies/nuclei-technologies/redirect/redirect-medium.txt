@@ -147,3 +147,4 @@
 /?wptouch_switch=desktop&redirect=http://interact.sh
 /wp-content/themes/Upward/go.php?https://interact.sh
 /?wptouch_switch=desktop&redirect=https://interact.sh/
+/

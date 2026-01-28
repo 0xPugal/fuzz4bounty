@@ -3,3 +3,4 @@
 /index.php
 /?src=connect
 /openvpn-monitor/
+/

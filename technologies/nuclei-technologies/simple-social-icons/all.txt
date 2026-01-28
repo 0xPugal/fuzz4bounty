@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-social-icons/simple-social-icons.php

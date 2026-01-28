@@ -47,3 +47,4 @@
 /?mdocs-img-preview=../../../wp-config.php
 /wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php?href=../../../../wp-config.php
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
+/

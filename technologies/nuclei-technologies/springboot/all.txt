@@ -79,3 +79,4 @@
 {{jolokia_paths}}{{mbean_paths}}
 /gateway/routes
 /actuator/gateway/routes
+/

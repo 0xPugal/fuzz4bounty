@@ -206,3 +206,4 @@
 /issues.json?limit=25
 /Users/Public
 /jellyfin/Users/Public
+/

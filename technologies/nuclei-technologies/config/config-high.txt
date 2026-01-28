@@ -97,3 +97,5 @@
 /.gem/credentials
 /credentials
 /.gem/credentials.yaml
+/rest/GetUserlogin
+/rest/GetAutologin

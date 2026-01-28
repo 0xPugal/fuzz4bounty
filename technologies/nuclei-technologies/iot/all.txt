@@ -109,3 +109,7 @@
 /rootDesc.xml
 /api/auth/settings
 /displays/nuclei_check.json
+/login_ok.htm
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

@@ -1,1 +1,3 @@
 /
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf

@@ -251,3 +251,4 @@
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /user/login
+/wp-json/igd/v1/get-users-data

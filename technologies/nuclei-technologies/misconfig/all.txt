@@ -805,3 +805,13 @@
 /opennms/dashboard.jsp
 /opennms/
 /storage/logs/web.log
+/rest/GetUserlogin
+/rest/GetAutologin
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf
+/wp-content/plugins/simple-social-icons/simple-social-icons.php
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm
+/graph_view.php
+/cacti/graph_view.php

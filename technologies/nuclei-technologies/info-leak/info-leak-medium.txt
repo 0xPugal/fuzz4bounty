@@ -6,3 +6,4 @@
 /en/products?query=123
 /yyoa/createMysql.jsp
 /yyoa/ext/createMysql.jsp
+/

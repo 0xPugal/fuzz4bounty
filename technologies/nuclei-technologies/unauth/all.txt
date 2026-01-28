@@ -316,3 +316,5 @@
 /api/v2/tenants/default_tenant/databases/default_database/collections
 /api/auth/settings
 /admin
+/graph_view.php
+/cacti/graph_view.php

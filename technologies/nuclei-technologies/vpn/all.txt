@@ -10,3 +10,5 @@
 /dana-na/auth/url_3/welcome.cgi
 /Login.asp
 /global-protect/login.esp?user=j%22;-alert(1)-%22x
+/rest/GetUserlogin
+/rest/GetAutologin

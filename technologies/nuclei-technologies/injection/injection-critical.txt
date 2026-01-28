@@ -12,3 +12,4 @@
 /lab.html?vpath=//interact.sh
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}
 /scrm/crm/admin
+/

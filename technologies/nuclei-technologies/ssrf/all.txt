@@ -95,3 +95,4 @@
 /_internal/redirect.php?url=http://{{interactsh-url}}
 /_image?href=//{{interactsh-url}}/600x400
 /probe?target={{interactsh-url}}&module=http_2xx
+/

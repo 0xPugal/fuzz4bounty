@@ -36,3 +36,4 @@
 /cgi-bin/luci
 /WEB_VMS/LEVEL15/
 /my_view_page.php
+/

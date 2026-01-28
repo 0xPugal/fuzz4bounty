@@ -45,3 +45,4 @@
 /Api/portal/elementEcodeAddon/getSqlData?sql=select%20substring(sys.fn_sqlvarbasetostr(hashbytes(
 /Api/portal/elementEcodeAddon/getSqlData?sql=
 /pweb/careerapply/HrmCareerApplyPerView.jsp?id=1%20union%20select%201,2,sys.fn_sqlvarbasetostr(HashBytes(
+/

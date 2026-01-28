@@ -25,3 +25,4 @@
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
 /webapi/ping
 /signin
+/

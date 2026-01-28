@@ -218,3 +218,4 @@
 /umbraco/mini-profiler-resources/results
 /.wp-env.json
 /v3/settings/first-login
+/wp-content/plugins/simple-social-icons/simple-social-icons.php

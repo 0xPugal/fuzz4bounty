@@ -307,3 +307,4 @@
 /rest/users/1
 /live_mfg.html
 /?page</script><script>alert(document.domain)</script>
+/

@@ -73,3 +73,4 @@
 /wp-register.php
 /html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
 /js/zimbraMail/share/model/ZmSettings.js
+/

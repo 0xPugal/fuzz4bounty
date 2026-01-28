@@ -1,1 +1,2 @@
 /vpn/../vpns/cfg/smb.conf
+/

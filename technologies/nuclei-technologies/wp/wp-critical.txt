@@ -34,3 +34,4 @@
 /wp-content/plugins/wp-advanced-search/class.inc/autocompletion/autocompletion-PHP5.5.php?q=admin&t=wp_users%20--&f=user_login&type=&e
 /my-account/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/

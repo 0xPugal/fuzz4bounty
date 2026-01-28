@@ -2,3 +2,4 @@
 /auth/failure?provider={{basic_xss}}
 /finish-installation/register
 /email/unsubscribed?email=test@gmail.com%27\%22%3E%3Csvg/onload=alert(/xss/)%3E
+/

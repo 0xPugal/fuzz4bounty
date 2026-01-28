@@ -5,3 +5,6 @@
 
 /amr
 /eSCL/ScannerCapabilities
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

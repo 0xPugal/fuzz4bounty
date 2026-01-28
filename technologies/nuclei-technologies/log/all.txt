@@ -21,3 +21,4 @@
 /wp-content/uploads/wp-statistics/debug.log
 
 /wp-content/debug.log
+/

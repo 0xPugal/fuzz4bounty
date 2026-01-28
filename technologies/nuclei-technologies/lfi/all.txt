@@ -697,3 +697,4 @@
 /general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php
 /wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/
 /system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+/

@@ -62,3 +62,4 @@
 /wp-content/plugins/uix-shortcodes/readme.txt
 /login.do?jvar_page_title=<style><foo>Injected Title</foo></style>
 /RST_status.htm%00currentsetting.htm
+/
