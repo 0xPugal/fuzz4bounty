@@ -602,3 +602,5 @@
 /_layouts/Authenticate.aspx
 /cgit/
 /tika
+/\\
+/cucm-uds/version

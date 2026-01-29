@@ -1367,3 +1367,4 @@
 /services/Version
 /index.dhtml
 /js/zimbraMail/share/model/ZmSettings.js
+/\\

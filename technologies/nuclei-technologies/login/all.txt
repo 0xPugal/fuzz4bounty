@@ -311,3 +311,4 @@
 /translations/en.json
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
+/flexnet/logon.do

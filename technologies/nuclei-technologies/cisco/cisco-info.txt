@@ -21,3 +21,5 @@
 /admin/
 /CGI/Java/Serviceability?adapter=device.statistics.configuration
 /desktop/assets/js/finesse.js
+/ucmuser/
+/cucm-uds/version

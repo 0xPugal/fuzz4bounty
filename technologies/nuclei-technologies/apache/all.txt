@@ -151,3 +151,4 @@
 /struts/webconsole.html?debug=console
 /tika
 /version
+/\\

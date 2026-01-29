@@ -815,3 +815,5 @@
 /SSI/info_configuration.htm
 /graph_view.php
 /cacti/graph_view.php
+/wp-content/plugins/creame-whatsapp-me/includes/class-joinchat-elementor-finder.php
+/cucm-uds/servers

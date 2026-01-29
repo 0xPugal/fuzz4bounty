@@ -34,3 +34,6 @@
 /ccmadmin/bulkvivewfilecontents.do?filetype=samplefile&fileName=../../../../../../../../../../../../../../../../etc/passwd
 /_syslog.txt
 /cucm-uds/users
+/ucmuser/
+/cucm-uds/version
+/cucm-uds/servers

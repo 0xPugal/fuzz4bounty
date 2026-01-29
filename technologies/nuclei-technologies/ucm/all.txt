@@ -1,0 +1,4 @@
+/ucmuser/
+/cucm-uds/version
+/cucm-uds/servers
+/cucm-uds/users

@@ -219,3 +219,5 @@
 /.wp-env.json
 /v3/settings/first-login
 /wp-content/plugins/simple-social-icons/simple-social-icons.php
+/wp-content/plugins/creame-whatsapp-me/includes/class-joinchat-elementor-finder.php
+/cucm-uds/servers

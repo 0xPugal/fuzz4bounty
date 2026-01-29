@@ -852,3 +852,5 @@
 /opennms/index.jsp
 /opennms/dashboard.jsp
 /opennms/
+/ucmuser/
+/flexnet/logon.do

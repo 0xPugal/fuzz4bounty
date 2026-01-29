@@ -245,3 +245,4 @@
 /wp-content/plugins/header-footer-elementor/inc/widgets-manager/class-widgets-loader.php
 /wp-content/plugins/breadcrumb-navxt/breadcrumb-navxt.php
 /wp-content/plugins/simple-social-icons/simple-social-icons.php
+/wp-content/plugins/creame-whatsapp-me/includes/class-joinchat-elementor-finder.php

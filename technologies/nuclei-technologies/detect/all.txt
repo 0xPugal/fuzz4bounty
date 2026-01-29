@@ -314,3 +314,6 @@
 /xwiki/
 /cgit/
 /tika
+/ucmuser/
+/flexnet/logon.do
+/cucm-uds/version

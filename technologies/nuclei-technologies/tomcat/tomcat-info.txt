@@ -21,3 +21,4 @@
 
 /{{randstr}}
 /docs/introduction.html
+/\\
