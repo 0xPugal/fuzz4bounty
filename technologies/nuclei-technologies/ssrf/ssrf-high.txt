@@ -32,3 +32,5 @@
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
 /
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview

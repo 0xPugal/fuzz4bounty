@@ -126,3 +126,4 @@
 /wp-content/themes/Upward/go.php?https://interact.sh
 /wp-login.php?wp_lang=en_US%27
 /wp-content/plugins/easy-wp-smtp/logs/
+/wp-json/tribe/events/v1/events/

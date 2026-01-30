@@ -10,3 +10,4 @@
 /inizio.php
 /admin
 /admin/
+/rails_admin

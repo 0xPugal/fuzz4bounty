@@ -15,3 +15,5 @@
 /rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
 /s/{{randstr}}/_/;/WEB-INF/web.xml
 /ThisCanBeAnything?os_destination=%2F%2Foast.pro
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview

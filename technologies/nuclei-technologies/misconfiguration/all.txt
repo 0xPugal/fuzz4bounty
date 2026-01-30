@@ -16,3 +16,6 @@
 /README.txt
 /modules/custom.xml
 
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

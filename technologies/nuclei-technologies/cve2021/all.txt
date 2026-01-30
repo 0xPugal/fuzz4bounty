@@ -308,3 +308,4 @@
 /live_mfg.html
 /?page</script><script>alert(document.domain)</script>
 /
+/blog/?__proto__[polluted]=polluted

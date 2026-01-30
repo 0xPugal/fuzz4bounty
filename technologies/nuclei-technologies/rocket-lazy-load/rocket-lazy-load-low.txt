@@ -1,0 +1,6 @@
+/wp-content/plugins/rocket-lazy-load/src/Subscriber/AdminPageSubscriber.php
+/wp-content/plugins/rocket-lazy-load/src/Subscriber/LazyloadSubscriber.php
+/wp-content/plugins/rocket-lazy-load/src/ServiceProvider/AdminServiceProvider.php
+/wp-content/plugins/rocket-lazy-load/src/ServiceProvider/ImagifyNoticeServiceProvider.php
+/wp-content/plugins/rocket-lazy-load/src/ServiceProvider/LazyloadServiceProvider.php
+/wp-content/plugins/rocket-lazy-load/src/ServiceProvider/SubscribersServiceProvider.php

@@ -2034,3 +2034,7 @@
 /admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
 /probe?target={{interactsh-url}}&module=http_2xx
 /login_ok.htm
+/blog/?__proto__[polluted]=polluted
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview
+/wp-json/tribe/events/v1/events/

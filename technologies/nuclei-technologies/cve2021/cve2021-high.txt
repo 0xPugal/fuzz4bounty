@@ -80,3 +80,4 @@
 /cgi-bin/tsaupload.cgi?file_name=../../../../../..//etc/passwd&password=
 /rest/users/1
 /live_mfg.html
+/blog/?__proto__[polluted]=polluted

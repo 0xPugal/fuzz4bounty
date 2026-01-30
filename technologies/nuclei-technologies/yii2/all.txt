@@ -1,0 +1,3 @@
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

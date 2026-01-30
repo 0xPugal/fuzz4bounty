@@ -8,3 +8,5 @@
 /docker-cloud.yml
 /v2/_catalog
 /api/users/admin/check
+/Dockerrun.aws.json
+/static/Dockerrun.aws.json

@@ -207,3 +207,4 @@
 /Users/Public
 /jellyfin/Users/Public
 /
+/wp-json/tribe/events/v1/events/

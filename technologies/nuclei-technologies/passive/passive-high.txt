@@ -1,3 +1,4 @@
 /css/eonweb.css
 /js/zimbraMail/share/model/ZmSettings.js
 /user/login
+/blog/?__proto__[polluted]=polluted

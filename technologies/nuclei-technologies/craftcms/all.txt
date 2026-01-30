@@ -2,3 +2,7 @@
 /actions/seomatic/meta-container/all-meta-containers?uri={{228*
 /admin/login
 /storage/logs/web.log
+/admin/install
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

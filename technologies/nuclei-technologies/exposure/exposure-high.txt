@@ -378,3 +378,5 @@
 /admin/
 /rest/GetUserlogin
 /rest/GetAutologin
+/rails_admin
+/admin/install

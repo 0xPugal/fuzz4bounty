@@ -63,3 +63,5 @@
 /login.do?jvar_page_title=<style><foo>Injected Title</foo></style>
 /RST_status.htm%00currentsetting.htm
 /
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview

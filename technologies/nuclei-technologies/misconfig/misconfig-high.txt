@@ -280,3 +280,5 @@
 /asf/terminal
 /rest/GetUserlogin
 /rest/GetAutologin
+/rails_admin
+/admin/install

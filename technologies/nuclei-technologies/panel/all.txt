@@ -854,3 +854,4 @@
 /opennms/
 /ucmuser/
 /flexnet/logon.do
+/rails_admin

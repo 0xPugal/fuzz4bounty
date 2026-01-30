@@ -1,2 +1,3 @@
 /wp-json/tribe/events/v1/organizers
 /wp-json/tribe/events/v1/venues
+/wp-json/tribe/events/v1/events/

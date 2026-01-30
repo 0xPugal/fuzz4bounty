@@ -113,3 +113,6 @@
 /debug-kit
 /mini-profiler-resources/results
 /umbraco/mini-profiler-resources/results
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

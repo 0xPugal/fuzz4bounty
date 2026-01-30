@@ -155,3 +155,5 @@
 /graph_view.php
 /cacti/graph_view.php
 /
+/Dockerrun.aws.json
+/static/Dockerrun.aws.json

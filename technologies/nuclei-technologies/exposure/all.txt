@@ -1418,3 +1418,9 @@
 /hp/device/this.LCDispatcher?nav=hp.Config
 /info_configuration.html?tab=Home&menu=DevConfig
 /SSI/info_configuration.htm
+/rails_admin
+/admin/install
+/static/Dockerrun.aws.json
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

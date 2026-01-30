@@ -304,3 +304,4 @@
 /?wptouch_switch=desktop&redirect=https://interact.sh/
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
 /wp-content/plugins/easy-wp-smtp/logs/
+/wp-json/tribe/events/v1/events/

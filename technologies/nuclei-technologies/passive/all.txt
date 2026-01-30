@@ -34,3 +34,4 @@
 /wp-content/plugins/elementor/readme.txt
 /user/login
 /
+/blog/?__proto__[polluted]=polluted

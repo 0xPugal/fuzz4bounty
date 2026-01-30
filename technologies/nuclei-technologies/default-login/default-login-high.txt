@@ -31,3 +31,4 @@
 /lucee/admin/web.cfm
 /lucee/admin/server.cfm
 /
+/ov.html?

@@ -72,3 +72,4 @@
 /application/install/index.php
 /zc_install/index.php
 /api/beszel/first-run
+/admin/install
