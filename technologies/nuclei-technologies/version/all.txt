@@ -3,3 +3,4 @@
 /js/app/init.js
 /ucs/micollab/version.json
 /rest/version
+/wp-links-opml.php

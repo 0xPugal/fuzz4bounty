@@ -412,3 +412,4 @@
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/LazyloadServiceProvider.php
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/SubscribersServiceProvider.php
 /wp-json/tribe/events/v1/events/
+/wp-links-opml.php

@@ -300,3 +300,4 @@
 /wp-content/plugins/wordpress-popup/views/admin/
 /wp-content/plugins/qards/
 /wp-content/plugins/sfwd-lms/
+/wp-links-opml.php

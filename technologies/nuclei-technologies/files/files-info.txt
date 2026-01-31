@@ -77,3 +77,4 @@
 /wp-cli.yml
 /yarn.lock
 /.testignore
+/wp-links-opml.php

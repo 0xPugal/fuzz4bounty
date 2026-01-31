@@ -12,3 +12,4 @@
 /wp-content/plugins/dzs-zoomsounds/
 /wp-cron.php
 /wp-content/plugins/qards/
+/wp-links-opml.php
