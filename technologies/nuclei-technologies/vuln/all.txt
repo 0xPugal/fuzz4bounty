@@ -3836,3 +3836,4 @@
 /App_Plugins/
 /displays/nuclei_check.json
 /_image?href=//{{interactsh-url}}/600x400
+/env-config.js

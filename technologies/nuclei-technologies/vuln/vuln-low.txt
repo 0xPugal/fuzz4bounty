@@ -307,3 +307,4 @@
 /wp-json/wp/v2/users/
 /?rest_route=/wp/v2/users/
 /
+/env-config.js

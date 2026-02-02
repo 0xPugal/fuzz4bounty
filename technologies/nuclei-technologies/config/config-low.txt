@@ -90,3 +90,4 @@
 /.forward
 /symfony.lock
 /.wp-env.json
+/env-config.js

@@ -1425,3 +1425,4 @@
 /actions/debug/default/toolbar
 /actions/debug/default/view
 /wp-links-opml.php
+/env-config.js

