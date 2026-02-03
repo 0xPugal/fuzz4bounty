@@ -252,3 +252,4 @@
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /user/login
 /wp-json/igd/v1/get-users-data
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

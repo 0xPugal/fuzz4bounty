@@ -50,3 +50,4 @@
 /wfs?service=WMS&request=GetMap
 /h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
 /user/login
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

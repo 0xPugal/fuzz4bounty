@@ -1,2 +1,3 @@
 /js/zimbraMail/share/model/ZmSettings.js
 /h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

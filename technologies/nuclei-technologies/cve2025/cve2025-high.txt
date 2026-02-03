@@ -37,3 +37,4 @@
 /user/login
 /
 /login_ok.htm
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
