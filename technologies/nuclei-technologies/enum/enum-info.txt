@@ -2,3 +2,4 @@
 /?rest_route=/
 /wp-json/
 /feed/rdf
+/llms.txt

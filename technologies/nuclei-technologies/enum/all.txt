@@ -6,3 +6,4 @@
 /cucm-uds/users
 /accounts/?q=a&n=10
 /accounts/?suggest&q=a&n=10
+/llms.txt

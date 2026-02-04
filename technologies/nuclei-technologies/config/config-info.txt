@@ -137,3 +137,4 @@
 /Jakefile.js
 /cpbackup-exclude.conf
 /.cpbackup-exclude.conf
+/llms.txt
