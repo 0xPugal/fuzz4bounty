@@ -17,3 +17,5 @@
 /storage/framework/sessions/
 /storage/sessions/
 /asf/terminal
+/
+/{{trim_prefix(update_uri,

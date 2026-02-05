@@ -2039,3 +2039,4 @@
 /rest/api/content/macro/preview
 /wp-json/tribe/events/v1/events/
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/{{trim_prefix(update_uri,

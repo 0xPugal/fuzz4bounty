@@ -72,3 +72,4 @@
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
 /probe?target={{interactsh-url}}&module=http_2xx
+/{{trim_prefix(update_uri,

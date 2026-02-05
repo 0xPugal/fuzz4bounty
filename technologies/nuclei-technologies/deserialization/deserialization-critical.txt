@@ -5,3 +5,5 @@
 /CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
 /{{interface}}
 /helpdesk/WebObjects/Helpdesk.woa
+/
+/{{trim_prefix(update_uri,

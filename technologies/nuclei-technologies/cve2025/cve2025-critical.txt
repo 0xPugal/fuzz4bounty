@@ -41,3 +41,4 @@
 /fog/management/index.php?node=about&sub=kernel
 /fog/service/getversion.php?url={{interactsh-url}}
 /displays/nuclei_check.json
+/{{trim_prefix(update_uri,

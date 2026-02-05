@@ -46,3 +46,4 @@
 /?lang=../../../../../vendor/topthink/think-trace/src/TraceDebug
 /remote/login
 /login
+/login.jsp

@@ -317,3 +317,4 @@
 /ucmuser/
 /flexnet/logon.do
 /cucm-uds/version
+/account/login

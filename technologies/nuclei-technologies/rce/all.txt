@@ -261,3 +261,4 @@
 /?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini
 /user/login
 /asf/terminal
+/{{trim_prefix(update_uri,

@@ -22,3 +22,4 @@
 /seeyon/thirdpartyController.do.css/..;/ajax.do
 /defaultroot/officeserverservlet
 /console/login/LoginForm.jsp
+/{{trim_prefix(update_uri,
