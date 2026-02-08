@@ -262,3 +262,6 @@
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
 /wp-content/plugins/easy-wp-smtp/logs/
 /wp-json/tribe/events/v1/events/
+/wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x-logs.txt

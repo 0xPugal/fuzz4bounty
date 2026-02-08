@@ -137,3 +137,6 @@
 /bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
 /xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
 /
+/wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x-logs.txt

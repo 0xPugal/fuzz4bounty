@@ -1,0 +1,3 @@
+/wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x.log
+/wp-content/uploads/wp-retina-2x-logs.txt
