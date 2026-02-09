@@ -7,3 +7,4 @@
 /yyoa/createMysql.jsp
 /yyoa/ext/createMysql.jsp
 /
+/wp-json/learnpress/v1/users

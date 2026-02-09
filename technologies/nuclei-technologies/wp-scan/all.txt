@@ -1,2 +1,3 @@
 /wp-content/plugins/jetpack/readme.txt
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
+/wp-json/lp/v1/load_content_via_ajax

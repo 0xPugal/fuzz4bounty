@@ -129,3 +129,8 @@
 /login_ok.htm
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
 /{{trim_prefix(update_uri,
+/helpdesk/WebObjects/Helpdesk.woa
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
+/wp-json/lp/v1/load_content_via_ajax

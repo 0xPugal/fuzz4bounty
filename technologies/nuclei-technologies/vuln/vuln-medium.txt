@@ -1413,3 +1413,4 @@
 /App_Plugins/
 /_image?href=//{{interactsh-url}}/600x400
 /
+/wp-json/learnpress/v1/users

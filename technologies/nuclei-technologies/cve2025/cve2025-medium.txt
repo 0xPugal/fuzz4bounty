@@ -48,3 +48,4 @@
 /wp-content/uploads/fifu-cloud.log
 /_image?href=//{{interactsh-url}}/600x400
 /
+/wp-json/lp/v1/load_content_via_ajax

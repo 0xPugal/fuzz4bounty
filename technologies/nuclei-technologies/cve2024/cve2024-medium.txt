@@ -75,3 +75,4 @@
 /js/zimbraMail/share/model/ZmSettings.js
 /
 /wp-json/tribe/events/v1/events/
+/wp-json/learnpress/v1/users

@@ -715,3 +715,6 @@
 /plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
 /index.php?mod=textviewer&src=file:///etc/passwd
 /login.jsp
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}

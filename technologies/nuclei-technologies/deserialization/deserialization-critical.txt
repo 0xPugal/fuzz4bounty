@@ -7,3 +7,6 @@
 /helpdesk/WebObjects/Helpdesk.woa
 /
 /{{trim_prefix(update_uri,
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}

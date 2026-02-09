@@ -73,3 +73,7 @@
 /_internal/redirect.php?url=http://{{interactsh-url}}
 /probe?target={{interactsh-url}}&module=http_2xx
 /{{trim_prefix(update_uri,
+/helpdesk/WebObjects/Helpdesk.woa
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}

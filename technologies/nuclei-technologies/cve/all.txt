@@ -2043,3 +2043,8 @@
 /wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
 /wp-content/uploads/wp-retina-2x.log
 /wp-content/uploads/wp-retina-2x-logs.txt
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
+/wp-json/learnpress/v1/users
+/wp-json/lp/v1/load_content_via_ajax

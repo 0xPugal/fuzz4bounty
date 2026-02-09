@@ -196,3 +196,4 @@
 /rest/tinymce/1/macro/preview
 /rest/api/content/macro/preview
 /wp-json/tribe/events/v1/events/
+/wp-json/learnpress/v1/users

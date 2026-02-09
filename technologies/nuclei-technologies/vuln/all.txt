@@ -3837,3 +3837,4 @@
 /displays/nuclei_check.json
 /_image?href=//{{interactsh-url}}/600x400
 /env-config.js
+/wp-json/learnpress/v1/users

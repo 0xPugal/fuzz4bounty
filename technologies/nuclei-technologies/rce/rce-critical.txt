@@ -206,3 +206,6 @@
 /index.php?s=captcha
 /general/appbuilder/web/portal/gateway/getdata?activeTab=%E5%27%19,1%3D%3Eeval(base64_decode(%22{{base64(payload)}}%22)))%3B/*&id=19&module=Carouselimage
 /{{trim_prefix(update_uri,
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
