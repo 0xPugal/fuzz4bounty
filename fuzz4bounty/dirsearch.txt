@@ -6425,6 +6425,7 @@ listinfo
 lists
 lists/
 lists/config
+livewire/update
 lk/
 llms.txt
 load.php
