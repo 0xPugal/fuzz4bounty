@@ -3838,3 +3838,12 @@
 /_image?href=//{{interactsh-url}}/600x400
 /env-config.js
 /wp-json/learnpress/v1/users
+/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/wp-content/plugins/events-manager/classes/em-event.php
+/wp-content/plugins/events-manager/classes/em-booking.php
+/wp-content/plugins/events-manager/classes/em-location.php
+/wp-content/plugins/events-manager/classes/em-person.php
+/wp-content/plugins/events-manager/em-functions.php
+/wp-content/plugins/events-manager/widgets/em-events.php
+/wp-content/plugins/events-manager/admin/em-admin.php

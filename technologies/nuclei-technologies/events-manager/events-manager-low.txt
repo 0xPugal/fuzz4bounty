@@ -1,0 +1,7 @@
+/wp-content/plugins/events-manager/classes/em-event.php
+/wp-content/plugins/events-manager/classes/em-booking.php
+/wp-content/plugins/events-manager/classes/em-location.php
+/wp-content/plugins/events-manager/classes/em-person.php
+/wp-content/plugins/events-manager/em-functions.php
+/wp-content/plugins/events-manager/widgets/em-events.php
+/wp-content/plugins/events-manager/admin/em-admin.php

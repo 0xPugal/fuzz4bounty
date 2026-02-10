@@ -231,3 +231,4 @@
 /?aiowpsec_do_log_out=1&after_logout=https://interact.sh
 /
 /wp-json/learnpress/v1/users
+/wp-content/plugins/1-click-migration/ocm_debug.log

