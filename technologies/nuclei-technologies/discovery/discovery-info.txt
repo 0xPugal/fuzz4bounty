@@ -1368,3 +1368,6 @@
 /index.dhtml
 /js/zimbraMail/share/model/ZmSettings.js
 /\\
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

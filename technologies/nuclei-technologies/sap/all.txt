@@ -27,3 +27,4 @@
 /irj/go/km/navigation/
 /sap/public/info
 /
+/sapmc/sapmc.html

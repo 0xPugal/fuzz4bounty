@@ -311,3 +311,6 @@
 /_layouts/15/Authenticate.aspx
 /_layouts/Authenticate.aspx
 /flexnet/logon.do
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

@@ -103,3 +103,4 @@
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /
+/wp-json/wp/v2/pages?per_page=100

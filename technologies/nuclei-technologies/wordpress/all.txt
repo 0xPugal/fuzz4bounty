@@ -1019,3 +1019,5 @@
 /wp-content/plugins/events-manager/widgets/em-events.php
 /wp-content/plugins/events-manager/admin/em-admin.php
 /wp-content/plugins/1-click-migration/ocm_debug.log
+/wp-json/wp/v2/pages?per_page=100
+/wp-json/lp/v1/material/item-materials/1

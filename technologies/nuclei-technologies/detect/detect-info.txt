@@ -318,3 +318,5 @@
 /flexnet/logon.do
 /cucm-uds/version
 /account/login
+/api/config
+/opensearch.xml

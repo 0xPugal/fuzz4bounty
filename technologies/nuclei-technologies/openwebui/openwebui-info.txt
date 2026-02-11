@@ -1,0 +1,4 @@
+
+/api/config
+/auth
+/opensearch.xml

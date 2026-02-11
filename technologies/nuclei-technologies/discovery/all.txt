@@ -1432,3 +1432,6 @@
 /mcp/
 /sse
 /\\
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

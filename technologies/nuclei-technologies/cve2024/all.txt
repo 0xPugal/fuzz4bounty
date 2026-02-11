@@ -197,3 +197,4 @@
 /rest/api/content/macro/preview
 /wp-json/tribe/events/v1/events/
 /wp-json/learnpress/v1/users
+/wp-json/lp/v1/material/item-materials/1

@@ -38,3 +38,4 @@
 /
 /login_ok.htm
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/wp-json/wp/v2/pages?per_page=100

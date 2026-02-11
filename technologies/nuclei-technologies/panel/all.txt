@@ -855,3 +855,6 @@
 /ucmuser/
 /flexnet/logon.do
 /rails_admin
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

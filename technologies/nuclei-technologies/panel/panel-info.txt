@@ -807,3 +807,6 @@
 /cgit/
 /ucmuser/
 /flexnet/logon.do
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

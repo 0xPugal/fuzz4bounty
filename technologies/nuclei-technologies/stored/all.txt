@@ -1,0 +1,1 @@
+/wp-json/wp/v2/pages?per_page=100

@@ -135,3 +135,4 @@
 /helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
 /wp-json/lp/v1/load_content_via_ajax
 /wp-content/plugins/1-click-migration/ocm_debug.log
+/wp-json/wp/v2/pages?per_page=100
