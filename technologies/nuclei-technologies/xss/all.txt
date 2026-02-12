@@ -779,3 +779,5 @@
 /tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(document.domain)>
 /
 /wp-json/wp/v2/pages?per_page=100
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/?wprm_print={{recipe_id}}

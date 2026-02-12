@@ -35,3 +35,7 @@
 /user/login
 /
 /blog/?__proto__[polluted]=polluted
+/adminer.php
+/editor.php
+/adminer/
+/{{randstr}}

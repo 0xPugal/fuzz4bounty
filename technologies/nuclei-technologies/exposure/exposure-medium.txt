@@ -366,3 +366,5 @@
 /actions/debug/default/index
 /actions/debug/default/toolbar
 /actions/debug/default/view
+/wp-content/tmp/db/{{table}}.sql
+/wp-json/lp/v1/orders/statistic

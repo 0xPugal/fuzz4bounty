@@ -58,3 +58,4 @@
 /cgi-bin/db_eventlog_w.cgi?date_start=0&date_end=1715630160&gravity=%25&type=%25%27and/**/%271%27=%271
 /client/index.php%3F.php/gsb/users.php
 /wp-content/plugins/wp-advanced-search/class.inc/autocompletion/autocompletion-PHP5.5.php?q=admin&t=wp_users%20--&f=user_login&type=&e
+/{{route}}

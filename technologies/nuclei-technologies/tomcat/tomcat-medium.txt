@@ -5,3 +5,4 @@
 /printenv.shtml?{{url_encode(payload)}}
 /ssi/printenv.shtml?{{url_encode(payload)}}
 /signup
+/{{randstr}}

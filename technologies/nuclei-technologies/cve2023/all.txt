@@ -261,3 +261,6 @@
 /wp-content/plugins/wp-retina-2x/classes/wp-retina-2x.log
 /wp-content/uploads/wp-retina-2x.log
 /wp-content/uploads/wp-retina-2x-logs.txt
+/{{randstr}}
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/?wprm_print={{recipe_id}}

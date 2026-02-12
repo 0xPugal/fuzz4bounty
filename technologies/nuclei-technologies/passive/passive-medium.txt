@@ -5,3 +5,4 @@
 /wp-content/plugins/elementor/readme.txt
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/{{randstr}}

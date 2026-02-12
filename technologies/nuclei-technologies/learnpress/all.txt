@@ -2,3 +2,4 @@
 /wp-json/learnpress/v1/users
 /wp-json/lp/v1/load_content_via_ajax
 /wp-json/lp/v1/material/item-materials/1
+/wp-json/lp/v1/orders/statistic

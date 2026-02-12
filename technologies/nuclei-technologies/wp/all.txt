@@ -414,3 +414,7 @@
 /wp-json/tribe/events/v1/events/
 /wp-links-opml.php
 /wp-json/wp/v2/pages?per_page=100
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/?wprm_print={{recipe_id}}
+/wp-content/tmp/db/{{table}}.sql
+/wp-json/lp/v1/orders/statistic

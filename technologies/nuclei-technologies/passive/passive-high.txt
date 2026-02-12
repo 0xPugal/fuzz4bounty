@@ -2,3 +2,6 @@
 /js/zimbraMail/share/model/ZmSettings.js
 /user/login
 /blog/?__proto__[polluted]=polluted
+/adminer.php
+/editor.php
+/adminer/
