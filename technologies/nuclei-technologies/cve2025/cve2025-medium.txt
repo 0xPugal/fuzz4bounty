@@ -51,3 +51,5 @@
 /wp-json/lp/v1/load_content_via_ajax
 /wp-content/plugins/1-click-migration/ocm_debug.log
 /wp-json/lp/v1/orders/statistic
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

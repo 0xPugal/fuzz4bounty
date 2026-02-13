@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

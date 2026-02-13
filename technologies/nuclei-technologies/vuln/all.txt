@@ -3847,3 +3847,5 @@
 /wp-content/plugins/events-manager/em-functions.php
 /wp-content/plugins/events-manager/widgets/em-events.php
 /wp-content/plugins/events-manager/admin/em-admin.php
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

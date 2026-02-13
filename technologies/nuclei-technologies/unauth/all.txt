@@ -320,3 +320,5 @@
 /cacti/graph_view.php
 /?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
 /api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

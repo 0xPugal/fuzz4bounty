@@ -273,3 +273,5 @@
 /?wprm_print={{recipe_id}}
 /wp-content/tmp/db/{{table}}.sql
 /wp-json/lp/v1/orders/statistic
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

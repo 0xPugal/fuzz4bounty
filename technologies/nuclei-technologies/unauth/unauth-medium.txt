@@ -117,3 +117,5 @@
 /?wptouch_switch=desktop&redirect=http://interact.sh
 /graph_view.php
 /cacti/graph_view.php
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes
