@@ -5023,6 +5023,7 @@ actuator/gateway/routes
 actuator/health
 actuator/healthcheck
 actuator/heapdump
+actuator/heapdump%23
 actuator/httptrace
 actuator/hystrix.stream
 actuator/info
@@ -18869,6 +18870,7 @@ heap-checker-death_unittest.sh
 heap-checker_unittest.sh
 heap-profiler_unittest.sh
 heapdump
+heapdump%23
 heapdump.json
 heart
 heartphp.sql
