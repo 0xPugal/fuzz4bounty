@@ -858,3 +858,5 @@
 /api/config
 /opensearch.xml
 /sapmc/sapmc.html
+/settings/plugins
+/settings/cluster

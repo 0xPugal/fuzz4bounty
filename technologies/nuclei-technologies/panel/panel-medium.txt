@@ -20,3 +20,5 @@
 /opennms/index.jsp
 /opennms/dashboard.jsp
 /opennms/
+/settings/plugins
+/settings/cluster

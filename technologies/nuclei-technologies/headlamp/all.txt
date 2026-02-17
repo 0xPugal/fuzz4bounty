@@ -1,0 +1,2 @@
+/settings/plugins
+/settings/cluster

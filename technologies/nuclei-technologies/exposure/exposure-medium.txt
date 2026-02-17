@@ -368,3 +368,5 @@
 /actions/debug/default/view
 /wp-content/tmp/db/{{table}}.sql
 /wp-json/lp/v1/orders/statistic
+/settings/plugins
+/settings/cluster
