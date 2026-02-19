@@ -419,3 +419,4 @@
 /wp-content/tmp/db/{{table}}.sql
 /wp-json/lp/v1/orders/statistic
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c
+/wp-content/ewww/debug.log

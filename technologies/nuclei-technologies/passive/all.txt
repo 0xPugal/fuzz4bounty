@@ -39,3 +39,4 @@
 /editor.php
 /adminer/
 /{{randstr}}
+/helpdesk/WebObjects/Helpdesk.woa

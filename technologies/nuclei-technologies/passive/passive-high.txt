@@ -5,3 +5,4 @@
 /adminer.php
 /editor.php
 /adminer/
+/helpdesk/WebObjects/Helpdesk.woa

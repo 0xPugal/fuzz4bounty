@@ -2062,3 +2062,4 @@
 /wp-json/lp/v1/orders/statistic
 /wp-admin/admin-ajax.php?action=tsml_info
 /wp-admin/admin-ajax.php?action=tsml_geocodes
+/wp-content/ewww/debug.log
