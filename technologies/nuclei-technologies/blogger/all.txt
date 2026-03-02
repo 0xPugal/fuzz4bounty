@@ -1,0 +1,7 @@
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/blogger.js
+/feeds/posts/default
+/search

@@ -1,0 +1,8 @@
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/_static/
+/wix-api
+/user/login
+/wix.js

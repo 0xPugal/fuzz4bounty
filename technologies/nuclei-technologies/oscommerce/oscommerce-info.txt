@@ -1,0 +1,8 @@
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/admin
+/includes/modules/
+/catalog/includes/javascript/oscommerce.js
+/checkout_payment.php

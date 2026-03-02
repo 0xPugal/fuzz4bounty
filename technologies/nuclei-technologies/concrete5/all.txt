@@ -1,3 +1,11 @@
 /index.php/install
 /concrete5/index.php/install
 /index.php/login
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/index.php
+/concrete/js/build/
+/concrete/block/
+/dashboard/

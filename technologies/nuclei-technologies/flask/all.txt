@@ -1,1 +1,9 @@
 /login?next=\\\interact.sh
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/index.php
+/static/
+/flask/
+/health/

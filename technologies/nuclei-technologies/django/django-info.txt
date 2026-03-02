@@ -1,1 +1,10 @@
 /admin/login/
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/admin/
+/static/
+/media/
+/index.php
+/django-admin/

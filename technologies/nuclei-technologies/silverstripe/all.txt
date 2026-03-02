@@ -1,0 +1,9 @@
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/index.php
+/assets/
+/cms/
+/admin/
+/themes/

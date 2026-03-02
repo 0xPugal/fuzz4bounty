@@ -16,3 +16,9 @@
 /bitrix/modules/updater_partner.log
 {{paths}}
 
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/bitrix/js/main/core/core_min.js
+/bitrix/templates/
+/bitrix/panel/

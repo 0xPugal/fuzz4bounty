@@ -5,3 +5,10 @@
 /storage/logs/error.log
 /error.log
 /system/logs/error.log
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/catalog/view/javascript/opencart.js
+/index.php?route=common/home
+/oc-admin

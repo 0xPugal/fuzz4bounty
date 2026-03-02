@@ -1,0 +1,7 @@
+
+/robots.txt
+/sitemap.xml
+/admin
+/shopify_app
+/shopify_api
+/favicon.ico

@@ -1,2 +1,9 @@
 /bitrix/admin/
 /bitrix/components/bitrix/map.yandex.view/settings/settings.php
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/bitrix/js/main/core/core_min.js
+/bitrix/templates/
+/bitrix/panel/

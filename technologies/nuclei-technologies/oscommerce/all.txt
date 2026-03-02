@@ -1,2 +1,10 @@
 /furniture/catalog/all-products?cat=1&bhl4n%2522%253e%253cScRiPt%253ealert%2528
 /watch/catalog/all-products?cat=1&bhl4n%2522%253e%253cScRiPt%253ealert%2528
+
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/admin
+/includes/modules/
+/catalog/includes/javascript/oscommerce.js
+/checkout_payment.php
