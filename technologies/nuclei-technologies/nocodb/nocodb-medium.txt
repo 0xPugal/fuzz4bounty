@@ -1,4 +1,1 @@
-/download/{{repeat(
-/dashboard/#/signin
-/dashboard/favicon.ico
 /api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/

