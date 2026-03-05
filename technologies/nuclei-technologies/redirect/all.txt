@@ -154,3 +154,4 @@
 /
 /gradio_api/file=http://example.com
 /file=http://example.com
+/index.php?r=editorLink&url=http://interact.sh/

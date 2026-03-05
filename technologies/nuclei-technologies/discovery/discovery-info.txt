@@ -1372,3 +1372,4 @@
 /opensearch.xml
 /sapmc/sapmc.html
 /#!/welcome
+/p/automl_pipeline

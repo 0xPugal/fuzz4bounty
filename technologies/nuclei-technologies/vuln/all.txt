@@ -3852,3 +3852,4 @@
 /gradio_api/file=http://example.com
 /file=http://example.com
 /wp-content/plugins/email-subscribers/readme.txt
+/index.php?r=editorLink&url=http://interact.sh/

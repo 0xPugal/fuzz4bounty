@@ -1,0 +1,1 @@
+/index.php?r=editorLink&url=http://interact.sh/

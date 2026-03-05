@@ -148,3 +148,4 @@
 /wp-content/themes/Upward/go.php?https://interact.sh
 /?wptouch_switch=desktop&redirect=https://interact.sh/
 /
+/index.php?r=editorLink&url=http://interact.sh/
