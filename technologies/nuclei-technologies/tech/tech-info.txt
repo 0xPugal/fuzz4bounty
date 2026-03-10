@@ -645,3 +645,6 @@
 /weebly/
 /site/
 /p/automl_pipeline
+/syncope-enduser/
+/syncope-wa/
+/syncope-console/

@@ -73,3 +73,6 @@
 /tika
 /version
 /\\
+/syncope-enduser/
+/syncope-wa/
+/syncope-console/

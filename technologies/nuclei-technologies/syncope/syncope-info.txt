@@ -1,0 +1,3 @@
+/syncope-enduser/
+/syncope-wa/
+/syncope-console/
