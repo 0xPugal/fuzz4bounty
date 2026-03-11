@@ -6,3 +6,4 @@
 /adminer.php
 /editor.php
 /adminer/
+/api/backup

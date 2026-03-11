@@ -58,3 +58,4 @@
 /inventory
 /web/database/manager
 /v1/submissions
+/api/backup
