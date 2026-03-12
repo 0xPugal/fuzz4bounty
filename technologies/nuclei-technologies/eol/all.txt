@@ -6,3 +6,5 @@
 /tomconnect/openmessaging.asmx?wsdl
 /tomconnect_apo/openmessaging.asmx?wsdl
 /tompreprod/openmessaging.asmx?wsdl
+/owa/
+/owa/auth/logon.aspx

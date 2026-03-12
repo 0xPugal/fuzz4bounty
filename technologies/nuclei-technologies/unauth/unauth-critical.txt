@@ -59,3 +59,6 @@
 /web/database/manager
 /v1/submissions
 /api/backup
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}

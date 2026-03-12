@@ -315,3 +315,4 @@
 /opensearch.xml
 /sapmc/sapmc.html
 /#!/welcome
+/boss/

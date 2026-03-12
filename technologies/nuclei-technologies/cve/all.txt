@@ -2068,3 +2068,6 @@
 /wp-content/plugins/email-subscribers/readme.txt
 /api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/
 /api/backup
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}

