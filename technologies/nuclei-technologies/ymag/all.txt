@@ -1,0 +1,4 @@
+/index.php
+/net-ypareo/index.php
+/netypareo/index.php
+/index.html

@@ -862,3 +862,5 @@
 /settings/cluster
 /#!/welcome
 /boss/
+/net-ypareo/index.php
+/netypareo/index.php

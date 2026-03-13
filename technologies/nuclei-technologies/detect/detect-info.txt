@@ -366,3 +366,5 @@
 /syncope-wa/
 /syncope-console/
 /boss/
+/net-ypareo/index.php
+/netypareo/index.php

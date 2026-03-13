@@ -1,2 +1,3 @@
 /login_up.php
 /plesk-stat/
+

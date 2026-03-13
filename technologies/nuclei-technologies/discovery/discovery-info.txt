@@ -1373,3 +1373,5 @@
 /sapmc/sapmc.html
 /#!/welcome
 /p/automl_pipeline
+/net-ypareo/index.php
+/netypareo/index.php

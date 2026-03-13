@@ -317,3 +317,5 @@
 /sapmc/sapmc.html
 /#!/welcome
 /boss/
+/net-ypareo/index.php
+/netypareo/index.php

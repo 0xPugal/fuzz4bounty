@@ -649,3 +649,4 @@
 /syncope-wa/
 /syncope-console/
 /owa/
+/login_up.php
