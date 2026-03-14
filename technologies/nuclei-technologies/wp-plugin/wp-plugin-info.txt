@@ -250,3 +250,4 @@
 /wp-content/uploads/tmm_db_migrate/tmm_db_migrate.zip
 /wp-content/plugins/updraftplus/includes/
 /wp-content/plugins/qards/
+/wp-content/plugins/user-registration/readme.txt

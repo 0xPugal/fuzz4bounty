@@ -301,3 +301,4 @@
 /wp-content/plugins/qards/
 /wp-content/plugins/sfwd-lms/
 /wp-links-opml.php
+/wp-content/plugins/user-registration/readme.txt

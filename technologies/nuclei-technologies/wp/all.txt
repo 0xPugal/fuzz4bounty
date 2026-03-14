@@ -421,3 +421,4 @@
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c
 /wp-content/ewww/debug.log
 /wp-content/plugins/email-subscribers/readme.txt
+/wp-content/plugins/user-registration/readme.txt

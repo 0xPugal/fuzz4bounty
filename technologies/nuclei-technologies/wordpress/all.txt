@@ -1030,3 +1030,4 @@
 /wp-admin/admin-ajax.php?action=tsml_geocodes
 /wp-content/ewww/debug.log
 /wp-content/plugins/email-subscribers/readme.txt
+/wp-content/plugins/user-registration/readme.txt

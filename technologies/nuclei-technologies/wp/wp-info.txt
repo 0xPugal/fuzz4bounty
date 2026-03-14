@@ -13,3 +13,4 @@
 /wp-cron.php
 /wp-content/plugins/qards/
 /wp-links-opml.php
+/wp-content/plugins/user-registration/readme.txt
