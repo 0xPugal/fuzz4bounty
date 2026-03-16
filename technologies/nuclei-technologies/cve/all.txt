@@ -2074,3 +2074,4 @@
 /rss/watch/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
+/wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt

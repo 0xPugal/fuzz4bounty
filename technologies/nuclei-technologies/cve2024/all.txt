@@ -201,3 +201,4 @@
 /{{route}}
 /wp-content/tmp/db/{{table}}.sql
 /wp-content/plugins/email-subscribers/readme.txt
+/wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt

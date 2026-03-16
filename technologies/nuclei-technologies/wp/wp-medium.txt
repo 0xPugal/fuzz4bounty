@@ -132,3 +132,4 @@
 /wp-content/tmp/db/{{table}}.sql
 /wp-json/lp/v1/orders/statistic
 /wp-content/ewww/debug.log
+/wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt
