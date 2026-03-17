@@ -26,3 +26,4 @@
 /login.php/
 /ueditor/net/controller.ashx?action=catchimage&encode=utf-8
 /service/~baseapp/UploadServlet
+/api/status

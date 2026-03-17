@@ -380,3 +380,4 @@
 /rest/GetAutologin
 /rails_admin
 /admin/install
+/wp-json/mrm/v1/wp/admins?term=@

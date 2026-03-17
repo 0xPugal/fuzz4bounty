@@ -9,3 +9,5 @@
 /api/backup
 
 /rss/watch/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
+/wp-json/mrm/v1/wp/admins?term=@
+/api/status

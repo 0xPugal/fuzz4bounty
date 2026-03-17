@@ -327,3 +327,5 @@
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}
+/wp-json/mrm/v1/wp/admins?term=@
+/api/status

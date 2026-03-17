@@ -853,3 +853,4 @@
 /wp-content/plugins/email-subscribers/readme.txt
 /wp-content/plugins/user-registration/readme.txt
 /wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt
+/wp-json/mrm/v1/wp/admins?term=@

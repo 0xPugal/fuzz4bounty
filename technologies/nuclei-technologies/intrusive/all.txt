@@ -92,3 +92,4 @@
 /wp-content/plugins/cmp-coming-soon-maintenance/readme.txt
 /\\
 /{{trim_prefix(update_uri,
+/api/status
