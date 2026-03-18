@@ -2077,3 +2077,5 @@
 /wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt
 /wp-json/mrm/v1/wp/admins?term=@
 /api/status
+/wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=bfcm_2025_offer&redirect_to=https://interact.sh
+/wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=welcome_offer&redirect_to=https://interact.sh

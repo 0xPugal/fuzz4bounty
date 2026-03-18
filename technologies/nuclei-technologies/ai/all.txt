@@ -7,3 +7,17 @@
 /mcp/
 /sse
 /login
+/api/cors/data:text%2fhtml;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+%23
+/api/cors/http:%2f%2fnextchat.{{interactsh-url}}%23
+/wp-json/mcp/v1
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}
+/API/V1/credentials
+/api/setup-complete
+/organization-setup
+/llms.txt
+/mcp.json
+/.mcp.json
+/file=https://oast.me
+/wp-admin/admin-ajax.php?ays_chatgpt_assistant_id=1&action=ays_chatgpt_admin_ajax&function=ays_chatgpt_disconnect

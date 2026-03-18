@@ -827,3 +827,8 @@
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/SubscribersServiceProvider.php
 /Dockerrun.aws.json
 /static/Dockerrun.aws.json
+/graphiql
+/graphql
+/api/graphql
+/v1/graphql
+/query

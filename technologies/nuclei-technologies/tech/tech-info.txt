@@ -651,3 +651,4 @@
 /owa/
 /login_up.php
 /wp-content/plugins/user-registration/readme.txt
+/login.action

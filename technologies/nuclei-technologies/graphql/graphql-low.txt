@@ -3,3 +3,8 @@
 /ui/voyager
 /graphql/voyager
 /
+/graphiql
+/graphql
+/api/graphql
+/v1/graphql
+/query

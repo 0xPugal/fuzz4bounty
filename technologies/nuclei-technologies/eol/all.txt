@@ -9,3 +9,4 @@
 /owa/
 /owa/auth/logon.aspx
 /login_up.php
+/login.action

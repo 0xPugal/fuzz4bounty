@@ -443,3 +443,4 @@
 /static/Dockerrun.aws.json
 /env-config.js
 /llms.txt
+/gateway.conf

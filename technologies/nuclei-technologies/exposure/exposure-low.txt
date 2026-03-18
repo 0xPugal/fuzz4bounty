@@ -350,3 +350,8 @@
 /.wp-env.json
 /v3/settings/first-login
 /env-config.js
+/graphiql
+/graphql
+/api/graphql
+/v1/graphql
+/query

@@ -227,3 +227,8 @@
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/ImagifyNoticeServiceProvider.php
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/LazyloadServiceProvider.php
 /wp-content/plugins/rocket-lazy-load/src/ServiceProvider/SubscribersServiceProvider.php
+/graphiql
+/graphql
+/api/graphql
+/v1/graphql
+/query

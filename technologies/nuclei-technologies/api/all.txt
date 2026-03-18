@@ -108,3 +108,4 @@
 /api/
 /Users/Public
 /jellyfin/Users/Public
+/api/setup-complete

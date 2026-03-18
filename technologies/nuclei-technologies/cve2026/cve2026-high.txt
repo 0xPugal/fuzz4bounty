@@ -7,3 +7,4 @@
 /adminer/
 /wp-json/mrm/v1/wp/admins?term=@
 /api/status
+/api/setup-complete

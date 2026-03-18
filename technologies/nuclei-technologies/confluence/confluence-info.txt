@@ -7,3 +7,4 @@
 /pages
 /confluence
 /wiki
+/login.action

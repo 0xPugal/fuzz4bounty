@@ -9,3 +9,5 @@
 /voyager/
 /ui/voyager
 /graphql/voyager
+/graphiql
+/v1/graphql

