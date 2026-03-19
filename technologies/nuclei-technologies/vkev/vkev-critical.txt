@@ -289,3 +289,4 @@
 /cgi-bin/Maconomy/MaconomyWS.macx1.W_MCS//etc/passwd
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
+/api/backup
