@@ -832,3 +832,4 @@
 /api/graphql
 /v1/graphql
 /query
+/q/metrics

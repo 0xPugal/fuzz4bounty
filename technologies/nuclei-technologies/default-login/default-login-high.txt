@@ -32,3 +32,5 @@
 /lucee/admin/server.cfm
 /
 /ov.html?
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

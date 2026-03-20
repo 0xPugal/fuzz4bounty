@@ -8,3 +8,5 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /api/status
 /api/setup-complete
+/api/4/system
+/api/4/processlist

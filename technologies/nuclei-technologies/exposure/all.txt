@@ -1438,3 +1438,8 @@
 /v1/graphql
 /query
 /gateway.conf
+/api/4/system
+/api/4/processlist
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1
+/q/metrics

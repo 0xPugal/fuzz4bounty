@@ -38,3 +38,5 @@
 /my_view_page.php
 /
 /ov.html?
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

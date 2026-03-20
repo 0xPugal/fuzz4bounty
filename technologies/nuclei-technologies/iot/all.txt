@@ -113,3 +113,5 @@
 /hp/device/this.LCDispatcher?nav=hp.Config
 /info_configuration.html?tab=Home&menu=DevConfig
 /SSI/info_configuration.htm
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

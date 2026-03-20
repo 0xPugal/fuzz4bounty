@@ -41,3 +41,5 @@
 /
 /api/auth/settings
 /login_ok.htm
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

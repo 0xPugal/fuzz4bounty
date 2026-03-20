@@ -30,3 +30,4 @@
 
 /ui/clusters/kafka-ui/brokers
 /{{randstr}}
+/q/metrics

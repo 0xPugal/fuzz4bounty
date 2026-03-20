@@ -381,3 +381,7 @@
 /rails_admin
 /admin/install
 /wp-json/mrm/v1/wp/admins?term=@
+/api/4/system
+/api/4/processlist
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

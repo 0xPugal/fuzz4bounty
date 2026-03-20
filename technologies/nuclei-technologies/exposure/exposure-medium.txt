@@ -371,3 +371,4 @@
 /settings/plugins
 /settings/cluster
 /gateway.conf
+/q/metrics

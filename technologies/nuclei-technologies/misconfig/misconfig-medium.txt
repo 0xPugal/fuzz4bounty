@@ -157,3 +157,4 @@
 /
 /Dockerrun.aws.json
 /static/Dockerrun.aws.json
+/q/metrics
