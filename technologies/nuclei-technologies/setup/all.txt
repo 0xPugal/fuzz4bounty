@@ -18,3 +18,5 @@
 /setup/setupLicense.action
 /setup/setup.do
 /setup/start
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/

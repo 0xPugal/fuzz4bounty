@@ -125,3 +125,5 @@
 /api/4/processlist
 /ONVIF/media.cgi?action=getSnapshot
 /ONVIF/media.cgi?action=getSnapshot&channel=1
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/

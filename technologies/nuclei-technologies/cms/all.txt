@@ -68,3 +68,5 @@
 /App_Data/
 /App_Plugins/
 /storage/logs/web.log
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/

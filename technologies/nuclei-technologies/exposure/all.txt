@@ -1443,3 +1443,5 @@
 /ONVIF/media.cgi?action=getSnapshot
 /ONVIF/media.cgi?action=getSnapshot&channel=1
 /q/metrics
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/

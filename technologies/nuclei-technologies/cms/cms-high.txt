@@ -12,3 +12,5 @@
 /ccm/system/panels/page/preview_as_user/preview?cID=
 /cpasm4/plugInManController/downPlugs?fileId=../../../../etc/passwd&fileName
 /v12/setup/temp/admin.php
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/

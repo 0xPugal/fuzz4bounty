@@ -157,3 +157,4 @@
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
 /loginok.html
+/{{trim_prefix(update_uri,

@@ -2,3 +2,5 @@
 /assets/built%2F..%2F..%2F%E0%A4%A/package.json
 /ghost/#/signin
 /ghost/preview
+/ghost/api/admin/authentication/setup/
+/ghost/api/v3/admin/authentication/setup/
