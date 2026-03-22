@@ -256,3 +256,4 @@
 /login
 /index.php?showmessage=4&customermail=\
 /login.jsp
+/?s=codepeople-image-store&post_type=page&feed=rss2

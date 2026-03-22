@@ -47,3 +47,4 @@
 /remote/login
 /login
 /login.jsp
+/?s=codepeople-image-store&post_type=page&feed=rss2

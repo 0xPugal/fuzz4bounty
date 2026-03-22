@@ -856,3 +856,4 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=bfcm_2025_offer&redirect_to=https://interact.sh
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=welcome_offer&redirect_to=https://interact.sh
+/?s=codepeople-image-store&post_type=page&feed=rss2

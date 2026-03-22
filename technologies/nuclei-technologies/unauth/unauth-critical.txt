@@ -62,3 +62,4 @@
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
 /spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}
+/?s=codepeople-image-store&post_type=page&feed=rss2
