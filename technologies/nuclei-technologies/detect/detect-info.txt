@@ -368,3 +368,4 @@
 /boss/
 /net-ypareo/index.php
 /netypareo/index.php
+/webapi/entry.cgi?api=SYNO.API.Info&version=1&method=query&query=all

@@ -1,2 +1,3 @@
 /api/4/system
 /api/4/processlist
+/api/4/config

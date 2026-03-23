@@ -2082,3 +2082,4 @@
 /api/4/system
 /api/4/processlist
 /?s=codepeople-image-store&post_type=page&feed=rss2
+/api/4/config

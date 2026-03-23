@@ -134,3 +134,4 @@
 /projects/
 /cpbackup-exclude.conf
 /.cpbackup-exclude.conf
+/webapi/entry.cgi?api=SYNO.API.Info&version=1&method=query&query=all
