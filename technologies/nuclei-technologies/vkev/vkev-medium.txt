@@ -196,3 +196,4 @@
 /index.astro.mjs.map
 /_image?href=//{{interactsh-url}}/600x400
 /loginok.html
+/_next/static/../server/pages-manifest.json

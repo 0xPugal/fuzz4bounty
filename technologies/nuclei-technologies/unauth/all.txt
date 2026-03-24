@@ -338,3 +338,4 @@
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
 /?s=codepeople-image-store&post_type=page&feed=rss2
+/?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro

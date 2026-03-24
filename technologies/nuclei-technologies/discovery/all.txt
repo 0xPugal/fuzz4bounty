@@ -1439,3 +1439,4 @@
 /p/automl_pipeline
 /net-ypareo/index.php
 /netypareo/index.php
+/home/index.html#hashHome

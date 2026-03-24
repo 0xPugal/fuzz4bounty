@@ -1,1 +1,2 @@
 /index.dhtml
+/home/index.html#hashHome
