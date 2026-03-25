@@ -1,0 +1,1 @@
+/rustfs/console/auth/login

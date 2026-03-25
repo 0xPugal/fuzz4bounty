@@ -10,3 +10,4 @@
 /api/users/admin/check
 /Dockerrun.aws.json
 /static/Dockerrun.aws.json
+/auth/login
