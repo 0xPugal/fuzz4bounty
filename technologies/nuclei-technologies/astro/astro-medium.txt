@@ -2,3 +2,6 @@
 /index.astro.mjs.map
 /_image?href=//{{interactsh-url}}/600x400
 /
+//interact.sh/en//
+//interact.sh/en/
+//interact.sh/en

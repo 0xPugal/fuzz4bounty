@@ -57,3 +57,8 @@
 /examples/control.html?room=%3Cimg%20src=x%20onerror=alert(document.domain)%3E
 /api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/
 /?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro
+//interact.sh/en//
+//interact.sh/en/
+//interact.sh/en
+/core/i18n/ko/
+/apps/guests/register/{{email}}/invalid-token-12345

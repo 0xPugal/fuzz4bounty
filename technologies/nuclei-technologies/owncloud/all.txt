@@ -3,3 +3,4 @@
 
 /owncloud/
 /status.php
+/apps/guests/register/{{email}}/invalid-token-12345

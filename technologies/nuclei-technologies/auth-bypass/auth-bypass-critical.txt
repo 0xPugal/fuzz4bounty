@@ -50,3 +50,4 @@
 /nacos/v1/auth/users?pageNo=1&pageSize=9
 /v1/auth/users?pageNo=1&pageSize=9
 /scrm/crm/admin
+/api/v1/monitor/messages

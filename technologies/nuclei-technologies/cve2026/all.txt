@@ -17,3 +17,5 @@
 /api/4/system
 /api/4/processlist
 /api/4/config
+/api/v1/monitor/messages
+/web/%2Finteract.sh:443

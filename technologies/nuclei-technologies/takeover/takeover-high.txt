@@ -1,2 +1,3 @@
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
+
