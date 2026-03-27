@@ -1418,3 +1418,4 @@
 /wp-admin/admin-ajax.php?action=tsml_geocodes
 /index.php?r=editorLink&url=http://interact.sh/
 /web/%2Finteract.sh:443
+/Modules.php?modname=Users/Preferences.php&tab=

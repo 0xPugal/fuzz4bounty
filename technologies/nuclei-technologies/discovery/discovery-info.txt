@@ -1376,3 +1376,4 @@
 /net-ypareo/index.php
 /netypareo/index.php
 /home/index.html#hashHome
+/builder/auth/login
