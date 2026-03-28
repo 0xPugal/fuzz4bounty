@@ -2092,3 +2092,4 @@
 /apps/guests/register/{{email}}/invalid-token-12345
 /web/%2Finteract.sh:443
 /Modules.php?modname=Users/Preferences.php&tab=
+/.env/.

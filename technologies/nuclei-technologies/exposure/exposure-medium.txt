@@ -372,3 +372,5 @@
 /settings/cluster
 /gateway.conf
 /q/metrics
+/.env
+/.env/.

@@ -153,3 +153,5 @@
 //interact.sh/en
 /core/i18n/ko/
 /apps/guests/register/{{email}}/invalid-token-12345
+/.env
+/.env/.
