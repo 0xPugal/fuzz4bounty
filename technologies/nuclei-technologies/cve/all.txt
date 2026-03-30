@@ -2093,3 +2093,4 @@
 /web/%2Finteract.sh:443
 /Modules.php?modname=Users/Preferences.php&tab=
 /.env/.
+//.env

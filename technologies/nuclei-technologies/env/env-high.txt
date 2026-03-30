@@ -4,3 +4,5 @@
 /artemis;/env;
 /artemis/1/..;/env
 {{paths}}
+/.env
+//.env

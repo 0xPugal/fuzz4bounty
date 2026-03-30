@@ -71,3 +71,5 @@
 /bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
 /xwiki/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
 /
+/.env
+//.env

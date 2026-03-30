@@ -13,3 +13,5 @@
 /cgi-sys/info.cgi
 /scripts/info.cgi
 /lite-scripts/info.cgi
+/.env
+//.env

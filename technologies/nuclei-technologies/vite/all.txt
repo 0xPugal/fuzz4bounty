@@ -6,3 +6,4 @@
 /etc/passwd?.svg?.wasm?init
 /.env
 /.env/.
+//.env

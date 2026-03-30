@@ -1,2 +1,3 @@
 /web/login
 /web/database/selector/
+/website/info
