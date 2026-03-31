@@ -3,3 +3,8 @@
 /pentaho/api/userrolelist/systemRoles?require-cfg.js
 /api/userrolelist/systemRoles?require-cfg.js
 /static/link/%2e%2e/etc/passwd
+/application/default
+/application/..%2F..%2F..%2F..%2F..%2Fetc
+/application/..%2F..%2F..%2F..%2F..%2Fetc/main
+/application/..%252F..%252F..%252F..%252F..%252Fetc
+/application/default%2C..%2F..%2F..%2F..%2F..%2Fetc

@@ -653,3 +653,4 @@
 /wp-content/plugins/user-registration/readme.txt
 /login.action
 /rustfs/console/auth/login
+/api/v1/version

