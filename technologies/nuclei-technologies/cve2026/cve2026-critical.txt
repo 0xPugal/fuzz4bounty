@@ -1,3 +1,5 @@
 /signin
 /api/backup
 /api/v1/monitor/messages
+/
+{{pagepath}}

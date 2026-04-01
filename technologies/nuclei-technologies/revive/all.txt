@@ -6,3 +6,5 @@
 /openx/www/delivery/lg.php?dest=http://interact.sh
 /revive/www/delivery/lg.php?dest=http://interact.sh
 /www/delivery/lg.php?dest=http://interact.sh
+/www/admin/install.php?action=welcome
+/admin/install.php?action=welcome

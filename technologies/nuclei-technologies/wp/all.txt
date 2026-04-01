@@ -427,3 +427,4 @@
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=welcome_offer&redirect_to=https://interact.sh
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro
+/wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings

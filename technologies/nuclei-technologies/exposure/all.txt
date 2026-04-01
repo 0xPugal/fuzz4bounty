@@ -1448,3 +1448,6 @@
 /api/4/config
 /.env/.
 //.env
+/wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
+/www/admin/install.php?action=welcome
+/admin/install.php?action=welcome

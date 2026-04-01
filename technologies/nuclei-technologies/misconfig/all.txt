@@ -834,3 +834,5 @@
 /query
 /q/metrics
 /webapi/entry.cgi?api=SYNO.API.Info&version=1&method=query&query=all
+/www/admin/install.php?action=welcome
+/admin/install.php?action=welcome

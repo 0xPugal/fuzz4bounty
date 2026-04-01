@@ -282,3 +282,5 @@
 /rest/GetAutologin
 /rails_admin
 /admin/install
+/www/admin/install.php?action=welcome
+/admin/install.php?action=welcome

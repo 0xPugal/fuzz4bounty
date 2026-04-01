@@ -1,1 +1,3 @@
 /search?search_key=%7B%7B1337*1338%7D%7D
+/
+{{pagepath}}

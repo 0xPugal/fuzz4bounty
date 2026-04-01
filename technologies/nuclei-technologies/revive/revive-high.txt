@@ -1,4 +1,2 @@
-/www/admin/index.php
-/admin/index.php
 /www/admin/install.php?action=welcome
 /admin/install.php?action=welcome

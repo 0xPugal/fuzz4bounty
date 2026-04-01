@@ -10,3 +10,5 @@
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js?url=%23{T(java.net.InetAddress).getByName(
 /search?search_key=%7B%7B1337*1338%7D%7D
 /bagisto-common/search?query={{2288*
+/
+{{pagepath}}

