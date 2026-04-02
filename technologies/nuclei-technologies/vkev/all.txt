@@ -737,3 +737,4 @@
 /loginok.html
 /api/backup
 /_next/static/../server/pages-manifest.json
+/wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings

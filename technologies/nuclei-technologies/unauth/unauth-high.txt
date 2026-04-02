@@ -129,3 +129,4 @@
 /ghost/api/v3/admin/authentication/setup/
 /www/admin/install.php?action=welcome
 /admin/install.php?action=welcome
+/api/v1/config

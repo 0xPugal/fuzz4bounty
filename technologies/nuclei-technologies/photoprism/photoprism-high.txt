@@ -1,2 +1,1 @@
-/library/login
 /api/v1/config
