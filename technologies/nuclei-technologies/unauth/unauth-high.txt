@@ -130,3 +130,4 @@
 /www/admin/install.php?action=welcome
 /admin/install.php?action=welcome
 /api/v1/config
+/api/system/version

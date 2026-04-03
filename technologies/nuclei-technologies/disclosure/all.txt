@@ -208,3 +208,4 @@
 /jellyfin/Users/Public
 /
 /wp-json/tribe/events/v1/events/
+/api/system/version

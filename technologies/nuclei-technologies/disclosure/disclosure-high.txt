@@ -42,3 +42,4 @@
 /WebReport/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
 /wt3/forceSave.php?file=/etc/passwd
 /
+/api/system/version
