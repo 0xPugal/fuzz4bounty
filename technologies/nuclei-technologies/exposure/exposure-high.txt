@@ -393,3 +393,8 @@
 /www/admin/install.php?action=welcome
 /admin/install.php?action=welcome
 /api/v1/config
+/index.php?module=API&method=VisitsSummary.get&idSite=1&period=day&date=today&format=json&token_auth=anonymous
+/matomo/index.php?module=API&method=VisitsSummary.get&idSite=1&period=day&date=today&format=json&token_auth=anonymous
+/piwik/index.php?module=API&method=VisitsSummary.get&idSite=1&period=day&date=today&format=json&token_auth=anonymous
+/index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
+/matomo/index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
