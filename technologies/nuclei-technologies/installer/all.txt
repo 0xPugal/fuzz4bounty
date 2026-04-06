@@ -23,3 +23,4 @@
 /easy_setup.htm
 /setup/setupLicense.action
 /setup/start
+/icingaweb2/setup

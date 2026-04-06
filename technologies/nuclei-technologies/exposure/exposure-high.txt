@@ -398,3 +398,6 @@
 /piwik/index.php?module=API&method=VisitsSummary.get&idSite=1&period=day&date=today&format=json&token_auth=anonymous
 /index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
 /matomo/index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
+/v1/users/image?path=/var/lib/casaos/1/app_order.json
+/v1/users/image?path=/var/lib/casaos/1/system.json
+/icingaweb2/setup

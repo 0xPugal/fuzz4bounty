@@ -3,3 +3,5 @@
 /icinga-web/lib/icinga/icinga-php-thirdparty/etc/passwd
 /authentication/login
 /icinga2
+/icingaweb2/setup
+/setup
