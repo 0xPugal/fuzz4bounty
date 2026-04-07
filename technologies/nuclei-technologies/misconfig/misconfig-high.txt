@@ -291,3 +291,7 @@
 /index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
 /matomo/index.php?module=API&method=SitesManager.getAllSites&format=json&token_auth=anonymous
 /icingaweb2/setup
+/api/v1/workflows/argo
+/setup/register
+/flows
+/config/

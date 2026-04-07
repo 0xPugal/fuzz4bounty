@@ -136,3 +136,5 @@
 /api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
 /wp-content/plugins/email-subscribers/readme.txt
 /?s=codepeople-image-store&post_type=page&feed=rss2
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:[

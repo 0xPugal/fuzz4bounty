@@ -1,2 +1,1 @@
-/signin
 /api/v1/workflows/argo

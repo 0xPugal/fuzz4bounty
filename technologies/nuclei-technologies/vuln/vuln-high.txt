@@ -1269,3 +1269,5 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /api/4/system
 /api/4/processlist
+/downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
+/login/

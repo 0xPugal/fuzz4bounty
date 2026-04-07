@@ -28,3 +28,4 @@
 /nifi-api/access/config
 /api/security/ticket
 /
+/login/

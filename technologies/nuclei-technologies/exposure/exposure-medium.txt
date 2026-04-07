@@ -374,3 +374,4 @@
 /q/metrics
 /.env
 /.env/.
+/ssf/a/do?p_name=ss_forum&p_action=1&action=__login

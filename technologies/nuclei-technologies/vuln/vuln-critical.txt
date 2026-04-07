@@ -495,3 +495,5 @@
 /wp-content/plugins/email-subscribers/readme.txt
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:[

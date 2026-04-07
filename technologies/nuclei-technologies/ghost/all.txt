@@ -4,3 +4,6 @@
 /ghost/preview
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
+
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
+/ghost/api/content/tags/?key={{api_key}}&filter=slug:[

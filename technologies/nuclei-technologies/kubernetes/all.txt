@@ -26,3 +26,4 @@
 /apiserver-etcd-client.key
 /settings/plugins
 /settings/cluster
+/api/v1/workflows/argo

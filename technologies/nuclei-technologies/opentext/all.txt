@@ -1,2 +1,3 @@
 /xda/help/en/default.htm?startat=//oast.me
 /?portgw=80089948;%20alert(document.domain)
+/ssf/a/do?p_name=ss_forum&p_action=1&action=__login

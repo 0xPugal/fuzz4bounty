@@ -47,3 +47,4 @@
 /user/login
 /asf/terminal
 /api/status
+/flows

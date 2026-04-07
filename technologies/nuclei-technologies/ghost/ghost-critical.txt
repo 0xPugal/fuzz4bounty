@@ -1,5 +1,3 @@
-/assets/built%2F..%2F..%2F/package.json
-/assets/built%2F..%2F..%2F%E0%A4%A/package.json
 
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
