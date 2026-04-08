@@ -156,3 +156,4 @@
 /syncope-wa/
 /syncope-console/
 /q/metrics
+/starter.html

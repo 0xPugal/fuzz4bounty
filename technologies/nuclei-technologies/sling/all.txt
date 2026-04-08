@@ -1,1 +1,2 @@
 /system/sling/cqform/defaultlogin.html
+/starter.html
