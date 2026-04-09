@@ -204,3 +204,4 @@
 /wp-content/plugins/social-icons-widget-by-wpzoom/readme.txt
 /v1/users/image?path=/var/lib/casaos/1/app_order.json
 /v1/users/image?path=/var/lib/casaos/1/system.json
+/ganglia/?tz=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

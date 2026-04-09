@@ -138,3 +138,4 @@
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
+/wp-content/plugins/media-library-assistant/readme.txt
