@@ -3,3 +3,4 @@
 /?gf_page=randomstring
 /.env
 //.env
+/.env?raw??

@@ -403,3 +403,5 @@
 /icingaweb2/setup
 /setup/register
 /config/
+/.env?raw??
+/api/TeacherQuery/SearchTeacherInSiteWithPagerRecords

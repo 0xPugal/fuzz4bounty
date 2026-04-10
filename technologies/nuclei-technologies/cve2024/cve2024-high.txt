@@ -67,3 +67,5 @@
 /rest/api/content/macro/preview
 /v1/users/image?path=/var/lib/casaos/1/app_order.json
 /v1/users/image?path=/var/lib/casaos/1/system.json
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}

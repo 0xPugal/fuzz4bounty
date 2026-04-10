@@ -22,3 +22,4 @@
 
 /wp-content/debug.log
 /
+/wp-content/plugins/fastdup/logs/

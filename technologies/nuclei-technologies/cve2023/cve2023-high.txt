@@ -74,3 +74,5 @@
 /.env
 //.env
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/

@@ -140,3 +140,5 @@
 /setup/register
 /flows
 /config/
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/

@@ -36,3 +36,4 @@
 /storage/ovh-backups.json
 
 /?list-type=2
+/api/TeacherQuery/SearchTeacherInSiteWithPagerRecords

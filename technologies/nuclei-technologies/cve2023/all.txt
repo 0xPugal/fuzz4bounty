@@ -269,3 +269,9 @@
 //.env
 /?%22%3E%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E 
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/eventon-lite/readme.txt
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/fastdup/logs/

@@ -49,3 +49,6 @@
 /wp-content/plugins/email-subscribers/readme.txt
 /?s=codepeople-image-store&post_type=page&feed=rss2
 {{pagepath}}
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/eventon-lite/readme.txt

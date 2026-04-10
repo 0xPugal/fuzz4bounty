@@ -77,3 +77,5 @@
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c
 /wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
 /wp-content/plugins/media-library-assistant/readme.txt
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/

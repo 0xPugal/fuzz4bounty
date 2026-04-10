@@ -1039,3 +1039,14 @@
 /?wpedon-stripe-checkout-redirect=1&sk=nucleitest&ai=nucleitest&si=nucleitest&rf=//oast.pro
 {{pagepath}}
 /wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/eventon-lite/readme.txt
+/wp-content/uploads/jetbackup/
+/wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
+/wp-content/themes/the-wound/force_download.php?file=/etc/passwd
+/wp-content/plugins/fastdup/logs/

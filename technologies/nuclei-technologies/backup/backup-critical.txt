@@ -1,1 +1,3 @@
 /api/v1/serverinfo
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt

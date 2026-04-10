@@ -1,3 +1,5 @@
 /css/eonweb.css
 /
 /wp-content/plugins/media-library-assistant/readme.txt
+/wp-content/plugins/clean-login/readme.txt
+/?p={{postid}}

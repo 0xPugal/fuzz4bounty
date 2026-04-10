@@ -51,3 +51,6 @@
 /wp-content/plugins/better-search-replace/README.txt
 /wp-content/plugins/better-search-replace/readme.txt
 /
+/wp-content/uploads/wp-clone/wpclone_backup/database.sql
+/wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/eventon-lite/readme.txt

