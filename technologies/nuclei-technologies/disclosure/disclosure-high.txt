@@ -43,3 +43,4 @@
 /wt3/forceSave.php?file=/etc/passwd
 /
 /api/system/version
+/api/v1/users

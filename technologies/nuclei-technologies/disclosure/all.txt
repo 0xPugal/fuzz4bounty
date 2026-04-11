@@ -209,3 +209,4 @@
 /
 /wp-json/tribe/events/v1/events/
 /api/system/version
+/api/v1/users

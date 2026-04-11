@@ -6,3 +6,4 @@
 /env.prod.js
 /__ENV.js
 /env-config.js
+/dashboard/env-config.js

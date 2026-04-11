@@ -91,3 +91,4 @@
 /symfony.lock
 /.wp-env.json
 /env-config.js
+/dashboard/env-config.js

@@ -309,3 +309,4 @@
 /?page</script><script>alert(document.domain)</script>
 /
 /blog/?__proto__[polluted]=polluted
+/api/v1/users

@@ -290,3 +290,7 @@
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
 /api/backup
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}
+/api/v1/monitor/messages

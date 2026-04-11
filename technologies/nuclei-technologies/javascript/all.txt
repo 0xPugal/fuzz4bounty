@@ -11,3 +11,4 @@
 /config/runtime-env.js
 /blog/?__proto__[polluted]=polluted
 /env-config.js
+/dashboard/env-config.js

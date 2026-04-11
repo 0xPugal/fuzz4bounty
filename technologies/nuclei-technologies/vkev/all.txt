@@ -748,3 +748,8 @@
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=bfcm_2025_offer&redirect_to=https://interact.sh
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=welcome_offer&redirect_to=https://interact.sh
 /etc/passwd?raw??
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(rce_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_payload)}}
+/spip.php?page=contact&_anciennes_valeurs={{url_encode(oob_curl)}}
+/api/v1/monitor/messages
+/pandora_console/attachment/pandora_chat.log.json.txt

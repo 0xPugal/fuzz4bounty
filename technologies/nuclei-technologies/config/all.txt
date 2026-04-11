@@ -444,3 +444,4 @@
 /env-config.js
 /llms.txt
 /gateway.conf
+/dashboard/env-config.js

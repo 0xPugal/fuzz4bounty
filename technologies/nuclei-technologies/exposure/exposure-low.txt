@@ -355,3 +355,4 @@
 /api/graphql
 /v1/graphql
 /query
+/dashboard/env-config.js

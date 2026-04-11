@@ -866,3 +866,4 @@
 /netypareo/index.php
 /home/index.html#hashHome
 /builder/auth/login
+/dashboard/login

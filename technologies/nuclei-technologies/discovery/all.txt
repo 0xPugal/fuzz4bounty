@@ -1442,3 +1442,4 @@
 /home/index.html#hashHome
 /builder/auth/login
 /website/info
+/dashboard/login
