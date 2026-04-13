@@ -52,3 +52,4 @@
 /wp-content/uploads/wp-clone/wpclone_backup/database.sql
 /wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
 /wp-content/plugins/eventon-lite/readme.txt
+/wp-content/plugins/wp-file-manager/readme.txt

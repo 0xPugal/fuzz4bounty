@@ -69,3 +69,4 @@
 /ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}
 /
 /wp-content/plugins/eventon-lite/readme.txt
+/wp-content/plugins/wp-file-manager/readme.txt

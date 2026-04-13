@@ -112,3 +112,4 @@
 /wp-content/uploads/jetbackup/{{folder_name}}/
 /wp-content/plugins/clean-login/readme.txt
 /?p={{postid}}
+/wp-content/plugins/eventon-lite/readme.txt

@@ -79,3 +79,4 @@
 /wp-content/plugins/media-library-assistant/readme.txt
 /wp-content/uploads/jetbackup/
 /wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/eventon-lite/readme.txt
