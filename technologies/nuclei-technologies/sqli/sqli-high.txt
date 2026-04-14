@@ -50,3 +50,4 @@
 /api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
 /wp-content/plugins/media-library-assistant/readme.txt
 /webservice/get_usedspace.php?site_id=-1%20and%201=2%20union%20all%20select%20(md5({{num}}))
+/wp-content/plugins/geo-mashup/readme.txt

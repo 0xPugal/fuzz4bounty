@@ -1,0 +1,1 @@
+/wp-content/plugins/geo-mashup/readme.txt

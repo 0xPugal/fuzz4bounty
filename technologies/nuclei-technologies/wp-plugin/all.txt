@@ -868,3 +868,4 @@
 /wp-content/plugins/clean-login/readme.txt
 /?p={{postid}}
 /wp-content/plugins/fastdup/logs/
+/wp-content/plugins/geo-mashup/readme.txt

@@ -19,3 +19,4 @@
 /wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
 /api/system/version
 /wp-content/plugins/media-library-assistant/readme.txt
+/wp-content/plugins/geo-mashup/readme.txt

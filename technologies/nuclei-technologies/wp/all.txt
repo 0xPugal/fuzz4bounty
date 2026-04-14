@@ -434,3 +434,4 @@
 /wp-content/uploads/jetbackup/{{folder_name}}/
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/eventon-lite/readme.txt
+/wp-content/plugins/geo-mashup/readme.txt

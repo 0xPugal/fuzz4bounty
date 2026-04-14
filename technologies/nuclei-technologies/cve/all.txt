@@ -2132,3 +2132,4 @@
 /api/v1/users
 /wp-content/plugins/wp-file-manager/readme.txt
 /carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E
+/wp-content/plugins/geo-mashup/readme.txt

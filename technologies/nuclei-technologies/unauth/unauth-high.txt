@@ -142,3 +142,4 @@
 /config/
 /wp-content/uploads/jetbackup/
 /wp-content/uploads/jetbackup/{{folder_name}}/
+/wp-content/plugins/geo-mashup/readme.txt
