@@ -817,3 +817,4 @@
 /home/index.html#hashHome
 /builder/auth/login
 /dashboard/login
+/web/#/user/login

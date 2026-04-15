@@ -46,3 +46,5 @@
 /.env
 /.env?raw??
 /wp-content/plugins/eventon-lite/readme.txt
+/scim/v2/Users
+/api/scim/v2/Users

@@ -1,1 +1,2 @@
 /api/v1/monitor/messages
+/api/v1/version

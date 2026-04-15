@@ -665,3 +665,4 @@
 /login.action
 /rustfs/console/auth/login
 /api/v1/version
+/web/#/user/login

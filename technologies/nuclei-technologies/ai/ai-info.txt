@@ -4,3 +4,4 @@
 /.well-known/ai-plugin.json
 /login
 /llms.txt
+/api/v1/version

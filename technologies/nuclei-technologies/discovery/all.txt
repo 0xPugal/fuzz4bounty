@@ -1443,3 +1443,5 @@
 /builder/auth/login
 /website/info
 /dashboard/login
+/web/#/user/login
+/api/v1/version

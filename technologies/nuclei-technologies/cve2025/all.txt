@@ -163,3 +163,5 @@
 /etc/passwd?raw??
 /wp-content/plugins/eventon-lite/readme.txt
 /carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E
+/scim/v2/Users
+/api/scim/v2/Users

@@ -2,3 +2,4 @@
 /mcp/
 /sse
 /login
+/api/v1/version

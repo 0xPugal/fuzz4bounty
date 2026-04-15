@@ -435,3 +435,4 @@
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/eventon-lite/readme.txt
 /wp-content/plugins/geo-mashup/readme.txt
+/?user-logout=true&redirect_to_on_logout=https://interact.sh

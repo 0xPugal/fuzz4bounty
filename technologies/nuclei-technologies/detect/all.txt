@@ -371,3 +371,4 @@
 /webapi/entry.cgi?api=SYNO.API.Info&version=1&method=query&query=all
 /rustfs/console/auth/login
 /starter.html
+/api/v1/version
