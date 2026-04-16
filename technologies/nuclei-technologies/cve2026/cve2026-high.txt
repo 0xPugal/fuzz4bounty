@@ -20,3 +20,4 @@
 /api/system/version
 /wp-content/plugins/media-library-assistant/readme.txt
 /wp-content/plugins/geo-mashup/readme.txt
+/api/v1/nvidia-nim/get-token

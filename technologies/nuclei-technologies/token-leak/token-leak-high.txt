@@ -1,1 +1,2 @@
 /rest/users/1
+/api/v1/nvidia-nim/get-token

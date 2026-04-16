@@ -1,2 +1,1 @@
-/v2
 /api/v1/nvidia-nim/get-token

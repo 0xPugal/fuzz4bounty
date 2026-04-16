@@ -38,3 +38,4 @@
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
 /rest/users/1
 
+/api/v1/nvidia-nim/get-token

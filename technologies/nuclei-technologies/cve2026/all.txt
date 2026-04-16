@@ -40,3 +40,4 @@
 /wp-content/plugins/geo-mashup/readme.txt
 /wp-content/plugins/user-registration/readme.txt
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
+/api/v1/nvidia-nim/get-token

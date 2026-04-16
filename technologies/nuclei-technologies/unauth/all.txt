@@ -359,3 +359,4 @@
 /wp-content/uploads/jetbackup/
 /wp-content/uploads/jetbackup/{{folder_name}}/
 /wp-content/plugins/geo-mashup/readme.txt
+/api/v1/nvidia-nim/get-token

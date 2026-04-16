@@ -1,2 +1,3 @@
 /API/V1/credentials
 /organization-setup
+/api/v1/nvidia-nim/get-token
