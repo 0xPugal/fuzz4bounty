@@ -317,3 +317,4 @@
 /wp-content/plugins/events-manager/admin/em-admin.php
 /gradio_api/file=http://example.com
 /file=http://example.com
+/web/login?db=asdf&redirect=http://interact.sh

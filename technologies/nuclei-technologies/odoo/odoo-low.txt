@@ -1,1 +1,2 @@
 /web/database/manager
+/web/login?db=asdf&redirect=http://interact.sh

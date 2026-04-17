@@ -162,3 +162,4 @@
 //interact.sh/en/
 //interact.sh/en
 /core/i18n/ko/
+/web/login?db=asdf&redirect=http://interact.sh

@@ -3871,3 +3871,4 @@
 /etc/passwd?raw??
 /etc/passwd
 /api/settings/
+/web/login?db=asdf&redirect=http://interact.sh

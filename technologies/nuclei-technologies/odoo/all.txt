@@ -13,3 +13,4 @@
 /web/set_profiling?profile=0&collectors=<script>alert(document.domain)</script>
 /website/lang/en_US?r=https://interact.sh/
 /website/info
+/web/login?db=asdf&redirect=http://interact.sh

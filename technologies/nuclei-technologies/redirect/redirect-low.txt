@@ -3,3 +3,4 @@
 /public.php?return=http%3a%2f%2finteract.sh%2f&op=login&login=password=&profile=0
 /gradio_api/file=http://example.com
 /file=http://example.com
+/web/login?db=asdf&redirect=http://interact.sh
