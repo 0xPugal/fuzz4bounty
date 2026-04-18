@@ -41,3 +41,4 @@
 /wp-content/plugins/user-registration/readme.txt
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
 /api/v1/nvidia-nim/get-token
+/openam/ui/PWResetUserValidation

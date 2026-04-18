@@ -12,3 +12,4 @@
 /ows?service=WFS
 /mftp/
 /
+/openam/ui/PWResetUserValidation

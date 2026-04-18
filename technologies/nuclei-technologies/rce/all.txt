@@ -273,3 +273,4 @@
 /api/status
 {{pagepath}}
 /flows
+/openam/ui/PWResetUserValidation

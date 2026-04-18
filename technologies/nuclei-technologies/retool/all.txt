@@ -1,1 +1,3 @@
 /auth/login
+/custom-component-collections.html
+/{{js-bundle}}

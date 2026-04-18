@@ -90,3 +90,4 @@
 /api-description
 :9182
 /rest/version
+/docs/swagger-ui-init.js

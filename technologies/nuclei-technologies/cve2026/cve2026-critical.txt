@@ -6,3 +6,4 @@
 
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
+/openam/ui/PWResetUserValidation

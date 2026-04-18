@@ -666,3 +666,4 @@
 /rustfs/console/auth/login
 /api/v1/version
 /web/#/user/login
+/docs/swagger-ui-init.js

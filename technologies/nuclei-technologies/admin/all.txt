@@ -20,3 +20,4 @@
 /sap/admin/public/index.html
 /setup/setup.do
 /rails_admin
+/setup

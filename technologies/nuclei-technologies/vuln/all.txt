@@ -3872,3 +3872,5 @@
 /etc/passwd
 /api/settings/
 /web/login?db=asdf&redirect=http://interact.sh
+/custom-component-collections.html
+/{{js-bundle}}
