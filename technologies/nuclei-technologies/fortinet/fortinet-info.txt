@@ -13,3 +13,4 @@
 /index.html
 /wlm/login?next=/wlm
 /admin/
+/ng/login?returnUrl=%2F

@@ -405,3 +405,4 @@
 /config/
 /.env?raw??
 /api/TeacherQuery/SearchTeacherInSiteWithPagerRecords
+/installation/onboarding

@@ -295,3 +295,4 @@
 /setup/register
 /flows
 /config/
+/installation/onboarding

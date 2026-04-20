@@ -82,3 +82,4 @@
 /typo3/install.php
 /api/beszel/first-run
 /admin/install
+/installation/onboarding

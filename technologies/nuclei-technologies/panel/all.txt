@@ -868,3 +868,4 @@
 /builder/auth/login
 /dashboard/login
 /web/#/user/login
+/ng/login?returnUrl=%2F

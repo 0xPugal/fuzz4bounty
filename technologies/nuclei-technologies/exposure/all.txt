@@ -1465,3 +1465,4 @@
 /.env?raw??
 /api/TeacherQuery/SearchTeacherInSiteWithPagerRecords
 /dashboard/env-config.js
+/installation/onboarding

@@ -1445,3 +1445,4 @@
 /dashboard/login
 /web/#/user/login
 /api/v1/version
+/ng/login?returnUrl=%2F
