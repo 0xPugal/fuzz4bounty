@@ -850,3 +850,4 @@
 /ssf/a/do?p_name=ss_forum&p_action=1&action=__login
 /api/settings/
 /installation/onboarding
+/cgi-bin/J100WebServer.cgi?Operation=0

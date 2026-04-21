@@ -296,3 +296,4 @@
 /flows
 /config/
 /installation/onboarding
+/cgi-bin/J100WebServer.cgi?Operation=0

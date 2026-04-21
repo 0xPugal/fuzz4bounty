@@ -35,3 +35,4 @@
 /ONVIF/media.cgi?action=getSnapshot
 /ONVIF/media.cgi?action=getSnapshot&channel=1
 /login/
+/cgi-bin/J100WebServer.cgi?Operation=0
