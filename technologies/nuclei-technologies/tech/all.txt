@@ -667,3 +667,4 @@
 /api/v1/version
 /web/#/user/login
 /docs/swagger-ui-init.js
+/fsa/login

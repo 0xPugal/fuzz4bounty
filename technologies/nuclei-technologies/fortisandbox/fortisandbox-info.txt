@@ -1,1 +1,3 @@
 /ng/login?returnUrl=%2F
+
+/fsa/login

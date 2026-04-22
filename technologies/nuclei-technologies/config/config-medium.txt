@@ -104,3 +104,8 @@
 /SSI/info_configuration.htm
 /static/Dockerrun.aws.json
 /gateway.conf
+/schema.prisma
+/prisma/schema.prisma
+/src/prisma/schema.prisma
+/db/schema.prisma
+/.prisma/schema.prisma

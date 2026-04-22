@@ -1466,3 +1466,8 @@
 /api/TeacherQuery/SearchTeacherInSiteWithPagerRecords
 /dashboard/env-config.js
 /installation/onboarding
+/schema.prisma
+/prisma/schema.prisma
+/src/prisma/schema.prisma
+/db/schema.prisma
+/.prisma/schema.prisma

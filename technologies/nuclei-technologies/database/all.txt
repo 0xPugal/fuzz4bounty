@@ -13,3 +13,8 @@
 /data/db.sqlite
 /kanboard/data/db.sqlite
 /.sqlite_history
+/schema.prisma
+/prisma/schema.prisma
+/src/prisma/schema.prisma
+/db/schema.prisma
+/.prisma/schema.prisma

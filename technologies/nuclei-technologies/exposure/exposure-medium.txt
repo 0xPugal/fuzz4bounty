@@ -375,3 +375,8 @@
 /.env
 /.env/.
 /ssf/a/do?p_name=ss_forum&p_action=1&action=__login
+/schema.prisma
+/prisma/schema.prisma
+/src/prisma/schema.prisma
+/db/schema.prisma
+/.prisma/schema.prisma

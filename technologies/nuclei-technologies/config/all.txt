@@ -445,3 +445,8 @@
 /llms.txt
 /gateway.conf
 /dashboard/env-config.js
+/schema.prisma
+/prisma/schema.prisma
+/src/prisma/schema.prisma
+/db/schema.prisma
+/.prisma/schema.prisma
