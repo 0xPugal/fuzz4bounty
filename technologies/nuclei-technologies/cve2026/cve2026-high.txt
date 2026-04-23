@@ -21,3 +21,5 @@
 /wp-content/plugins/media-library-assistant/readme.txt
 /wp-content/plugins/geo-mashup/readme.txt
 /api/v1/nvidia-nim/get-token
+/wp-content/plugins/my-calendar/readme.txt
+/wp-admin/admin-ajax.php?action=mcjs_action&behavior=loadupcoming&args&site=1

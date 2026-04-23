@@ -83,3 +83,4 @@
 /api/beszel/first-run
 /admin/install
 /installation/onboarding
+/admin/setup

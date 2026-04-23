@@ -1,1 +1,3 @@
 /config.dat
+/wp-content/plugins/my-calendar/readme.txt
+/wp-admin/admin-ajax.php?action=mcjs_action&behavior=loadupcoming&args&site=1

