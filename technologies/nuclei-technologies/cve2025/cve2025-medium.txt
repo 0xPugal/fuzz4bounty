@@ -67,3 +67,4 @@
 /o/blogs-web/blogs/entry_cover_image_caption.jsp?coverImageURL=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
 /etc/passwd?raw??
 /carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E
+/wp-admin/admin-ajax.php?action=fb3d_send_posts

@@ -1,0 +1,2 @@
+/wp-content/uploads/simply-static/
+/wp-content/uploads/simply-static/{{debug_file}}

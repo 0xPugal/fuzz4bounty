@@ -4,3 +4,4 @@
 /wp-content/plugins/clean-login/readme.txt
 /?p={{postid}}
 /wp-content/plugins/eventon-lite/readme.txt
+/api/app:getInfo

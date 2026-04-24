@@ -326,3 +326,6 @@
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/user-registration/readme.txt
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
+/wp-content/uploads/simply-static/
+/wp-content/uploads/simply-static/{{debug_file}}
+/wp-admin/admin-ajax.php?action=fb3d_send_posts
