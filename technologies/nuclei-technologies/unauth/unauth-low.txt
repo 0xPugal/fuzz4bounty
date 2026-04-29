@@ -11,3 +11,5 @@
 /api/server
 /seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
 /cgi-bin/log.cgi
+/
+/api/v1/user/public-user-list

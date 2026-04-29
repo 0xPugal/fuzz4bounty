@@ -322,3 +322,4 @@
 /home/index.html#hashHome
 /builder/auth/login
 /ng/login?returnUrl=%2F
+/admin/login/?next=/

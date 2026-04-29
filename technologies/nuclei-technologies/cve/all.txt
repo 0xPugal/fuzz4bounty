@@ -2150,3 +2150,4 @@
 /wp-content/uploads/simply-static/
 /wp-content/uploads/simply-static/{{debug_file}}
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
+/api/v1/user/public-user-list

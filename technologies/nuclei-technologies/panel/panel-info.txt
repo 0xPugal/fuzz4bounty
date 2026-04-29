@@ -820,3 +820,5 @@
 /web/#/user/login
 /ng/login?returnUrl=%2F
 /fsa/login
+/admin-console/signin
+/admin/login/?next=/
