@@ -216,3 +216,4 @@
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
 {{pagepath}}
 /openam/ui/PWResetUserValidation
+/api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow

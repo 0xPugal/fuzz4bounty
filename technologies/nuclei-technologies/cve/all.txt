@@ -2151,3 +2151,10 @@
 /wp-content/uploads/simply-static/{{debug_file}}
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /api/v1/user/public-user-list
+/api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
+/wp-content/plugins/video-conferencing-with-zoom-api/README.txt
+/manifest.webmanifest
+/manifest.json
+/api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

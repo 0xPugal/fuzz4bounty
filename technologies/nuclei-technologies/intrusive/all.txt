@@ -93,3 +93,4 @@
 /\\
 /{{trim_prefix(update_uri,
 /api/status
+/wp-content/plugins/video-conferencing-with-zoom-api/README.txt

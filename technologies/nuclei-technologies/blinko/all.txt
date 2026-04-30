@@ -1,2 +1,6 @@
 /
 /api/v1/user/public-user-list
+/manifest.webmanifest
+/manifest.json
+/api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

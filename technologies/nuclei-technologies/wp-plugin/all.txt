@@ -879,3 +879,4 @@
 /wp-content/uploads/simply-static/
 /wp-content/uploads/simply-static/{{debug_file}}
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
+/wp-content/plugins/video-conferencing-with-zoom-api/README.txt

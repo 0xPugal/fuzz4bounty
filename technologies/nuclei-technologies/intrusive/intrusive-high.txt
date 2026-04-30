@@ -27,3 +27,4 @@
 /ueditor/net/controller.ashx?action=catchimage&encode=utf-8
 /service/~baseapp/UploadServlet
 /api/status
+/wp-content/plugins/video-conferencing-with-zoom-api/README.txt

