@@ -382,3 +382,4 @@
 /.prisma/schema.prisma
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /scripts/weglot.js
+/.coveralls.yml

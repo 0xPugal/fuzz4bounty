@@ -857,3 +857,5 @@
 /api/platform/profile
 /httpexchanges
 /actuator/httpexchanges
+/.coveralls.yml
+/Lw/session/

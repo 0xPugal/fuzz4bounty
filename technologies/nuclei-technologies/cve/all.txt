@@ -2166,3 +2166,5 @@
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
 /command.php?qry=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
 /api/jolokia/search/org.apache.activemq:type=Broker,*
+/?session_expired=true&redirect=http://evil.com
+/enter?redirect=oast.me&foo=bar

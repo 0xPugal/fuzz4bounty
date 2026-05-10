@@ -161,3 +161,5 @@
 /ssf/a/do?p_name=ss_forum&p_action=1&action=__login
 /api/settings/
 /scripts/weglot.js
+/.coveralls.yml
+/Lw/session/

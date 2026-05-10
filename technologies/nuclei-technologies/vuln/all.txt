@@ -3876,3 +3876,4 @@
 /{{js-bundle}}
 /httpexchanges
 /actuator/httpexchanges
+/Lw/session/

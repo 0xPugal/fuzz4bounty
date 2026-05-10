@@ -109,3 +109,5 @@
 /src/prisma/schema.prisma
 /db/schema.prisma
 /.prisma/schema.prisma
+/.coveralls.yml
+/Lw/session/

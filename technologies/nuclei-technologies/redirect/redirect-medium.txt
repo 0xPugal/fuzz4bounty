@@ -156,3 +156,4 @@
 //interact.sh/en/
 //interact.sh/en
 /core/i18n/ko/
+/enter?redirect=oast.me&foo=bar

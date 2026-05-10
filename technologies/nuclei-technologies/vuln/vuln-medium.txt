@@ -1423,3 +1423,4 @@
 /etc/passwd?raw??
 /etc/passwd
 /api/settings/
+/Lw/session/
