@@ -7,3 +7,7 @@
 /actuator%72
 /favicon.ico
 /actuator/favicon.ico
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application

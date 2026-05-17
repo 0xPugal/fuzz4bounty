@@ -1479,3 +1479,11 @@
 /httpexchanges
 /actuator/httpexchanges
 /.coveralls.yml
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application
+/model/info
+/api/v1/consolidated-api/view
+/api/v1/users/features
+/api/v1/tenants/current

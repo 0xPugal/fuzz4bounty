@@ -44,3 +44,7 @@
 /trace
 /httpexchanges
 /actuator/httpexchanges
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application

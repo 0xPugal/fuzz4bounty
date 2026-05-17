@@ -1,0 +1,4 @@
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application

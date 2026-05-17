@@ -52,3 +52,4 @@
 /scrm/crm/admin
 /api/v1/monitor/messages
 /api/persons/latest?bypass=/api/public
+/importer

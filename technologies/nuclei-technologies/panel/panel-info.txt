@@ -826,3 +826,4 @@
 /api/v1/health
 /api/app/about
 /ui/console/
+/api/public/health

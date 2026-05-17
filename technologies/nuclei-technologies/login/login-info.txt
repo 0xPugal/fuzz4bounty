@@ -326,3 +326,4 @@
 /api/v1/health
 /fsa/login
 /authentication/login
+/api/public/health

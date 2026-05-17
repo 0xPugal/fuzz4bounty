@@ -21,3 +21,6 @@
 /includes/kcfinder/browse.php
 /html/2word?url={{file}}
 /index.php?option=com_easyshop&task=ajax.loadImage&file=Li4vLi4vY29uZmlndXJhdGlvbi5waHA=
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

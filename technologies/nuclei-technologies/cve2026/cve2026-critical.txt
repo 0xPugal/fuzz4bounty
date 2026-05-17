@@ -10,3 +10,10 @@
 /api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
 /api/v1/version
 /api/persons/latest?bypass=/api/public
+/api/v1/build_public_tmp/{{uuid}}/flow
+/cors?url=http://127.0.0.1:8080/version
+/cors?url=http://{{interactsh-url}}/version
+/importer
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

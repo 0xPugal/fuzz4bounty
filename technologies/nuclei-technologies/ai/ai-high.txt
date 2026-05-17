@@ -3,3 +3,5 @@
 /API/V1/credentials
 /api/setup-complete
 /organization-setup
+/
+/list_personalities?category=../..

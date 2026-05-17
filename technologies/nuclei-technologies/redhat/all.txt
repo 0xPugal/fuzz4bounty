@@ -13,3 +13,5 @@
 /auth/realms/master/clients-registrations/openid-connect
 /realms/master/clients-registrations/default
 /realms/master/clients-registrations/openid-connect
+/console/welcome
+/rest/v2/cache-managers/default

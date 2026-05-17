@@ -660,3 +660,5 @@
 /health
 /ng/login?returnUrl=%2F
 /_localstack/health
+/console/welcome
+/rest/v2/cache-managers/default

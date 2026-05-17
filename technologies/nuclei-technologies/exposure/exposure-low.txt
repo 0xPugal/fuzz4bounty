@@ -359,3 +359,7 @@
 /api/v1/user/public-user-list
 /httpexchanges
 /actuator/httpexchanges
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application

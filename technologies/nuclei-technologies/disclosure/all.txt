@@ -210,3 +210,6 @@
 /wp-json/tribe/events/v1/events/
 /api/system/version
 /api/v1/users
+/api/v1/consolidated-api/view
+/api/v1/users/features
+/api/v1/tenants/current

@@ -1,2 +1,4 @@
 /login
 /api/v1/version
+
+/api/public/health

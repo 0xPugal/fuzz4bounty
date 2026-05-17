@@ -163,3 +163,4 @@
 /scripts/weglot.js
 /.coveralls.yml
 /Lw/session/
+/model/info

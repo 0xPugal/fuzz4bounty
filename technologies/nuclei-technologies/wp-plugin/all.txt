@@ -881,3 +881,7 @@
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
+/wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt

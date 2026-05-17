@@ -152,3 +152,4 @@
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /api/action/status_show
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
+/wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt

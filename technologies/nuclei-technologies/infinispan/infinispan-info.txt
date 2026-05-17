@@ -1,0 +1,2 @@
+/console/welcome
+/rest/v2/cache-managers/default

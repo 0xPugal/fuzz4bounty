@@ -4,3 +4,5 @@
 /login
 /api/v1/version
 /v1/models
+/api/public/health
+/model/info

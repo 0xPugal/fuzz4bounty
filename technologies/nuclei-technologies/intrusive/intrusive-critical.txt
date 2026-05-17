@@ -23,3 +23,6 @@
 /defaultroot/officeserverservlet
 /console/login/LoginForm.jsp
 /{{trim_prefix(update_uri,
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

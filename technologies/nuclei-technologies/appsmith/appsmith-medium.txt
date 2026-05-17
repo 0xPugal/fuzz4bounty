@@ -1,0 +1,3 @@
+/api/v1/consolidated-api/view
+/api/v1/users/features
+/api/v1/tenants/current

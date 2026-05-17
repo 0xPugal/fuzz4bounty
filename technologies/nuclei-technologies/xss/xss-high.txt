@@ -98,3 +98,4 @@
 /wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c
 /custom-component-collections.html
 /{{js-bundle}}
+/wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt

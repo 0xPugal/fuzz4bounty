@@ -70,3 +70,4 @@
 /wp-content/plugins/clean-login/readme.txt
 /?p={{postid}}
 /api/jolokia/search/org.apache.activemq:type=Broker,*
+/list_personalities?category=../..

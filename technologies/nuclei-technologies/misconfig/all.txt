@@ -859,3 +859,8 @@
 /actuator/httpexchanges
 /.coveralls.yml
 /Lw/session/
+/sbom
+/actuator/sbom
+/sbom/application
+/actuator/sbom/application
+/model/info

@@ -6,3 +6,4 @@
 /llms.txt
 /api/v1/version
 /setup
+/api/public/health

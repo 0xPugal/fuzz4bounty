@@ -760,3 +760,7 @@
 /v1/models
 /wp-content/plugins/LayerSlider/assets/static/public/front.css
 /api/jolokia/search/org.apache.activemq:type=Broker,*
+/api/v1/build_public_tmp/{{uuid}}/flow
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

@@ -217,3 +217,7 @@
 {{pagepath}}
 /openam/ui/PWResetUserValidation
 /api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
+/api/v1/build_public_tmp/{{uuid}}/flow
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

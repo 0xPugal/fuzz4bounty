@@ -65,3 +65,9 @@
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /api/v1/monitor/messages
 {{pagepath}}
+/cors?url=http://127.0.0.1:8080/version
+/cors?url=http://{{interactsh-url}}/version
+/importer
+/contact
+/contact-us
+/wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}

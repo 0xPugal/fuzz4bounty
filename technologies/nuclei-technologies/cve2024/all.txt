@@ -210,3 +210,4 @@
 /wp-content/uploads/simply-static/
 /wp-content/uploads/simply-static/{{debug_file}}
 /api/jolokia/search/org.apache.activemq:type=Broker,*
+/list_personalities?category=../..

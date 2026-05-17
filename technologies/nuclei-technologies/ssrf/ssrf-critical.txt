@@ -29,3 +29,5 @@
 /wfs?service=WFS
 /ows?service=WFS
 /ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}
+/cors?url=http://127.0.0.1:8080/version
+/cors?url=http://{{interactsh-url}}/version

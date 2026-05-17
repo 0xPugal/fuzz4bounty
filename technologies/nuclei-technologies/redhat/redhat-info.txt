@@ -6,3 +6,5 @@
 /auth/admin
 /auth/admin/master/console/
 /users/login
+/console/welcome
+/rest/v2/cache-managers/default

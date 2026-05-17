@@ -4,3 +4,4 @@
 /manifest.json
 /api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/signin
