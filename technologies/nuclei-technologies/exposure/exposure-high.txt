@@ -408,3 +408,4 @@
 /installation/onboarding
 /project/default
 /api/platform/profile
+/setup-database-info

@@ -2176,3 +2176,5 @@
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
 /list_personalities?category=../..
+/wp-content/plugins/qubely/readme.txt
+/wp-content/plugins/bookit/readme.txt

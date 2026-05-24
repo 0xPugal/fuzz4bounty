@@ -1387,3 +1387,5 @@
 /fsa/login
 /api/app/about
 /_localstack/health
+/web_whw/
+/web_whw/overview

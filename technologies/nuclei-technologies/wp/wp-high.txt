@@ -86,3 +86,5 @@
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
+/wp-content/plugins/qubely/readme.txt
+/wp-content/plugins/bookit/readme.txt

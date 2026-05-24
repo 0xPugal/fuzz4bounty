@@ -9,3 +9,4 @@
 /wp-admin/setup-config.php?step=1
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
+/setup-database-info

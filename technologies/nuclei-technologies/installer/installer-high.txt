@@ -16,3 +16,4 @@
 /wizardset.htm
 /easy_setup.htm
 /icingaweb2/setup
+/setup-database-info

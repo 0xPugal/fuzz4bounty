@@ -2,3 +2,4 @@
 /?f=\[
 /dwr/index.html
 /.settings/rules.json?auth=FIREBASE_SECRET
+/explore/users/sitemap-1.xml

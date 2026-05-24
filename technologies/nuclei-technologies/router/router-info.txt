@@ -11,3 +11,5 @@
 /cgi-bin/MANGA/index.cgi
 /login
 /login/?nLang=1
+/web_whw/
+/web_whw/overview

@@ -24,3 +24,4 @@
 /setup/setupLicense.action
 /setup/start
 /icingaweb2/setup
+/setup-database-info

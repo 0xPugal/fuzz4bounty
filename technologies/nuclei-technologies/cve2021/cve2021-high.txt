@@ -82,3 +82,5 @@
 /live_mfg.html
 /blog/?__proto__[polluted]=polluted
 /api/v1/users
+/wp-content/plugins/qubely/readme.txt
+/

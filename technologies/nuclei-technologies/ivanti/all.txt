@@ -13,3 +13,4 @@
 /webaccess
 /favicon.ico
 /images/favicon.ico
+/xtraction

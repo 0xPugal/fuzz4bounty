@@ -1,0 +1,2 @@
+/wp-content/plugins/qubely/readme.txt
+/

@@ -879,3 +879,5 @@
 /api/app/about
 /ui/console/
 /api/public/health
+/web_whw/
+/web_whw/overview

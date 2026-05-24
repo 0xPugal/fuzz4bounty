@@ -379,3 +379,5 @@
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
+/wp-content/plugins/qubely/readme.txt
+/wp-content/plugins/bookit/readme.txt

@@ -55,3 +55,5 @@
 /login/hostinfo2.cgi
 /<style%20onload=alert`document.domain`;>../..%2f
 /rootDesc.xml
+/web_whw/
+/web_whw/overview

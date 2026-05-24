@@ -1,1 +1,2 @@
 /Wiki.jsp?page=SystemInfo
+/explore/users/sitemap-1.xml

@@ -386,3 +386,6 @@
 /api/status
 /console/welcome
 /rest/v2/cache-managers/default
+/web_whw/
+/web_whw/overview
+/xtraction

