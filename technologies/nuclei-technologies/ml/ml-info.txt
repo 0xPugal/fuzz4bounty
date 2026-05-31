@@ -1,2 +1,3 @@
 /p/automl_pipeline
 /setup
+/hub/login

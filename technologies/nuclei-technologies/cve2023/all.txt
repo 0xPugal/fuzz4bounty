@@ -276,3 +276,4 @@
 /wp-content/uploads/jetbackup/{{folder_name}}/
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/wp-file-manager/readme.txt
+/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/win.ini

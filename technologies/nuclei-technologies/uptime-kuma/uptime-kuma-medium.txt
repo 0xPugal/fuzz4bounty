@@ -1,0 +1,1 @@
+/api/badge/1/ping/24

@@ -146,3 +146,4 @@
 /api/app:getInfo
 /api/action/status_show
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
+/?BazaR&vue=formulaire

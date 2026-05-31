@@ -300,3 +300,6 @@
 /admin/setup
 /project/default
 /api/platform/profile
+/pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts

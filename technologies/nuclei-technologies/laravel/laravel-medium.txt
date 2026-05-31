@@ -7,3 +7,7 @@
 /%00
 /api/stats
 /horizon/api/stats
+/_ignition/logs
+/__clockwork
+/_debugbar/open
+/pulse

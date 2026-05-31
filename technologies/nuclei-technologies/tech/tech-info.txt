@@ -663,3 +663,5 @@
 /console/welcome
 /rest/v2/cache-managers/default
 /xtraction
+/landingpage
+/landingpage/

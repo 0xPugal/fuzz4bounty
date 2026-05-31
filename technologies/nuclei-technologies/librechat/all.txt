@@ -1,2 +1,3 @@
 /login
 /
+/api/config

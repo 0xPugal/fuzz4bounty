@@ -7,3 +7,4 @@
 /FrontController
 /overview
 /#dashboard
+/ui/index.html

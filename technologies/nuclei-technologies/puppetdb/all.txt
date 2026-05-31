@@ -1,2 +1,4 @@
 /metrics/v1/mbeans
 /pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts

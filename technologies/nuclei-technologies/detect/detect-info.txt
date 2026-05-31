@@ -389,3 +389,9 @@
 /web_whw/
 /web_whw/overview
 /xtraction
+/ui/index.html
+/landingpage
+/landingpage/
+/hub/login
+/HMI/login.html
+/?route=signin

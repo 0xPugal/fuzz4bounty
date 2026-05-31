@@ -329,3 +329,6 @@
 /api/public/health
 /web_whw/
 /web_whw/overview
+/ui/index.html
+/HMI/login.html
+/?route=signin

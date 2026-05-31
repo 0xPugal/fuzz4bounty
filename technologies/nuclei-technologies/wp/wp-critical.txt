@@ -39,3 +39,5 @@
 /?s=codepeople-image-store&post_type=page&feed=rss2
 /wp-content/uploads/wp-clone/wpclone_backup/database.sql
 /wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

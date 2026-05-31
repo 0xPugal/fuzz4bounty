@@ -111,3 +111,4 @@
 /.prisma/schema.prisma
 /.coveralls.yml
 /Lw/session/
+/hazelcast/rest/cluster

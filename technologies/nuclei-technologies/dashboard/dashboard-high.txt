@@ -13,3 +13,6 @@
 /#/dashboards
 /api/me
 /settings/general
+/pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts

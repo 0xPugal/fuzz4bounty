@@ -829,3 +829,10 @@
 /api/public/health
 /web_whw/
 /web_whw/overview
+/broadWeb/bwRoot.asp
+/AccessAnywhere/start.html
+/landingpage
+/landingpage/
+/HMI/login.html
+/?route=signin
+/webstation/

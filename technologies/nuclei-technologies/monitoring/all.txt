@@ -7,3 +7,4 @@
 /esm/
 /monitoring/
 /ezservermonitor/
+/pulse

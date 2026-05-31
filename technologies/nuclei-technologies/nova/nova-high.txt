@@ -1,0 +1,2 @@
+/nova/dashboards/main
+/nova/resources

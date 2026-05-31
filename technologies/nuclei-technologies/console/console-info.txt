@@ -5,3 +5,4 @@
 /login.jsp
 /#/admin/dashboard
 /FrontController
+/ui/index.html

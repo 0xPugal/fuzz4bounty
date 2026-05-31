@@ -2,3 +2,4 @@
 /login#login
 
 /about
+/api/method/login

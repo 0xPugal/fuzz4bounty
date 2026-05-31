@@ -7,3 +7,6 @@
 /api/v1/version
 /setup
 /api/public/health
+/admin
+/hub/login
+/Login

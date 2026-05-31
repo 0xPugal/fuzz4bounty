@@ -1389,3 +1389,7 @@
 /_localstack/health
 /web_whw/
 /web_whw/overview
+/broadWeb/bwRoot.asp
+/AccessAnywhere/start.html
+/HMI/login.html
+/webstation/

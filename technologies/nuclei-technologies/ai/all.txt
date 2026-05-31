@@ -29,3 +29,6 @@
 /list_personalities?category=../..
 /api/public/health
 /model/info
+/admin
+/hub/login
+/Login

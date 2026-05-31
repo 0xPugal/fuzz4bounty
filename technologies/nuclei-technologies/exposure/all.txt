@@ -1488,3 +1488,13 @@
 /api/v1/users/features
 /api/v1/tenants/current
 /setup-database-info
+/nova/dashboards/main
+/nova/resources
+/storage/oauth-private.key
+/storage/oauth-public.key
+/dashboard/index.html
+/pdb/query/v4/facts
+/api/badge/1/ping/24
+/_ignition/logs
+/hazelcast/rest/cluster
+/__clockwork

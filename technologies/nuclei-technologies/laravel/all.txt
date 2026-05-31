@@ -22,3 +22,11 @@
 /admin/login
 /authentication/login
 /login
+/nova/dashboards/main
+/nova/resources
+/storage/oauth-private.key
+/storage/oauth-public.key
+/_ignition/logs
+/__clockwork
+/_debugbar/open
+/pulse

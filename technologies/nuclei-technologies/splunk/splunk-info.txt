@@ -1,3 +1,4 @@
 /en-US/account/login
 /login?next=/
 /services/collector/health
+/login

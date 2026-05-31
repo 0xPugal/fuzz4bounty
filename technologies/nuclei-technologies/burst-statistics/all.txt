@@ -1,0 +1,2 @@
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

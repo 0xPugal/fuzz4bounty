@@ -5,3 +5,7 @@
 /storage/framework/sessions/
 /storage/sessions/
 /asf/terminal
+/nova/dashboards/main
+/nova/resources
+/storage/oauth-private.key
+/storage/oauth-public.key

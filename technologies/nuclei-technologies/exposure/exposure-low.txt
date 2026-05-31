@@ -363,3 +363,4 @@
 /actuator/sbom
 /sbom/application
 /actuator/sbom/application
+/api/config

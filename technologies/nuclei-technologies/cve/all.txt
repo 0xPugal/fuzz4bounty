@@ -2178,3 +2178,11 @@
 /list_personalities?category=../..
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
+/?BazaR&vue=formulaire
+/wp-content/plugins/burst-statistics/readme.txt
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd
+/api/downloads?fileName=../../../../../../../../etc/passwd
+/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/win.ini
+/streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd
+/api/badge/1/ping/24

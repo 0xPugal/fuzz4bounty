@@ -409,3 +409,10 @@
 /project/default
 /api/platform/profile
 /setup-database-info
+/nova/dashboards/main
+/nova/resources
+/storage/oauth-private.key
+/storage/oauth-public.key
+/pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts

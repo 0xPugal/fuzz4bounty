@@ -381,3 +381,13 @@
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
+/?BazaR&vue=formulaire
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users
+/streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd
+/nova/dashboards/main
+/nova/resources
+/pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts
+/pulse

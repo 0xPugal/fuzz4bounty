@@ -100,3 +100,5 @@
 /api/v1/nvidia-nim/get-token
 /api/persons/latest?bypass=/api/public
 /importer
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

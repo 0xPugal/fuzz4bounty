@@ -164,3 +164,6 @@
 /.coveralls.yml
 /Lw/session/
 /model/info
+/__clockwork
+/_debugbar/open
+/pulse

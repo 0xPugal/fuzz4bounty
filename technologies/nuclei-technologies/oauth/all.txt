@@ -61,3 +61,5 @@
 /.well-known/oauth-authorization-server
 /oauth/token
 /oauth-credentials.json
+/storage/oauth-private.key
+/storage/oauth-public.key

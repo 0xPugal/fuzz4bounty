@@ -251,3 +251,4 @@
 /wp-content/plugins/updraftplus/includes/
 /wp-content/plugins/qards/
 /wp-content/plugins/user-registration/readme.txt
+/

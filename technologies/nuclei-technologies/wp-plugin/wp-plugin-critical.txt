@@ -49,3 +49,5 @@
 /contact
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

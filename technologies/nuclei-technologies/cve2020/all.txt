@@ -209,3 +209,4 @@
 /probe?target={{interactsh-url}}&module=http_2xx
 /
 /Modules.php?modname=Users/Preferences.php&tab=
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc

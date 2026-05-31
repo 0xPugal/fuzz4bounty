@@ -1,3 +1,5 @@
 /admin/setup-wizard
 /admin
 /rails_admin
+/nova/dashboards/main
+/nova/resources

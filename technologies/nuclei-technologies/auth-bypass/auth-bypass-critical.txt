@@ -53,3 +53,5 @@
 /api/v1/monitor/messages
 /api/persons/latest?bypass=/api/public
 /importer
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

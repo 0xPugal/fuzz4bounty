@@ -58,3 +58,5 @@
 /keys/auth.json
 /credentials/auth.json
 /creds/auth.json
+/storage/oauth-private.key
+/storage/oauth-public.key

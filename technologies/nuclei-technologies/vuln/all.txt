@@ -3877,3 +3877,4 @@
 /httpexchanges
 /actuator/httpexchanges
 /Lw/session/
+/mailman/listinfo?mpidentity=%3C/script%3E%3Csvg/onload=alert(document.domain)%3E

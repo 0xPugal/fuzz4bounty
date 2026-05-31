@@ -387,3 +387,8 @@
 /api/v1/consolidated-api/view
 /api/v1/users/features
 /api/v1/tenants/current
+/api/badge/1/ping/24
+/_ignition/logs
+/hazelcast/rest/cluster
+/__clockwork
+/_debugbar/open

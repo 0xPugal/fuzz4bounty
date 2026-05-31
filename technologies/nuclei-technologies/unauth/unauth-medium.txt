@@ -129,3 +129,4 @@
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /Lw/session/
+/pulse

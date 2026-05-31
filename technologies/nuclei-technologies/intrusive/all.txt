@@ -98,3 +98,4 @@
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
 /wp-content/plugins/bookit/readme.txt
+/?BazaR&vue=formulaire

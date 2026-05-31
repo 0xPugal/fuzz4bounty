@@ -21,3 +21,5 @@
 /setup/setup.do
 /rails_admin
 /setup
+/nova/dashboards/main
+/nova/resources
