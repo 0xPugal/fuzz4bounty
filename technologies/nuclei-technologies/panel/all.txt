@@ -888,3 +888,5 @@
 /HMI/login.html
 /?route=signin
 /webstation/
+/autopass
+/SMB/console/html/cgi/cgiChkMasterPwd.exe

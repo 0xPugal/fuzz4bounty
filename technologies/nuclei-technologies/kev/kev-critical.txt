@@ -99,3 +99,5 @@
 /api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
 /api/v1/version
 /api/v1/build_public_tmp/{{uuid}}/flow
+/global-protect/login.esp
+/sslmgr

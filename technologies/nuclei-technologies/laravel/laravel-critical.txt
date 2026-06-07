@@ -1,2 +1,4 @@
 /
 /{{trim_prefix(update_uri,
+/docs/api.json
+/docs/api

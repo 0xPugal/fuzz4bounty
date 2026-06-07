@@ -167,3 +167,4 @@
 /__clockwork
 /_debugbar/open
 /pulse
+/api/v1/retrieval/

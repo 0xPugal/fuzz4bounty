@@ -17,3 +17,4 @@
 /command.php?qry=%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E
 /enter?redirect=oast.me&foo=bar
 /api/badge/1/ping/24
+/api/v1/retrieval/

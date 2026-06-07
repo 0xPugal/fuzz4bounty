@@ -444,3 +444,4 @@
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
 /wp-content/plugins/burst-statistics/readme.txt
+/wp-sitemap-posts-joomsport_season-1.xml

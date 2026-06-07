@@ -1498,3 +1498,5 @@
 /_ignition/logs
 /hazelcast/rest/cluster
 /__clockwork
+/autopass
+/api/v1/retrieval/

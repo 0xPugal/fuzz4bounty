@@ -1393,3 +1393,6 @@
 /AccessAnywhere/start.html
 /HMI/login.html
 /webstation/
+/SMB/console/html/cgi/cgiChkMasterPwd.exe
+/.well-known/agent-card.json
+/.well-known/agent.json

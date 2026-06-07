@@ -20,3 +20,12 @@
 /?BazaR&vue=formulaire
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/api/w/_/jobs_u/get_log_file/..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/api/w/_/jobs_u/get_log_file/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd
+/index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd
+/wp-sitemap-posts-joomsport_season-1.xml
+/docs/api.json
+/docs/api
+/global-protect/login.esp
+/sslmgr

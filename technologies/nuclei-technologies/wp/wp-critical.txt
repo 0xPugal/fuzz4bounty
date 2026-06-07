@@ -41,3 +41,4 @@
 /wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/wp-sitemap-posts-joomsport_season-1.xml

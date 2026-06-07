@@ -768,3 +768,7 @@
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/wp-sitemap-posts-joomsport_season-1.xml
+/global-protect/login.esp
+/sslmgr

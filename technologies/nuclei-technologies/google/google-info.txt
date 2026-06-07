@@ -2,3 +2,5 @@
 /.config/gcloud/configurations/config_default
 
 /hopfully404
+/.well-known/agent-card.json
+/.well-known/agent.json

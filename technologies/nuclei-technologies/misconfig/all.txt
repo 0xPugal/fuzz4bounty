@@ -868,3 +868,5 @@
 /pdb/query/v4/facts
 /__clockwork
 /pulse
+/autopass
+/api/v1/retrieval/

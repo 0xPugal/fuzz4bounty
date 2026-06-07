@@ -314,3 +314,4 @@
 /cpbackup-exclude.conf
 /.cpbackup-exclude.conf
 /wp-links-opml.php
+/autopass

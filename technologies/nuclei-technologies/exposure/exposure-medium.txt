@@ -392,3 +392,4 @@
 /hazelcast/rest/cluster
 /__clockwork
 /_debugbar/open
+/api/v1/retrieval/

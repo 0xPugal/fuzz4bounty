@@ -147,3 +147,6 @@
 /api/action/status_show
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
 /?BazaR&vue=formulaire
+/caiwl/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
+/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
+/wp-sitemap-posts-joomsport_season-1.xml

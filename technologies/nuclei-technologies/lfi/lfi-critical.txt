@@ -70,3 +70,7 @@
 /
 /wp-content/plugins/eventon-lite/readme.txt
 /wp-content/plugins/wp-file-manager/readme.txt
+/api/w/_/jobs_u/get_log_file/..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/api/w/_/jobs_u/get_log_file/..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd
+/index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd

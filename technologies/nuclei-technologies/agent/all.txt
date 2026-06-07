@@ -1,1 +1,3 @@
 /dev-ui/
+/.well-known/agent-card.json
+/.well-known/agent.json

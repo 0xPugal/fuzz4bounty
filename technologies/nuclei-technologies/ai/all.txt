@@ -32,3 +32,5 @@
 /admin
 /hub/login
 /Login
+/.well-known/agent-card.json
+/.well-known/agent.json

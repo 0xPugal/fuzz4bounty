@@ -210,3 +210,4 @@
 /
 /Modules.php?modname=Users/Preferences.php&tab=
 /rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
+/speedtest?url={{interactsh-url}}

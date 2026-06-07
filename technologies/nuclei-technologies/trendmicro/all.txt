@@ -1,3 +1,4 @@
 /cgi-bin/logoff.cgi
 /webapp/login.html
 /officescan/console/html/cgi/cgiChkMasterPwd.exe
+/SMB/console/html/cgi/cgiChkMasterPwd.exe

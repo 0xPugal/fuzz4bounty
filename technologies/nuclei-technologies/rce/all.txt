@@ -279,3 +279,6 @@
 /contact
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
+/wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/docs/api.json
+/docs/api

@@ -23,3 +23,5 @@
 /manifest.json
 /dev-ui/
 /api/
+/.well-known/agent-card.json
+/.well-known/agent.json

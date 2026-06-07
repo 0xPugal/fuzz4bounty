@@ -49,3 +49,5 @@
 /PEAR/.registry/pear.reg
 /prober.php
 /symfony.lock
+/docs/api.json
+/docs/api

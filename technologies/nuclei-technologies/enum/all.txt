@@ -8,3 +8,5 @@
 /accounts/?suggest&q=a&n=10
 /llms.txt
 /apps/guests/register/{{email}}/invalid-token-12345
+/.well-known/agent-card.json
+/.well-known/agent.json

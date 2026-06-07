@@ -102,3 +102,6 @@
 /importer
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-json/wp/v2/users
+/de2api/user/info
+/global-protect/login.esp
+/sslmgr

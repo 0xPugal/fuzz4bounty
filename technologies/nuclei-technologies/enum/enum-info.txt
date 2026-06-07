@@ -3,3 +3,5 @@
 /wp-json/
 /feed/rdf
 /llms.txt
+/.well-known/agent-card.json
+/.well-known/agent.json

@@ -1069,3 +1069,5 @@
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
+/wp-content/plugins/woocommerce-delivery-notes/readme.txt
+/wp-sitemap-posts-joomsport_season-1.xml
