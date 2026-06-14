@@ -13,3 +13,4 @@
 /rails_admin
 /project/default
 /api/platform/profile
+/

@@ -25,3 +25,4 @@
 /setup/start
 /icingaweb2/setup
 /setup-database-info
+/api/global/configs/checklist

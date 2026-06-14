@@ -48,3 +48,4 @@
 /asf/terminal
 /api/status
 /flows
+/

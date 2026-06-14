@@ -139,3 +139,6 @@
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/user-registration/readme.txt
 /?user-logout=true&redirect_to_on_logout=https://interact.sh
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log
+/wp-content/plugins/jetpack/readme.txt

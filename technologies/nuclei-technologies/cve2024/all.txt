@@ -212,3 +212,5 @@
 /api/jolokia/search/org.apache.activemq:type=Broker,*
 /list_personalities?category=../..
 /streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log

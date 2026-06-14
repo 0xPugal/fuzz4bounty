@@ -12,3 +12,4 @@
 /?app=config
 /admin/
 /solr/admin/
+/

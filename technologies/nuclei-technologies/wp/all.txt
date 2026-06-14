@@ -445,3 +445,8 @@
 /wp-content/plugins/bookit/readme.txt
 /wp-content/plugins/burst-statistics/readme.txt
 /wp-sitemap-posts-joomsport_season-1.xml
+/wp-content/plugins/armember-membership/readme.txt
+/index.php?rest_route=/wp/v2/pages&per_page=100
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log
+/wp-content/plugins/jetpack/readme.txt

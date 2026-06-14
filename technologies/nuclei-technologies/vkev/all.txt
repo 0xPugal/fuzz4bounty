@@ -772,3 +772,7 @@
 /wp-sitemap-posts-joomsport_season-1.xml
 /global-protect/login.esp
 /sslmgr
+/wp-content/plugins/everest-forms-pro/readme.txt
+/wp-json/wp/v2/pages?per_page=100
+/wp-content/plugins/armember-membership/readme.txt
+/agents

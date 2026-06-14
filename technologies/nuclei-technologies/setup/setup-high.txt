@@ -10,3 +10,4 @@
 /ghost/api/admin/authentication/setup/
 /ghost/api/v3/admin/authentication/setup/
 /setup-database-info
+/api/global/configs/checklist

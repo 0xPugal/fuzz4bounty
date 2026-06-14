@@ -7,3 +7,4 @@
 /favicon.ico
 /images/favicon.ico
 /xtraction
+/mics/login.jsp

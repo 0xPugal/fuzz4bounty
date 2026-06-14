@@ -334,3 +334,4 @@
 /HMI/login.html
 /?route=signin
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
+/mics/login.jsp

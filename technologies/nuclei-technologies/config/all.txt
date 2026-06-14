@@ -453,3 +453,4 @@
 /.coveralls.yml
 /Lw/session/
 /hazelcast/rest/cluster
+/health

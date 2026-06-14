@@ -1,2 +1,4 @@
 /wp-content/w3tc/dbcache/
 /wp-content/plugins/w3-total-cache/inc/lightbox/purchase.php
+/wp-content/cache/log/000000/pagecache.log
+/wp-content/cache/log/000000/minify.log

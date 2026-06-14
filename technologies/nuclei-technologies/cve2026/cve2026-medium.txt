@@ -18,3 +18,4 @@
 /enter?redirect=oast.me&foo=bar
 /api/badge/1/ping/24
 /api/v1/retrieval/
+/api/agents

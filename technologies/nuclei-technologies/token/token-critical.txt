@@ -1,1 +1,2 @@
 /wp-json/mcp/v1
+/debug/vars

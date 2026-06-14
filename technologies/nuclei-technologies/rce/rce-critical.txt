@@ -224,3 +224,5 @@
 /wp-content/plugins/woocommerce-delivery-notes/readme.txt
 /docs/api.json
 /docs/api
+/wp-content/plugins/everest-forms-pro/readme.txt
+/wp-json/wp/v2/pages?per_page=100
