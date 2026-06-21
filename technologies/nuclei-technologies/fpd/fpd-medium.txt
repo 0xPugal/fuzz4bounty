@@ -5,3 +5,4 @@
 /addons/phpmailer/phpmailer.php
 /wp-json/wp/v2/posts?per_page=1
 /wp-content/plugins/wp-popups-lite/src/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php
+/wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php

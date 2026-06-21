@@ -259,3 +259,4 @@
 /wp-content/plugins/events-manager/em-functions.php
 /wp-content/plugins/events-manager/widgets/em-events.php
 /wp-content/plugins/events-manager/admin/em-admin.php
+/wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php

@@ -665,3 +665,5 @@
 /xtraction
 /landingpage
 /landingpage/
+/wmroot/
+/integration/

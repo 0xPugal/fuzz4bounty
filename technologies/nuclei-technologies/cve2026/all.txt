@@ -91,3 +91,4 @@
 /index.php?rest_route=/wp/v2/pages&per_page=100
 /agents
 /api/agents
+/api/project

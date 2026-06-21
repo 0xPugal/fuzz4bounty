@@ -33,3 +33,4 @@
 /api/action/datastore_search_sql?sql=SELECT+ts_rewrite(
 /{{randstr}}
 /agents
+/api/project

@@ -890,3 +890,5 @@
 /webstation/
 /autopass
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
+/wmroot/
+/integration/

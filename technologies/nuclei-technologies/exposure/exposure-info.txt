@@ -315,3 +315,5 @@
 /.cpbackup-exclude.conf
 /wp-links-opml.php
 /autopass
+/GoogleService-Info.plist
+/auth

@@ -168,3 +168,4 @@
 /_debugbar/open
 /pulse
 /api/v1/retrieval/
+/wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php

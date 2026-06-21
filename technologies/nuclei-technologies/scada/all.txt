@@ -10,3 +10,4 @@
 /AccessAnywhere/start.html
 /landingpage
 /landingpage/
+/api/project

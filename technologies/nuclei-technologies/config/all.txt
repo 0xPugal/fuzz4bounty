@@ -454,3 +454,4 @@
 /Lw/session/
 /hazelcast/rest/cluster
 /health
+/GoogleService-Info.plist

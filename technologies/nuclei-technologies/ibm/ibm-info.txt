@@ -18,3 +18,5 @@
 /
 /BACLIENT
 /JNLP
+/wmroot/
+/integration/

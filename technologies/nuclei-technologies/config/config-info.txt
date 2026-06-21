@@ -139,3 +139,4 @@
 /.cpbackup-exclude.conf
 /llms.txt
 /health
+/GoogleService-Info.plist

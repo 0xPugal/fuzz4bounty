@@ -6,3 +6,4 @@
 /
 /firebase-messaging-sw.js
 /manifest.json
+/GoogleService-Info.plist

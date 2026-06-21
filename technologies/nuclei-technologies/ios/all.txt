@@ -1,1 +1,2 @@
 /level/16/exec/show/config/CR
+/GoogleService-Info.plist

@@ -10,3 +10,4 @@
 /landingpage/
 
 /webstation/
+/api/project

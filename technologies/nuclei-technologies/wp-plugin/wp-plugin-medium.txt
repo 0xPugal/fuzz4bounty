@@ -288,3 +288,4 @@
 /wp-admin/admin-ajax.php?action=fb3d_send_posts
 /wp-content/cache/log/000000/pagecache.log
 /wp-content/cache/log/000000/minify.log
+/wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php

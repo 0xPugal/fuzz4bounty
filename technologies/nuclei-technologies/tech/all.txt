@@ -677,3 +677,5 @@
 /explore/users/sitemap-1.xml
 /landingpage
 /landingpage/
+/wmroot/
+/integration/
