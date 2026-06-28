@@ -5,3 +5,4 @@
 
 /amr
 /eSCL/ScannerCapabilities
+/screens/wms/wms.cgi

@@ -3,3 +3,5 @@
 /cpqlogin.htm
 /
 /autopass
+
+/screens/wms/wms.cgi

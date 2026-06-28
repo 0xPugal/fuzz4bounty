@@ -1,0 +1,2 @@
+
+/screens/wms/wms.cgi

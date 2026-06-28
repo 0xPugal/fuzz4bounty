@@ -1,2 +1,5 @@
 /userportal/Controller?mode=8700&operation=1&datagrid=179&json={\
 /umweb/../etc/passwd
+
+/admin
+/admin/admin.html

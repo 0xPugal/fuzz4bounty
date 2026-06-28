@@ -7,3 +7,6 @@
 /dana-na/auth/url_2/welcome.cgi
 /dana-na/auth/url_3/welcome.cgi
 /Login.asp
+/screens/wms/wms.cgi
+/admin
+/admin/admin.html

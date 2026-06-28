@@ -14,3 +14,6 @@
 /rest/GetAutologin
 /global-protect/login.esp
 /sslmgr
+/screens/wms/wms.cgi
+/admin
+/admin/admin.html

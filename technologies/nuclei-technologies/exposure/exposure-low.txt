@@ -364,3 +364,5 @@
 /sbom/application
 /actuator/sbom/application
 /api/config
+/api/v1/repos/search?limit=1
+/api/v1/orgs/{{orgname}}

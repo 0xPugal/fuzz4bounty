@@ -44,3 +44,4 @@
 /
 /api/system/version
 /api/v1/users
+/papi/em/transform/getEmDsList

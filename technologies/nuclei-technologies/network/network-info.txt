@@ -1,3 +1,5 @@
 /index.html
 /login.html
 /wsman
+
+/screens/wms/wms.cgi

@@ -6,3 +6,4 @@
 /contact
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
+/media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}

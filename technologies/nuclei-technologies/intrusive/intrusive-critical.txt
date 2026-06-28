@@ -28,3 +28,4 @@
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
 /?BazaR&vue=formulaire
 /wp-content/plugins/hippoo/readme.txt
+/media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}

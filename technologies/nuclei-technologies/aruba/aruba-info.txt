@@ -1,1 +1,3 @@
 /tips/tipsLogin.action
+
+/screens/wms/wms.cgi

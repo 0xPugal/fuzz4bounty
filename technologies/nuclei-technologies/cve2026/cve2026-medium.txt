@@ -19,3 +19,5 @@
 /api/badge/1/ping/24
 /api/v1/retrieval/
 /api/agents
+/healthz
+/workspace?url=javascript%3Aalert%28document.domain%29

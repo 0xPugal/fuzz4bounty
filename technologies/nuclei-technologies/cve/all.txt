@@ -2214,3 +2214,8 @@
 /api/project
 /wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php
 /doku.php?id=start&do=search&q=the%20%40%3Csvg%2Fonload%3Dalert%60document.domain%60%3E
+/media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
+/api/v1/repos/search?limit=1
+/api/v1/orgs/{{orgname}}
+/healthz
+/workspace?url=javascript%3Aalert%28document.domain%29
