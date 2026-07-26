@@ -6,3 +6,10 @@
 /v1/models
 /api/public/health
 /model/info
+/info
+/healthz
+/get_model_info
+/metrics
+/api-description
+/models
+/ping

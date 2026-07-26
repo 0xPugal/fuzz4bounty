@@ -2,3 +2,6 @@
 /setup
 /hub/login
 /models
+/login
+/katib/
+/

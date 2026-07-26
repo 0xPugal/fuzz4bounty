@@ -2,3 +2,11 @@
 /api/v1/version
 
 /api/public/health
+/info
+/v1/models
+/healthz
+/get_model_info
+/metrics
+/api-description
+/models
+/ping

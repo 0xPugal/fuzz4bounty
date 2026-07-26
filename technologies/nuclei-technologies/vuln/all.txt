@@ -3887,3 +3887,4 @@
 /setup/install.php
 /install/page_start.php
 {{chunk_path}}
+/wp-content/plugins/everest-forms/readme.txt

@@ -1,3 +1,4 @@
 
 /file=https://interact.sh
 /admin
+/version

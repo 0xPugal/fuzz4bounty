@@ -59,3 +59,4 @@
 /global-protect/login.esp
 /sslmgr
 /models
+/en/login

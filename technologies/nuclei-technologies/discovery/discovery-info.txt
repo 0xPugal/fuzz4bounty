@@ -1400,3 +1400,8 @@
 /ui/login?from=/dashboards
 /admin/master/console/
 /fo/login.php
+/katib/
+/solife/
+/models
+/ping
+/ApplicationStatus

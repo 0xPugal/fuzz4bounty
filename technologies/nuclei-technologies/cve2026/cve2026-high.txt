@@ -38,3 +38,4 @@
 /index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /wp-content/themes/xstore/style.css
+/api/v1/files/profile_pictures/../secret_key

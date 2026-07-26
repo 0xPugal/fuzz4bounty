@@ -1,3 +1,6 @@
 /p/automl_pipeline
 /setup
 /hub/login
+/login
+/katib/
+/

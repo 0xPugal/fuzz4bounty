@@ -1,2 +1,4 @@
 /api/version
 /login
+/
+/workplace/home.action

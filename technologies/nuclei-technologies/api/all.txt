@@ -110,3 +110,4 @@
 /jellyfin/Users/Public
 /api/setup-complete
 /docs/swagger-ui-init.js
+/v1/models

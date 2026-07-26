@@ -679,3 +679,10 @@
 /landingpage/
 /wmroot/
 /integration/
+/workplace/home.action
+/info
+/v1/models
+/get_model_info
+/models
+/ping
+/ApplicationStatus

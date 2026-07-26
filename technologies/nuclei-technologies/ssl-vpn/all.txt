@@ -1,2 +1,4 @@
 /remote/login
 /login
+/
+/workplace/home.action

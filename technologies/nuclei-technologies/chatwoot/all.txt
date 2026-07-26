@@ -1,1 +1,2 @@
 /installation/onboarding
+/app/login

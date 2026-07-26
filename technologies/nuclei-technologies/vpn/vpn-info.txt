@@ -10,3 +10,5 @@
 /screens/wms/wms.cgi
 /admin
 /admin/admin.html
+/
+/workplace/home.action

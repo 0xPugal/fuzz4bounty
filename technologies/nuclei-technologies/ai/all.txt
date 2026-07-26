@@ -35,3 +35,9 @@
 /.well-known/agent-card.json
 /.well-known/agent.json
 /models
+/katib/
+/version
+/api-description
+/ping
+/ApplicationStatus
+/v1/models

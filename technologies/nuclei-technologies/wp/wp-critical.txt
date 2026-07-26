@@ -46,3 +46,4 @@
 /index.php?rest_route=/wp/v2/pages&per_page=100
 /wp-admin/admin-ajax.php
 /wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/wp-content/plugins/everest-forms/readme.txt

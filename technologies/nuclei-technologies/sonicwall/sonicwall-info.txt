@@ -5,3 +5,5 @@
 /auth.html
 /cgi-bin/welcome
 /favicon.ico
+/
+/workplace/home.action

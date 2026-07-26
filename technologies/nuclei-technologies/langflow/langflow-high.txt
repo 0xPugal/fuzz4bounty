@@ -1,0 +1,1 @@
+/api/v1/files/profile_pictures/../secret_key

@@ -12,3 +12,10 @@
 /Login
 /.well-known/agent-card.json
 /.well-known/agent.json
+/katib/
+/version
+/
+/api-description
+/models
+/ping
+/ApplicationStatus

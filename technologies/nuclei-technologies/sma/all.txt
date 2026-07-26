@@ -1,3 +1,5 @@
 /common/setup.php
 /api/version
 /login
+/
+/workplace/home.action

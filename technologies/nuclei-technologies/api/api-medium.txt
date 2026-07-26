@@ -4,3 +4,4 @@
 /sendgrid.env
 /Users/Public
 /jellyfin/Users/Public
+/v1/models

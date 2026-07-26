@@ -398,3 +398,13 @@
 /SMB/console/html/cgi/cgiChkMasterPwd.exe
 /admin/admin.html
 /manager/
+/katib/
+/workplace/home.action
+/v1/models
+/healthz
+/get_model_info
+/metrics
+/api-description
+/models
+/ping
+/ApplicationStatus
