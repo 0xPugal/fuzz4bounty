@@ -1,3 +1,4 @@
 /wp-content/plugins/meta-box/meta-box.php
 /wp-content/plugins/meta-box/inc/loader.php
 /wp-content/plugins/meta-box/inc/core.php
+/wp-content/plugins/meta-box/readme.txt

@@ -134,3 +134,5 @@
 /?rest_route=/wpgmza/v1/markers/2/
 /?rest_route=/wpgmza/v1/markers/3/
 /v1/models
+/wp-content/plugins/wp-user-frontend/readme.txt
+/wp-content/plugins/canto/readme.txt

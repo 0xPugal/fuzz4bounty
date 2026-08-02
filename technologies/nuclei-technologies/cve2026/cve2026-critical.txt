@@ -43,3 +43,7 @@
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
 /en/login
 /login.do
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+/api/v1/upload/11111111-1111-1111-1111-111111111111
+/api/v1/auto_login

@@ -163,3 +163,5 @@
 /pdb/query/v4/facts
 /api/project
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/wp-content/plugins/sureforms/readme.txt
+/wp-json/sureforms/v1/refresh-nonces

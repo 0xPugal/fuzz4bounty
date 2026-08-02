@@ -397,3 +397,6 @@
 /wp-content/cache/log/000000/minify.log
 /api/agents
 /v1/models
+/.claude/settings.json
+/.claude/settings.local.json
+/.mcp.json

@@ -455,3 +455,5 @@
 /hazelcast/rest/cluster
 /health
 /GoogleService-Info.plist
+/.claude/settings.json
+/.claude/settings.local.json

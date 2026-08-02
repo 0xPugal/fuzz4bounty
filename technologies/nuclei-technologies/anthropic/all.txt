@@ -1,3 +1,6 @@
 
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/.claude/settings.json
+/.claude/settings.local.json
+/.mcp.json

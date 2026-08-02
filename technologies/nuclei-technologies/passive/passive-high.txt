@@ -6,3 +6,4 @@
 /editor.php
 /adminer/
 /helpdesk/WebObjects/Helpdesk.woa
+/wp-content/plugins/meta-box/readme.txt

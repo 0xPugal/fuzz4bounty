@@ -4,3 +4,6 @@
 /model/info
 /
 /v1/models
+/.claude/settings.json
+/.claude/settings.local.json
+/.mcp.json

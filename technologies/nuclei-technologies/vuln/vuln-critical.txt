@@ -501,3 +501,5 @@
 /lesson.php?id=-1%20UNION%20SELECT%201,2,md5({{num}}),4,5
 /actuator/jolokia/list
 /wp-content/plugins/everest-forms/readme.txt
+/tika
+/api/v1/auto_login

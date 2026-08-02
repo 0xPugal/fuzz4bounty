@@ -129,3 +129,6 @@
 /?hippoo_serve=../../../../wp-config.php
 /index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
+/wp-content/plugins/meta-box/readme.txt
+/wp-content/plugins/sureforms/readme.txt
+/wp-json/sureforms/v1/refresh-nonces

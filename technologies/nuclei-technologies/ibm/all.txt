@@ -40,3 +40,4 @@
 /?list-type=2
 /wmroot/
 /integration/
+/api/v1/auto_login

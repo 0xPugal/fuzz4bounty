@@ -31,3 +31,7 @@
 /media/amasty_checkout/{{c1}}/{{c2}}/{{filename}}
 /wp-admin/admin-ajax.php
 /wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/api/v1/chatflows
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+/api/v1/upload/11111111-1111-1111-1111-111111111111

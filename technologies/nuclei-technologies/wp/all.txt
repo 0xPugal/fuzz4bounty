@@ -455,3 +455,10 @@
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /wp-content/themes/xstore/style.css
 /wp-content/plugins/everest-forms/readme.txt
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+/wp-content/plugins/meta-box/readme.txt
+/wp-content/plugins/sureforms/readme.txt
+/wp-json/sureforms/v1/refresh-nonces
+/wp-content/plugins/wp-user-frontend/readme.txt
+/wp-content/plugins/canto/readme.txt

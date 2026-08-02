@@ -1,3 +1,4 @@
 /wp-content/plugins/canto/includes/lib/detail.php?subdomain={{interactsh-url}}
 /wp-content/plugins/canto/includes/lib/get.php?subdomain={{interactsh-url}}
 /wp-content/plugins/canto/includes/lib/tree.php?subdomain={{interactsh-url}}
+/wp-content/plugins/canto/readme.txt

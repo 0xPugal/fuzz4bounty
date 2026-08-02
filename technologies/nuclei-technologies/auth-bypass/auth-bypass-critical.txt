@@ -60,3 +60,4 @@
 /sslmgr
 /models
 /en/login
+/api/v1/auto_login

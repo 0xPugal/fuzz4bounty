@@ -1515,3 +1515,5 @@
 /setup/install.php
 /install/page_start.php
 /v1/models
+/.claude/settings.json
+/.claude/settings.local.json

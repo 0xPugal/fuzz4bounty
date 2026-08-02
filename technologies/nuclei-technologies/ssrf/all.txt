@@ -104,3 +104,5 @@
 /cors?url=http://127.0.0.1:8080/version
 /cors?url=http://{{interactsh-url}}/version
 {{chunk_path}}
+/tika
+/wp-content/plugins/canto/readme.txt

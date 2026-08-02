@@ -112,3 +112,6 @@
 /.coveralls.yml
 /Lw/session/
 /hazelcast/rest/cluster
+/.claude/settings.json
+/.claude/settings.local.json
+/.mcp.json

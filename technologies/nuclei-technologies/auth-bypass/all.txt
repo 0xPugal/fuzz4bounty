@@ -110,3 +110,4 @@
 /index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /en/login
+/api/v1/auto_login

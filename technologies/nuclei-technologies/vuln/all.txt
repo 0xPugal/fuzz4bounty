@@ -3888,3 +3888,5 @@
 /install/page_start.php
 {{chunk_path}}
 /wp-content/plugins/everest-forms/readme.txt
+/tika
+/api/v1/auto_login

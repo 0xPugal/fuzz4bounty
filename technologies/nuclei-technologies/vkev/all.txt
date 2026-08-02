@@ -784,3 +784,4 @@
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /wp-content/plugins/everest-forms/readme.txt
 /login.do
+/api/v1/chatflows

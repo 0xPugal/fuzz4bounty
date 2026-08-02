@@ -290,3 +290,6 @@
 /wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
 /login.do
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+/api/v1/auto_login

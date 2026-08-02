@@ -142,3 +142,5 @@
 /wp-content/cache/log/000000/pagecache.log
 /wp-content/cache/log/000000/minify.log
 /wp-content/plugins/jetpack/readme.txt
+/wp-content/plugins/wp-user-frontend/readme.txt
+/wp-content/plugins/canto/readme.txt
