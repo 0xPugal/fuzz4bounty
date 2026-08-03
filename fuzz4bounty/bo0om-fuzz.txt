@@ -112,6 +112,9 @@
 .csdp.cache
 .cshrc
 .csv
+.cursor
+.cursor-settings
+.cursorignore
 .cvs
 .cvsignore
 .dart_tool/
@@ -604,6 +607,18 @@
 .web-server-pid
 .web.env
 .webassets-cache
+.well-known/agent-card.json
+.well-known/agent-descriptions
+.well-known/agent.json
+.well-known/ai-catalog.json
+.well-known/ai-plugin.json
+.well-known/did.json
+.well-known/oauth-authorization-server
+.well-known/oauth-protected-resource
+.well-known/oauth-protected-resource/api/mcp
+.well-known/oauth-protected-resource/mcp
+.well-known/openai-apps-challenge
+.well-known/openid-configuration
 .workspace/
 .wp-config.php.swp
 .www_acl
@@ -847,6 +862,8 @@ CHANGELOG.md
 CHANGELOG.txt
 CHANGES.html
 CHANGES.md
+CLAUDE.local.md
+CLAUDE.md
 CMakeCache.txt
 CMakeFiles
 CMakeLists.txt
@@ -2843,6 +2860,7 @@ env.js
 env.json
 env.list
 env/
+envRuntime.json
 environment.rb
 erl_crash.dump
 err
