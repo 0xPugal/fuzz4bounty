@@ -2251,3 +2251,4 @@
 /wp-json/sureforms/v1/refresh-nonces
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
+/wp-login.php

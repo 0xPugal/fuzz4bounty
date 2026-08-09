@@ -457,3 +457,6 @@
 /GoogleService-Info.plist
 /.claude/settings.json
 /.claude/settings.local.json
+/.htaccess.bak
+/.htaccess.txt
+/.htaccess.old

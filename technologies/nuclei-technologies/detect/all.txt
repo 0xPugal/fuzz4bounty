@@ -408,3 +408,4 @@
 /models
 /ping
 /ApplicationStatus
+/_admin/

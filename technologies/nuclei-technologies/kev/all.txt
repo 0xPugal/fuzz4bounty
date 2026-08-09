@@ -166,3 +166,4 @@
 /api/v1/build_public_tmp/{{uuid}}/flow
 /global-protect/login.esp
 /sslmgr
+/api/v1/auto_login

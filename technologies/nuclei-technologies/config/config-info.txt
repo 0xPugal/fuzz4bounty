@@ -140,3 +140,6 @@
 /llms.txt
 /health
 /GoogleService-Info.plist
+/.htaccess.bak
+/.htaccess.txt
+/.htaccess.old

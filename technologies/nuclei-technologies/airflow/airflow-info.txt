@@ -1,3 +1,4 @@
 /login/
 /admin/airflow/login
 /{{randstr}}
+/openapi.json

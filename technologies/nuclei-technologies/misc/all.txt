@@ -48,3 +48,6 @@
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
 /administrator/manifests/files/joomla.xml
 /
+/.htaccess.bak
+/.htaccess.txt
+/.htaccess.old

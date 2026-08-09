@@ -346,3 +346,6 @@
 /workplace/home.action
 /solife/
 /WebInterface/login.html
+/cgi-bin/top.cgi
+/c/login
+/_admin/

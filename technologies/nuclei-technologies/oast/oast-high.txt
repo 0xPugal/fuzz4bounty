@@ -22,3 +22,4 @@
 {{chunk_path}}
 /_next/image?w=16&q=10&url=http://{{interactsh-url}}
 /_next/image?w=16&q=10&url=https://{{interactsh-url}}
+/wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}

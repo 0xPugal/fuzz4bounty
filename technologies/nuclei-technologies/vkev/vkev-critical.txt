@@ -318,3 +318,4 @@
 /wp-content/plugins/everest-forms/readme.txt
 /login.do
 /api/v1/chatflows
+/api/v1/auto_login

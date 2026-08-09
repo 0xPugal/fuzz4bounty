@@ -32,3 +32,6 @@
 /administrator/manifests/files/joomla.xml
 /cdn-cgi/image/width=1000,format=auto/https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
 /
+/.htaccess.bak
+/.htaccess.txt
+/.htaccess.old

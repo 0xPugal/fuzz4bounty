@@ -33,3 +33,5 @@
 /storage/ovh-backups.json
 /wp-content/uploads/wp-clone/wpclone_backup/database.sql
 /wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
+/c/login
+/ui/

@@ -39,3 +39,6 @@
 /compliance
 /schema
 /
+/.htaccess.bak
+/.htaccess.txt
+/.htaccess.old

@@ -293,3 +293,4 @@
 /wp-content/plugins/quick-playground/readme.txt
 /wp-content/{{filename}}
 /api/v1/auto_login
+/wp-login.php

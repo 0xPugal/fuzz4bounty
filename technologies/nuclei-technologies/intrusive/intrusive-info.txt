@@ -15,3 +15,4 @@
 /Telerik.Web.UI.WebResource.axd?type=rau
 /?s={{randstr}}&c={{randstr}}&a={{randstr}}&m={{randstr}}
 /\\
+/openapi.json

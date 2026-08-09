@@ -160,3 +160,4 @@
 /health
 /api/jolokia/search/org.apache.activemq:type=Broker,*
 /examples/jsp/num/numguess.jsp?guess=5&hint=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/openapi.json

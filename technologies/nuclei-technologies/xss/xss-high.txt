@@ -100,3 +100,4 @@
 /{{js-bundle}}
 /wp-content/plugins/wp-live-chat-software-for-wordpress/readme.txt
 /?PagePrincipale/listpages&tags=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-login.php

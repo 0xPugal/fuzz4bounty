@@ -1469,3 +1469,5 @@
 /models
 /ping
 /ApplicationStatus
+/cgi-bin/top.cgi
+/c/login

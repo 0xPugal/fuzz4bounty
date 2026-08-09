@@ -7,3 +7,4 @@
 /admin/airflow/login
 /{{randstr}}
 /airflow.cfg
+/openapi.json

@@ -850,3 +850,7 @@
 /katib/
 /workplace/home.action
 /solife/
+/cgi-bin/top.cgi
+/PasswordVault/
+/c/login
+/_admin/

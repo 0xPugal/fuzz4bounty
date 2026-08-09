@@ -49,3 +49,4 @@
 /api/status
 /flows
 /
+/wp-login.php
