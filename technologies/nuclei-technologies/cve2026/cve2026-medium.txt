@@ -31,3 +31,5 @@
 /?PagePrincipale&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E
 /?GererSite&time={{url_encode(timestamp)}}%22%3E%3Csvg%20onload%3Dalert(document.domain)%3E
 /wp-content/plugins/canto/readme.txt
+/api/trpc/integration.all
+/ccm/system/dialogs/file/usage/1

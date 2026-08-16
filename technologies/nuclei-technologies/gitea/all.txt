@@ -3,3 +3,4 @@
 /explore/repos
 /api/v1/repos/search?q=&limit=50
 /explore/users/sitemap-1.xml
+/api/v1/repos/search?limit=1

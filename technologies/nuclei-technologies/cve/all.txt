@@ -2252,3 +2252,16 @@
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
 /wp-login.php
+/config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
+/wp-content/uploads/isnapshots/{{fname}}.php
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
+/dashboard%2e%2e/data/config.yaml
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
+/h2-console/
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd
+/cache/original/%2e%2e/composer.json
+/wp-content/plugins/feedback-modal-for-website/readme.txt
+/wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1
+/api/trpc/integration.all
+/ccm/system/dialogs/file/usage/1

@@ -55,3 +55,4 @@
 /de2api/user/info
 /tika
 /api/v1/chatflows
+{{paths}}

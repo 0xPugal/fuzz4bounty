@@ -136,3 +136,7 @@
 /v1/models
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
+/wp-content/plugins/feedback-modal-for-website/readme.txt
+/wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1
+/api/trpc/integration.all
+/ccm/system/dialogs/file/usage/1

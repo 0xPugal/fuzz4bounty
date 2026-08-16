@@ -906,3 +906,4 @@
 /PasswordVault/
 /c/login
 /_admin/
+/swagger.json

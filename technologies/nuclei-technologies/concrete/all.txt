@@ -1,3 +1,4 @@
 /index.php/install
 /concrete5/index.php/install
 /ccm/system/panels/page/preview_as_user/preview?cID=
+/ccm/system/dialogs/file/usage/1

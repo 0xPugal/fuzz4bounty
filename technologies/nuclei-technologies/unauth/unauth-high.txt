@@ -165,3 +165,4 @@
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /wp-content/plugins/sureforms/readme.txt
 /wp-json/sureforms/v1/refresh-nonces
+/cache/original/%2e%2e/composer.json

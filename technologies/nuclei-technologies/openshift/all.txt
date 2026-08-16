@@ -1,1 +1,2 @@
 /clusters
+/plugin-manifest.json

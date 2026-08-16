@@ -91,3 +91,4 @@
 :9182
 /rest/version
 /docs/swagger-ui-init.js
+?wsdl

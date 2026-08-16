@@ -236,3 +236,5 @@
 /wp-content/plugins/quick-playground/readme.txt
 /wp-content/{{filename}}
 /api/v1/auto_login
+/wp-content/uploads/isnapshots/{{fname}}.php
+/h2-console/

@@ -1,1 +1,2 @@
 /installer
+/cache/original/%2e%2e/composer.json

@@ -1,2 +1,3 @@
 /installer
 /bagisto-common/search?query={{2288*
+/cache/original/%2e%2e/composer.json

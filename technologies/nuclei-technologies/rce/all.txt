@@ -294,3 +294,5 @@
 /wp-content/{{filename}}
 /api/v1/auto_login
 /wp-login.php
+/wp-content/uploads/isnapshots/{{fname}}.php
+/h2-console/

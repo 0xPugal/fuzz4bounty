@@ -27,3 +27,4 @@
 /settings/plugins
 /settings/cluster
 /api/v1/workflows/argo
+/swagger.json

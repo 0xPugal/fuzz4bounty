@@ -348,3 +348,4 @@
 /cgi-bin/top.cgi
 /c/login
 /_admin/
+/swagger.json

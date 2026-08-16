@@ -462,3 +462,5 @@
 /wp-json/sureforms/v1/refresh-nonces
 /wp-content/plugins/wp-user-frontend/readme.txt
 /wp-content/plugins/canto/readme.txt
+/wp-content/uploads/isnapshots/{{fname}}.php
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt

@@ -4,3 +4,4 @@
 /wp-content/plugins/hippoo/readme.txt
 /wp-admin/admin-ajax.php
 /wp-content/plugins/payment-gateway-pix-for-woocommerce/Includes/files/certs_c6/{{fname}}.crt
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt

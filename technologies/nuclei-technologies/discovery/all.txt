@@ -1471,3 +1471,7 @@
 /ApplicationStatus
 /cgi-bin/top.cgi
 /c/login
+/swagger.json
+?wsdl
+:9091/healthz
+/plugin-manifest.json

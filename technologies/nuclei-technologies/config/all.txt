@@ -460,3 +460,7 @@
 /.htaccess.bak
 /.htaccess.txt
 /.htaccess.old
+/.claude/agents/
+/.claude/agents/index.md
+/.claude/agents/README.md
+/.claude/agents/code-reviewer.md

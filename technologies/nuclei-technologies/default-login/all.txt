@@ -43,3 +43,5 @@
 /login/
 /cgi-bin/J100WebServer.cgi?Operation=0
 /api/method/login
+
+/PageAEventlog.asp

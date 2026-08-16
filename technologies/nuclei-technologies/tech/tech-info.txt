@@ -674,3 +674,6 @@
 /models
 /ping
 /ApplicationStatus
+/__/auth/handler.js
+:9091/healthz
+/plugin-manifest.json

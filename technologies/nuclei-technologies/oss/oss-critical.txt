@@ -12,3 +12,4 @@
 /js/elfinder.min.js
 /js/elFinder.version.js
 /ocpu/library/base/R/do.call/json
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd

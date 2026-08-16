@@ -400,3 +400,4 @@
 /.claude/settings.json
 /.claude/settings.local.json
 /.mcp.json
+/api/trpc/integration.all

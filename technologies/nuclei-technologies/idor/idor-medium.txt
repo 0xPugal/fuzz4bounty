@@ -1,2 +1,3 @@
 /wp-json/wp/v2/asked-question
 /api/chat/get-chat-session/1?is_shared=True
+/ccm/system/dialogs/file/usage/1

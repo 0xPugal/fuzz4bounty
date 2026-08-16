@@ -1517,3 +1517,10 @@
 /v1/models
 /.claude/settings.json
 /.claude/settings.local.json
+/h2-console/
+?wsdl
+/.claude/agents/
+/.claude/agents/index.md
+/.claude/agents/README.md
+/.claude/agents/code-reviewer.md
+/api/trpc/integration.all

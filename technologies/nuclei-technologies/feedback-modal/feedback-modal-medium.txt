@@ -1,0 +1,2 @@
+/wp-content/plugins/feedback-modal-for-website/readme.txt
+/wp-admin/admin-ajax.php?action=nedwp_feedback_modal_export&export_type=json&export_data=1

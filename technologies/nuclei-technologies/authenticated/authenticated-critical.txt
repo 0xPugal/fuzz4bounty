@@ -2,3 +2,10 @@
 /signin
 /admin/config.php
 /admin/ajax.php?module=filestore&command=testconnection&driver=SSH&host=127.0.0.1&user={{prefix}}&port=22&key={{prefix}}`{{cmd}}`&path={{prefix}}
+/api/v3/user/orgs
+/api/v3/orgs/{{org_name}}/memberships/{{username}}
+/api/v3/orgs/{{org_name}}/repos
+/login
+/session
+/organizations/{{org_name}}/settings/actions/repository_items?page=1&rid_key=nw_fsck
+/

@@ -409,3 +409,4 @@
 /ping
 /ApplicationStatus
 /_admin/
+:9091/healthz

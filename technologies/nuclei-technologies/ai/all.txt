@@ -43,3 +43,7 @@
 /v1/models
 /.claude/settings.json
 /.claude/settings.local.json
+/.claude/agents/
+/.claude/agents/index.md
+/.claude/agents/README.md
+/.claude/agents/code-reviewer.md

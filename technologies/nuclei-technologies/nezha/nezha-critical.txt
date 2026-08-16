@@ -1,0 +1,1 @@
+/dashboard%2e%2e/data/config.yaml

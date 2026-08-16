@@ -1,2 +1,4 @@
 /api/version
 /api/v1/settings
+
+/swagger.json

