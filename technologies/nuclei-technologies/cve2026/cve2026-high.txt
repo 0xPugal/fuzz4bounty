@@ -54,3 +54,4 @@
 /?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x
 /index.php/guest/get/get_file/..%2f..%2fipconfig.php
 /guardrails/test_custom_code
+/srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29

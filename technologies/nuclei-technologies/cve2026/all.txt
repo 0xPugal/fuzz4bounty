@@ -160,3 +160,4 @@
 /wp-content/uploads/{{logname}}.log
 /?phpinfo=TRUE
 /index.php/ccm/system/dialogs/file/usage/1
+/srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29

@@ -416,3 +416,4 @@
 /api/info.json
 /api/v1/status
 /api/v1/info
+/api/heartbeat

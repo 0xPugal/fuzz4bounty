@@ -80,3 +80,4 @@
 /portal//..\\\..\\\..\\\..\\\windows\win.ini
 /install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E
 /jbossmq-httpil/HTTPServerILServlet
+/system.ini?loginuse&loginpas

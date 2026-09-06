@@ -10,3 +10,4 @@
 /user/3
 /CHANGELOG.txt
 /core/install.php
+/core/CHANGELOG.txt

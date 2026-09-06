@@ -1479,3 +1479,4 @@
 /api/health
 /api/info.json
 /api/v1/status
+/api/heartbeat

@@ -821,3 +821,4 @@
 /wp-login.php
 /admin/
 /wp-content/plugins/wp-content-permission/readme.txt
+/srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29

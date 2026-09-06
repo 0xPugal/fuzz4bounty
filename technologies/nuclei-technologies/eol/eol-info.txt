@@ -12,3 +12,5 @@
 /login.action
 /api/v1/version
 /pages/sdcall/Login.jsp
+/core/CHANGELOG.txt
+/CHANGELOG.txt

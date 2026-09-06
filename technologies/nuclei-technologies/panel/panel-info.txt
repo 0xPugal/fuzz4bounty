@@ -859,3 +859,5 @@
 /api/
 /api/health
 /api/info.json
+/api/heartbeat
+/api/v1/version

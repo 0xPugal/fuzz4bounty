@@ -4,3 +4,5 @@
 /api/health
 /api/version
 /api/info.json
+/api/heartbeat
+/api/v1/health

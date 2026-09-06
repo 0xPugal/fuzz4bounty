@@ -62,3 +62,4 @@
 /api/fs/read?allowOutsideWorkspace=true&path=/etc/passwd
 /api/system/fileView?file=/etc/passwd
 /api/system/fileDownload?file=/etc/passwd
+/api/v1/version
