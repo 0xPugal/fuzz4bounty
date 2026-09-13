@@ -55,3 +55,4 @@
 /settings.php
 /graphql
 /index.jsp
+/volume/stream/Rmx1aWc=/{{base64(

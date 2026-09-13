@@ -99,3 +99,5 @@
 /register/
 /api/v4/projects?visibility=public&per_page=1
 /wp-content/plugins/elementor-pro/readme.txt
+/api/health
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D

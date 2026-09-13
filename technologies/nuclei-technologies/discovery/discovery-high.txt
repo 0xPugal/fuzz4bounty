@@ -13,3 +13,5 @@
 /admin/
 /solr/admin/
 /
+/admin
+/rails_admin

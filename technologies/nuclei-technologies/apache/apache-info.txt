@@ -79,3 +79,4 @@
 /starter.html
 /health
 /openapi.json
+/ui

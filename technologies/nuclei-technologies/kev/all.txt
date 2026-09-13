@@ -169,3 +169,5 @@
 /api/v1/auto_login
 /pluginManager/api/json?depth=1&tree=plugins[shortName,version,active]
 /allversions
+/auth/v1/account/login_options
+/auth/v1/account/status

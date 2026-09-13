@@ -1109,3 +1109,6 @@
 /wp-json/lottiefiles/v1/settings/
 /wp-content/plugins/wp-content-permission/readme.txt
 /wp-content/uploads/{{logname}}.log
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
+/?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

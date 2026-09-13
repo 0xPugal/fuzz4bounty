@@ -5,3 +5,4 @@
 /api/v1/files/profile_pictures/../secret_key
 /api/v1/upload/11111111-1111-1111-1111-111111111111
 /api/v1/auto_login
+/

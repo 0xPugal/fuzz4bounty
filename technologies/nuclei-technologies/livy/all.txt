@@ -1,0 +1,4 @@
+/ui
+/metrics/healthcheck
+/metrics/metrics
+/metrics/threads

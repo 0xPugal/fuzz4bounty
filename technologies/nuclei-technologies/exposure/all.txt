@@ -1537,3 +1537,6 @@
 /?phpinfo=TRUE
 /index.php/ccm/system/dialogs/file/usage/1
 /loki/api/v1/labels
+/metrics/healthcheck
+/metrics/metrics
+/metrics/threads

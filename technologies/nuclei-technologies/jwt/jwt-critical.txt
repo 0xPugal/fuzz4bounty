@@ -2,3 +2,6 @@
 /nacos/v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
 /v1/auth/users?pageNo=1&pageSize=10&accessToken={{token}}
 /de2api/user/info
+/allversions
+/auth/v1/account/login_options
+/auth/v1/account/status

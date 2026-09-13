@@ -78,3 +78,4 @@
 /wp-content/plugins/branda-white-labeling/readme.txt
 /?rest_route=/wp/v2/users&per_page=1
 /wp-content/plugins/elementor-pro/readme.txt
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D

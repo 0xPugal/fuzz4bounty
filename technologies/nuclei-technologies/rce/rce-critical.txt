@@ -244,3 +244,5 @@
 /user/login
 /jbossmq-httpil/HTTPServerILServlet
 /wp-content/plugins/elementor-pro/readme.txt
+/api/health
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D

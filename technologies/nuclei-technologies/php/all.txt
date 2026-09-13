@@ -51,3 +51,5 @@
 /symfony.lock
 /docs/api.json
 /docs/api
+/mailinspector
+/mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd

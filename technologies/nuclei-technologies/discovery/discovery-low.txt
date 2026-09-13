@@ -24,3 +24,7 @@
 /dashboard.html
 /dwr/index.html
 /.settings/rules.json?auth=FIREBASE_SECRET
+/
+/xymon/
+/xymon-se/xymon/
+/_api/web/lists

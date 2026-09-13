@@ -2,3 +2,6 @@
 /.well-known/oauth-authorization-server
 /.well-known/openid-configuration
 /ui/console/
+/allversions
+/auth/v1/account/login_options
+/auth/v1/account/status
