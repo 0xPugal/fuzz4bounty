@@ -7,3 +7,4 @@
 /irj/helper.jsp?cmd=ls
 /irj/cache.jsp?cmd=ls
 /_layouts/15/spinstall0.aspx
+/?_wplogin=35fe7057ffed92ff7bc5a0b90f302a77fb5843ad6c972294d68da0b0553b3900

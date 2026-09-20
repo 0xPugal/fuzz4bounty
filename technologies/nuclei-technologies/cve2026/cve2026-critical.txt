@@ -67,3 +67,4 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/?_wplogin=35fe7057ffed92ff7bc5a0b90f302a77fb5843ad6c972294d68da0b0553b3900

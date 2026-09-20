@@ -429,3 +429,5 @@
 /nuget.config
 /NuGet.Config
 /.nuget/nuget.config
+/v3/auth/status
+/members
