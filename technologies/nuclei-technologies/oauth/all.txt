@@ -63,3 +63,6 @@
 /oauth-credentials.json
 /storage/oauth-private.key
 /storage/oauth-public.key
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

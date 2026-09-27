@@ -56,3 +56,4 @@
 /res/../admin/diagnostic.jsp
 /.well-known/acme-challenge/../../admin/diagnostic.jsp
 /update/../admin/diagnostic.jsp
+/allversions

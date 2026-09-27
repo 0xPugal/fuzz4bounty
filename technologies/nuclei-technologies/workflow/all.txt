@@ -3,3 +3,4 @@
 
 /api/version
 /rest/sentry.js
+/ui/

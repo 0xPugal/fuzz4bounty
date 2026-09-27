@@ -1,2 +1,3 @@
 
 /accounts/login/?next=/
+/

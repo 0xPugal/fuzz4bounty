@@ -1,2 +1,3 @@
 /landingpage
 /landingpage/
+/sign_in

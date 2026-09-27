@@ -171,3 +171,6 @@
 /wp-content/plugins/forms-for-campaign-monitor/forms/views/admin/create.php
 /v1/models
 /loki/api/v1/labels
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

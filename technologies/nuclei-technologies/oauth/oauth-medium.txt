@@ -1,0 +1,3 @@
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

@@ -5,3 +5,5 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

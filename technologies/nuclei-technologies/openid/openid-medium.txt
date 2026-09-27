@@ -1,1 +1,4 @@
 /wp-login.php?login-error=<script>alert(document.domain)</script>
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

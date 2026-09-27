@@ -174,3 +174,7 @@
 /ngg_tag/cve-2026-28141%22%3E%3Csvg%2Fonload%3Dalert%60{{marker}}%60%3E/
 /wp-json/essential-blocks/v1/products?per_page=20
 /auth/authorize?client_id=yamcs-web&state=stable-state&response_mode=query&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fexample.com%2Fcbi0i7y\
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/newfold-data/v1/verify/00000000000000000000000000000000
+/wp-json/wp/v2/users/me?context=edit

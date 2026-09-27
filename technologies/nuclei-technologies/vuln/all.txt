@@ -4493,3 +4493,7 @@
 /wp-content/uploads/sites/1/mc4wp-debug-log.php
 /wp-content/uploads/sites/1/mailchimp-for-wp/debug-log.php
 /?list-type=2
+/wp-content/plugins/hippoo/readme.txt
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-admin/js/theme.js

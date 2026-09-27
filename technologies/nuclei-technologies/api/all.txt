@@ -112,3 +112,4 @@
 /docs/swagger-ui-init.js
 /v1/models
 ?wsdl
+/

@@ -538,3 +538,6 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/wp-content/plugins/hippoo/readme.txt
+/?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
+/wp-json/wc-hippoo/v1/ext/wp/v2/users/1

@@ -47,3 +47,4 @@
 /.claude/agents/index.md
 /.claude/agents/README.md
 /.claude/agents/code-reviewer.md
+/api/status

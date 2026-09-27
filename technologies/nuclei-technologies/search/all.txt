@@ -1,2 +1,3 @@
 /health
 /ApplicationStatus
+/

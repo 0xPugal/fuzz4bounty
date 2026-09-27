@@ -36,3 +36,4 @@
 /home.html
 /wt2parser.cgi?home_en
 /manager/
+/sign_in

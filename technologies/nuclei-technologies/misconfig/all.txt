@@ -880,3 +880,6 @@
 /loki/api/v1/labels
 /v3/auth/status
 /members
+/.well-known/openid-configuration
+/realms/master/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

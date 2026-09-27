@@ -1368,3 +1368,4 @@
 /.vs/slnx.sqlite
 /rest/tinymce/1/macro/preview
 /rest/api/content/macro/preview
+/wp-admin/js/theme.js

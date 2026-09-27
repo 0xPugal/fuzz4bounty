@@ -16,3 +16,4 @@
 /realms/master/clients-registrations/openid-connect
 /admin
 /admin/master/console/
+/realms/master/.well-known/openid-configuration

@@ -51,3 +51,5 @@
 /
 /wp-login.php
 /guardrails/test_custom_code
+/cgi-bin/webctrl.cgi?action=login_authentication&redirect_action=sysinfo_page&login_username=blueangel&login_password=blueangel&B1=Login
+/cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING

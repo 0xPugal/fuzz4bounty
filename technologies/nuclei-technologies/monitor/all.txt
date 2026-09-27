@@ -1,2 +1,4 @@
 /install.php
 /keyinfo.html
+/
+/index.html

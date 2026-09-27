@@ -409,3 +409,4 @@
 /metrics/healthcheck
 /metrics/metrics
 /metrics/threads
+/index.html

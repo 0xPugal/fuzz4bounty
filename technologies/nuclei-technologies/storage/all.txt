@@ -12,3 +12,4 @@
 /storage/framework/sessions/
 /storage/sessions/
 /cgi-bin/top.cgi
+/

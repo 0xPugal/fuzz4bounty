@@ -10,3 +10,4 @@
 /wp-app.log
 /cgi-bin/apcupsd/multimon.cgi
 /cgi-bin/multimon.cgi
+/

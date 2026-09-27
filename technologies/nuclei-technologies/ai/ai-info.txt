@@ -19,3 +19,4 @@
 /models
 /ping
 /ApplicationStatus
+/api/status

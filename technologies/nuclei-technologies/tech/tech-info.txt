@@ -682,3 +682,8 @@
 /api/v1/info
 /api/v1/health
 /core/CHANGELOG.txt
+/api/v1/instance
+/api/status
+/openboxes/auth/login
+/icons/site.webmanifest
+/sign_in

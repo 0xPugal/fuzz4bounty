@@ -22,3 +22,4 @@
 /opennms/
 /settings/plugins
 /settings/cluster
+/index.html

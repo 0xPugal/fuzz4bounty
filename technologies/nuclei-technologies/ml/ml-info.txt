@@ -4,3 +4,4 @@
 /login
 /katib/
 /
+/api/status

@@ -9,3 +9,5 @@
 /node_modules/../../../../../etc/passwd
 /Jakefile
 /Jakefile.js
+
+/admin

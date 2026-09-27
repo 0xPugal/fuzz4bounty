@@ -94,3 +94,4 @@
 /metrics/healthcheck
 /metrics/metrics
 /metrics/threads
+/
