@@ -16,3 +16,5 @@
 /.gem/credentials.yaml
 /.coveralls.yml
 /debug/vars
+/.terraformrc
+/terraform.rc

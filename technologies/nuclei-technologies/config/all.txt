@@ -470,3 +470,9 @@
 /nuget.config
 /NuGet.Config
 /.nuget/nuget.config
+/.terraformrc
+/terraform.rc
+/terraform.tfstate
+/terraform.tfstate.backup
+/serverless.yml
+/serverless.yaml

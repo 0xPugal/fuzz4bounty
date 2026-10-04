@@ -13,3 +13,5 @@
 /index.html
 /static/Dockerrun.aws.json
 /_localstack/health
+/serverless.yml
+/serverless.yaml

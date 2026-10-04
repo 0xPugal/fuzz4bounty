@@ -687,3 +687,5 @@
 /openboxes/auth/login
 /icons/site.webmanifest
 /sign_in
+/js/elfinder.min.js
+/js/elFinder.version.js

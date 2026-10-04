@@ -233,3 +233,5 @@
 /nuget.config
 /NuGet.Config
 /.nuget/nuget.config
+/terraform.tfstate
+/terraform.tfstate.backup

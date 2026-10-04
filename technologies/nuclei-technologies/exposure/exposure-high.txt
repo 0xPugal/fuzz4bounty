@@ -431,3 +431,7 @@
 /.nuget/nuget.config
 /v3/auth/status
 /members
+/.terraformrc
+/terraform.rc
+/terraform.tfstate
+/terraform.tfstate.backup

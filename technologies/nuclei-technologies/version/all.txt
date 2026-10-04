@@ -4,3 +4,5 @@
 /ucs/micollab/version.json
 /rest/version
 /wp-links-opml.php
+/js/elfinder.min.js
+/js/elFinder.version.js

@@ -115,3 +115,5 @@
 /.claude/settings.json
 /.claude/settings.local.json
 /.mcp.json
+/serverless.yml
+/serverless.yaml

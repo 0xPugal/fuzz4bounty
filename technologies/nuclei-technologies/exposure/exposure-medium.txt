@@ -410,3 +410,6 @@
 /metrics/metrics
 /metrics/threads
 /index.html
+/skServer/serialports
+/serverless.yml
+/serverless.yaml

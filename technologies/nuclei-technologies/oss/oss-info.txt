@@ -16,3 +16,5 @@
 /v2
 
 /api/v1/version
+/js/elfinder.min.js
+/js/elFinder.version.js

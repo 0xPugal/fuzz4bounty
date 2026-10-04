@@ -1,5 +1,3 @@
-/session
-/provider.tf
 /.terraformrc
 /terraform.rc
 /terraform.tfstate

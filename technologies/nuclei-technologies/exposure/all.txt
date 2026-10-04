@@ -1542,3 +1542,10 @@
 /metrics/threads
 /v3/auth/status
 /members
+/.terraformrc
+/terraform.rc
+/terraform.tfstate
+/terraform.tfstate.backup
+/skServer/serialports
+/serverless.yml
+/serverless.yaml

