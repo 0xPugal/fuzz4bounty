@@ -743,3 +743,4 @@
 /volume/stream/Rmx1aWc=/{{base64(
 /mailinspector
 /mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd
+/js/zimbraMail/share/model/ZmSettings.js
