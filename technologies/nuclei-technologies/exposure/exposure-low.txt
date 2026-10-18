@@ -377,3 +377,5 @@
 /.DS_Store
 /hopfully404
 /api/v1/targets
+/api/auth/oidc/providers
+/api/auth/health

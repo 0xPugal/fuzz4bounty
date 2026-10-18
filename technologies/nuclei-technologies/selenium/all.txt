@@ -3,3 +3,4 @@
 /ui/index.html
 /grid/console
 /console
+/wd/hub/session

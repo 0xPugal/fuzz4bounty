@@ -1,1 +1,2 @@
 /wd/hub/status
+/wd/hub/session

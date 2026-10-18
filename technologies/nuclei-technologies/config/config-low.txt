@@ -102,3 +102,5 @@
 /web.config
 /../../web.config
 /.DS_Store
+/api/auth/oidc/providers
+/api/auth/health

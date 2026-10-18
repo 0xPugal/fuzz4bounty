@@ -1,0 +1,4 @@
+/
+/login
+/api/auth/oidc/providers
+/api/auth/health

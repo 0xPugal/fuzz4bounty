@@ -1549,3 +1549,5 @@
 /skServer/serialports
 /serverless.yml
 /serverless.yaml
+/api/auth/oidc/providers
+/api/auth/health

@@ -352,3 +352,7 @@
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23
 /wp-json/h5vp/v1/video/0?id=
 /index.php?option=com_easystore&view=products&task=search&filter_sortby=created-ASC,EXTRACTVALUE(1,CONCAT(CHAR(126),SUBSTRING(MD5({{num}}),1,28)))--+-
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
+/api/v1/repos/search?limit=1

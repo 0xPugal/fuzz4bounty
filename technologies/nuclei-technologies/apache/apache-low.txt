@@ -11,3 +11,5 @@
 /examples/servlets/servlet/CookieExample
 /?f=\[
 /ws/v1/cluster/apps/new-application
+/api/auth/oidc/providers
+/api/auth/health

@@ -14,3 +14,4 @@
 /portal/info.jsp
 /configure/app/landing/welcome-srm-va.html
 /ui/login.action
+/api/version

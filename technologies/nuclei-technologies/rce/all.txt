@@ -308,3 +308,5 @@
 /cgi-bin/webctrl.cgi?action=pingtest_update&ping_addr=127.0.0.1%3Bid&B1=PING
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23
 /js/zimbraMail/share/model/ZmSettings.js
+/wd/hub/status
+/wd/hub/session

