@@ -1,1 +1,2 @@
 /transmission/web/
+/transmission/rpc

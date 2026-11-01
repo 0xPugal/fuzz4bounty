@@ -1,1 +1,2 @@
 /lighter/api
+/lighter/api/configuration

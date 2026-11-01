@@ -883,3 +883,7 @@
 /.well-known/openid-configuration
 /realms/master/.well-known/openid-configuration
 /auth/realms/master/.well-known/openid-configuration
+/api/manager/submit?group=1&username={{username}}&password={{password}}
+/transmission/rpc
+/api/v1/applications
+/environment/

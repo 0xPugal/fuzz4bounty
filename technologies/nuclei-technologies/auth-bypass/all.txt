@@ -125,3 +125,4 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/api/v1/devices

@@ -106,3 +106,5 @@
 /allversions
 /auth/v1/account/login_options
 /auth/v1/account/status
+/apps/richdocumentscode/proxy.php?nuclei_detect
+/apps/richdocumentscode_arm64/proxy.php?nuclei_detect

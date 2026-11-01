@@ -699,3 +699,4 @@
 /openboxes/auth/login
 /icons/site.webmanifest
 /sign_in
+/ocs/v1.php/cloud/capabilities?format=json

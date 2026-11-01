@@ -175,3 +175,5 @@
 /web-console/
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
+/apps/richdocumentscode/proxy.php?nuclei_detect
+/apps/richdocumentscode_arm64/proxy.php?nuclei_detect

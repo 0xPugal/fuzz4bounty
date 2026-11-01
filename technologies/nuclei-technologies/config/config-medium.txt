@@ -117,3 +117,4 @@
 /.mcp.json
 /serverless.yml
 /serverless.yaml
+/lighter/api/configuration

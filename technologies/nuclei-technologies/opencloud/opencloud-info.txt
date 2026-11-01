@@ -1,0 +1,1 @@
+/ocs/v1.php/cloud/capabilities?format=json

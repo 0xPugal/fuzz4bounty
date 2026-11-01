@@ -63,3 +63,4 @@
 /api/system/fileView?file=/etc/passwd
 /api/system/fileDownload?file=/etc/passwd
 /api/v1/version
+/ocs/v1.php/cloud/capabilities?format=json

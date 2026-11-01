@@ -6,3 +6,4 @@
 /environment/
 /jobs/
 :4040/jobs/
+/lighter/api/configuration
