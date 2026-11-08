@@ -870,3 +870,16 @@
 /board/
 /?mapp_iframe=1&mapid=--%3E%3Cimg%20src%20onerror=alert(document.domain)%3E
 /api/v1/terminal/sessions/
+/user.action
+/wp1/home-18/?qtproxycall=https://oast.me
+/api/user
+/api/me
+/api/profile
+/api/v1/user
+/verify.php?id=1&confirm_hash=
+/mantis/verify.php?id=1&confirm_hash=
+/mantisBT/verify.php?id=1&confirm_hash=
+/mantisbt-2.3.0/verify.php?id=1&confirm_hash=
+/bugs/verify.php?confirm_hash=&id=1
+/installed_emanual_list.html
+/api/project

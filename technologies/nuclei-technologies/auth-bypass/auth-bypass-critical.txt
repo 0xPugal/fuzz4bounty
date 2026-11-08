@@ -70,3 +70,7 @@
 /fog/service/getversion.php
 /fog/status/getfiles.php?path[]=
 /api/v1/devices
+/api/user
+/api/me
+/api/profile
+/api/v1/user

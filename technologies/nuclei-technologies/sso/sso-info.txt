@@ -3,3 +3,4 @@
 /dex/auth
 /.pomerium/index.js
 /shibboleth-idp
+/crowd/console/login.action

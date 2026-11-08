@@ -4,3 +4,4 @@
 /_localstack/health
 
 /fo/login.php
+/login

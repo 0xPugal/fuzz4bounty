@@ -39,3 +39,4 @@
 /api/TeacherQuery/SearchTeacherInSiteWithPagerRecords
 /_localstack/health
 /fo/login.php
+/login

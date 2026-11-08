@@ -414,3 +414,5 @@
 /serverless.yml
 /serverless.yaml
 /lighter/api/configuration
+/api/queues
+/api/openapi.json

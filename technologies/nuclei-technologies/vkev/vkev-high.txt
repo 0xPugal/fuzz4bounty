@@ -300,3 +300,10 @@
 /community/
 /board/
 /wp-json/wp/v2/pages?per_page=100
+/verify.php?id=1&confirm_hash=
+/mantis/verify.php?id=1&confirm_hash=
+/mantisBT/verify.php?id=1&confirm_hash=
+/mantisbt-2.3.0/verify.php?id=1&confirm_hash=
+/bugs/verify.php?confirm_hash=&id=1
+/installed_emanual_list.html
+/api/project

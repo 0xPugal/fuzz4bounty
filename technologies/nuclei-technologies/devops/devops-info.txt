@@ -50,3 +50,5 @@
 /stats/summary
 /Jakefile
 /Jakefile.js
+
+/login

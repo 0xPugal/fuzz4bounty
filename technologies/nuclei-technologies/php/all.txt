@@ -53,3 +53,7 @@
 /docs/api
 /mailinspector
 /mailinspector/vendor/phpunit/phpunit.php?--bootstrap=/etc/passwd
+/api/user
+/api/me
+/api/profile
+/api/v1/user

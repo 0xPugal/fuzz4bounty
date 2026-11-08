@@ -3,3 +3,5 @@
 /v1/metadata
 /v1/tasks
 /auth/login
+
+/login

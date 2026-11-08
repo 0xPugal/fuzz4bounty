@@ -11,3 +11,5 @@
 /Dockerrun.aws.json
 /static/Dockerrun.aws.json
 /auth/login
+
+/login

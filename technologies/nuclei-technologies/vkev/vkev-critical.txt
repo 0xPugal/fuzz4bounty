@@ -365,3 +365,9 @@
 /tika
 /apps/richdocumentscode/proxy.php?nuclei_detect
 /apps/richdocumentscode_arm64/proxy.php?nuclei_detect
+/user.action
+/wp1/home-18/?qtproxycall=https://oast.me
+/api/user
+/api/me
+/api/profile
+/api/v1/user

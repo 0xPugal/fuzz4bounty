@@ -126,3 +126,7 @@
 /web-console/ServerInfo.jsp
 /invoker/JMXInvokerServlet
 /api/v1/devices
+/api/user
+/api/me
+/api/profile
+/api/v1/user

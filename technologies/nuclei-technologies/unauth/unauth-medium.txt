@@ -148,3 +148,4 @@
 /wp-json/essential-blocks/v1/products?per_page=20
 /
 /index.html
+/api/queues
